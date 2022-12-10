@@ -5,6 +5,330 @@
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": []
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
+          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
+          "publishedOn": "2022-12-08T13:00:00.000Z",
+          "wordCount": 3882,
+          "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
+          "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
+          "publishedOn": "2022-12-07T11:00:00.000Z",
+          "wordCount": 5393,
+          "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
+          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "publishedOn": "2022-12-06T12:00:00.000Z",
+          "wordCount": 6054,
+          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "author": "hello@smashingmagazine.com (Dan Donald)",
+          "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
+          "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "publishedOn": "2022-12-02T09:00:00.000Z",
+          "wordCount": 6414,
+          "title": "The Anatomy Of Themed Design System Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
+          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
+          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "publishedOn": "2022-12-01T09:00:00.000Z",
+          "wordCount": 4975,
+          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
+          "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "publishedOn": "2022-11-30T11:15:00.000Z",
+          "wordCount": 5141,
+          "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
+          "author": "hello@smashingmagazine.com (Pearl Akpan)",
+          "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
+          "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
+          "publishedOn": "2022-11-24T16:00:00.000Z",
+          "wordCount": 7313,
+          "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
+          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "publishedOn": "2022-11-22T16:00:00.000Z",
+          "wordCount": 5529,
+          "title": "Optimizing A Vue App",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
+          "author": "hello@smashingmagazine.com (Cristian Díaz)",
+          "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
+          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
+          "publishedOn": "2022-11-21T10:00:00.000Z",
+          "wordCount": 8262,
+          "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.",
+          "link": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "publishedOn": "2022-11-18T07:00:00.000Z",
+          "wordCount": 10609,
+          "title": "Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "author": "hello@smashingmagazine.com (Alba Silvente)",
+          "description": "In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.",
+          "link": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
+          "publishedOn": "2022-11-17T10:00:00.000Z",
+          "wordCount": 10808,
+          "title": "A Guide To Image Optimization On Jamstack Sites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
+          "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
+          "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "publishedOn": "2022-11-16T14:00:00.000Z",
+          "wordCount": 5486,
+          "title": "Using Automated Test Results To Improve Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "author": "hello@smashingmagazine.com (Cristian Díaz)",
+          "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
+          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
+          "publishedOn": "2022-11-14T14:00:00.000Z",
+          "wordCount": 8427,
+          "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "author": "hello@smashingmagazine.com (Andrew Stetsenko)",
+          "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
+          "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "publishedOn": "2022-11-11T09:00:00.000Z",
+          "wordCount": 5940,
+          "title": "How To Search For A Developer Job Abroad",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript is a dynamically typed (or loosely typed) programming language. It allows you to declare variables without specifying or defining the variable type. You can create a variable in JavaScript without defining the type of value you can store in the variable. This can affect your program and cause bugs",
+          "link": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
+          "publishedOn": "2022-12-09T22:16:19.000Z",
+          "wordCount": 2178,
+          "title": "JavaScript Type Checking – How to Check Type in JS with typeof()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
+          "author": "Arunachalam B",
+          "description": "Can you imagine what it would be like to have a laptop but not to be able to access the internet? If you're a developer (or an aspiring one), you'll likely use the internet every day. So you should learn a few useful networking commands.  To learn networking in",
+          "link": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
+          "publishedOn": "2022-12-09T18:54:20.000Z",
+          "wordCount": 2391,
+          "title": "Linux Networking Commands You Should Know as a Beginner",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/FreeCodeCamp---Networking-in-Linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
+          "author": "Megan Kaczanowski",
+          "description": "What's the difference between data privacy and data security? Data security is about protecting your data from unauthorized access (basically ensuring that hackers can't access your data). Data privacy, on the other hand, is about giving you more granular control over how (and by whom) your data is accessed, used,",
+          "link": "https://www.freecodecamp.org/news/a-personal-guide-to-data-privacy/",
+          "publishedOn": "2022-12-09T18:51:30.000Z",
+          "wordCount": 2016,
+          "title": "How to Improve Your Data Privacy – A Personal Guide to Protecting Your Online Information",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-antoni-shkraba-5475793.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
+          "author": "Victor Eke",
+          "description": "If you use the internet, you've likely used a dropdown menu before. They primarily serve two purposes: collecting user input in web forms, and implementing action/navigation menus in web applications. Dropdowns are one of the best ways to offer numerous options for a similar collection of elements without needing to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/",
+          "publishedOn": "2022-12-09T18:27:56.000Z",
+          "wordCount": 1906,
+          "title": "How to Build a Dropdown Menu with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/how-to-build-a-dropdown-menu-with-javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "author": "Ogundiran Ayobami",
+          "description": "Learning the syntax of a programming language is key if you want to use that language effectively. This is true for both new and experienced developers. And one of the most important things to pay attention to while learning a programming language is whether the code you're dealing with is",
+          "link": "https://www.freecodecamp.org/news/statement-vs-expression-whats-the-difference-in-programming/",
+          "publishedOn": "2022-12-08T23:44:58.000Z",
+          "wordCount": 2128,
+          "title": "Statement vs Expression – What's the Difference in Programming?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/kaleidico-7lryofJ0H9s-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
+          "author": "Dillion Megida",
+          "description": "Slicing an array is the concept of cutting out – or slicing out – a part of the array. How do you do this in Python? I'll show you how in this article. If you like watching video content to supplement your reading, here's a video version [https://www.youtube.com/watch?v=sgXInOpc4Iw] of this",
+          "link": "https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/",
+          "publishedOn": "2022-12-08T19:13:33.000Z",
+          "wordCount": 2263,
+          "title": "Python Slicing – How to Slice an Array and What Does [::-1] Mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/10.-slide-array.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/",
+          "author": "Manish Shivanandhan",
+          "description": "Hashing is one of the pillars of cybersecurity. From securing passwords to sensitive data, there are a variety of use cases for hashing. Hashing is often confused with encryption. A simple difference is that hashed data is not reversible. Encrypted data can be reversed using a key. This is why",
+          "link": "https://www.freecodecamp.org/news/hacking-with-hashcat-a-practical-guide/",
+          "publishedOn": "2022-12-08T15:55:26.000Z",
+          "wordCount": 2256,
+          "title": "How to Crack Hashes with Hashcat — a Practical Pentesting Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/hashcat-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
+          "author": "Mugilan Ragupathi",
+          "description": "In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.",
+          "link": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
+          "publishedOn": "2022-12-07T20:54:49.000Z",
+          "wordCount": 3161,
+          "title": "AWS Lambda Interview Questions and Answers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/AWS-Lambda-Interview-Questions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
+          "publishedOn": "2022-12-07T18:43:30.000Z",
+          "wordCount": 2065,
+          "title": "How to Remove a Specific Character from a String in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-josh-sorenson-1714208.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
+          "author": "Beau Carnes",
+          "description": "Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created",
+          "link": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
+          "publishedOn": "2022-12-07T16:51:51.000Z",
+          "wordCount": 716,
+          "title": "Learn the Swift Programming Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/swift.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
