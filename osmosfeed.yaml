@@ -9,3 +9,5 @@ sources:
 #   - href: https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+
+cacheMaxDays: 30
