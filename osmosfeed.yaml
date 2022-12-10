@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://bestbestjob.github.io/web3rss/cache.json
+cacheUrl: https://github.com/bestbestjob/web3rss/blob/gh-pages/cache.json
 sources:
 #   - href: https://github.com/chainfeeds/RSSAggregatorforWeb3/releases.atom
 #   - href: https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom
