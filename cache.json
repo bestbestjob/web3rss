@@ -1,4 +1,11 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    }
+  ],
   "cliVersion": "1.15.1"
 }
