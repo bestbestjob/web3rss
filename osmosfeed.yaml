@@ -7,7 +7,8 @@ cacheUrl: https://bestbestjob.github.io/web3rss/cache.json
 sources:
   - href: https://github.com/chainfeeds/RSSAggregatorforWeb3/releases.atom
 #   - href: https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+#   - href: https://www.smashingmagazine.com/feed/
+#   - href: https://www.freecodecamp.org/news/rss/
+  - href: https://chainfeeds.substack.com/feed
 
 cacheMaxDays: 30
