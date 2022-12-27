@@ -6,6 +6,22 @@
       "siteUrl": "https://chainfeeds.substack.com",
       "articles": [
         {
+          "id": "https://chainfeeds.substack.com/p/web30-sbt-fantom-binance-research",
+          "author": "小毛哥",
+          "description": "「ChainFeeds Selection 行研早报」精选 Web3 行业每日最值得关注的事件和来自专家的观点解读",
+          "link": "https://chainfeeds.substack.com/p/web30-sbt-fantom-binance-research",
+          "publishedOn": "2022-12-26T01:30:03.000Z",
+          "wordCount": null,
+          "title": "早报｜姚前新文：迈入Web3.0的四大变革、探讨基于 SBT 的低抵押贷款方案、解析 Fantom 发展潜力、Binance Research：一层网络的回顾与展望",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441fb027-92fd-4e88-9c9b-8b43488fa3b4_1600x810.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F441fb027-92fd-4e88-9c9b-8b43488fa3b4_1600x810.png"
+        },
+        {
           "id": "https://chainfeeds.substack.com/p/chainfeeds-weekly-1219-1225",
           "author": "小毛哥",
           "description": "5 分钟快速了解本周最值得关注的「新闻事件」以及获得最值得阅读的「新闻见解 」",
@@ -452,22 +468,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6f9b299-ff5d-4e02-b0e2-ef760c2f5549_1600x900.png"
-        },
-        {
-          "id": "https://chainfeeds.substack.com/p/chainfeeds-weekly-1121-1127",
-          "author": "小毛哥",
-          "description": "5 分钟快速了解本周最值得关注的「新闻事件」以及获得最值得阅读的「新闻见解 」",
-          "link": "https://chainfeeds.substack.com/p/chainfeeds-weekly-1121-1127",
-          "publishedOn": "2022-11-27T08:22:51.000Z",
-          "wordCount": null,
-          "title": "ChainFeeds Weekly 周末荐读：要闻解读、币圈大咖观点讨论、优质干货文章【11/21-11/27】",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F093d884a-38ca-4f50-9dc8-b132e4524746_1600x900.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F093d884a-38ca-4f50-9dc8-b132e4524746_1600x900.jpeg"
         }
       ]
     },
@@ -476,6 +476,106 @@
       "feedUrl": "https://www.blocktempo.com/feed/",
       "siteUrl": "https://www.blocktempo.com",
       "articles": [
+        {
+          "id": "https://www.blocktempo.com/?p=203831",
+          "author": "Joe",
+          "description": "據 Coinglass 統計數據，已垮台的 FTX 交易所目前比特幣（BTC）餘額僅剩下 0.12 枚 BTC […]\nFTX 比特幣錢包「僅剩 0.12 BTC」近乎歸零！網嘲：比我還窮〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/ftx-bitcoin-wallet-worth-only-2000-left/",
+          "publishedOn": "2022-12-27T00:52:40.000Z",
+          "wordCount": 2132,
+          "title": "FTX 比特幣錢包「僅剩 0.12 BTC」近乎歸零！網嘲：比我還窮",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/107151231-1668440212228-gettyimages-1244771851-porzycki-ftxphoto221114_npyWj.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203771",
+          "author": "SAKE",
+          "description": "《以太坊新聞周刊》創辦人 Evan Van Ness 於上周六 (24) 表示，以太坊質押提款的測試網已啟動， […]\n以太坊質押「提款測試網」已上線！信標鏈質押數突破1570萬ETH〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/ethereum-lauched-withdraws-testnet/",
+          "publishedOn": "2022-12-26T11:59:53.000Z",
+          "wordCount": 2053,
+          "title": "以太坊質押「提款測試網」已上線！信標鏈質押數突破1570萬ETH",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/78961678967846316.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203725",
+          "author": "James",
+          "description": "一名駭客近期在黑市上出售包含 4 億推特用戶個資的私人數據庫，其中包括以太坊共同創辦人 Vitalik But […]\nV神個資也被賣！「4億推特用戶數據」流入黑市，駭客以此勒索馬斯克〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/data-of-400-million-twitter-users-up-for-sale/",
+          "publishedOn": "2022-12-26T11:40:05.000Z",
+          "wordCount": 2128,
+          "title": "V神個資也被賣！「4億推特用戶數據」流入黑市，駭客以此勒索馬斯克",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/4PBBTUX3W5PGFLVVAHKMA23E34-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203760",
+          "author": "James",
+          "description": "以唱衰比特幣聞名於世的黃金大多頭、貴金屬交易商 SchiffGold 創辦人兼董事長 Peter Schiff […]\n黃金大多頭Peter Schiff：現在趕快賣比特幣！未來很可能不會回漲〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/peter-schiff-advises-selling-btc-now/",
+          "publishedOn": "2022-12-26T10:15:22.000Z",
+          "wordCount": 2142,
+          "title": "黃金大多頭Peter Schiff：現在趕快賣比特幣！未來很可能不會回漲",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/8149691.webp"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203739",
+          "author": "SAKE",
+          "description": "日本金融廳（FSA）或將在 2023 年解除海外發行的穩定幣（例如 USDC、USDT 等）在日本的流通禁令， […]\n日金融廳擬2023年解禁「海外穩定幣」，如USDT、USDC匯款限額100萬日圓〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/japen-fca-could-release-of-stablecoins-issued-overseas/",
+          "publishedOn": "2022-12-26T10:08:45.000Z",
+          "wordCount": 1886,
+          "title": "日金融廳擬2023年解禁「海外穩定幣」，如USDT、USDC匯款限額100萬日圓",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/01.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=202738",
+          "author": "luc:",
+          "description": "亞洲區塊鏈盛會《NFT Taipei》在 12 月於台北圓滿結束，而動區也趁這個良機特別專訪了Dapper L […]\nNFT Taipei 專訪》 Fan Shen：Dapper Labs 築構 Web3 垂直創作原生地，促生IG社群交互流動〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/nft-taipei-interviewing-dapper-labs-games-vp-fan-shen/",
+          "publishedOn": "2022-12-26T09:37:27.000Z",
+          "wordCount": 2465,
+          "title": "NFT Taipei 專訪》 Fan Shen：Dapper Labs 築構 Web3 垂直創作原生地，促生IG社群交互流動",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/Fj_cOCqVEAA-fJS-2.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203727",
+          "author": "luc:",
+          "description": "被指控金融詐欺 8 大罪的 FTX 創辦人 Sam Bankman-Fried（SBF）保釋後搭商務艙返家的照 […]\nSBF 搭商務艙笑談如常！前檢察官：高管證詞「對他最致命」難推不知情〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/sbf-took-american-airlines-flagship-going-back-home/",
+          "publishedOn": "2022-12-26T09:17:36.000Z",
+          "wordCount": 2196,
+          "title": "SBF 搭商務艙笑談如常！前檢察官：高管證詞「對他最致命」難推不知情",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/截圖-2022-12-26-170128.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203644",
+          "author": "SAKE",
+          "description": "NFT 項目 DeGods 宣布將在明年第一季度遷移至以太坊，旗下二代項目 y00ts 則將遷移至 Polyg […]\nSolana NFT逃難》DeGods 宣布遷移至以太坊！y00ts 也將轉移至 Polygon〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/degods-will-officially-bridge-to-ethereum-in-q1-of-2023/",
+          "publishedOn": "2022-12-26T08:30:22.000Z",
+          "wordCount": 2390,
+          "title": "Solana NFT逃難》DeGods 宣布遷移至以太坊！y00ts 也將轉移至 Polygon",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/截圖-2022-12-26-下午12228.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203645",
+          "author": "James",
+          "description": "帛琉總統惠恕仁（Surangel Whipps, Jr.）日前透露，帛琉正與 RippleLabs 合作，探索 […]\n帛琉與Ripple合作「發行國家穩定幣」，總統惠恕仁：幣安協力數位支付〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/ripple-is-building-stablecoin-for-republic-of-palau/",
+          "publishedOn": "2022-12-26T08:25:03.000Z",
+          "wordCount": 1960,
+          "title": "帛琉與Ripple合作「發行國家穩定幣」，總統惠恕仁：幣安協力數位支付",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/221456.webp"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=203721",
+          "author": "老雅痞",
+          "description": "一起來看一下來自納斯達克關於元宇宙風投的一份報告。本文源自本文源自納斯達克，由 老雅痞 編譯、整理。 (前情提 […]\n納斯達克報告：2022 年元宇宙 VC 復盤，預測 2023 年趨勢〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/2022-metaverse-vc-funding-overview/",
+          "publishedOn": "2022-12-26T06:41:00.000Z",
+          "wordCount": 2277,
+          "title": "納斯達克報告：2022 年元宇宙 VC 復盤，預測 2023 年趨勢",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/mmbizqpic_.jpg"
+        },
         {
           "id": "https://www.blocktempo.com/?p=203360",
           "author": "DeFi 之道",
@@ -1943,6 +2043,26 @@
       "feedUrl": "https://blockworks.co/feed/",
       "siteUrl": "https://blockworks.co",
       "articles": [
+        {
+          "id": "https://blockworks.co/news/crypto-hacks-2022",
+          "author": null,
+          "description": "From Axie to Wintermute, 2022 was the biggest year yet for crypto hacks",
+          "link": "https://blockworks.co/news/crypto-hacks-2022",
+          "publishedOn": "2022-12-26T21:00:00.000Z",
+          "wordCount": 17289,
+          "title": "Crypto Thieves Made Off With $4.3B in 2022: Top Hacks of the Year",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/crypto-hacks-2022.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/crypto-wildest-moments-of-2022",
+          "author": null,
+          "description": "Several consequential events this year made crypto markets spin and caused investors to question the integrity of the industry",
+          "link": "https://blockworks.co/news/crypto-wildest-moments-of-2022",
+          "publishedOn": "2022-12-26T14:00:00.000Z",
+          "wordCount": 17528,
+          "title": "Crypto’s Top 5 Wildest Moments of 2022",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/Wild-Crypto-Moments-2022.jpg"
+        },
         {
           "id": "https://blockworks.co/news/crypto-trading-blowups-2022",
           "author": null,
@@ -3531,6 +3651,36 @@
       "siteUrl": "https://techflowpost.mirror.xyz",
       "articles": [
         {
+          "id": "https://techflowpost.mirror.xyz/e-2xfNOEbSrmlXqPDie6wsD8OKWVibE69Ay53O8ty80",
+          "author": null,
+          "description": "THORChain将如何取代CeFi？ – 深潮TechFlow\n撰写：Revelo Intel\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/e-2xfNOEbSrmlXqPDie6wsD8OKWVibE69Ay53O8ty80",
+          "publishedOn": "2022-12-26T09:46:36.000Z",
+          "wordCount": 1098,
+          "title": "THORChain将如何取代CeFi？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/AxYctK78sJAlk2TFJUV-J.png?height=314&width=628&h=314&w=628&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/yA-7mTrGb_RvcZkDDGfyGHLNI67fOd0gLnOeACKXb70",
+          "author": null,
+          "description": "2023年值得关注的9个Web3发展趋势 – 深潮TechFlow\n撰写：Max Yampolsky\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/yA-7mTrGb_RvcZkDDGfyGHLNI67fOd0gLnOeACKXb70",
+          "publishedOn": "2022-12-26T08:46:44.000Z",
+          "wordCount": 1744,
+          "title": "2023年值得关注的9个Web3发展趋势",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/YNMJGopu_6SgM0tnGwRbu.png?height=382&width=764&h=382&w=764&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/Rw7lLH-j14_pl7iDmJIjqKt7nbd41Jhj4o887hLArMI",
+          "author": null,
+          "description": "AC回归后，Fantom能否重拾往日DeFi的辉煌？ – 深潮TechFlow\n撰写：Jake Pahor\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/Rw7lLH-j14_pl7iDmJIjqKt7nbd41Jhj4o887hLArMI",
+          "publishedOn": "2022-12-26T03:54:17.000Z",
+          "wordCount": 1283,
+          "title": "AC回归后，Fantom能否重拾往日DeFi的辉煌？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/pwu29ARfpVB6SzkzGLOh5.png?height=336&width=672&h=336&w=672&auto=compress"
+        },
+        {
           "id": "https://techflowpost.mirror.xyz/_ej3xsjzojqPb3kykcTAljP8PYbLz5tdncN8XEeNSAM",
           "author": null,
           "description": "2023 年顶级项目空投指南：zk-Rollup、Layer2和DeFi – 深潮TechFlow\n撰写：Permissionlessness\nRead the full entry",
@@ -4177,6 +4327,176 @@
       "feedUrl": "https://www.chainfeeds.xyz/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://www.techflowpost.com/article/1844",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文总结了目前势头正旺并可能在 2023 年继续增长的 9 个 Web3 趋势，包括：Social DeFi、DeFi/ 加密货币风险保险、NFT 流动性工具、DEX 的高级交易工具、M2E 应用程序的兴起、主流品牌的 NFT、透明度、市场整合（收购 / 合伙）、合规性。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.techflowpost.com/article/1844\">https://www.techflowpost.com/article/1844</a></p>\n<p><strong>文章作者：</strong></p><p>Max Yampolsky</p><hr><h3>观点：</h3><p><strong>Max Yampolsky：</strong>1、Social DeFi：关键特征包括个性化的 0x 地址（ENS），给钱包所有者发送信息 + 钱包关注（DeBank），Dapp 通知（Notifi），社交信息流和社区（DeBank），DAO 聚合器（Zapper），此外，采用 Web3 的 Web2 应用也值得关注（如 Twitter Blue 集成 NFT）；2、DeFi/ 加密货币风险保险：许多投资者正在转向保险，以减轻黑客攻击、漏洞、Rug 和诈骗风险并保护他们的资产，相关平台包括 Insurace.io、Nexusmutual.io、Neptunemutual ；3、NFT 流动性工具：sudoswap 试图通过创建可以即时买卖 NFT 的池来解决流动性问题，OpenSea 和 Uniswap 分别收购了 NFT 聚合器 gem.xyz 和 Genie 来提高流动性。</p><a href=\"https://www.techflowpost.com/article/1844\">内容来源</a><p><strong>Max Yampolsky：</strong>4、DEX 的高级交易工具：DEX 广泛采用的阻碍之一是缺乏先进的交易工具，如止损功能（dYdX 正努力解决该问题），此外，流动性和滑点 / 抢先交易也是 DEX 交易者面临的问题，Hashflow 等平台正对 DEX 流动性模式进行创新，将做市商纳入其中，并允许他们产生流动性；5、M2E 应用程序的兴起：运动赚钱应用程序的受欢迎程度正在上升，为人们提供了一种新的、有吸引力的方式，在保持运动的同时赚取奖励，相关协议包括：跳舞赚钱项目 Rapty.app 和 Dansa，自行车赚钱项目 BikeN 和 BikeRush 等。</p><a href=\"https://www.techflowpost.com/article/1844\">内容来源</a><p><strong>Max Yampolsky：</strong>6、主流品牌的 NFT：包括体育 NFT，如 Sorare，商业品牌 NFT，如可口可乐和 Nike，由于 Web3 的整体增长，品牌和体育 NFT 预计将在 2023 年继续保持上升趋势；7、透明度：最近的事件，如涉及 FTX 的事件，导致人们越来越关注加密货币行业的透明度。因此，许多项目现在正在采取措施，以提高透明度，包括公布国库和金库地址，与社区成员一起组织独立的 DAO 来管理与资金管理相关的决策，此外，公开可用的监控工具也在增加。</p><a href=\"https://www.techflowpost.com/article/1844\">内容来源</a><p><strong>Max Yampolsky：</strong>8、市场整合（收购 / 合伙）：随着熊市的持续，行业领导者收购艰难生存的小公司，如 Uniswap 收购流动性聚合商 Genie，此外，加密市场中的整合也会渐渐变多，如 Balancer 和 Aave 之间最近为交换治理代币和引入共同池而建立的伙伴关系；9、合规性：随着世界各国政府寻求更大的监督和透明度，监管合规在加密货币中越来越关键。</p><a href=\"https://www.techflowpost.com/article/1844\">内容来源</a>",
+          "link": "https://www.techflowpost.com/article/1844",
+          "publishedOn": "2022-12-26T12:30:05.000Z",
+          "wordCount": 9972,
+          "title": "2023 年值得关注的 9 个 Web3 发展趋势",
+          "imageUrl": "https://assets.techflowpost.com/20221205/8997c6f066d6476e9a9da2704c7f5667.png"
+        },
+        {
+          "id": "https://www.theblock.co/post/197894/nexo-vauld-deal-terminated",
+          "author": null,
+          "description": "<h3>Nexo 终止收购加密借贷平台 Vauld</h3>\n<p>据知情人士透露，加密借贷机构 Nexo 终止与加密借贷平台 Vauld 之间的潜在收购交易，终止的原因包括：Vauld 在 Terra 事件中损失大量资金；印度当局没收 Vauld 的资产；Vauld 的部分资产存于 FTX 上以及 Amber Group 对其的大额欠款，此外，Vauld 在美国拥有大量客户，而 Nexo 近期宣布离开美国的计划，因此，潜在的交易对于 Nexo 没有意义。目前，Vauld 提出新的重组计划，选择一位基金经理来管理客户资产，Vauld 目前财务漏洞为 9800 万美元，相较此前增加 1700 万美元，主要由于对 FTX 的 880 万美元敞口以及代币价格较稳定币下降 24%。此前消息，2022 年 7 月，Nexo 与 Vauld 签订指示性投资意向书，随后开展为期 60 天的尽职调查，随后两次延长调查期限。</p>\n<p><a href=\"https://www.theblock.co/post/197894/nexo-vauld-deal-terminated\">内容来源</a></p><hr>",
+          "link": "https://www.theblock.co/post/197894/nexo-vauld-deal-terminated",
+          "publishedOn": "2022-12-26T11:34:24.000Z",
+          "wordCount": 59408,
+          "title": "Nexo 终止收购加密借贷平台 Vauld",
+          "imageUrl": "https://www.tbstat.com/wp/uploads/2022/12/20221205_Nexo-1200x675.jpg"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6795352",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文预测 2023 年的以太坊生态，提出 5 个观点：熊市还没有过去；EigenLayer 将是以太坊最重要的创新；Blob 交易不会修复可扩展性问题；ZK-Rollups 不会看到显著的牵引力；Layer 3 将是 Cosmos 的真正竞争对手。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.defidaonews.com/article/6795352\">https://www.defidaonews.com/article/6795352</a></p>\n<p><strong>文章作者：</strong></p><p>New Order</p><hr><h3>观点：</h3><p><strong>New Order：</strong>EigenLayer 允许用户利用现有的信任网络，通过使用重质押来保护其他核心基础设施和中间件层，重质押的核心是利用用于以太坊网络验证的相同质押 ETH 来保护其他网络。在漫长的 2022-2023 年熊市期间，预计流动性将继续在以太坊内寻求安全，进一步巩固网络作为 Crypto 的避风港和中央信任层，安全竞争将进一步扩大以太坊的资本基础，扩大 alt-L1 之间的差距，此外，获得重质押的 ETH 安全性将大大降低中间件、侧链和一般去中心化技术堆栈的扩展成本。</p><a href=\"https://www.defidaonews.com/article/6795352\">内容来源</a><p><strong>New Order：</strong>ZK Rollups 不会在 2023 年获得显著的牵引力，因为它们缺乏生产准备（特指虚拟机以及证明的证明时间），并且无法实现充分的去中心化。相反，预计 ZKP（零知识证明） 将得到广泛使用，特别是在非交互式状态证明中，ETHStorage、Herodotus 等项目将使用 ZKP 用于各种需要链上或跨链存储证明的数据共享目的，此外，预计很多跨链桥将开始使用 ZKP 以实现互操作性目的，其中一些已经朝着这个方向发展，包括 Wormhole、Polymer。</p><a href=\"https://www.defidaonews.com/article/6795352\">内容来源</a><p><strong>New Order：</strong>Layer 3 是基于 Layer2 构建的特定应用区块链，与 L1 相比，L3 的成本可降低 1 万倍，此外，L3 还能针对特定目的进行定制，包括在使用 ZKP 时添加隐私功能，设计自定义 DA 模型以及启用高效的互操作性解决方案。几乎每个相关的 EVM L2 都计划在其 L2 之上开发可定制的 L3，将 EVM 的去中心化和安全性与可扩展的 L3 相结合，使模块化环境远优于单体应用链（如 Avalanche 子网）生态系统，Cosmos 这样的应用链生态系统将在 2023 年继续获得牵引力。</p><a href=\"https://www.defidaonews.com/article/6795352\">内容来源</a>",
+          "link": "https://www.defidaonews.com/article/6795352",
+          "publishedOn": "2022-12-26T11:09:13.000Z",
+          "wordCount": 932,
+          "title": "2023 年以太坊生态 5 大预测",
+          "imageUrl": "https://appserversrc.8btc.cn/FjLrSknrvHh1Zt1tjr-On1bZ_R_3.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Artifact Labs 创始人 Gary Liu、Animoca Brands 创始人 Yat Siu、Sandbank 创始人 Brian、BTC Markets 创始人 Bowler、Cosmos 创始人 Buchman 分享他们对 2023 年加密市场的预测，涉及 NFT、元宇宙、游戏、比特币、DeFi、IBC。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw\">https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw</a></p>\n<p><strong>文章作者：</strong></p><p>Forkast News</p><hr><h3>观点：</h3><p><strong>Gary Liu：</strong>NFT 将获得更多实用性并成为 Web3 的基石。NFT 是在数字世界中创造和保护 IP 的方式，而这正是根本创新所在，预计在接下来的几年里，越来越多的历史组织、文化机构和品牌将在现实世界中实现知识产权保护，越来越多的这种历史 IP 将被转移到 Web3 世界和 NFT 中。此外，新的 NFT 系列将需要更多的内在价值才能生存，而不是仅仅一群人说它有价值，这将推动 NFT 的创新。</p><a href=\"https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw\">内容来源</a><p><strong>Yat Siu（Animoca Brands 联合创始人）：</strong>游戏将推动加密货币大规模采用。一个好的游戏需要几年时间才能制作，所以前几年开始制作的游戏今年开始出现并问世，我们会看到市场上涌现出一大波高质量的游戏，这会带来更多的大众采用，此外，元宇宙将卷土重来，元宇宙的互操作性也将获得更多关注，就如同一个民族国家不加入 WTO，交易物品并分享价值就无法发展。</p><a href=\"https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw\">内容来源</a><p><strong>Ethan Buchman（Cosmos 联合创始人）：</strong>FTX 崩盘后，去中心化交易所将获得突出地位，我们需要去中心化的、无需信任的、可验证的解决方案；DeFi 将与现实世界的支付系统更加融合；先进的跨链应用将在 IBC 上线，代币跨链只是 IBC 上的一个应用程序，未来我们会看到其他应用程序的采用，包括区块链共享安全性，区块链间的更高级别控制，如一个区块链可以控制另一个区块链上的账户。</p><a href=\"https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw\">内容来源</a>",
+          "link": "https://mp.weixin.qq.com/s/qql-LMPgB2vkk3ygYHBMaw",
+          "publishedOn": "2022-12-26T10:20:27.000Z",
+          "wordCount": 9115,
+          "title": "2023 年预测：加密 OG 们眼中的下一年",
+          "imageUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/MSLuYbjYEibFiahuGw83oEWcFunQcQ8t8OCuvE3FcfkO2VicyV5uBUubfkUVcGJWDy9DZ4rRvqK4bCpic9UQ6yEU1w/0?wx_fmt=jpeg"
+        },
+        {
+          "id": "https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文通过 3 个因素：采用 / 使用、平台护城河和加密市场条件对 12 条主流公链（比特币、以太坊、Polygon 等）进行估值，哪些公链被高估或者低估？</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/\">https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/</a></p>\n<p><strong>文章作者：</strong></p><p>Tascha</p><hr><h3>观点：</h3><p><strong>Tascha：</strong>估值框架：利用活动地址或交易数量来衡量公链的采用 / 使用，利用市值来衡量加密市场条件，护城河包括存在时间、社区强大程度…… 利用三种因素计算出公链的预测市值，与实际市值进行对比。【原文为英文】</p><a href=\"https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/\">内容来源</a><p><strong>Tascha：</strong>目前被高估的公链包括：Polygon、以太坊、BSD 和 Flow，目前被低估的公链包括：Near、Ripple、Avalanche 和比特币，剩余的 Optimism、Aptos、Algorand、Solana，预测和实际的市值相差小于 10%。【原文为英文】</p><a href=\"https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/\">内容来源</a>",
+          "link": "https://taschalabs.com/the-most-overvalued-undervalued-blockchain-platforms-right-now/",
+          "publishedOn": "2022-12-26T09:50:57.000Z",
+          "wordCount": 2622,
+          "title": "【英文】主流区块链平台估值框架和市值预测",
+          "imageUrl": "https://taschalabs.com/wp-content/uploads/2022/12/The-Most-Overvalued-Undervalued-Blockchain-Platforms-Right-Now.png"
+        },
+        {
+          "id": "https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>一篇关于 LSD（流动性质押衍生品）的深度文章（超 8 万字），本文首先驳斥 Paradigm 提出的观点：大多数质押的 ETH 将由中心化交易所控制，或者由可以首先推出的不太中心化的替代方案控制，并分析 Lido 面临的社会和经济问题，Lido 的黄金时代为什么已经结束？rETH（Rocket Pool）的份额为什么将会超越 stETH？随后分析了 LSD 赛道的挑战者，如 cbETH、frxETH 等。注：本文作者享受 Rocket Pool 核心团队提供的津贴，可能存在观点不客观的问题。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM\">https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM</a></p>\n<p><strong>文章作者：</strong></p><p>jasperthefriendlyghost.eth</p><hr><h3>观点：</h3><p><strong>jasperthefriendlyghost.eth：</strong>Lido 在社会方面面临 4 个问题：系统是可被治理攻击的，费用分配具有波动性，DAO 及其运营者是多链的，验证者的注册仍具有中心化特征。经济方面，stETH 的锚定表现仅好于 cbETH，LSD 面临的三个风险（执行风险、尾部风险和中心化风险）中，stETH 在后两个类别中处于危险的高风险水平。【原文为英文】</p><a href=\"https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM\">内容来源</a><p><strong>jasperthefriendlyghost.eth：</strong>cbETH 已经迅速成为第二大的 LSD，但因为没有 DeFi 采用，cbETH 将成为用户迁移至 rETH 的垫脚石；frxETH 建立在资本效率低下的系统之上，质押奖励与流动性提供者是分离的。【原文为英文】</p><a href=\"https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM\">内容来源</a><p><strong>jasperthefriendlyghost.eth：</strong>LSD 将成为以太坊的内在组成部分。质押的 ETH 将成为未来的债券市场。如果 LSD 变得过于占主导地位，它可能会成为对主链的攻击。未来能够传播和生存的资产将是像以太坊一样在极端情况下具有弹性的资产。【原文为英文】</p><a href=\"https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM\">内容来源</a>",
+          "link": "https://mirror.xyz/jasperthefriendlyghost.eth/pnaLyH6W4j58vfypsOKHciF_BM5HFvTkouTd9uThesM",
+          "publishedOn": "2022-12-26T09:22:49.000Z",
+          "wordCount": 27170,
+          "title": "【英文】为什么 Paradigm 是错的：rETH 如何超越 stETH",
+          "imageUrl": "https://mirror-media.imgix.net/nft/PSgR4jZXG2pHebiv7dqmn.png?h=null&w=null&auto=compress"
+        },
+        {
+          "id": "https://twitter.com/tracecrypto1/status/1607049630172467203",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Trace 分享了其对执行层未来的 6 个想法和观点，包括执行层生态将高度碎片化，执行层将涵盖通用和特定应用程序之间的全部范围……</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/tracecrypto1/status/1607049630172467203\">https://twitter.com/tracecrypto1/status/1607049630172467203</a></p>\n<p><strong>文章作者：</strong></p><p>Trace</p><hr><h3>观点：</h3><p><strong>Trace：</strong>1、执行层生态将高度碎片化，3 年内将有数百个执行层，最终将有数千个；2、Web3 应用程序间的连接性很低，并且大多数应用程序之间不需要任何关系，需要更高可组合性的捆绑应用程序将共享执行层或至少共享流动性和安全性的结算层。【原文为英文】</p><a href=\"https://twitter.com/tracecrypto1/status/1607049632239984640\">内容来源</a><p><strong>Trace：</strong>3、执行层将涵盖通用和特定应用程序之间的全部范围，未来执行层将在允许无许可使用的同时允许许可应用程序部署。目前，通用区块链允许无许可的部署，而特定应用程序区块链已隐晦地禁止其他应用程序部署，但是，还有一个完整的中间地带可以探索应用程序部署在何处由中央参与者、治理、社会规范或其他执行机制控制。【原文为英文】</p><a href=\"https://twitter.com/tracecrypto1/status/1607049638695018497\">内容来源</a><p><strong>Trace：</strong>4、应用程序或捆绑应用程序被单独使用越多，（考虑到它们的卓越性能）就越有可能建立在主权 Rollup 上；5、较小的应用程序将在引导使用时部署在通用执行层上，并且一旦它们产生足够的活动来支付它们自己的硬件（定序器 / 证明器等），它们可能会移动到它们自己的层；6、由于模块化执行层将对新链的基础设施要求降低几个数量级，因此将显着增加能够负担得起自己的应用链的应用程序数量，这将推动进一步的碎片化。【原文为英文】</p><a href=\"https://twitter.com/tracecrypto1/status/1607049645896912896\">内容来源</a>",
+          "link": "https://twitter.com/tracecrypto1/status/1607049630172467203",
+          "publishedOn": "2022-12-26T08:18:34.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】一些关于执行层未来的想法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>7upDAO 近期邀请 Mask Network 创始人 Suji Yan、Nothing Research 合伙人 0xTodd、SkySaga Capital 创始合伙人 Gary Yang 就以太坊上海升级的历史回顾和前景展望、解锁抛压、EVM 升级及宏观问题进行深度探讨。本文是讨论重点提炼。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g\">https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g</a></p>\n<p><strong>文章作者：</strong></p><p>7UpDAO</p><hr><h3>观点：</h3><p><strong>0xTodd：</strong>市场预计开放 ETH 提款时会导致短期 ETH 大量抛压，但对比主流公链 80% 的质押率，以太坊的质押率还有很大的提升空间，开放后会有较多持币大户去质押，此外，开放后每天会有固定的速率规定提现的数量，所以筹码解锁是个可控的过程。上海升级另一个重点是 EVM 对象格式（EOF）的实施问题，EVM 有个重大的缺陷是不支持之前合约的向前兼容，EVM 升级受制于既往生态，未来可以通过 EOF 将虚拟机打造成并行处理，同时执行两套 EVM 的规则，即原先没升级的那套规则可以接着使用，新写出来的合约可以运行新的升级后的规则。</p><a href=\"https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g\">内容来源</a><p><strong>Gary Yang：</strong>如何看宏观市场流动性和以太坊周期的共振？对于 Web3 有三个重要的参数：宏观流动性什么时候进入到拐点，从货币和财政政策来讲，很可能明年还是比较紧缩的状态，此外，因为超发货币的次生效应，导致美俄之间、中美之间、以及其他国家之间的生产关系在重构，全球真实的生产效率很难在明年恢复到 20 年之前的状态；24 年 Q2 是否能够继续 Deliver 减半的周期，现在看起来 FTX 的次生效应影响的还是挺多的；真实产出问题，整个市场不能再进行所谓的零和博弈，要把价值创造做起来，这件事从长期来讲我是看好的，但是短期很多 Web3 企业面临资金不足的问题。</p><a href=\"https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g\">内容来源</a><p><strong>Jack孔：</strong>未来加密最重要的催化可能是原生应用的爆发，可能真正带来一个指数级的增长红利。以太坊具备抓住红利的基础，首先以太坊从安全角度和金融角度来讲，肯定是最合适的金融底层，这是其他公链所不具备的优势，不管应用怎么爆发，金融类生态的创新肯定还是在以太坊。另外，以太坊网络效应和流动性已经具备了，以太坊在下一阶段只要有创新的事物不断出来，它就会进一步爆发。</p><a href=\"https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g\">内容来源</a>",
+          "link": "https://mp.weixin.qq.com/s/QgtZp5yF2hx6ZJ9kS8CE2g",
+          "publishedOn": "2022-12-26T07:44:38.000Z",
+          "wordCount": 9018,
+          "title": "「ETH 上海」能否冲破宏观周期，打造新版加密金融底层？",
+          "imageUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/VRGS3I8GBaMCB6K9YBT3BQ6RRmD6Aw0Q4qYhnNaqlzqbA0DEjYJYB3qlJickIaZNiaEiavwGN5SiaQ6ZD6hdyfILUg/0?wx_fmt=jpeg"
+        },
+        {
+          "id": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8",
+          "author": null,
+          "description": "<h3>Andre Cronje：2023 年 Fantom 将重点关注开发人员，发展方向包括账户抽象、新中间件等</h3>\n<p>Andre Cronje 发布《致 Fantom 基金会团队的信》，表示 2023 年 Fantom 将重点关注开发人员的垂直领域，改进工具、提高集成性、易用性和开发人员用户体验等。其计划的重点发展方向包括：Gas 货币化、Gas 补贴、账户抽象、Gas 费的经济抽象、新中间件（Fantom 虚拟机，新存储机制）、优化网络性能、针对新构建者和非区块链开发人员的新文档和培训、为 DApp 团队提供资金和资助机会、寻找市场和业务发展方向（预计在 2023 年第一季度末 / 第二季度初披露）等等。此外，Andre Cronje 本人还将担任 Fantom 基金会和 Fantom Operations 董事会成员的职位。</p>\n<p><a href=\"https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8\">内容来源</a></p><hr>",
+          "link": "https://andrecronje.medium.com/letter-to-fantom-foundation-team-eb3d870c6be8",
+          "publishedOn": "2022-12-26T07:14:23.000Z",
+          "wordCount": 2520,
+          "title": "Andre Cronje：2023 年 Fantom 将重点关注开发人员，发展方向包括账户抽象、新中间件等",
+          "imageUrl": "https://miro.medium.com/max/1080/0*6bldXP8hECQyYNZ_"
+        },
+        {
+          "id": "https://www.panewslab.com/zh/articledetails/tlmmlmym.html",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Uniswap 现支持用户在网页端使用信用卡、贷记卡、银行转账的方式购买加密货币，其底层由 MoonPay 支持。那么，使用 MoonPay 购买加密资产的安全性如何？MoonPay 是否降低了用户进入加密领域的门槛？</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.panewslab.com/zh/articledetails/tlmmlmym.html\">https://www.panewslab.com/zh/articledetails/tlmmlmym.html</a></p>\n<p><strong>文章作者：</strong></p><p>雾海</p><hr><h3>观点：</h3><p><strong>雾海：</strong>尽管 MoonPay 保证所有客户和员工的个人信息都以最高级别的安全和合法方式处理，但无法验证其第三方合作公司泄漏信息的可能性。且俄乌冲突时期，MoonPay 暂停了在乌克兰、俄罗斯和白俄罗斯的业务，这让用户不免担心一个收集了巨量用户核心隐私信息的公司在下一次站队时，会不会主动或者被迫献上自己的数据。</p><a href=\"https://www.panewslab.com/zh/articledetails/tlmmlmym.html\">内容来源</a><p><strong>雾海：</strong>Uniswap 就所有支持的代币购买与商家协商了低滑点和低手续费。但通过体验产品发现，在 MoonPay 购买 1 枚 ETH 需要 8918 元，而同时同刻币安法币通道的 ETH 价格为 8419 元。也就是说，MoonPay 比币安的 ETH 法币价格高出 500 元，价差高达 5.6%，与 Uniswap 官方合作文档披露的信息严重不符。</p><a href=\"https://www.panewslab.com/zh/articledetails/tlmmlmym.html\">内容来源</a><p><strong>雾海：</strong>综合来看，MoonPay 平台的方式降低了圈外用户进入加密圈的门槛，扩大了增量市场。但其高昂的手续费限制了其为加密领域带来更广的群体。</p><a href=\"https://www.panewslab.com/zh/articledetails/tlmmlmym.html\">内容来源</a>",
+          "link": "https://www.panewslab.com/zh/articledetails/tlmmlmym.html",
+          "publishedOn": "2022-12-26T06:32:01.000Z",
+          "wordCount": 3613,
+          "title": "Uniswap 借 MoonPay 实现法币交易，安全性和使用门槛如何？",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2022/12/26/images/9cLO51S506.png"
+        },
+        {
+          "id": "https://zeeprime.capital/the-fappening",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>在加密领域，迄今为止的杀手级应用是那些在多个方面都做得很好的应用程序和产品。应用程序，主要是超级应用程序和应用链，将随着时间的推移积累更多的价值。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://zeeprime.capital/the-fappening\">https://zeeprime.capital/the-fappening</a></p>\n<p><strong>文章作者：</strong></p><p>Zee Prime Capital</p><hr><h3>观点：</h3><p><strong>Zee Prime Capital：</strong>最好的应用链是成为 Superapp（超级应用程序）的良好候选者。发展轨迹：1. 在通用链的主网上启动应用程序，演示概念验证和 PMF，获得访问已知用户群的机会；2. 如果取得成功，转向多链，或者启动你自己的执行环境（应用链），你将拥有更多的自主性并获取更多价值。目前为止，dYdX 是这样一个例子；3. 抽象出所有链上方面和执行环境，并提供无缝的超级应用程序体验。寻找渐进的方式来吸引用户并添加让人们在产品上花费更多时间和金钱的功能。4. 恭喜你成为超级应用程序。【原文为英文】</p><a href=\"https://zeeprime.capital/the-fappening\">内容来源</a><p><strong>Zee Prime Capital：</strong>超级应用程序最终可能成为以太坊和其他链的包装器，同时托管所有其他未来「应用程序」的端点，这些「应用程序」将成为该超级应用程序的一个功能。从这个意义上说，超级应用程序最终将成为一个中心化的场所。用户和开发者可以选择直接进入区块链，但超级应用程序开发更顺畅，且提供更便宜的交易费用和更好的用户体验。【原文为英文】</p><a href=\"https://zeeprime.capital/the-fappening\">内容来源</a>",
+          "link": "https://zeeprime.capital/the-fappening",
+          "publishedOn": "2022-12-26T05:47:30.000Z",
+          "wordCount": 9290,
+          "title": "【英文】从协议层到应用层：为什么我们更看好超级应用程序的发展？",
+          "imageUrl": "https://storage.googleapis.com/zeeprime-strapi-storage/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866/zee_prime_blog_superapp_protocols_the_fappening_appchains_cec0973866.png"
+        },
+        {
+          "id": "https://twitter.com/BuidlerDAO/status/1606914048192544768",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文主要概述了中心化稳定币、去中心化稳定币和算法稳定币三类稳定币产生的方式、各自的特点以及面临的风险。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/BuidlerDAO/status/1606914048192544768\">https://twitter.com/BuidlerDAO/status/1606914048192544768</a></p>\n<p><strong>文章作者：</strong></p><p>Buidler DAO</p><hr><h3>观点：</h3><p><strong>Buidler DAO：</strong>中心化抵押稳定币的风险主要在于储备的抵押物不足，相比去中心化抵押稳定币，因为不够透明，存在被挪用的风险。因此发行方通常会委托审计公司定期发布审计报告。对于衍生发行方，还会存在跨链桥的安全性和交易所超发的风险。</p><a href=\"https://twitter.com/BuidlerDAO/status/1606914048192544768\">内容来源</a><p><strong>Buidler DAO：</strong>去中心化抵押稳定币的优势在于资产公开透明，但超额抵押也会带来资产利用率较低的问题，以及存在清算风险。当市场遇到极端事件时，抵押资产迅速贬值，若清算机制未有序进行，稳定币会失去部分支持，导致脱钩事件。</p><a href=\"https://twitter.com/BuidlerDAO/status/1606914048192544768\">内容来源</a><p><strong>Buidler DAO：</strong>算法稳定币往往没有实物资产支持，通过连接两个硬币，根据投资者的供求情况调整价格。算稳的资产利用效率很高，同样缺乏现实世界的抵押资产支持，容易导致当市场失去信心时，造成死亡螺旋。</p><a href=\"https://twitter.com/BuidlerDAO/status/1606914048192544768\">内容来源</a>",
+          "link": "https://twitter.com/BuidlerDAO/status/1606914048192544768",
+          "publishedOn": "2022-12-26T04:50:22.000Z",
+          "wordCount": 470,
+          "title": "【长推】不同种类稳定币的优势与风险对比",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/NintendoDoomed/status/1606873660429840384",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>当前 DeFi 衍生品面临的一个重要难题是防止「抢先交易」，一些协议使用增加费用和延迟等降低体验的方式来避免，本文介绍了 GMX 采用的 Chainlink 的低延迟预言机方案将如何在不牺牲安全性的情况下提高用户体验。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/NintendoDoomed/status/1606873660429840384\">https://twitter.com/NintendoDoomed/status/1606873660429840384</a></p>\n<p><strong>文章作者：</strong></p><p>CapitalismLab</p><hr><h3>观点：</h3><p><strong>CapitalismLab：</strong>GMX 当前使用两步交易来防止抢先交易： 1. 用户发送交易请求；2. keeper 获取交易所的中间价格然后执行用户的请求，从而做到实际交易价格晚于交易发起时间。然而 keeper 是团队运作，虽然有设定 Chainlink 的价格进行约束，但还是有内部作恶空间。</p><a href=\"https://twitter.com/NintendoDoomed/status/1606873660429840384\">内容来源</a><p><strong>CapitalismLab：</strong>Chainlin 推出了低延迟方案解决这一问题：1. 链下获取价格链上验证，价格按区块更新速度很快；2. 交易结算前价格保密，避免被套利。Chainlink 做的类似于把 GMX keeper 实现去中心化运作，由 GMX 内部团队变更为 Chanlink 的多节点，从而避免协议内部作恶问题。</p><a href=\"https://twitter.com/NintendoDoomed/status/1606873660429840384\">内容来源</a><p><strong>CapitalismLab：</strong>体验 / 安全性是一个两难问题，此方案的推出为 DeFi 衍生品赛道扫清了不少障碍。其目前采用的类似将 GMX Keeper 机制去中心化运作的逻辑也比较务实，毕竟此机制在 GMX 上已经得到了充分验证，简单而有效。</p><a href=\"https://twitter.com/NintendoDoomed/status/1606873660429840384\">内容来源</a>",
+          "link": "https://twitter.com/NintendoDoomed/status/1606873660429840384",
+          "publishedOn": "2022-12-26T04:10:42.000Z",
+          "wordCount": 470,
+          "title": "【长推】如何防止抢先交易：以 Chainlink 低延迟预言机方案在 GMX 的应用为例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.forbes.com/sites/johnhyatt/2022/12/24/these-crypto-founders-and-bitcoin-moguls-lost-116-billion-in-2022/",
+          "author": null,
+          "description": "<h3>【数据】过去 9 个月 17 位加密富豪共损失约 1160 亿美元个人财富</h3>\n<p>据福布斯估算，自今年 3 月以来，17 位加密货币最富有的投资者和创始人总共损失了约 1160 亿美元个人财富，其中 15 人损失了一半以上的资产，10 人资产跌至 1 亿美元以下。Binance 首席执行官 CZ 财富损失最大，由 3 月份的 650 亿美元降至当前的 45 亿美元；FTX 创始人 SBF、FTX 联合创始人 Gary Wang、DCG 负责人 Barry Silbert 因受 FTX 破产影响，纸面财富已缩水至 0。</p>\n<p><a href=\"https://www.forbes.com/sites/johnhyatt/2022/12/24/these-crypto-founders-and-bitcoin-moguls-lost-116-billion-in-2022/\">内容来源</a></p><hr>",
+          "link": "https://www.forbes.com/sites/johnhyatt/2022/12/24/these-crypto-founders-and-bitcoin-moguls-lost-116-billion-in-2022/",
+          "publishedOn": "2022-12-26T03:38:59.000Z",
+          "wordCount": 12360,
+          "title": "【数据】过去 9 个月 17 位加密富豪共损失约 1160 亿美元个人财富",
+          "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63a5ad94d66da290bac8a81c/0x0.jpg?format=jpg&width=1200"
+        },
+        {
+          "id": "https://t.me/BitKeep_Official/496845",
+          "author": null,
+          "description": "<h3>多链钱包 BitKeep 多名用户资金被盗，官方称疑似部分 APK 下载包被黑客劫持</h3>\n<p>多名用户在 BitKeep 电报群内反映资金被盗，官方最新公告称，「经过团队初步排查，疑似部分 APK 包下载被黑客劫持，安装了被黑客植入代码的包」。BitKeep 表示，正在收集被盗用户的相关信息，如因平台原因导致的资产损失，将由 BitKeep 安全基金进行全额赔付。</p>\n<p><a href=\"https://t.me/BitKeep_Official/496845\">内容来源</a></p><hr><h3>观点：</h3><p><strong>0xbclub.eth：</strong>如果没记错，这已经是今年 bitkeep 钱包第二次大规模被盗了…</p><a href=\"https://twitter.com/0xBclub/status/1607191293796716544\">内容来源</a><p><strong>Beosin Alert：</strong>已有多条链资产被盗，仅 BNB Chain 的损失就超过 300 万美元。【原文为英文】</p><a href=\"https://twitter.com/BeosinAlert/status/1607210400130662405\">内容来源</a>",
+          "link": "https://t.me/BitKeep_Official/496845",
+          "publishedOn": "2022-12-26T02:57:06.000Z",
+          "wordCount": 369,
+          "title": "多链钱包 BitKeep 多名用户资金被盗，官方称疑似部分 APK 下载包被黑客劫持",
+          "imageUrl": "https://cdn5.telegram-cdn.org/file/ryPKVAIB2SwduvlGvHunHJB9PJF_tC7IoMinlKSLh9Gi9r0-KFtNfUF3T4Fw4EEMO7hQ7qc6-zzrBVCqQABbVwUT7qyezfNCFILrIVKNNct5zNPJ_D0-8fyjz9bGgC6jIgAEes9XBmpbNEGRwoCy45WC97wX300OK9dk4xSfAVKXW9HILeR2aXBkls5Z15PT1ynywmV0zTvysXSHSNikNPOXxUb78VQQkleQacTsI3DcIyibNTffHGqzflkrHC0iCYZchDwnfKJxks7PP9fMkqYh5vRk99FfZHWeBny_UreuGAQEPOg7SIkuETgZPxBXKhnB9asNt6tNtYVU7qSVgA.jpg"
+        },
+        {
+          "id": "https://twitter.com/StaniKulechov/status/1606357768339800064",
+          "author": null,
+          "description": "<h3>Aave 将于明年 1 月初发布稳定币 GHO 公共测试网</h3>\n<p>Aave 创始人 Stani Kulechov 发推表示，去中心化超额抵押稳定币 GHO 内部测试网运行良好，将于 2023 年 1 月初发布一个公共测试网。此外， Aave V3 版本也将于 1 月在以太坊网络上部署。</p>\n<p><a href=\"https://twitter.com/StaniKulechov/status/1606357768339800064\">内容来源</a></p><hr>",
+          "link": "https://twitter.com/StaniKulechov/status/1606357768339800064",
+          "publishedOn": "2022-12-26T01:41:45.000Z",
+          "wordCount": 470,
+          "title": "Aave 将于明年 1 月初发布稳定币 GHO 公共测试网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3",
+          "author": null,
+          "description": "<h3>1inch 推出 Fusion 升级，旨在提高交易效率和安全性</h3>\n<p>DEX 聚合器 1inch 推出 1inch Swap Engine 的 Fusion 升级，旨在提高交易效率、安全性和用户体验。在 1inch Swap Engine 新的 Fusion 模式下，用户可以预先以指定的价格和时间范围下单，而无需支付网络费用。Fusion 模式将首先应用在 Ethereum、Polygon 和 BNB Chain 网络上。此外，此次升级还包含对安全性的重大改进，以及质押合约和代币经济学的更新。</p>\n<p><a href=\"https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3\">内容来源</a></p><hr><h3>观点：</h3><p><strong>1inch Network：</strong>1inch Swap Engine 是一个去中心化的交易和撮合系统，通过专业的做市商将 DeFi 用户与几乎无限的流动性（包括中心化和去中心化）连接起来。1inch Swap Engine 使用荷兰式拍卖模型撮合交易，同时基于市场利率并考虑价格影响。【原文为英文】</p><a href=\"https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3\">内容来源</a><p><strong>1inch Network：</strong>1inch Swap Engine 为 Fusion 模式提供动力，使用户能够以最优惠的价格在各种 DEX 上交换代币，而无需支付任何网络费用。在 Fusion 模式下，用户可以有三个选项：快速，即接受较高的价格，以便快速执行交易；公平，即以更长的订单执行时间换取更理想的价格；拍卖，即愿意等待 10 分钟以内最优惠的交易价格。【原文为英文】</p><a href=\"https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3\">内容来源</a><p><strong>Sergej Kunz（1inch 联合创始人）：</strong>Fusion 使 1inch 上的交易变得更具经济效益，因为用户无需支付网络费用。此外，网络还添加了额外的安全层，保护用户免受三明治攻击。【原文为英文】</p><a href=\"https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3\">内容来源</a><p><strong>Raccoon Chan（Buji DAO）：</strong>1inch 的魔改版 Cowswap，把用户的单子交给 Resolvers （好像 Cowswap 那些 Solvers），用荷兰拍决定哪一个 Resolvers 能吃单，终端用户不用付 Gas Fee，然后 Resolvers 去赚私有化那个 MEV 去弥补帮用户付的 Gas Fee。</p><a href=\"https://twitter.com/RaccoonHKG/status/1607030613495939074\">内容来源</a><p><strong>CryptoBullet：</strong>1inch 的巨量解锁即将到来！2.22 亿代币将于 12 月 30 日解锁。作为参考，当前的流通量约为 6.65 亿。【原文为英文】</p><a href=\"https://twitter.com/CryptoBullet1/status/1599382551768231936/photo/1\">内容来源</a>",
+          "link": "https://blog.1inch.io/the-1inch-network-releases-a-major-upgrade-fusion-96184d8141d3",
+          "publishedOn": "2022-12-26T01:27:12.000Z",
+          "wordCount": 3745,
+          "title": "1inch 推出 Fusion 升级，旨在提高交易效率和安全性",
+          "imageUrl": "https://miro.medium.com/max/1200/1*lKEibSl4nqPI_29FXdYfNA.png"
+        },
         {
           "id": "https://www.odaily.news/post/5184051",
           "author": null,
@@ -7674,6 +7994,56 @@
       "feedUrl": "http://feeds.feedburner.com/Coindesk",
       "siteUrl": "https://www.coindesk.com",
       "articles": [
+        {
+          "id": "6LZUDPTNVZEEZJHP3B5K6CWKCA",
+          "author": "Eli Tan",
+          "description": "DeGods will bridge over to Ethereum while its sister project Y00ts will move to Polygon with a grant from the layer 2's partnership fund.",
+          "link": "https://www.coindesk.com/web3/2022/12/26/solanas-top-nft-projects-degods-and-y00ts-to-migrate-chains/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-26T21:33:19.000Z",
+          "wordCount": 20959,
+          "title": "Solana’s Top NFT Projects DeGods and Y00ts to Migrate Chains",
+          "imageUrl": "https://www.coindesk.com/resizer/VkPq6U-Ufg9iSn8jOxYZAd0LCz4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QBCWD5VDTBE5LNGVLBLZJ4QE5I.jpg"
+        },
+        {
+          "id": "C67DW2JI7ZBSXDTCK46IGQ22AY",
+          "author": "Sheldon Reback",
+          "description": "The hack, which some observers had characterized as a rug pull, was estimated to have netted $12 million.",
+          "link": "https://www.coindesk.com/business/2022/12/26/defrost-finance-says-hacked-funds-have-been-returned/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-26T15:20:35.000Z",
+          "wordCount": 20764,
+          "title": "Defrost Finance Says Hacked Funds Have Been Returned",
+          "imageUrl": "https://www.coindesk.com/resizer/Lzjjjl1OyjX4cw7Bfr1yiBLOGag=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RAUG3YMJGJHIBJ5R67ZOBANUME.jpg"
+        },
+        {
+          "id": "3EV2XI3IVVAY3PAMDOAU32CVBM",
+          "author": "Kevin Owocki",
+          "description": "Gitcoin founder Kevin Owocki writes about why 2023 is the year of \"regenerative cryptoeconomics.\"",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/26/from-degen-to-regen-how-web3-started-playing-positive-sum-games/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-26T14:22:34.000Z",
+          "wordCount": 23591,
+          "title": "From Degen to Regen: How Web3 Started Playing Positive-Sum Games",
+          "imageUrl": "https://www.coindesk.com/resizer/oay7UkjoAvnwekruTOjTQEfrZZc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CHXV5LO4FNGTPB346HCDGMYQTM.jpg"
+        },
+        {
+          "id": "XUIHYGL4XNAUHIEAI2US6CYUZY",
+          "author": "Sheldon Reback",
+          "description": "The two started negotiations earlier this year and signed an initial agreement in July.",
+          "link": "https://www.coindesk.com/business/2022/12/26/crypto-lender-nexos-potential-acquisition-of-rival-vauld-is-called-off/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-26T12:58:03.000Z",
+          "wordCount": 20911,
+          "title": "Crypto Lender Vauld Calls Off Potential Acquisition by Rival Nexo",
+          "imageUrl": "https://www.coindesk.com/resizer/jUHIxbl0WVyi7wakvAzJ7hv8kQo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7FYIUPOQ3NBOLF2XAOEKUV6WKQ.jpg"
+        },
+        {
+          "id": "EZPP63VSD5ABFGISTSPR6DYQ5M",
+          "author": "Eliza Gkritsi",
+          "description": "Computing power on the Bitcoin network dropped about 40% over the weekend.",
+          "link": "https://www.coindesk.com/business/2022/12/26/bitcoin-miners-powered-off-as-winter-storm-battered-north-america/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-26T10:54:55.000Z",
+          "wordCount": 20754,
+          "title": "Bitcoin Miners Powered Off as Winter Storm Battered North America",
+          "imageUrl": "https://www.coindesk.com/resizer/_lB5NeFExGM2a4bj_ZgmYw2YlO4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YYMR5DOM5FDO5LHQ5TFISSB4J4.jpg"
+        },
         {
           "id": "KIDPMRLAEJFWVL7CMUE3HECP5U",
           "author": "Sheldon Reback",
