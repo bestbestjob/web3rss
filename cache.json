@@ -6,6 +6,22 @@
       "siteUrl": "https://chainfeeds.substack.com",
       "articles": [
         {
+          "id": "https://chainfeeds.substack.com/p/a16zmessariglassnode",
+          "author": "小毛哥",
+          "description": "ChainFeeds 精选加密行业年度回顾及展望相关报告的总结，回顾 2022，展望 2023",
+          "link": "https://chainfeeds.substack.com/p/a16zmessariglassnode",
+          "publishedOn": "2022-12-29T04:10:49.000Z",
+          "wordCount": null,
+          "title": "专题｜十大加密行业年度报告，看这篇总结就够了：a16z、Messari、Glassnode...",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95e41c4f-332c-4962-a219-d3550ad056d5_1600x810.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95e41c4f-332c-4962-a219-d3550ad056d5_1600x810.png"
+        },
+        {
           "id": "https://chainfeeds.substack.com/p/1inch-fusion-2023-9-web3-5-eigenlayer",
           "author": "小毛哥",
           "description": "「ChainFeeds Selection 行研早报」精选 Web3 行业每日最值得关注的事件和来自专家的观点解读",
@@ -436,22 +452,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ccaf102-9675-492c-ac6e-5dd6fb355759_1600x810.png"
-        },
-        {
-          "id": "https://chainfeeds.substack.com/p/blockfi-mev-boost-web3-push-protocol",
-          "author": "小毛哥",
-          "description": "「ChainFeeds Selection 行研早报」精选 Web3 行业每日最值得关注的事件和来自专家的观点解读",
-          "link": "https://chainfeeds.substack.com/p/blockfi-mev-boost-web3-push-protocol",
-          "publishedOn": "2022-11-30T01:28:54.000Z",
-          "wordCount": null,
-          "title": "BlockFi 申请破产保护、数据分析 MEV-Boost、回溯「灰度效应」泡沫开始的起点、解析 Web3 通信协议 Push Protocol、衍生品资产价格预言机存在什么问题？",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86d36212-b8bf-4921-9e40-9fce9902c034_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86d36212-b8bf-4921-9e40-9fce9902c034_1600x900.png"
         }
       ]
     },
@@ -460,6 +460,106 @@
       "feedUrl": "https://www.blocktempo.com/feed/",
       "siteUrl": "https://www.blocktempo.com",
       "articles": [
+        {
+          "id": "https://www.blocktempo.com/?p=204595",
+          "author": "Graham",
+          "description": "Pi 幣當前雖還未上線主網，但火必（Huobi）交易所昨晚已上線 PI/USDT 交易對，一度暴漲 6,200 […]\nPi幣上架火必衝上62美元！市值6.2兆超越比特幣、Pi Network稱是非法交易？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/pi-network-goes-live-on-the-huobi-exchange/",
+          "publishedOn": "2022-12-30T01:12:54.000Z",
+          "wordCount": 2144,
+          "title": "Pi幣上架火必衝上62美元！市值6.2兆超越比特幣、Pi Network稱是非法交易？",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/image-85.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204544",
+          "author": "James",
+          "description": "2008 年諾貝爾經濟學獎得主、紐約市立大學經濟學教授克魯曼（Paul Krugman） 27 日撰文，將特斯 […]\n諾貝爾經濟獎得主克魯曼：特斯拉像比特幣「依賴炒作」，價格靠盤子信徒支撐〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/paul-krugman-compares-tesla-to-bitcoin/",
+          "publishedOn": "2022-12-29T11:40:33.000Z",
+          "wordCount": 1858,
+          "title": "諾貝爾經濟獎得主克魯曼：特斯拉像比特幣「依賴炒作」，價格靠盤子信徒支撐",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/1200x-1-4.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204571",
+          "author": "luc:",
+          "description": "（背景補充：FTX日本解套！已確認提款恢復方案，資產妥存銀行信託、冷錢包 ）   交易所 FTX J […]\n快訊》FTX日本確認「明年2月開放提款」！1月中旬發送確認信〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/ftx-japan-will-release-funds-of-customer-on-feb/",
+          "publishedOn": "2022-12-29T11:26:06.000Z",
+          "wordCount": 1896,
+          "title": "快訊》FTX日本確認「明年2月開放提款」！1月中旬發送確認信",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/FTX-Japan-JPY-002.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204485",
+          "author": "SAKE",
+          "description": "以太坊第二層擴容方案（Layer2 L2）的賽道是目前最受資金和市場關注的項目，其中 Optimism 在今年 […]\n埋伏Optimism二輪空投》重點操作統整：跨鏈橋、投票治理、任務、領取NFT…〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/optimism-second-airdrop/",
+          "publishedOn": "2022-12-29T11:21:48.000Z",
+          "wordCount": 2381,
+          "title": "埋伏Optimism二輪空投》重點操作統整：跨鏈橋、投票治理、任務、領取NFT…",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/1E1D-1536x768-1.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204486",
+          "author": "James",
+          "description": "明星公鏈項目 Aptos 在 10 月上線後，一度衝破 10 美元大關，但隨著熱潮消退，迄今已較高點暴跌近 7 […]\nAptos 上線後已跌7成！創辦人預告路線圖：明年DeFi將有大創新〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/a-lot-of-innovation-is-coming-to-aptos/",
+          "publishedOn": "2022-12-29T10:09:40.000Z",
+          "wordCount": 2130,
+          "title": "Aptos 上線後已跌7成！創辦人預告路線圖：明年DeFi將有大創新",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/ScreenShot-VideoID-BIs_HDwdeY8-TimeS-76.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204429",
+          "author": "Natalia Wu",
+          "description": "FTX 創辦人 SBF 上週五成功以天價 2.5 億保釋金獲釋，現被軟禁於他父母估值達 400 萬美元的加州老 […]\nSBF 假釋生活愜意！談出書、保鑣陪慢跑；前輩「製藥哥」提醒：入獄別當軟男〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/sbf-comfortable-life-on-bail/",
+          "publishedOn": "2022-12-29T10:04:15.000Z",
+          "wordCount": 2205,
+          "title": "SBF 假釋生活愜意！談出書、保鑣陪慢跑；前輩「製藥哥」提醒：入獄別當軟男",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/sbf-221229.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204496",
+          "author": "SAKE",
+          "description": "BitDAO 於本週開啟《BIP-18 回購計劃》治理提案投票，目標在二級市場中每日購買 200 萬美 BIT […]\nBitDAO 啟動回購「50天買回1億鎂BIT」，提案支持達100%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/bitdao-bit-purchase-proposal/",
+          "publishedOn": "2022-12-29T09:52:49.000Z",
+          "wordCount": 2164,
+          "title": "BitDAO 啟動回購「50天買回1億鎂BIT」，提案支持達100%",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/截圖-2022-12-29-下午40600.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204536",
+          "author": "luc:",
+          "description": "（前情提要：火必：考慮上架Pi Network 代幣！若主網上線將第一時間審核 ） （背景補充：Pi Netw […]\n重磅！火必將於12/29上架Pi 代幣交易，即便Pi Network主網尚未上線〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/houbi-listing-pi-network-token-spot-trading/",
+          "publishedOn": "2022-12-29T08:47:26.000Z",
+          "wordCount": 1914,
+          "title": "重磅！火必將於12/29上架Pi 代幣交易，即便Pi Network主網尚未上線",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/huobi-ic.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204463",
+          "author": "白澤研究院",
+          "description": "這些 NFT 會再次達到名人為它們付出的高度嗎？本文源自 Kris Talks Crypto《These Ce […]\n2022 年高價進場無聊猿和 CryptoPunk NFT 的名人們，此刻正「血本無歸」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/kris-talks-crypto-these-celebrity-nft-losses-are-mind-blowing/",
+          "publishedOn": "2022-12-29T08:13:26.000Z",
+          "wordCount": 2870,
+          "title": "2022 年高價進場無聊猿和 CryptoPunk NFT 的名人們，此刻正「血本無歸」",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/1_ShNDqDFymDtGldg8n5UvZw.webp"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204493",
+          "author": "Joe",
+          "description": "交易所幣安（Binance）創辦人 CZ 稍早向廣大客戶致信表示，幣安和整個加密行業展現出驚人的韌性和毅力，仍 […]\nCZ 回顧 2022：危機血洗行業，幣安靠韌性存活、堅持建設〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/cz-letter-to-binance-users-2022/",
+          "publishedOn": "2022-12-29T07:37:34.000Z",
+          "wordCount": 2159,
+          "title": "CZ 回顧 2022：危機血洗行業，幣安靠韌性存活、堅持建設",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/Xnip2022-12-29_15-34-25.jpg"
+        },
         {
           "id": "https://www.blocktempo.com/?p=204355",
           "author": "Joe",
@@ -2227,6 +2327,86 @@
       "feedUrl": "https://blockworks.co/feed/",
       "siteUrl": "https://blockworks.co",
       "articles": [
+        {
+          "id": "https://blockworks.co/news/more-crypto-miner-bankruptcy-2023",
+          "author": null,
+          "description": "Amid bankruptcies, the fate of struggling crypto miners remains in flux, as some are better positioned to weather the crypto storm",
+          "link": "https://blockworks.co/news/more-crypto-miner-bankruptcy-2023",
+          "publishedOn": "2022-12-29T21:00:00.000Z",
+          "wordCount": 17910,
+          "title": "Expect More Bitcoin Miners To Go Bankrupt in 2023",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/bitcoin-mining.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/ethereum-blockchain-infrastructure-2023",
+          "author": null,
+          "description": "Stablecoins to be bigger than Visa? Uniswap to out-trade Coinbase? (And these are just the obvious predictions…)",
+          "link": "https://blockworks.co/news/ethereum-blockchain-infrastructure-2023",
+          "publishedOn": "2022-12-29T20:12:34.000Z",
+          "wordCount": 19107,
+          "title": "What to Expect for Ethereum and Blockchain Infrastructure in 2023",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/ethereum-blockchain-infrastructure-2023.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/bitcoin-wash-trades-legal",
+          "author": null,
+          "description": "But watch out for that economic substance doctrine, it’s a doozy",
+          "link": "https://blockworks.co/news/bitcoin-wash-trades-legal",
+          "publishedOn": "2022-12-29T16:50:15.000Z",
+          "wordCount": 17451,
+          "title": "MicroStrategy’s Bitcoin Wash Trade is Still Legal… For Now",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/Microstrategy-wash-trading-bitcoins.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/ton-standout-in-rocky-crypto-markets",
+          "author": null,
+          "description": "TON has delivered standout returns as other cryptocurrencies have struggled",
+          "link": "https://blockworks.co/news/ton-standout-in-rocky-crypto-markets",
+          "publishedOn": "2022-12-29T15:00:00.000Z",
+          "wordCount": 17829,
+          "title": "Bucking Crypto Bear Trend, Telegram Progeny Promises a Ton",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/Telegram-ton-chat-app.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/fake-uniswap-wintermute-reps-con-californian-crypto-curious",
+          "author": null,
+          "description": "Californian regulators have issued consumer warnings against 16 crypto broker scams, with one victim losing $14,000 to a fake Uniswap venture",
+          "link": "https://blockworks.co/news/fake-uniswap-wintermute-reps-con-californian-crypto-curious",
+          "publishedOn": "2022-12-29T14:03:22.000Z",
+          "wordCount": 17288,
+          "title": "Fake Uniswap, Wintermute Reps Con Californian Crypto Curious",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/uniswapwintermute.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/crypto-twitter-most-liked-tweets",
+          "author": null,
+          "description": "Elon Musk’s FTX meme made the list",
+          "link": "https://blockworks.co/news/crypto-twitter-most-liked-tweets",
+          "publishedOn": "2022-12-29T14:00:00.000Z",
+          "wordCount": 18109,
+          "title": "Crypto Twitter’s Most Liked Tweets of the Year",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/Twitter-2022.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/sbfs-new-judge-already-sent-one-crypto-fraudster-to-prison",
+          "author": null,
+          "description": "Disgraced crypto entrepreneur Sam Bankman-Fried’s previous judge recused herself over potential conflicts of interest",
+          "link": "https://blockworks.co/news/sbfs-new-judge-already-sent-one-crypto-fraudster-to-prison",
+          "publishedOn": "2022-12-29T11:49:24.000Z",
+          "wordCount": 17345,
+          "title": "SBF’s New Judge Already Sent One Crypto Fraudster to Prison",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/sbfjudge.jpeg"
+        },
+        {
+          "id": "https://blockworks.co/news/crypto-trading-bot-platform-3commas-rocked-by-critical-api-leak",
+          "author": null,
+          "description": "After weeks of speculation that API keys had been leaked online, 3Commas’ founder now says the incident is very real",
+          "link": "https://blockworks.co/news/crypto-trading-bot-platform-3commas-rocked-by-critical-api-leak",
+          "publishedOn": "2022-12-29T10:35:25.000Z",
+          "wordCount": 17645,
+          "title": "Crypto Trading Bot Platform 3Commas Rocked By Critical API Leak",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/3commas.jpg"
+        },
         {
           "id": "https://blockworks.co/news/kia-nfts-support-animal-shelters",
           "author": null,
@@ -4045,6 +4225,36 @@
       "siteUrl": "https://techflowpost.mirror.xyz",
       "articles": [
         {
+          "id": "https://techflowpost.mirror.xyz/FuzHTsyVk9Hu2qC8kHPvcLLiXvFVYBN3QpMxuTV16JQ",
+          "author": null,
+          "description": "2023 加密展望：没有大师，只有周期 – 深潮TechFlow\n出品：深潮 TechFlow & Hotpot DAO\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/FuzHTsyVk9Hu2qC8kHPvcLLiXvFVYBN3QpMxuTV16JQ",
+          "publishedOn": "2022-12-29T12:31:50.000Z",
+          "wordCount": 1881,
+          "title": "2023 加密展望：没有大师，只有周期",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/Ef4OxuModtIFr6hlSD4T5.png?height=397&width=794&h=397&w=794&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/15xLFNNWssxP-qRikZZh_88pEPmsJnvcrxc9zYr1HfI",
+          "author": null,
+          "description": "Onchain Wizard新年展望：持续看好Perp DEX，关注Layer1新机会 – 深潮TechFlow\n原文：Onchain Wizard\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/15xLFNNWssxP-qRikZZh_88pEPmsJnvcrxc9zYr1HfI",
+          "publishedOn": "2022-12-29T10:55:05.000Z",
+          "wordCount": 1046,
+          "title": "Onchain Wizard新年展望：持续看好Perp DEX，关注Layer1新机会",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/6lro4p3yhKdn2Fgm4btKR.png?height=296&width=591&h=296&w=591&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/xduO3dckiO8voum7wkhUK8w3kM9gDdkH-DT7EMxf3O0",
+          "author": null,
+          "description": "TCG年终回顾和展望：如何推动Web3用户规模的扩张？ – 深潮TechFlow\n原文：TCG Crypto 团队\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/xduO3dckiO8voum7wkhUK8w3kM9gDdkH-DT7EMxf3O0",
+          "publishedOn": "2022-12-29T06:47:49.000Z",
+          "wordCount": 1432,
+          "title": "TCG年终回顾和展望：如何推动Web3用户规模的扩张？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/Z35_nH_zOTseDUMTpaeGG.png?height=379&width=757&h=379&w=757&auto=compress"
+        },
+        {
           "id": "https://techflowpost.mirror.xyz/W09kiSra0jIRTQFxs24Vg59z70e5a-4kWsKUuIB8ucQ",
           "author": null,
           "description": "Crypto.com 年终总结与 2023 年展望：SBT将引导我们进入去中心化社会 – 深潮TechFlow\n撰写：Crypto.com Research\nRead the full entry",
@@ -4703,36 +4913,6 @@
           "wordCount": 1077,
           "title": "一文详解三大模块化区块链方案：Celestia、Dymension 与 Fuel",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/HT5rF8OX08KtwJ0o3xRUL.png?height=397&width=793&h=397&w=793&auto=compress"
-        },
-        {
-          "id": "https://techflowpost.mirror.xyz/zwX68rCjQ6aoh4QsS71-LYZb0veSznTOL--oddeQDjU",
-          "author": null,
-          "description": "SocialFi的未来：数据所有权、更公平的价值分配和行为数据的价值化 – 深潮TechFlow\n撰文：Morty，深潮 TechFlow\nRead the full entry",
-          "link": "https://techflowpost.mirror.xyz/zwX68rCjQ6aoh4QsS71-LYZb0veSznTOL--oddeQDjU",
-          "publishedOn": "2022-11-30T10:01:26.000Z",
-          "wordCount": 1355,
-          "title": "SocialFi的未来：数据所有权、更公平的价值分配和行为数据的价值化",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/TJaXVCIJihtfPPqwBdzS0.jpg?height=540&width=1080&h=540&w=1080&auto=compress"
-        },
-        {
-          "id": "https://techflowpost.mirror.xyz/h6Du6im_QzbwspyH6A8jYd0zXDdECBIpWW-yPeKYC30",
-          "author": null,
-          "description": "The Beacon ：Treasure DAO 生态，像素类网页游戏照样让人上瘾 – 深潮TechFlow\n撰写：0xbun，深潮 TechFlow\nRead the full entry",
-          "link": "https://techflowpost.mirror.xyz/h6Du6im_QzbwspyH6A8jYd0zXDdECBIpWW-yPeKYC30",
-          "publishedOn": "2022-11-30T07:09:26.000Z",
-          "wordCount": 1021,
-          "title": "The Beacon ：Treasure DAO 生态，像素类网页游戏照样让人上瘾",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/z2YE6ENL91RAjG2UELQLY.png?height=495&width=990&h=495&w=990&auto=compress"
-        },
-        {
-          "id": "https://techflowpost.mirror.xyz/b_AqGigNQWY-KduveqytqKUSXcvT4j28VvCJcDx1Thk",
-          "author": null,
-          "description": "Web3的钱包机会：将下一代十亿用户带入Web3 – 深潮TechFlow\n撰写：Amanda Young, Collab+Currency\nRead the full entry",
-          "link": "https://techflowpost.mirror.xyz/b_AqGigNQWY-KduveqytqKUSXcvT4j28VvCJcDx1Thk",
-          "publishedOn": "2022-11-30T04:15:03.000Z",
-          "wordCount": 1497,
-          "title": "Web3的钱包机会：将下一代十亿用户带入Web3",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/6230tiutJJrahEwtneL2g.png?height=242&width=483&h=242&w=483&auto=compress"
         }
       ]
     },
@@ -4741,6 +4921,216 @@
       "feedUrl": "https://www.chainfeeds.xyz/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>2023 年你有怎样的预测与期待？深潮 TechFlow 与 Hotpot DAO 将此问题抛给众多加密行业从业者们，本文是从业者们对上述问题的回答。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ\">https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ</a></p>\n<p><strong>文章作者：</strong></p><p>深潮 TechFlow、Hotpot DAO</p><hr><h3>观点：</h3><p><strong>Yi He：</strong>1、预测未来是最难的，新的热点通常会发生在人们没有真正谈论和预测过的领域；2、每个行业都有属于其本身的周期和进化过程，创新将会加速行业发展和采用；3、2023 年将是行业信心的「修复」之年，不要因为暂时的低谷否定整个行业的价值。</p><a href=\"https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ\">内容来源</a><p><strong>Feng Liu：</strong>未来很长一段时间，值得卷起袖子在如下领域加油干：1、帮助普通用户可以「无脑」地使用加密货币技术、安全地实现资产（包括数据资产）自托管的创新型解决方案；2、推动那些具有突破性意义的区块链扩容方案从「概念验证」到真正的工程实现；3、利用链上工具、新型社交工具和声誉系统，有效组织具有一定专业能力的「职业人士」持续在具体的细分知识领域输出并贡献，愈垂直的领域，或许更容易提高粘性和认可度，并产生长尾效应；4、重寻并提倡「Crypto Native」精神。</p><a href=\"https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ\">内容来源</a><p><strong>DiscusFish：</strong>1、性能带来的扩容问题是加密市场未来最大的赛道之一，大的方向需要多层网络来解决，二层网络中， ZK 胜出可能性最大，但离最终落地和使用可能还有一个比较长的周期；2、Crypto 世界里底层私钥的安全和应用的平衡问题，是一直阻碍整个行业涌现出大量新增用户的核心问题，基于 MPC 的无私钥钱包，能让用户体验和门槛更为平衡一些；3、链上的去中心化金融，包括去中心化的衍生品交易所会逐步兴起，整个 DeFi 交互的方式和可能实现的形态也会进行新的迭代，DEX 订单簿的方式会逐步完善，链上的期货衍生品和期权衍生品可能是接下来一个新的增长点。</p><a href=\"https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ\">内容来源</a>",
+          "link": "https://mp.weixin.qq.com/s/vA67JEvyDgrOoPlGHUjOPQ",
+          "publishedOn": "2022-12-29T13:05:06.000Z",
+          "wordCount": 9641,
+          "title": "2023 加密展望：没有大师，只有周期",
+          "imageUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/G8xNibSHEjAKfskyoDhHRM25lic0sVxktDApG5g1kaCHRh11wpkUTyrFWl7NeVViaXibnRSJGAzg8OONN2BFrLaTmQ/0?wx_fmt=jpeg"
+        },
+        {
+          "id": "https://bitcoinmagazine.com/business/microstrategy-launch-bitcoin-lightning-apps-2023",
+          "author": null,
+          "description": "<h3>Michael Saylor：MicroStrategy 将发布比特币闪电网络支持的企业基础设施服务和内容货币化解决方案</h3>\n<p>MicroStrategy 执行主席 Michael Saylor 在 Twitter Space 中表示，将于 2023 年发布由比特币闪电网络提供支持的软件应用程序和解决方案，目前正在探索的闪电网络服务领域包括在线内容货币化、企业营销、网络付费墙和内部企业控制。</p>\n<p><a href=\"https://bitcoinmagazine.com/business/microstrategy-launch-bitcoin-lightning-apps-2023\">内容来源</a></p><hr>",
+          "link": "https://bitcoinmagazine.com/business/microstrategy-launch-bitcoin-lightning-apps-2023",
+          "publishedOn": "2022-12-29T12:27:32.000Z",
+          "wordCount": 2773,
+          "title": "Michael Saylor：MicroStrategy 将发布比特币闪电网络支持的企业基础设施服务和内容货币化解决方案",
+          "imageUrl": "https://bitcoinmagazine.com/.image/t_share/MTc5Mjk3ODExODYyNDY0MTUx/michael-saylor.png"
+        },
+        {
+          "id": "https://blog.liquid.com/ja/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E8%B3%87%E7%94%A3%E8%BF%94%E9%82%84%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85",
+          "author": null,
+          "description": "<h3>FTX Japan：计划 2023 年 2 月中旬将资产返还给用户，并开放资产提款功能</h3>\n<p>FTX Japan 发布关于将资产返还给用户的公告，2023 年 1 月中旬，符合条件的用户将收到一封电子邮件，用于创建 Liquid Japan 账户，已拥有账户的用户无需执行此步骤，2023 年 2 月中旬，用户可将 FTX Japan 中的资产转移至 Liquid Japan，并开放资产提款和转移功能。</p>\n<p><a href=\"https://blog.liquid.com/ja/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E8%B3%87%E7%94%A3%E8%BF%94%E9%82%84%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85\">内容来源</a></p><hr>",
+          "link": "https://blog.liquid.com/ja/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%B8%E3%81%AE%E8%B3%87%E7%94%A3%E8%BF%94%E9%82%84%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85",
+          "publishedOn": "2022-12-29T12:14:29.000Z",
+          "wordCount": 667,
+          "title": "FTX Japan：计划 2023 年 2 月中旬将资产返还给用户，并开放资产提款功能",
+          "imageUrl": "https://blog.liquid.com/hubfs/Liquid%20generic%20-%20blog.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/article/1858",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文对 2023 年的加密货币及有潜力的项目进行总结，涉及比特币、以太坊、Arbitrum、Berachain、GMX……</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.techflowpost.com/article/1858\">https://www.techflowpost.com/article/1858</a></p>\n<p><strong>文章作者：</strong></p><p>Onchain Wizard</p><hr><h3>观点：</h3><p><strong>Onchain Wizard：</strong>ETH/BTC 的汇率可能会上升：这不是逆向思维，自合并以来，ETH 供应方的结构已经明显改善，而 BTC 必须对抗矿工的大量卖压、Mt Gox 的卖压和任何 GBTC 的噪音，随着宏观和财政环境在 23 年下半年变得更好，ETH 可能会向 BTC 发起冲击。</p><a href=\"https://www.techflowpost.com/article/1858\">内容来源</a><p><strong>Onchain Wizard：</strong>值得关注的项目：1、SHIB 的 Shibarium 公链，2023 年的推出会吸引 DOGE、SHIB 等 Meme Coin 持有者的大量关注，引发链上 Degen 炒作；2、期权项目 Dopex 将于 2023 年 2 月推出 rDPX 的 v2 版本测试网，该项目的社区在熊市中十分强大；3、Berachain：它的结构和社区让它比其他新链的推出更有趣，只要在明年的某个时候推出，就会出现很多机会。</p><a href=\"https://www.techflowpost.com/article/1858\">内容来源</a><p><strong>Onchain Wizard：</strong>4、UniDex：现在出现许多永续协议，但在某个时候，一个杀手级的应用将会把所有永续协议聚合在一起，交易者将支付更高的费用，以便能够从一个来源进行杠杆交易；5、Factor：对 Arbitrum 十分看好，但对基于 GMX 的收益协议不感兴趣，Factor 可以填补未开发的资产管理垂直领域的空白，主网可能将在 2023 年第一季度推出。</p><a href=\"https://www.techflowpost.com/article/1858\">内容来源</a>",
+          "link": "https://www.techflowpost.com/article/1858",
+          "publishedOn": "2022-12-29T11:51:18.000Z",
+          "wordCount": 10383,
+          "title": "Onchain Wizard 新年展望：持续看好 Perp DEX，关注 Layer1 新机会",
+          "imageUrl": "https://assets.techflowpost.com/20221205/8562456b8ae94b16ae21f007c27171be.png"
+        },
+        {
+          "id": "https://mobile.twitter.com/tomwanhh/status/1608408068198629377",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文总结梳理了 2022 年稳定币的 8 大趋势，涉及市值、交易量、交易地址和去中心化交易所活动。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mobile.twitter.com/tomwanhh/status/1608408068198629377\">https://mobile.twitter.com/tomwanhh/status/1608408068198629377</a></p>\n<p><strong>文章作者：</strong></p><p>Tom Wan（21Shares 分析师）</p><hr><h3>观点：</h3><p><strong>Tom Wan（21Shares 分析师）：</strong>1、稳定币总市值下降 16.6%，最大跌幅发生在 5 月 UST 崩溃时，单周蒸发 150 亿美元，但稳定币市值 / 加密货币总市值从 7.1% 上升至 16.4%；2、中心化稳定币表现优于去中心化稳定币：BUSD、USDC 和 USDT 市值上升 / 下降比例分别为 +20%、+4% 和 - 20%，DAI、FRAX、MIM 市值上升 / 下降比例分别为 - 43%、-44% 和 - 97%；3、稳定币总交易量：2022 年上涨 20%，其中以太坊上稳定币交易量从 6.4 万亿上涨至 7.7 万亿美元。【原文为英文】</p><a href=\"https://mobile.twitter.com/tomwanhh/status/1608408070446776322\">内容来源</a><p><strong>Tom Wan（21Shares 分析师）：</strong>4、交易量占比方面，USDC 取代 USDT 成为第一，2021 年 USDC 和 USDT 分别是 34.8% 和 38.5%，2022 年则为 55.1% 和 21.1%；5、独立稳定币交易地址数量在 2022 年下降 21.4%，2021 年和 2022 年分别为 1260 万个和 990 万个；6、USDT 在使用者数量占比继续占据榜首，从 2021 年的 61% 上升至 2022 年的 64%。【原文为英文】</p><a href=\"https://mobile.twitter.com/tomwanhh/status/1608408079581999104\">内容来源</a><p><strong>Tom Wan（21Shares 分析师）：</strong>7、USDT 在 Curve 上的交易量占稳定币总交易量比值仍排第一，从 2021 年的 51.2% 上升至 2022 年的 64.1%，USDC 从 2021 年的 17.9% 下降至 2022 年的 9.3%；8、USDC 在 Uniswap 上的交易量占稳定币总交易量比值从 2021 年的 60.2% 上升至 2022 年的 74.5%，USDT 和 DAI 占比均下降。【原文为英文】</p><a href=\"https://mobile.twitter.com/tomwanhh/status/1608408088692031488\">内容来源</a>",
+          "link": "https://mobile.twitter.com/tomwanhh/status/1608408068198629377",
+          "publishedOn": "2022-12-29T11:08:03.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】2022 年稳定币 8 大趋势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mobile.twitter.com/twity_official/status/1604382841051021312",
+          "author": null,
+          "description": "<h3>Web3 市场营销平台 Twity 完成 650 万美元 A 轮融资，Wave Capital 领投</h3>\n<p>Web3 市场营销平台 Twity 完成 650 万美元 A 轮融资，Wave Capital 领投，筹集资金将用于进一步开发和发展其「Promote to Earn」项目以及用于未来与其他企业的广泛合作。根据介绍，Twity 是一个 Web3 广告和营销服务提供商，旨在为 Web3 品牌提供更简单、有效的营销解决方案，项目可以通过质押 TTY 代币获得推广机会，用户可以通过推广 Web3 项目获得 TTY 代币，Twity 会将 80% 的广告收入通过 TTY 代币的形式分配给通过点赞和转发等行为营销和推广过程做出贡献的用户，目前主要推广平台是 Twitter，未来将扩展至其他主流社交媒体平台。</p>\n<p><a href=\"https://mobile.twitter.com/twity_official/status/1604382841051021312\">内容来源</a></p><hr>",
+          "link": "https://mobile.twitter.com/twity_official/status/1604382841051021312",
+          "publishedOn": "2022-12-29T10:38:10.000Z",
+          "wordCount": 470,
+          "title": "Web3 市场营销平台 Twity 完成 650 万美元 A 轮融资，Wave Capital 领投",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techflowpost.com/article/1857",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>TCG Crypto 在本文中概述过去一年如何围绕「新技术将如何改变消费者在互联网上花费时间的方式」问题进行投资，随后分享了在过去一年学习到的三件事，最后展望 2023 年，预测了三个有潜力的领域：Mobile-First 体验（移动优先），全新的媒体内容生产模式以及全新的媒体内容生产模式。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.techflowpost.com/article/1857\">https://www.techflowpost.com/article/1857</a></p>\n<p><strong>文章作者：</strong></p><p>TCG Crypto</p><hr><h3>观点：</h3><p><strong>TCG Crypto：</strong>2023 年有潜力的领域：1、Mobile-First 体验：如果 Web3 要达到真正的消费者规模，我们将需要看到移动原生 Web3 应用程序的出现，以满足休闲消费者的需求，可能的移动体验包括地理定位的 NFT（如 Mirage 或 Superlocal），增强现实的 Web3 游戏（如 Jadu），AR 数字艺术（如 Anima），Web3 社交钱包（如 Genesis），数字资产的沉浸式画廊（如 Cyber）。</p><a href=\"https://www.techflowpost.com/article/1857\">内容来源</a><p><strong>TCG Crypto：</strong>2、全新的媒体内容生产模式：区块探索器和分析平台等界面不仅仅是技术性的加密货币产品，它们是讲故事的工具，在一个链上公共数据的世界里，每个公司都是一个媒体公司，就像 Zachxbt 和 Nansen Intern 通过 Etherscan 和其他工具进行针对市场的调查性新闻报道。链上媒体可以使得任何个人在发展之初就能看到重要活动和信息的能力民主化，另一个令人兴奋的方面是签署信息以表明其有效性的能力。</p><a href=\"https://www.techflowpost.com/article/1857\">内容来源</a><p><strong>TCG Crypto：</strong>3、为规模化的生态系统提供动力的基础设施：如 Cosmos、Celestia 这样的模块化区块链可以提高区块链的性能，随着这些基础设施允许越来越多的数据被存储在链上，解析这些数据的期望也在增加，如出现了 Ora、Breadcrumbs 和 Once Upon 这样的人类可读区块浏览器和数据聚合器，此外，如何将技术性的工作（如迁移应用链或将 NFT 整合至游戏中）转变为少代码或者无代码流程也是一个趋势。</p><a href=\"https://www.techflowpost.com/article/1857\">内容来源</a>",
+          "link": "https://www.techflowpost.com/article/1857",
+          "publishedOn": "2022-12-29T10:13:17.000Z",
+          "wordCount": 11008,
+          "title": "TCG 年终回顾和展望：如何推动 Web3 用户规模的扩张？",
+          "imageUrl": "https://assets.techflowpost.com/20221205/e2538995f3ab4bc890a1ad0f81542019.png"
+        },
+        {
+          "id": "https://twitter.com/TheDeFinvestor/status/1608111462744195076",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密研究机构 Messari 于近日发布长达 168 页的年终总结报告，本文总结了其中关于 DeFi 的 10 大趋势，包括：去中心化应用的复仇，最后的 DeFi 独角兽 Uniswap，现实世界抵押 DeFi，非足额抵押 DeFi 借贷，流动性质押，dYdX 转向应用链，链上资产管理，新兴市场的两个真相和一个谎言；DeFi 审查；看涨解锁（Bullish Unlocks）。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/TheDeFinvestor/status/1608111462744195076\">https://twitter.com/TheDeFinvestor/status/1608111462744195076</a></p>\n<p><strong>文章作者：</strong></p><p>The DeFi Investor</p><hr><h3>观点：</h3><p><strong>The DeFi Investor：</strong>1、去中心化应用的复仇：Uniswap、Lido、OpenSea 三个基于以太坊的 dAPPs 产生的月费加起来比以太坊还多，同时以太坊的旗舰 dApps 正迅速征服其他竞争链，如 Aave 和 Uniswap，鉴于 TradFi 的估值为 23 万亿美元，DeFi 潜力依然巨大；2、最后的 DeFi 独角兽 Uniswap：Uniswap 的集中流动性极大提升了流动性的效率，要显著改善目前的 AMM 设计已经没有太多工作要做了，然而 AMM 仍然可以围绕提供动态费用及其参考定价预言机展开竞争；3、现实世界抵押 DeFi：对现实世界资产 (RWA) 表现出兴趣的 DeFi 贷方做得非常好，如 MakerDAO 增加了 5 亿美元的美国国债敞口，DeFi 贷方似乎能更好地管理风险。【原文为英文】</p><a href=\"https://twitter.com/TheDeFinvestor/status/1608111465504083968\">内容来源</a><p><strong>The DeFi Investor：</strong>4、非足额抵押 DeFi 借贷：该行业今年受到重创。如 Maple 受到 FTX 的严重影响，但如果没有非足额抵押 DeFi 借贷，加密行业就无法与银行竞争，智能合约、SBT、去中心化身份可能会使得其更加可行和去中心化，但现在预测最终如何运行还为时尚早；5、流动性质押：Lido 和 Rocket Pool 似乎是最有潜力的流动性质押服务提供商，然而，stETH 和 rETH 可能会在某个时候失去它们的挂钩，直到 ETH 最终可以解除质押；6、dYdX 转向应用链：可以更好地解决 dYdX 目前的中心化问题，虽然有一定风险，但可带来高定制性和可扩展性等好处。【原文为英文】</p><a href=\"https://twitter.com/TheDeFinvestor/status/1608111482155454466\">内容来源</a><p><strong>The DeFi Investor：</strong>7、链上资产管理：尽管 ETF 在 TradFi 中非常受欢迎，但为加密货币定制的指数尚未获得任何吸引力，允许快速创建链上基金的 dApps 有望在 2023 年大放异彩；8、新兴市场的两个真相和一个谎言：碳抵消代币化协议正越来越流行，如 Nori 和 Toucan，此外，鉴于房地产市场的规模，利用加密货币的实体房地产具有潜力，但不会很快爆发。预测市场可能不会爆发，只有体育博彩和价格投机才是真正的需求。【原文为英文】</p><a href=\"https://twitter.com/TheDeFinvestor/status/1608111501025415168\">内容来源</a><p><strong>The DeFi Investor：</strong>9、DeFi 审查：预计很快会有更多的监管明确性，一些协议已经开始对其站点实施限制，如 Uniswap 下架了一些代币，以及 Aave 拒绝美国用户使用。未来可能大多数 DeFi 交易需要 KYC，但无 KYC 交易也有可能被处理，30-40% 的以太坊区块仍继续处理来自美国黑名单地址的交易；10、看涨解锁（Bullish Unlocks）：这是牛市的模因，但熊市需要注意解锁量大的代币。【原文为英文】</p><a href=\"https://twitter.com/TheDeFinvestor/status/1608111506591473664\">内容来源</a>",
+          "link": "https://twitter.com/TheDeFinvestor/status/1608111462744195076",
+          "publishedOn": "2022-12-29T09:21:36.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】Messari：2023 年 10 大 DeFi 趋势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.coindesk.com/markets/2022/12/29/alameda-research-liquidated-ether-based-token-holdings-for-bitcoin-in-past-24-hours-on-chain-data-shows/?utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic&utm_medium=social&utm_source=twitter",
+          "author": null,
+          "description": "<h3>Alameda 将接近 200 万美元的 ETH 和 ERC-20 代币出售兑换为 BTC</h3>\n<p>据 CoinDesk 援引加密研究公司 Arkham Intelligence 的数据显示，过去 24 小时，Alameda Research 关联钱包价值约 170 万美元的 ETH 和 ERC-20 代币被出售兑换为 BTC，ERC-20 代币包括 USDC、DAI、CRV、CVX 等，交易价值从部分 ETH 的价值到超过 15 枚 ETH 不等。Alameda Research 仍持有价值超过 1.12 亿美元的各种加密货币。</p>\n<p><a href=\"https://www.coindesk.com/markets/2022/12/29/alameda-research-liquidated-ether-based-token-holdings-for-bitcoin-in-past-24-hours-on-chain-data-shows/?utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic&utm_medium=social&utm_source=twitter\">内容来源</a></p><hr>",
+          "link": "https://www.coindesk.com/markets/2022/12/29/alameda-research-liquidated-ether-based-token-holdings-for-bitcoin-in-past-24-hours-on-chain-data-shows/?utm_campaign=coindesk_main&utm_content=editorial&utm_term=organic&utm_medium=social&utm_source=twitter",
+          "publishedOn": "2022-12-29T08:25:36.000Z",
+          "wordCount": 21321,
+          "title": "Alameda 将接近 200 万美元的 ETH 和 ERC-20 代币出售兑换为 BTC",
+          "imageUrl": "https://www.coindesk.com/resizer/OsqG0e28jlgFembgPrOJal7CBRU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHGCA65X5JHKNDO3L37XQLZZFM.jpg"
+        },
+        {
+          "id": "https://twitter.com/0xJamesXXX/status/1608280815150006272?t=MVk7V1plTj4mzimWtHAaXQ&s=19",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>一篇由 CharlieXYZ 撰写，JamesX 编译的，介绍 Solana 王朝兴衰史的一篇深度文章。本文介绍了将 SOL 推向顶峰的一系列谎言，如代币供应不实和 TVL 造假，Solana 被夸大的各项数据指标，包括 TPS、交易数量、开发人员人数，以及 Solana 的现状和未来发展方向。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/0xJamesXXX/status/1608280815150006272?t=MVk7V1plTj4mzimWtHAaXQ&s=19\">https://twitter.com/0xJamesXXX/status/1608280815150006272?t=MVk7V1plTj4mzimWtHAaXQ&s=19</a></p>\n<p><strong>文章作者：</strong></p><p>CharlieXYZ</p><hr><h3>观点：</h3><p><strong>JamesX（iZUMi Research）：</strong>两个谎言：团队在 2020 年 4 月宣称 SOL 总供应量为 820 万枚，但第一个独立的第三方发现一个钱包，里面存储了 1300 万枚 SOL，团队表示其中 1130 万枚被借给了一个做市商，现在知道了做市商一定是 FTX 和 Alameda Research；随着去年 DeFi 的盛行，TVL 成为投资者关注的关键指标，团队虚构了 11 个独立开发者的身份，让大家以为他们似乎在为不同的项目工作，这些项目利用 DeFi 生态的乐高属性，重复计算了大量的资金量，导致数十亿的重复计算价值出现在 Solana 上，峰值时占据了 SOL 生态 TVL 的 70%。</p><a href=\"https://twitter.com/0xJamesXXX/status/1608280820925583362\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>三个夸大指标：TPS，Solana 使用的是调整后的 TPS，大部分都是验证者投票，只有一小部分是真正的 TPS；交易数量，与 TPS 的情况相似，验证者投票占据 90%；开发者活跃度：Token Terminal 更新了他们的图表并承认了错误，更新后的版本指出 Solana 生态只有 72 个活跃开发者，但 Solana 表示在与 Solana 整合的项目上共有 2053 名活跃的开发人员，其中 1654 人只专注于 Solana，还有 120 名全职的活跃开发人员。</p><a href=\"https://twitter.com/0xJamesXXX/status/1608280836344016896\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>Solana 的现状：一直在挣扎，TVL 约 2 亿美元。在过去一年里，Solana 拥有最高的市值 /TVL 比值，现在依旧处于高位。此外，Solana 生态一直以多样化和繁荣的 NFT 生态而闻名，但近日生态上最大的两个 NFT 系列决定离开，迁移至以太坊和 Polygon。</p><a href=\"https://twitter.com/0xJamesXXX/status/1608280849535094784\">内容来源</a>",
+          "link": "https://twitter.com/0xJamesXXX/status/1608280815150006272?t=MVk7V1plTj4mzimWtHAaXQ&s=19",
+          "publishedOn": "2022-12-29T08:00:38.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】Solana 的兴衰史：由谎言编织的叙事，疯狂注水的各种指标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DeFi_Made_Here/status/1608101835780329472%E3%80%90%E8%8B%B1%E6%96%87%E9%95%BF%E6%8E%A8%E3%80%91%E6%B5%81%E5%8A%A8%E6%80%A7%E8%B4%A8%E6%8A%BC%E4%B8%8E%20Delta-Neutral%20%E7%AD%96%E7%95%A5",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本文首先介绍了什么是质押以及质押的好处和坏处，随后介绍流动性质押如何提高资金效率，最后介绍了如何利用 Delta-Neutral 策略来减少底层资产下跌的风险。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/DeFi_Made_Here/status/1608101835780329472【英文长推】流动性质押与 Delta-Neutral 策略\">https://twitter.com/DeFi_Made_Here/status/1608101835780329472【英文长推】流动性质押与 Delta-Neutral 策略</a></p>\n<p><strong>文章作者：</strong></p><p>DeFi Made Here</p><hr><h3>观点：</h3><p><strong>DeFi Made Here：</strong>质押是一种共识机制，允许用户在保护网络安全的同时，获得质押奖励。质押的好处是获得加密货币被动收入，保护网络，以及获得治理权（在某些情况下），坏处是质押的资产被锁定，导致资金效率低下。【原文为英文】</p><a href=\"https://twitter.com/DeFi_Made_Here/status/1608101838653374466\">内容来源</a><p><strong>DeFi Made Here：</strong>流动性质押帮助质押者在获得普通质押好处的同时，保持资产的灵活性。用户需要质押资产获得流动性质押衍生品，衍生品除了能获得质押奖励，还能进行交易、借贷和用作抵押品，降低了锁定质押的机会成本。流动性质押的风险之一是底层资产价值可能下跌，这样会使得从质押中获得的奖励减少。【原文为英文】</p><a href=\"https://twitter.com/DeFi_Made_Here/status/1608101842025676800\">内容来源</a><p><strong>DeFi Made Here：</strong>Delta-Neutral 策略可以用于减少底层资产价值下跌的风险，这适用于允许解除质押和收回资产的 PoS 区块链（目前的以太坊并不适合）。以建立在 Cosmos 上的 EVM 和 IBC 兼容的 OKC（OKX Chain）为例，用户质押 OKT 获得流动性质押衍生品 stOKT，要利用 Delta-Neutral 策略，用户需要做空 OKT 或者借入 OKT 并流动性质押，这样就不会有底层资产 OKT 的风险敞口，但也需要警惕 OKT 上涨带来的清算风险。【原文为英文】</p><a href=\"https://twitter.com/DeFi_Made_Here/status/1608101851475415044\">内容来源</a>",
+          "link": "https://twitter.com/DeFi_Made_Here/status/1608101835780329472%E3%80%90%E8%8B%B1%E6%96%87%E9%95%BF%E6%8E%A8%E3%80%91%E6%B5%81%E5%8A%A8%E6%80%A7%E8%B4%A8%E6%8A%BC%E4%B8%8E%20Delta-Neutral%20%E7%AD%96%E7%95%A5",
+          "publishedOn": "2022-12-29T07:28:29.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】流动性质押与 Delta-Neutral 策略",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Treasure DAO 的成功主要有两个关键因素，首先是 Loot 仿盘起家，天然具有社区文化，其次是明确的 MLP 策略，即不断推出「有点可玩性但不多」的小游戏，不断吸引用户和资金。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ\">https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ</a></p>\n<p><strong>文章作者：</strong></p><p>北辰（链茶馆）</p><hr><h3>观点：</h3><p><strong>北辰（链茶馆）：</strong>1）起步：作为 Loot 的衍生项目，Treasure 的 NFT 也是哥特式神秘黑暗风格，但现在官方似乎在极力撇清 Treasure NFT 历史，早期项目推特已注销，官网也未提及 Treasure NFT；2）链游 + DeFi：发行 NFT 后，团队就发行了 MAGIC 代币，并为 MAGIC 量身定制了 DeFi 项目 MAGIC Farm；</p><a href=\"https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ\">内容来源</a><p><strong>北辰（链茶馆）：</strong>3）MAGIC 成为核心：团队发现市场对 MAGIC 的兴趣高于 Treasure NFT 后，果断选择将发展围绕给 MAGIC 赋能上；4）Life NFT：Treasure 团队联合 Jumpman 推出另一款链游 Life NFT，用户只有质押 MAGIC 才能让 Life NFT 中的虚拟人物存活，但该项目最后不了了之；</p><a href=\"https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ\">内容来源</a><p><strong>北辰（链茶馆）：</strong>5）Treasure DAO：Treasure 团队于 11 月正式推出了 Treasure DAO，并且移交了团队权利及指定 DAO 成为 MAGIC 激励唯一接收者，从此 Treasure 正式围绕着给 MAGIC 赋能而展开建构；6）裂变：Treasure DAO 成立之后，不断推出独立的小项目来增加 MAGIC 的使用场景，及吸纳外部链游或其它项目进来，而这些场景都需要消耗 MAGIC，最终形成了一个以 MAGIC 为核心的生态系统。</p><a href=\"https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ\">内容来源</a>",
+          "link": "https://mp.weixin.qq.com/s/a1bnejvOzTit1GKhO7-zOQ",
+          "publishedOn": "2022-12-29T06:45:26.000Z",
+          "wordCount": 9118,
+          "title": "Treasure DAO 迭代之路梳理：MLP 策略或是链游正确演进方向？",
+          "imageUrl": "https://mmbiz.qpic.cn/mmbiz_jpg/eO3ib6GeugEel0D06WtcvBmicqicPDzxAL1Xev7siaBFsLFhF5pKhVZyL6NuUjk2c44mN52bvYSEBSicUibvOqP0EG3A/0?wx_fmt=jpeg"
+        },
+        {
+          "id": "https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>2022 年 NFT 的资产属性和金融属性已经深入人心，本文对 2022 年 NFT 市场交易量、碎片化协议、聚合器、借贷等领域进行了总结分析。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o\">https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o</a></p>\n<p><strong>文章作者：</strong></p><p>Mint Ventures</p><hr><h3>观点：</h3><p><strong>Mint Ventures：</strong>1）2022 年以太坊 NFT 交易量下降十倍有余，但以太坊上 PFP 交易仍是行业主旋律，同时 IMX、BSC、Solana、Polygon 等聚集较多 GameFi、SocialFi 生态的公链内 NFT 资产交易较为活跃；2）交易市场竞争激烈：OpenSea 仍是用户基数最大、交易量最高的平台，但 Blur 等受专业 NFT 交易者欢迎的新进入者似乎有机会打破这个格局；</p><a href=\"https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o\">内容来源</a><p><strong>Mint Ventures：</strong>3）NFT 聚合器平台成绩并不好：Gem 和 Genie 都没有做出很好的成绩，其市场需求和盈利模式都受到了市场质疑；4）NFT 借贷蓬勃发展：2022 年上半年 Yuga Labs 空投使得 NFT 借贷协议成为一些玩家的杠杆工具，随后在 12 月底 Ape Staking 质押功能上线时，多个借贷协议推出配对功能、质押收益池，再次吸引了不少用户参与；</p><a href=\"https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o\">内容来源</a><p><strong>Mint Ventures：</strong>5）碎片化协议不温不火：早期参与碎片化业务的 Niftex 已经停止运营，Fractional.art 也改头换面为 Tessara 重新整理业务，其他的一些碎片化协议业务也没有起色；6）NFT-Fi 机枪池蓄势待发：Spice Finance、Insrt Finance、Protecc 等均瞄准了这块领域，旨在等待 NFTFi 爆发时，为 C 端用户提供更加便捷易用的产品。</p><a href=\"https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o\">内容来源</a>",
+          "link": "https://mirror.xyz/mintventures.eth/6ZIHNlo0NYXbXA0FI8Bzqa71-8OKBdXAy1NaRyzyi-o",
+          "publishedOn": "2022-12-29T05:55:26.000Z",
+          "wordCount": 806,
+          "title": "一览 2022 年 NFT 赛道发展：NFT 借贷蓬勃发展，碎片化协议不温不火",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/uIGnE-gcL8K1mxg2nvVzl.png?height=512&width=1024&h=512&w=1024&auto=compress"
+        },
+        {
+          "id": "https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本篇文章在回顾了 AMM 的历史及各种设计后，介绍了链上订单簿和 AMM 之间的发展关系，并认为混合模式是最好的未来发展方向。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4\">https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4</a></p>\n<p><strong>文章作者：</strong></p><p>nate</p><hr><h3>观点：</h3><p><strong>nate：</strong>AMM：1）恒定积做市商：从流动性提供者角度理解具有简单性和易用性；2）恒定和做市商：Curve 团队推出，主要是为了迎合稳定币和挂钩类似价格的资产；3）恒定平均值做市商：由 Balancer 推出，允许提供两种以上资产作为流动性，并允许 50/50 以外的权重；4）集中式流动性：Uniswap V3 提出，允许在一个自定义价格范围内分配流动性，可以让流动性提供者在风险和回报方面由更大的灵活性；5）虚拟自动做市商：不是交换真实的代币，而是用于交换虚拟合成资产，如衍生品。【原文为英文】</p><a href=\"https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4\">内容来源</a><p><strong>nate：</strong>订单簿比传统的 AMM 在提供最佳定价和执行方面更具有优势，但需要足够的流动性和活跃的做市商不断进行报价更新，尤其实在考虑到链上交易资产的规模时。因此当设计一个订单簿或 AMM 时，订单流和流动性的提供及匹配非常重要。【原文为英文】</p><a href=\"https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4\">内容来源</a><p><strong>nate：</strong>混合模式：链上模式中，订单直接在链上流动，由外部网络进行匹配和执行，链外模式中，订单直接流向验证器或守门人网络进行匹配和执行。而同时使用链上和链下匹配和执行的主要例子可以在 CowSwap 中找到，它使用批量拍卖和订单路由来匹配链下或链上的订单。另外一个例子是 Drift V2，Drift 订单通过拍卖、链外订单簿和 AMM 三步骤为交易者带来最佳执行。【原文为英文】</p><a href=\"https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4\">内容来源</a>",
+          "link": "https://mirror.xyz/0x0C23E0dE114d28112f52203cb9583B9826b05dDe/TLXq6hCSsgVmxIWxPRihWEQBoPr9Pf2-MYKATDctNp4",
+          "publishedOn": "2022-12-29T05:04:26.000Z",
+          "wordCount": 6788,
+          "title": "【英文】AMM 及订单薄漫谈：哪种设计方式最佳？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/vdpR4LfjNwJqezQ5j3LRA.jpeg?h=400&w=400"
+        },
+        {
+          "id": "https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>2022 年是 GMX 厚积薄发的一年，不仅交易量、手续费、代币价格全面上涨，甚至带动了 DeFi 衍生品赛道成为市场热点，并使 Arbitrum 成为了最受关注的公链。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web\">https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web</a></p>\n<p><strong>文章作者：</strong></p><p>CapitalismLab</p><hr><h3>观点：</h3><p><strong>CapitalismLab：</strong>1）核心数据：年度交易总量为 850 亿美元，年度费用收入为 1.15 亿美元，年末经济收益较年初涨幅超 200%，年度新增用户数为 20 万名；2）产品迭代：年度初部署了 Avalanche GMX，四月发布了 X4 更新计划。此外，合成资产计划于 2023 年初上线，将帮助其在外汇市场获得客观交易量；</p><a href=\"https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web\">内容来源</a><p><strong>CapitalismLab：</strong>3）对于 GMX 现存的主要问题，开发者已经有了明确计划，预计将在 2023 年初的更新中解决大部分问题；4）虽然 GMX 价格在上涨，但是由于协议收入也在上涨，所以估值保持稳定，FDV / 协议收入在 10 上下波动。</p><a href=\"https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web\">内容来源</a>",
+          "link": "https://capitalismlab.substack.com/p/gmx-22-defi?r=1ly7b3&utm_campaign=post&utm_medium=web",
+          "publishedOn": "2022-12-29T04:01:56.000Z",
+          "wordCount": 1777,
+          "title": "GMX 年度回顾：数据、进展及未来规划",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad36d61f-7b73-4848-8222-1789030b2d0f_1630x954.png"
+        },
+        {
+          "id": "https://twitter.com/Chinchillah_/status/1608089217497694209",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>在经历了 Avalanche 生态系统兴衰后，Trader Joe 选择了向 Arbitrum 进行扩张以寻求吸引流动性和可用性的新机会，那么它会成为 Arbitrum 生态主要的 DEX 吗？</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/Chinchillah_/status/1608089217497694209\">https://twitter.com/Chinchillah_/status/1608089217497694209</a></p>\n<p><strong>文章作者：</strong></p><p>Chinchilla</p><hr><h3>观点：</h3><p><strong>Chinchilla：</strong>Trader Joe 于 2021 年 7 月 3 日进行了首次代币发行，并在 Avalanche 生态中获得令人难以置信的吸引力，但随后熊市来了，3AC 对 Avalanche 造成了严重打击。随后 Trader Joe 对其代币经济学进行了改善，旨在为 JOE 提供更多效用，但从长远来看仍然难以可持续发展。【原文为英文】</p><a href=\"https://twitter.com/Chinchillah_/status/1608089217497694209\">内容来源</a><p><strong>Chinchilla：</strong>Trader Joe 团队还进行了技术升级，但效果仍然不佳，熊市期间，Trader Joe 的收入和日活跃用户一直在持续下降。但考虑到 P/S 比率，Trader Joe 还是处于优势地位。此外，Trader Joe 的代币流通供应量一直在轻微缩减，可能是由于更多 JOE 被锁仓以用于其他用例及 90% 代币已经被铸造。【原文为英文】</p><a href=\"https://twitter.com/Chinchillah_/status/1608089217497694209\">内容来源</a>",
+          "link": "https://twitter.com/Chinchillah_/status/1608089217497694209",
+          "publishedOn": "2022-12-29T03:23:21.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】改善代币经济学、技术升级，一览 Trader Joe 发展现状及展望",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>本篇回顾包括以太坊、Layer2、The Cosmos、Layer1 及基础设施等领域在 2022 年的创新及进展。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s\">https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s</a></p>\n<p><strong>文章作者：</strong></p><p>Blockworks</p><hr><h3>观点：</h3><p><strong>Blockworks：</strong>1）以太坊：今年以来，以太坊价格一直保持着比其他公链更强的优势，这也归功于 PoS 机制的转变，合并后超 15 亿美元的抛售压力已经从市场消除，且随着其向着以 Rollup 为中心的未来发展，L2 的采用也在增加；2）Cosmos 生态：目前总市值达 97 亿美元，有 53 个支持 IBC 的链，ICS 预计将于 2023 年第一季度推出，将降低推出安全应用链的门槛；【原文为英文】</p><a href=\"https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s\">内容来源</a><p><strong>Blockworks：</strong>3）Solana：TVL 下跌了超 96%，从 120 亿美元跌至 5 亿美元以下，但随着 2023 年 Saga 和 Firedancer 的到来，仍然值得期待；4）Avalanche：于 2022 年 10 月 18 日成功实施了 Banff 升级，有了子网互操作性，该网络对开发者更具有吸引力；【原文为英文】</p><a href=\"https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s\">内容来源</a><p><strong>Blockworks：</strong>5）预言机：加强预言机的安全性对于 DeFi 的成功非常重要。LINK 持有者现可以使用代币进行质押以提高网络安全和去中心化。而 Pyth 已经在 13 条链上上线；6）跨链桥：整体 TVL 大幅下降，但 Optimism 和 Arbitrum 在下半年经历了大幅增长。【原文为英文】</p><a href=\"https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s\">内容来源</a>",
+          "link": "https://www.blockworksresearch.com/research/2022-in-review-network-coverage-layer-1s-and-2s",
+          "publishedOn": "2022-12-29T02:47:31.000Z",
+          "wordCount": 8984,
+          "title": "【英文】Blockworks：2022 年加密市场年终回顾",
+          "imageUrl": "https://admin.blockworksresearch.com/content/images/2022/12/Research_YearEnd2022_01_v03.jpg"
+        },
+        {
+          "id": "https://capital.hashkey.com/en/insights-and-research/2022-defi-ecosystem-landscape-report",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>我们对 2023 年的 DeFi 发展应该保持乐观态度，一方面是其与传统金融的结合，另一方面是它将成为其他 Web3 协议的基础。本篇报告对当前 DeFi 市场提供了概述，并指出了 2023 年有趣的发展方向。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://capital.hashkey.com/en/insights-and-research/2022-defi-ecosystem-landscape-report\">https://capital.hashkey.com/en/insights-and-research/2022-defi-ecosystem-landscape-report</a></p>\n<p><strong>文章作者：</strong></p><p>Hashkey Capital</p><hr><h3>观点：</h3><p><strong>CJ：</strong>看好 DeFi 的原因：1）大规模采用；2）实现 Web3 金融性互动；3）创新性；4）通过可扩展性可产生前所未有的网络效应。【原文为英文】</p><a href=\"https://twitter.com/CJCJCJCJ_/status/1605567530688733185\">内容来源</a><p><strong>CJ：</strong>DeFi 需要哪些改进：1）需要更好的用户体验，尤其在钱包采用方面；2）需要在遵循法规的前提下提高机构采用率；3）通过 NFTFi 释放 NFT 流动性；4） 2023 年宏观经济得到改善。【原文为英文】</p><a href=\"https://twitter.com/CJCJCJCJ_/status/1605567530688733185\">内容来源</a>",
+          "link": "https://capital.hashkey.com/en/insights-and-research/2022-defi-ecosystem-landscape-report",
+          "publishedOn": "2022-12-29T02:20:12.000Z",
+          "wordCount": 44,
+          "title": "【英文】HashKey Capital：2022 年 DeFi 生态系统格局报告",
+          "imageUrl": "https://capital.hashkey.com/assets/images/capital_insight/hashkey-capital-defi-landscape-report.png"
+        },
+        {
+          "id": "https://twitter.com/cz_binance/status/1608182790540902407",
+          "author": null,
+          "description": "<h3>CZ：交易机器人平台 3Commas 存在 API 密钥泄露，请立即将其禁用</h3>\n<p>币安首席执行官 CZ 发推表示，「有理由相信交易机器人平台 3Commas 存在广泛 API 密钥泄露问题。如果你曾经在 3Commas 中输入过 API 密钥（来自任何交易所），请立即将其禁用。」\n此前据 The Block 报道，交易机器人平台 3Commas 和加密货币交易所 FTX 进行的一项调查显示，与 3Commas 相关的 API 密钥被用于在 FTX 上进行 DMG 交易对的未授权交易。3Commas 称 API 密钥可能是从第三方网络钓鱼攻击或黑客攻击中获得的。</p>\n<p><a href=\"https://twitter.com/cz_binance/status/1608182790540902407\">内容来源</a></p><hr><h3>观点：</h3><p><strong>3Commas：</strong>已经确认黑客发布文件中的数据是真实的，并且已经要求币安、Kucoin 和其他支持的交易所撤销所有与 3Commas 有关的密钥。此外 3Commas 自 11 月 16 日以来已经删除了可以访问基础设施的少数技术员工的访问权限，并实施了新的安全措施，目前正在启动一项设计执法的全面调查。</p><a href=\"https://twitter.com/3commas_io/status/1608226169400315904\">内容来源</a>",
+          "link": "https://twitter.com/cz_binance/status/1608182790540902407",
+          "publishedOn": "2022-12-29T01:51:19.000Z",
+          "wordCount": 470,
+          "title": "CZ：交易机器人平台 3Commas 存在 API 密钥泄露，请立即将其禁用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html",
+          "author": null,
+          "description": "<h3>美 SEC：如果 FTX 破产受托人可以证明 FTX 对 Dave 和 Mysten Labs 的投资来自客户资金，可作为客户资产追回</h3>\n<p>据 CNBC 报道，美国证券交易委员会（SEC）在对 Alameda 前首席执行官 Caroline Ellison 及 FTX 联合创始人 Gary Wang 提出的申诉中指出，「FTX 的附属投资机构 FTX Ventures 进行的两项 1 亿美元投资（分别为 Mysten Labs 和金融技术公司 Dave）是由 FTX 的客户资金资助的，这些资金已经被转移至 Alameda。」如果 FTX 破产受托人能够确定客户资金为 SBF 的投资提供了资助，他们可以追回这些资金，作为追回客户资产的一部分。\n此前 Dave 于 2022 年 3 月获得 FTX Ventures 1 亿美元投资，而 Sui 开发团队 Mysten Labs 于 2022 年 9 月完成 3 亿美元融资，FTX Ventures 领投。</p>\n<p><a href=\"https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html\">内容来源</a></p><hr><h3>观点：</h3><p><strong>Jason Wilk（Dave 首席执行官 ）：</strong>FTX 对 Dave 的投资计划在 2026 年之前连本带利进行偿还，FTX 的 1 亿美元投资是通过可转换票据进行的，这是一种短期现金贷款，FTX 可以在以后将其转换为股票，根据该公司近期向美国证券交易委员会提交的文件，该票据还未被转换，因此 Dave 对 FTX 和任何继任公司负有 1.016 亿美元的责任。【原文为英文】</p><a href=\"https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html\">内容来源</a>",
+          "link": "https://www.cnbc.com/2022/12/28/ftx-used-200-million-of-customer-funds-for-two-venture-investments.html",
+          "publishedOn": "2022-12-29T01:33:13.000Z",
+          "wordCount": 18486,
+          "title": "美 SEC：如果 FTX 破产受托人可以证明 FTX 对 Dave 和 Mysten Labs 的投资来自客户资金，可作为客户资产追回",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107170504-1671738961878-gettyimages-1245785732-AFP_334Z8G2.jpeg?v=1672266886&w=1920&h=1080"
+        },
+        {
+          "id": "https://blog.kraken.com/post/16923/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+          "author": null,
+          "description": "<h3>加密交易平台 Kraken 将于 1 月 31 日退出日本市场</h3>\n<p>加密交易平台 Kraken 宣布将于 1 月 31 日退出日本市场。Kraken 表示，基于日本目前的市场状况和全球疲软的加密市场，进一步发展在日本的业务是不合理的。Kraken 还表示，Kraken 的资金充足，所有受影响的客户都可以及时提取资产，并将很快发布关于解除以太坊质押过程的信息。\n此前报道，Kraken 于 12 月 1 日宣布在全球范围内裁员 1100 人，约占其总员工量的 30%。</p>\n<p><a href=\"https://blog.kraken.com/post/16923/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/\">内容来源</a></p><hr>",
+          "link": "https://blog.kraken.com/post/16923/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+          "publishedOn": "2022-12-29T01:15:56.000Z",
+          "wordCount": 1459,
+          "title": "加密交易平台 Kraken 将于 1 月 31 日退出日本市场",
+          "imageUrl": "https://blog.kraken.com/wp-content/uploads/2022/11/Featured-Image-Business-Update.png"
+        },
         {
           "id": "https://twitter.com/saylor/status/1608086703843180544",
           "author": null,
@@ -8649,6 +9039,136 @@
       "siteUrl": "https://www.coindesk.com",
       "articles": [
         {
+          "id": "MKKBUXMT4JBXZDT6RQ3TOLS6UQ",
+          "author": "Lyllah Ledesma",
+          "description": "CoinDesk research shows that per unit of risk, bitcoin and ether performed significantly better than bonds and had similar results to equities in 2022.",
+          "link": "https://www.coindesk.com/markets/2022/12/29/bitcoin-ether-did-better-than-you-think-in-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T19:19:39.000Z",
+          "wordCount": 20903,
+          "title": "Bitcoin, Ether Did Better Than You Think in 2022",
+          "imageUrl": "https://www.coindesk.com/resizer/OSEfmTh5BhiSHho5WxpaA0eB-NU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3VHNTV4YLBFFTOI7A542AMB2CE.png"
+        },
+        {
+          "id": "FWBTCEM2YVGFLCWWRVVDX3RYHM",
+          "author": "Frederick  Munawa",
+          "description": "The project claims its Bitcoin sidechain can unlock “hundreds of billions of dollars” in DeFi on bitcoin.",
+          "link": "https://www.coindesk.com/tech/2022/12/29/step-aside-ethereum-blockchain-project-stacks-wants-to-bring-smart-contracts-to-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T18:52:38.000Z",
+          "wordCount": 21417,
+          "title": "Step Aside, Ethereum: Blockchain Project Stacks Wants to Bring Smart Contracts to Bitcoin",
+          "imageUrl": "https://www.coindesk.com/resizer/wWQC4RRIleOYWuu0wubLNhqL8Jg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A2AIDJU74BBS5J6WHGM77YRHNQ.jpg"
+        },
+        {
+          "id": "GM4CT7TXIVFHTLJKZH5KAWJQ3E",
+          "author": "Cam Thompson",
+          "description": "For NFT collectors and creators, this past year marked noticeable changes within the market. From utility to community building, here are just a few trends that will push the space forward in 2023.",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/29/its-been-a-year-since-nfts-exploded-where-are-we-headed/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T18:36:51.000Z",
+          "wordCount": 23592,
+          "title": "It’s Been a Year Since NFTs Exploded. Where Are We Headed?",
+          "imageUrl": "https://www.coindesk.com/resizer/oAzG2jsJW9TjFh1GgP0TsYFD7Kk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DRTQWHNA3RGY3K4D5GFEYKT52I.jpg"
+        },
+        {
+          "id": "5I5IIZQ6JBDP5MQUTKJB7UQVBI",
+          "author": "Fran Velasquez",
+          "description": "Ari Redbord, currently TRM Labs head of legal and government affairs, says cracking down on hacks in crypto will require hardening cyber defenses.",
+          "link": "https://www.coindesk.com/business/2022/12/29/defi-platforms-need-to-beef-up-security-former-prosecutor-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T16:58:15.000Z",
+          "wordCount": 21107,
+          "title": "DeFi Platforms Need to Beef Up Security, Former Prosecutor Says",
+          "imageUrl": "https://www.coindesk.com/resizer/df8XfMjWcHxeRsyLZSQEJ0adweo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLUFWKXJCNA65LXI4VXQMW2ETI.jpg"
+        },
+        {
+          "id": "LZT2XXNS25HANHLFBZAHWIVEPE",
+          "author": "Alp Börü",
+          "description": "The monetary authority said it will conduct further trials in the first quarter of 2023.",
+          "link": "https://www.coindesk.com/policy/2022/12/29/turkish-central-bank-runs-first-cbdc-tests/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T16:17:47.000Z",
+          "wordCount": 20376,
+          "title": "Turkish Central Bank Runs First CBDC Tests",
+          "imageUrl": "https://www.coindesk.com/resizer/gHn9WszNqxbIzMY41SzxTVrKn6M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2GEHHYYEMFHCJOT6BSQMH754KA.jpg"
+        },
+        {
+          "id": "J3VSVN6HNVAZBCAK2YUSC6XGKU",
+          "author": "JP Koning",
+          "description": "Tether, the world's biggest stablecoin, has a problem. When the going gets tough, Tether users want out of Tether. What can the company do to change things?",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/29/how-tether-can-be-a-more-stable-stablecoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T16:11:50.000Z",
+          "wordCount": 23724,
+          "title": "How Tether Can Be a More Stable Stablecoin",
+          "imageUrl": "https://www.coindesk.com/resizer/P0s3B2WJgKj621B72NCriXmn6zw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OG2Y3VWC55DMHMOVE3HUJ5EW44.jpg"
+        },
+        {
+          "id": "SJ6G2Q7F2JERTKJUW5SHAOF2PY",
+          "author": "Aitan Goelman",
+          "description": "Suggestions that the CFTC is the crypto industry’s “regulator of choice” and more susceptible to capture do not hold up, according to former CFTC Director of Enforcement Aitan Goelman.",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/29/making-comprehensive-crypto-policy-out-of-regulatory-patchwork/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T15:00:25.000Z",
+          "wordCount": 25400,
+          "title": "Making Comprehensive Crypto Policy Out of Regulatory Patchwork",
+          "imageUrl": "https://www.coindesk.com/resizer/Pj2WROWOCwDqNAReNHIiIS61UoM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/N2RVGMEV5NCKVMGY4M3W3OGQEA.jpg"
+        },
+        {
+          "id": "BQQZNOLVT5A3JN7O2EAEQVN6DI",
+          "author": "Alex  Pruden",
+          "description": "TKTK",
+          "link": "https://www.coindesk.com/consensus-magazine/2022/12/29/zero-knowledge-cryptography-in-2023-the-year-privacy-becomes-practical/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T14:51:29.000Z",
+          "wordCount": 22547,
+          "title": "Zero-Knowledge Cryptography in 2023: The Year Privacy Becomes Practical",
+          "imageUrl": "https://www.coindesk.com/resizer/IuoKl_4lADr8k7fB_G9buiIYI-s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HYZHRQGGL5AU5EESAKHV6GPFRU.jpg"
+        },
+        {
+          "id": "VCVL52MLGNG7POFSKZKPJNCMCE",
+          "author": "Aoyon Ashraf",
+          "description": "Co-founder Emiliano Grodzki resigned as CEO but will remain a director.",
+          "link": "https://www.coindesk.com/business/2022/12/29/bitcoin-miner-bitfarms-ceo-exits-coo-will-replace/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T14:43:43.000Z",
+          "wordCount": 20721,
+          "title": "Bitcoin Miner Bitfarms' CEO Resigns and Is Replaced by COO",
+          "imageUrl": "https://www.coindesk.com/resizer/3NEHgM0x4UMocPKl0rp_tOR4xh4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JNMAURSYEBCA3MKMBUM5AI3UZI.jpg"
+        },
+        {
+          "id": "EZ5NXPHLEVA67ABJT3JQD4H7CA",
+          "author": "Christopher Robbins",
+          "description": "While the FTX debacle has many Ponzi-like characteristics, most cryptocurrencies do not resemble the infamous schemes.",
+          "link": "https://www.coindesk.com/markets/2022/12/29/no-advisors-crypto-is-not-a-ponzi-scheme/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T13:45:00.000Z",
+          "wordCount": 22040,
+          "title": "No, Advisors, Crypto Is Not a Ponzi Scheme",
+          "imageUrl": "https://www.coindesk.com/resizer/BAJCYvWINdYXbB3WHXVXRhzvPXQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WDVBN5SHAZHMTJVLJJWF7UHTVI.jpg"
+        },
+        {
+          "id": "T3F6QGRTRNC2PMC2GC47GLPXGM",
+          "author": "Lyllah Ledesma",
+          "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for Dec. 29, 2022. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
+          "link": "https://www.coindesk.com/markets/2022/12/29/first-mover-americas-gemini-sued-over-interest-earning-product/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T13:09:12.000Z",
+          "wordCount": 21104,
+          "title": "First Mover Americas: Gemini Sued Over Interest-Earning Product",
+          "imageUrl": "https://www.coindesk.com/resizer/TEkp-xzE9khvEIXzUOBNTE8D1H4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6TSQYQLC25BF7OOVMFXA7ZYTDQ.jpg"
+        },
+        {
+          "id": "HTGJ6QDJARDCBBD6HUW26FH3VE",
+          "author": "Shaurya Malwa",
+          "description": "Solana (SOL) dropped nearly 8% in the past 24 hours, adding to a 20% slide over the past week.",
+          "link": "https://www.coindesk.com/markets/2022/12/29/solana-tokens-continue-steep-slide-while-major-cryptos-stay-flat/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T09:42:41.000Z",
+          "wordCount": 21111,
+          "title": "Solana Tokens Continue Steep Slide While Major Cryptos Stay Flat",
+          "imageUrl": "https://www.coindesk.com/resizer/vc-yoHN4fZx9lmsmTjESMX06Nwc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJM26RLM4NASXF5NZKFV5VAHT4.jpg"
+        },
+        {
+          "id": "D3UI5IKV2BAUNJF4OASLODHEWA",
+          "author": "Shaurya Malwa",
+          "description": "The move came days after Sam Bankman-Fried posted a bail bond and was temporarily freed from jail.",
+          "link": "https://www.coindesk.com/markets/2022/12/29/alameda-research-liquidated-ether-based-token-holdings-for-bitcoin-in-past-24-hours-on-chain-data-shows/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-29T06:40:02.000Z",
+          "wordCount": 21321,
+          "title": "Alameda Research Liquidates Ethereum-Based Token Holdings for Bitcoin",
+          "imageUrl": "https://www.coindesk.com/resizer/OsqG0e28jlgFembgPrOJal7CBRU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WHGCA65X5JHKNDO3L37XQLZZFM.jpg"
+        },
+        {
           "id": "FDOQCLXBPBGFVGMRIANQMD5RWI",
           "author": "James Rubin",
           "description": "The largest crypto by market capitalization dropped below $16.5K at one point on Wednesday. ALSO: CoinDesk research analyst George Kaloudis ranks his top five industry annoyances, and FTX tops the list.",
@@ -8677,6 +9197,16 @@
           "wordCount": 20702,
           "title": "Anonymous Twitter User Leaks 3Commas API Database",
           "imageUrl": "https://www.coindesk.com/resizer/8Fy7evuNMLXf5sdt_MQJ2WKL_hg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EXPOIBREMFHSHA7CVOGJ5TDWUY.jpg"
+        },
+        {
+          "id": "Q5ENQLV3OBFFZEJAWA3TOQ45YM",
+          "author": "Fran Velasquez",
+          "description": "Michael Greco, policy research director at the Digital Dollar Project (DDP) and Josh Lipsky, senior director of the Atlantic Council’s GeoEconomic Center, discuss why the development of a central bank digital currency in the U.S. may only be a matter of time.",
+          "link": "https://www.coindesk.com/business/2022/12/28/digital-dollar-will-come-eventually-expert-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2022-12-28T18:58:09.000Z",
+          "wordCount": 21176,
+          "title": "Digital Dollar Will Come Eventually, Expert Says",
+          "imageUrl": "https://www.coindesk.com/resizer/eh1Gxo-6LkZQRBpp2vS1c8IK0C8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B2AU7O2AR5E5DPYZ2NOJOGZIYA.jpg"
         },
         {
           "id": "Q5ENQLV3OBFFZEJAWA3TOQ45YM",
