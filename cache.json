@@ -420,22 +420,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfc2b91e-c9c3-46e1-bbfd-08a091d43adc_1600x900.jpeg"
-        },
-        {
-          "id": "https://chainfeeds.substack.com/p/ankr-coinbase-wallet-nft2022-the",
-          "author": "小毛哥",
-          "description": "「ChainFeeds Selection 行研早报」精选 Web3 行业每日最值得关注的事件和来自专家的观点解读",
-          "link": "https://chainfeeds.substack.com/p/ankr-coinbase-wallet-nft2022-the",
-          "publishedOn": "2022-12-03T01:43:19.000Z",
-          "wordCount": null,
-          "title": "Ankr 被攻击始末、苹果政策致 Coinbase Wallet 无法发送 NFT、2022 年黑客松数据回顾、The Block：11 月加密市场数据总结、从五大核心赛道演变逻辑看 2023 年加密投资趋势",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faaefa20d-f6cc-4c00-a4f3-fe3ecf68a338_1600x810.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faaefa20d-f6cc-4c00-a4f3-fe3ecf68a338_1600x810.png"
         }
       ]
     },
@@ -444,6 +428,106 @@
       "feedUrl": "https://www.blocktempo.com/feed/",
       "siteUrl": "https://www.blocktempo.com",
       "articles": [
+        {
+          "id": "https://www.blocktempo.com/?p=204312",
+          "author": "Joe",
+          "description": "2023 的開始，動區為您隆重獻上《台灣區塊鏈產業年度影響力評選》榜單。並邀請入圍的產業領導者們分享對「今年的 […]\n評選出爐！台灣區塊鏈《年度最影響力人物榜》: 2023 年的預測&趨勢〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023/",
+          "publishedOn": "2023-01-01T10:45:59.000Z",
+          "wordCount": 6453,
+          "title": "評選出爐！台灣區塊鏈《年度最影響力人物榜》: 2023 年的預測&趨勢",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/新聞封面-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=205101",
+          "author": "James",
+          "description": "巴哈馬證券委員會（SCB）在前日稱已暫扣 FTX 價值超過 35 億美元的加密貨幣後，FTX 迅速發表聲明指說 […]\nFTX公布「被巴哈馬扣押」的以太坊錢包地址！資產價值僅剩1.67億美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/ftx-provide-details-about-bahamas-crypto-seizure/",
+          "publishedOn": "2023-01-01T07:14:45.000Z",
+          "wordCount": 2116,
+          "title": "FTX公布「被巴哈馬扣押」的以太坊錢包地址！資產價值僅剩1.67億美元",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2023/01/圖片-2.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=205109",
+          "author": "James",
+          "description": "在 2023 年到來之際，一向看好比特幣的《富爸爸．窮爸爸》系列暢銷書作者羅伯特清崎（Robert Kiyos […]\n富爸爸警告 : 大部分加密貨幣「屬證券」將被SEC粉碎！會買更多比特幣〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/robert-kiyosaki-is-bullish-on-btc-in-2023/",
+          "publishedOn": "2023-01-01T05:26:14.000Z",
+          "wordCount": 1996,
+          "title": "富爸爸警告 : 大部分加密貨幣「屬證券」將被SEC粉碎！會買更多比特幣",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2023/01/Robert-Kiyosaki-Bitcoin-Market-Opinion.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=205087",
+          "author": "James",
+          "description": "隨著 2023 年到來，中美洲國家薩爾瓦多國家比特幣辦公室（ONBTC）在昨日發布一系列推文，細數薩爾瓦多在  […]\n薩爾瓦多政府細數2022 BTC成就 :「永遠都會是比特幣國家」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/el-salvador-will-always-be-a-bitcoin-country/",
+          "publishedOn": "2023-01-01T02:58:23.000Z",
+          "wordCount": 2132,
+          "title": "薩爾瓦多政府細數2022 BTC成就 :「永遠都會是比特幣國家」",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2023/01/Bitcoin-Education-In-El-Salvador-Paves-The-Way-For-Wider-Adoption-2-1024x682-1.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204178",
+          "author": "星球日報 Odaily",
+          "description": "13 張圖看懂 Dapp 發展趨勢。本文來自 DappRadar ，原報告篇幅較長，由筆者摘取翻譯其十大要點。 […]\nDappRadar《2022 年 Dapp 產業報告》十大要點精華〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/dapp-industry-report-2022-by-dappradar/",
+          "publishedOn": "2022-12-31T15:59:58.000Z",
+          "wordCount": 2435,
+          "title": "DappRadar《2022 年 Dapp 產業報告》十大要點精華",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/lb5ddiivro0e1nxm.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204904",
+          "author": "Joe",
+          "description": "動區團隊從各領域精選近 40 位卓越領導者、思想領袖、以及具備全球影響力的台灣人，彙集成《2022 台灣區塊鏈 […]\n2022台灣區塊鏈影響力人物榜 #Web3.0 應用、項目、企業〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023-web-application-and-enterprise/",
+          "publishedOn": "2022-12-31T14:22:54.000Z",
+          "wordCount": 4027,
+          "title": "2022台灣區塊鏈影響力人物榜 #Web3.0 應用、項目、企業",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/Web3-applications-Enterprise-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204952",
+          "author": "Joe",
+          "description": "動區團隊從各領域精選近 40 位卓越領導者、思想領袖、以及具備全球影響力的台灣人，彙集成《2022 台灣區塊鏈 […]\n2022台灣區塊鏈影響力人物榜 #NFT 領域〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023-nft/",
+          "publishedOn": "2022-12-31T13:31:47.000Z",
+          "wordCount": 2988,
+          "title": "2022台灣區塊鏈影響力人物榜 #NFT 領域",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/NFT-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204926",
+          "author": "luc:",
+          "description": "動區團隊從各領域精選近 40 位卓越領導者、思想領袖、以及具備全球影響力的台灣人，彙集成《2022 台灣區塊鏈 […]\n2022台灣區塊鏈影響力人物榜 #交易所 #VC類〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023-exchange-and-vc/",
+          "publishedOn": "2022-12-31T13:18:34.000Z",
+          "wordCount": 3908,
+          "title": "2022台灣區塊鏈影響力人物榜 #交易所 #VC類",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/VC-Exchange-1-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204844",
+          "author": "Joe",
+          "description": "動區團隊從各領域精選近 40 位卓越領導者、思想領袖、以及具備全球影響力的台灣人，彙集成《2022 台灣區塊鏈 […]\n2022台灣區塊鏈影響力人物榜 #國際影響力人士 #政策倡議團體名單〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023-influencer-and-advocacy-coalition/",
+          "publishedOn": "2022-12-31T13:14:24.000Z",
+          "wordCount": 2815,
+          "title": "2022台灣區塊鏈影響力人物榜 #國際影響力人士 #政策倡議團體名單",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/Global-influencer-Politician-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=204932",
+          "author": "0xJigglypuff",
+          "description": "動區團隊從各領域精選近 40 位卓越領導者、思想領袖、以及具備全球影響力的台灣人，彙集成《2022 台灣區塊鏈 […]\n2022台灣區塊鏈影響力人物榜 #KOL、社群主〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/taiwanese-blockchain-influencers-predictions-for-2023-kol/",
+          "publishedOn": "2022-12-31T13:04:40.000Z",
+          "wordCount": 2729,
+          "title": "2022台灣區塊鏈影響力人物榜 #KOL、社群主",
+          "imageUrl": "https://storage.googleapis.com/image.blocktempo.com/2022/12/KOL-1-scaled.jpg"
+        },
         {
           "id": "https://www.blocktempo.com/?p=204996",
           "author": "Natalia Wu",
@@ -2491,6 +2575,26 @@
       "feedUrl": "https://blockworks.co/feed/",
       "siteUrl": "https://blockworks.co",
       "articles": [
+        {
+          "id": "https://blockworks.co/news/crypto-skeptics-were-right",
+          "author": null,
+          "description": "Throughout the decline in digital asset prices this year, a handful of crypto critics began to suspect something more was amiss",
+          "link": "https://blockworks.co/news/crypto-skeptics-were-right",
+          "publishedOn": "2023-01-01T21:00:00.000Z",
+          "wordCount": 18159,
+          "title": "In 2022, These Crypto Skeptics Turned Out To Be Right",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2023/01/crypto-skeptics.jpg"
+        },
+        {
+          "id": "https://blockworks.co/news/5-defi-trends-2023",
+          "author": null,
+          "description": "From a push for real-world asset adoption to a continued focus on ZK rollups, here’s what you may be able to expect in the DeFi space in 2023",
+          "link": "https://blockworks.co/news/5-defi-trends-2023",
+          "publishedOn": "2023-01-01T17:00:00.000Z",
+          "wordCount": 17989,
+          "title": "5 Trends in DeFi for 2023",
+          "imageUrl": "https://cms.blockworks.co/wp-content/uploads/2022/12/DeFi-2023.jpg"
+        },
         {
           "id": "https://blockworks.co/news/believe-in-crypto-2023",
           "author": null,
@@ -5085,6 +5189,46 @@
       "feedUrl": "https://www.chainfeeds.xyz/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Moledao 顾问、SeeDAO 成员 0xkookoo 撰写的一篇关于如何快速角色化进入 Web3 的综述文章，包括按照时间线、领域及角色划分的「Web3 全景概述」，以及 Web3 学习方法及资源汇总，含有大量链接，适合所有 Web3 初学者及行业从业者收藏。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk\">https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk</a></p>\n<p><strong>文章作者：</strong></p><p>0xkookoo</p><hr><h3>观点：</h3><p><strong>0xkookoo：</strong>Web3 这个名词代表了人们对自由的向往，想要通过一系列新技术构建出一个理想的新国度，在这里每一个人都是主权个人。一个人的力量是有限的，通过将所有的工作纵向分为多个层次，横向拆为多个赛道，良好的分工使得问题可以被分解，从而更好地被解决掉。</p><a href=\"https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk\">内容来源</a><p><strong>0xkookoo：</strong>随着越来越多优秀的人才涌进来，单个赛道的问题逐渐得到解决，最终我们一定会需要解决跨赛道的共性问题。因此将基础设施做到位，至少从技术角度保证可行性和安全性，从应用上保证易用性和趣味性，最后再从商业模式上保证可持续性，未来整个行业一定会是生机蓬勃！</p><a href=\"https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk\">内容来源</a>",
+          "link": "https://mirror.xyz/0xkookoo.eth/BF7jfmieDL4AxzQKRuyCF0MzZ7mmmrVlCuF5CRoAbAk",
+          "publishedOn": "2023-01-01T05:47:59.000Z",
+          "wordCount": 6244,
+          "title": "如何快速角色化进入 Web3：Web3 全景概述及学习方法、资源梳理",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/Q-2RGSxxwkFPZGoYIhjGt.png?height=586&width=1172&h=586&w=1172&auto=compress"
+        },
+        {
+          "id": "https://twitter.com/0xJamesXXX/status/1609266991059341317",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>推特 KOL The DeFi Investor 梳理 40 多个潜力 DeFi 相关协议项目的「未来路线图」，可从这些项目的 Roadmap 中一窥 2023 年可预见的 DeFi 赛道蓝图。本长推的中文版由 iZUMi Finance 研究总监 JamesX 编译发布。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">https://twitter.com/0xJamesXXX/status/1609266991059341317</a></p>\n<p><strong>文章作者：</strong></p><p>JamesX（iZUMi Research）</p><hr><h3>观点：</h3><p><strong>CapitalismLab：</strong>根据这 40 个协议的路线图，我总结一下明年 DeFi 的五大趋势：1. DEX 高效率化，类似 Uniswap V3 的集中流动性方案；2. DEX / 借贷 协议纷纷开始做稳定币；3. 多链化，一般是 EVM 公链间的扩展；4. 去中心化，进一步优化链上治理；5. 衍生品赛道激战，GMX/GNS 仿盘和 Lego 涌现。</p><a href=\"https://twitter.com/NintendoDoomed/status/1609451307634692097\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>【Curve 路线图】推出 crvUSD 稳定币；该协议将使用一种名为 LLAMMA 的新型清算 AMM 算法，以防止清算惩罚；LLAMMA 将逐步清算借款人的头寸，而不是一次性清算。</p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>【AAVE 路线图】GHO 稳定币；AAVE 借记卡；一个用于社交媒体和 DeFi 服务的 AAVE 应用程序； 一个与代币持有人分享收入的模式。</p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>【GMX 路线图】部署合成资产，允许无权限创建新市场和其他改进；在 Avalanche 上进行新的交易竞赛；开发 X4 交易所，一个让资金池创建者完全控制其资金池的新型 AMM。</p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>【dYdX 路线图】dYdX V4，一个新版本的协议，将被部署在 dYdX 自己的 Cosmos 链上；dYdX V4 的目标是在不牺牲可扩展性的情况下构建成完全去中心化的协议。</p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">内容来源</a><p><strong>JamesX（iZUMi Research）：</strong>【Chainlink 路线图】推出跨链互操作性协议，实现跨链 dApps；新的 tokenomics 改进；为 DeFi 衍生品市场（GMX、Synthetix）开发一个新的低延迟 Oracle 解决方案。</p><a href=\"https://twitter.com/0xJamesXXX/status/1609266991059341317\">内容来源</a>",
+          "link": "https://twitter.com/0xJamesXXX/status/1609266991059341317",
+          "publishedOn": "2023-01-01T02:36:59.000Z",
+          "wordCount": 470,
+          "title": "【长推】DeFi 赛道蓝图：40 多个潜力 DeFi 协议「未来路线图」梳理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.prnewswire.com/news-releases/ftx-debtors-provide-information-concerning-bahamas-crypto-seizure-301711610.html",
+          "author": null,
+          "description": "<h3>FTX 债权人公布巴哈马当局扣押加密货币的地址，当前价值约为 1.67 亿美元</h3>\n<p>FTX 债权人提供有关巴哈马当局此前扣押 FTX 交易所加密货币的相关地址，并要求巴哈马证券交易委员会归还所扣押的加密资产。此前信息显示，2022 年 11 月 12 日，巴哈马证券交易委员会要求 FTX 交易所将部分数字资产转移至 Fireblocks 钱包，并声称转移时价值超过 35 亿美元。据 Etherscan 数据显示，该地址目前持有约 1938.41 枚以太坊以及近 1.96 亿枚 FTT，当前总价值约为 1.67 亿美元。</p>\n<p><a href=\"https://www.prnewswire.com/news-releases/ftx-debtors-provide-information-concerning-bahamas-crypto-seizure-301711610.html\">内容来源</a></p><hr>",
+          "link": "https://www.prnewswire.com/news-releases/ftx-debtors-provide-information-concerning-bahamas-crypto-seizure-301711610.html",
+          "publishedOn": "2023-01-01T02:09:55.000Z",
+          "wordCount": 1868,
+          "title": "FTX 债权人公布巴哈马当局扣押加密货币的地址，当前价值约为 1.67 亿美元",
+          "imageUrl": "https://mma.prnewswire.com/media/1950453/FTX_Logo.jpg?p=facebook"
+        },
+        {
+          "id": "https://twitter.com/GRDecter/status/1608937814003154945",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Grit Captal 首席执行官、推特财经 KOL Genevieve Roch-Decter 总结提炼出高盛、摩根大通及贝莱德等大型金融机构关于 2023 年宏观展望的观点。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/GRDecter/status/1608937814003154945\">https://twitter.com/GRDecter/status/1608937814003154945</a></p>\n<p><strong>文章作者：</strong></p><p>Genevieve Roch-Decter</p><hr><h3>观点：</h3><p><strong>Genevieve Roch-Decter：</strong>高盛（Goldman Sachs）预计 2023 年全球经济增长率将降低至 1.8%，归因为「中国坎坷的重新开放」和「欧洲经济衰退」的负面催化剂。相比于银行全年不断降低其增长预测，目前高盛的预测高于市场普遍预期。【原文为英文】</p><a href=\"https://twitter.com/GRDecter/status/1608937815538274305\">内容来源</a><p><strong>Genevieve Roch-Decter：</strong>贝莱德（BlackRock）在其 2023 年的预测中勾画出更为严峻的前景，「经济活动和通货膨胀基本稳定的四个十年时期，已经过去了，更大的宏观和市场波动的新机制正在上演。 本质上，游戏已经改变了。」贝莱德（BlackRock）表示，预计像过去的牛市不会再重现，投资者需要新的剧本。以下是新规则：股权，尤其是成长股类型的将会继续下跌；世界将习惯长期通胀高于 2%。【原文为英文】</p><a href=\"https://twitter.com/GRDecter/status/1608937818830811137\">内容来源</a><p><strong>Genevieve Roch-Decter：</strong>摩根大通（JP Morgan）总结其 2023 年的预测，「对经济来说是糟糕的一年，对市场来说是更好的一年。」不用担心房地产崩盘，因为有限的房屋存量将支撑房价。目前房屋存量仍不到 2008 年的一半。【原文为英文】</p><a href=\"https://twitter.com/GRDecter/status/1608937817446690816\">内容来源</a><p><strong>Genevieve Roch-Decter：</strong>德意志银行（Deutsche Bank）预计通胀将迅速得到抑制，预测美国 CPI 为 4.1%。德意志银行认为，「市场已经消化了当前的通胀水平，如果通胀继续下降，股市将在 2023 年迎来开门红。」【原文为英文】</p><a href=\"https://twitter.com/GRDecter/status/1608937821737463808\">内容来源</a><p><strong>Genevieve Roch-Decter：</strong>阿波罗管理公司（Apollo Global Management）认为，「虽然通货膨胀率正在下降，但不会很快发生从历史上看，通货膨胀率从峰值回到 2% 需要整整 2 年的时间。」【原文为英文】</p><a href=\"https://twitter.com/GRDecter/status/1608937823318732804\">内容来源</a>",
+          "link": "https://twitter.com/GRDecter/status/1608937814003154945",
+          "publishedOn": "2023-01-01T01:14:36.000Z",
+          "wordCount": 470,
+          "title": "【英文长推】2023 年全球宏观展望：高盛、摩根大通及贝莱德等金融机构报告要点",
+          "imageUrl": null
+        },
         {
           "id": "https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/",
           "author": null,
@@ -9472,6 +9616,26 @@
       "feedUrl": "http://feeds.feedburner.com/Coindesk",
       "siteUrl": "https://www.coindesk.com",
       "articles": [
+        {
+          "id": "P75JAMT6TJE4LF7C7Y7NGXCAUE",
+          "author": "George Kaloudis",
+          "description": "Some miners have held onto the bitcoin they mined, opting instead to finance operations with debt and other capital, which works really well – until it doesn’t.",
+          "link": "https://www.coindesk.com/markets/2023/01/01/what-will-it-take-for-bitcoin-mining-companies-to-survive-in-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-01-01T16:50:00.000Z",
+          "wordCount": 22120,
+          "title": "What Will It Take for Bitcoin Mining Companies to Survive in 2023?",
+          "imageUrl": "https://www.coindesk.com/resizer/Qexn1SWbVkkjlTMY2O6VSaAn0Rw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JZ3RPH7C5FCOZHDZSR5NEUKMZM.jpg"
+        },
+        {
+          "id": "VU4UTXLTYJEFVDMNV3QBJ5KCCQ",
+          "author": "Camomile Shumba",
+          "description": "The measures now in effect are part of the government's plans to turn the country into a crypto hub.",
+          "link": "https://www.coindesk.com/policy/2023/01/01/uk-enforces-crypto-tax-break-for-foreigners-using-local-brokers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-01-01T10:00:00.000Z",
+          "wordCount": 20663,
+          "title": "UK Enforces Crypto Tax Break for Foreigners Using Local Brokers",
+          "imageUrl": "https://www.coindesk.com/resizer/7Ra_HyGNy2K5193FdIoi5p3aLZ8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MV6PTC2YKZD5FKJNXZYKXRJ6AY.jpg"
+        },
         {
           "id": "FJXGT4UPBRC2XGG7OT3ESG2GK4",
           "author": "Eli Tan",
