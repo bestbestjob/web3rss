@@ -6,6 +6,22 @@
       "siteUrl": "https://chainfeeds.substack.com",
       "articles": [
         {
+          "id": "https://chainfeeds.substack.com/p/rgb-brc-20-token",
+          "author": "Jewelry",
+          "description": "ChainFeeds Newsletter 每日精选 10 条 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策",
+          "link": "https://chainfeeds.substack.com/p/rgb-brc-20-token",
+          "publishedOn": "2023-05-10T01:39:25.000Z",
+          "wordCount": null,
+          "title": "行研早报｜观点：一级市场即将走到至暗时刻、解读比特币 RGB 原理及进展、BRC-20 上链的意义与 「客户端验证」：为什么不该继续购买用这些 「协议」 发行的 token？",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42c0c2f1-69e8-422a-8d29-5474792477e3_1600x810.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42c0c2f1-69e8-422a-8d29-5474792477e3_1600x810.png"
+        },
+        {
           "id": "https://chainfeeds.substack.com/p/nft-ordinals-brc-20-bitcoin-stamps",
           "author": "0xNatalie",
           "description": "关于比特币 NFT 的投研信息汇总，ChainFeeds 带你梳理发掘价值信息。",
@@ -468,22 +484,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1d8daa6-c9de-4c12-8a1e-d0354cb812bc_1600x810.png"
-        },
-        {
-          "id": "https://chainfeeds.substack.com/p/a16z-nft-wave-mint-dex-trader-joepancakeswapcame",
-          "author": "小毛哥",
-          "description": "「ChainFeeds Selection 行研早报」精选 Web3 行业每日最值得关注的事件和来自专家的观点解读",
-          "link": "https://chainfeeds.substack.com/p/a16z-nft-wave-mint-dex-trader-joepancakeswapcame",
-          "publishedOn": "2023-04-11T01:37:47.000Z",
-          "wordCount": null,
-          "title": "早报｜六个角度浅析亚洲加密市场概况、a16z：一文读懂 NFT 新发行策略 Wave Mint、速览 DEX 领域创新发展：Trader Joe、PancakeSwap、Camelot",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9eba952-0e95-47ef-9482-c9a7051a0975_1600x810.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9eba952-0e95-47ef-9482-c9a7051a0975_1600x810.png"
         }
       ]
     },
@@ -492,6 +492,106 @@
       "feedUrl": "https://www.blocktempo.com/feed/",
       "siteUrl": "https://www.blocktempo.com",
       "articles": [
+        {
+          "id": "https://www.blocktempo.com/?p=235740",
+          "author": "Joe",
+          "description": "美國昨晚公布 4 月消費者物價指數（CPI）低於預期後，比特幣一度跳漲；但隨即又快速下殺，最低跌至 26,77 […]\n美國CPI降溫》比特幣「多空雙殺」一度跌破2.7萬鎂、以太坊下穿1800〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/us-cpi-cools-down-bitcoin-briefly-fell-below-27000/",
+          "publishedOn": "2023-05-11T00:44:10.000Z",
+          "wordCount": 2088,
+          "title": "美國CPI降溫》比特幣「多空雙殺」一度跌破2.7萬鎂、以太坊下穿1800",
+          "imageUrl": "https://image.blocktempo.com/2023/05/Xnip2023-05-11_08-23-06-1.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235697",
+          "author": "AC",
+          "description": "NFT 借貸協議 ParaSpace 今日下午傳出內部糾紛與挪用資產疑雲，創辦人 Yubo 出面澄清表示：「沒 […]\nParaSpace宮鬥劇》團隊、創辦人開直播互嗆「預謀捲款、意圖篡位」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/paraspace-founder-faces-allegations-of-misappropriating-user-assets/",
+          "publishedOn": "2023-05-10T13:02:51.000Z",
+          "wordCount": 2120,
+          "title": "ParaSpace宮鬥劇》團隊、創辦人開直播互嗆「預謀捲款、意圖篡位」",
+          "imageUrl": "https://image.blocktempo.com/2023/05/截圖-2023-05-10-下午90011-scaled.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235374",
+          "author": "PANews",
+          "description": "Sui Network 主網在 5 月 3 日上線，並發行了原生代幣，Sui 生態項目也開始陸續上線，並開始進 […]\nSui生態上線！值得關注的10個DeFi專案〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/suis-top-10-defi-projects/",
+          "publishedOn": "2023-05-10T11:58:23.000Z",
+          "wordCount": 2530,
+          "title": "Sui生態上線！值得關注的10個DeFi專案",
+          "imageUrl": "https://image.blocktempo.com/2023/05/2023-05-10-10-42-20.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235384",
+          "author": "深潮",
+          "description": "以太坊上的代幣化保險庫實際上並不是什麼新鮮事物，但卻存在一個問題：沒有統一的標準，因此本文將詳細介紹 EIP- […]\n讀懂以太坊EIP-4626：「代幣化保險庫」的通用標準〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/what-is-ethereum-eip-4625/",
+          "publishedOn": "2023-05-10T11:57:41.000Z",
+          "wordCount": 2023,
+          "title": "讀懂以太坊EIP-4626：「代幣化保險庫」的通用標準",
+          "imageUrl": "https://image.blocktempo.com/2023/05/EZwkHrFU-3bgudh0jjsaq2wp.webp"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235649",
+          "author": "PANews",
+          "description": "隨著經濟發展的變化，DeFi產業也在逐漸適應與發展，不過 DeFi 收益率逐漸衰退，甚至收益率低於低風險的傳統 […]\n現實資產RWA賽道來了！速看鏈上「美國債生態專案」生態發展〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/the-rwa-narrative-is-getting-hotter/",
+          "publishedOn": "2023-05-10T11:31:55.000Z",
+          "wordCount": 2899,
+          "title": "現實資產RWA賽道來了！速看鏈上「美國債生態專案」生態發展",
+          "imageUrl": "https://image.blocktempo.com/2023/05/pexels-karolina-grabowska-4386395.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235591",
+          "author": "BTEditor",
+          "description": "工欲善其事，必先利其器，玩迷因幣之前想要提高勝率，想要降低歸零風險，本文將介紹多項必備工具。本文源自 @ric […]\n3年老鳥傳授！玩迷因幣、追土狗必備9個鏈上工具〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/9-must-have-tools-for-meme-token/",
+          "publishedOn": "2023-05-10T11:29:15.000Z",
+          "wordCount": 2036,
+          "title": "3年老鳥傳授！玩迷因幣、追土狗必備9個鏈上工具",
+          "imageUrl": "https://image.blocktempo.com/2023/05/截圖-2023-05-10-下午51917-1.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235688",
+          "author": "Joe",
+          "description": "OpenAI（ChatGPT開發商）執行長 Sam Altman 打造的加密貨幣項目 Worldcoin 本週 […]\n免費鑄造！Worldcoin 推出「Introducing World App」紀念 NFT〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/worldcoin-launches-introducing-world-app-commemorative-nft/",
+          "publishedOn": "2023-05-10T10:48:33.000Z",
+          "wordCount": 2201,
+          "title": "免費鑄造！Worldcoin 推出「Introducing World App」紀念 NFT",
+          "imageUrl": "https://image.blocktempo.com/2023/05/Xnip2023-05-10_18-45-39.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235661",
+          "author": "AC",
+          "description": "（前情提要：Blend累積貸款達5萬枚ETH！分析師：巨大泡沫「恐帶崩NFT」） （背景補充：早買PEPE的人 […]\n快訊》NFT借貸協議ParaSpace傳內鬨、挪用資金，大量用戶正撤出資金〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/paraspace-internal-disputesusers-are-withdrawing-funds/",
+          "publishedOn": "2023-05-10T10:27:06.000Z",
+          "wordCount": 1988,
+          "title": "快訊》NFT借貸協議ParaSpace傳內鬨、挪用資金，大量用戶正撤出資金",
+          "imageUrl": "https://image.blocktempo.com/2023/05/paraspace-cv-230214-350x250-1.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235473",
+          "author": "Joe",
+          "description": "由 Solana x Jump x Circle 共同舉辦的 Taipei Hacker House 正式於本 […]\n動區直擊》Solana Hacker House盛大開幕！洞悉Web3趨勢，亮點活動一次看〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/solana-hacker-house-officially-opens-in-taipei/",
+          "publishedOn": "2023-05-10T10:26:09.000Z",
+          "wordCount": 2252,
+          "title": "動區直擊》Solana Hacker House盛大開幕！洞悉Web3趨勢，亮點活動一次看",
+          "imageUrl": "https://image.blocktempo.com/2023/05/Xnip2023-05-10_18-16-19-1.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=235606",
+          "author": "James",
+          "description": "中國上海市人民檢察院第二分院今日刊文指出，隨著虛擬貨幣興起，該院日前破獲了一起以虛擬貨幣為媒介非法買賣外匯的新 […]\n上海檢察院警告：外匯透過加密貨幣出金，屬「非法買賣」行為〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
+          "link": "https://www.blocktempo.com/chinese-use-virtual-currencies-for-illegal-forex-trading/",
+          "publishedOn": "2023-05-10T10:15:38.000Z",
+          "wordCount": 1937,
+          "title": "上海檢察院警告：外匯透過加密貨幣出金，屬「非法買賣」行為",
+          "imageUrl": "https://image.blocktempo.com/2023/05/China-Makes-Cryptocurrency-Transactions-Illegal-An-Explainer.jpg"
+        },
         {
           "id": "https://www.blocktempo.com/?p=235296",
           "author": "Graham",
@@ -3221,106 +3321,6 @@
           "wordCount": 2022,
           "title": "韓國交易所Coinone上幣主管疑「收20億韓元賄賂」遭捕！上架龐式項目",
           "imageUrl": "https://image.blocktempo.com/2023/04/image-2023-04-12T012718997.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226756",
-          "author": "PANews",
-          "description": "2023 香港 Web3 嘉年華將在本周拉開帷幕，但在亞洲市場中並非只有香港在爭奪未來加密貨幣市場的地位，本文 […]\n香港Web3嘉年華熱火朝天，成了亞洲加密市場的「期中考」？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/the-hong-kong-web3-carnival-is-coming-soon-the-development-status-and-thinking-of-the-asian-encryption-market/",
-          "publishedOn": "2023-04-11T11:28:19.000Z",
-          "wordCount": 2301,
-          "title": "香港Web3嘉年華熱火朝天，成了亞洲加密市場的「期中考」？",
-          "imageUrl": "https://image.blocktempo.com/2023/04/tokyo_japan.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226679",
-          "author": "James",
-          "description": "美國證券交易委員會（SEC）投資者諮詢委員會（IAC）在上週四致函 SEC 主席 Gary Gensler ， […]\nSEC諮詢委員力挺嚴格執法：幾乎所有加密貨幣「都是證券」！〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/iac-views-on-crypto-assets/",
-          "publishedOn": "2023-04-11T11:07:04.000Z",
-          "wordCount": 2010,
-          "title": "SEC諮詢委員力挺嚴格執法：幾乎所有加密貨幣「都是證券」！",
-          "imageUrl": "https://image.blocktempo.com/2023/04/2023-04-11-16-53-07.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226650",
-          "author": "SAKE",
-          "description": "在北京和香港當局支持下，「香港 Web3.0 協會」今（11）日下午在港成立，會長由香港金管局前總裁陳德霖擔任 […]\n香港概念拼圖的「最後一塊」，如何解讀中國主導的Web3協會浮出水面？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/the-final-piece-of-hong-kong-conceptual-puzzle/",
-          "publishedOn": "2023-04-11T11:03:49.000Z",
-          "wordCount": 2146,
-          "title": "香港概念拼圖的「最後一塊」，如何解讀中國主導的Web3協會浮出水面？",
-          "imageUrl": "https://image.blocktempo.com/2023/04/hk-movies-header-16-9-1-1.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226750",
-          "author": "Joe",
-          "description": "隨著比特幣今年迄今超過 70% 的強漲，美國上市公司 BTC 持幣霸主微策略（MicroStrategy）時隔 […]\n快訊》微策略比特幣回本了！BTC持倉已超越公司市值〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/microstrategy-bitcoin-holdings-floating-profit-again-after-10-months/",
-          "publishedOn": "2023-04-11T10:18:43.000Z",
-          "wordCount": 1994,
-          "title": "快訊》微策略比特幣回本了！BTC持倉已超越公司市值",
-          "imageUrl": "https://image.blocktempo.com/2023/04/p930239ht-1.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226682",
-          "author": "Everest Ventures Group（EVG）",
-          "description": "眾所矚目的以太坊上海升級暫定於 4 月 13 日進行，本文將重點分析升級後是否會迎來拋售潮，是否會產生大幅幣價 […]\n上海升級後恐迎以太坊大災難？LSD 賽道前景分析〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/the-upgraded-ethereum-in-shanghai-the-prospect-of-sell-off-wave-and-stacking-field/",
-          "publishedOn": "2023-04-11T09:54:18.000Z",
-          "wordCount": 2574,
-          "title": "上海升級後恐迎以太坊大災難？LSD 賽道前景分析",
-          "imageUrl": "https://image.blocktempo.com/2023/04/截圖-2023-04-11-下午60222.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226573",
-          "author": "Helio",
-          "description": "據加密貨幣交易所 Bitfinix 於 10 日發布的研究報告指出，以太幣的看跌 / 看漲期權的未平倉合約比率 […]\nETH看漲期權巨量平倉！Bitfinex報告：以太坊上海升級前，合約比創1年新高〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/bitfinex-report-a-large-number-of-eth-call-options-are-liquidated/",
-          "publishedOn": "2023-04-11T09:47:43.000Z",
-          "wordCount": 2267,
-          "title": "ETH看漲期權巨量平倉！Bitfinex報告：以太坊上海升級前，合約比創1年新高",
-          "imageUrl": "https://image.blocktempo.com/2023/04/截圖-2023-04-11-下午42342.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226610",
-          "author": "James",
-          "description": "隨著比特幣持續走揚，美國銀行（Bank Of America ）、富達（Fidelity）也在第一季大舉增持上 […]\n機構看好比特幣！美國銀行、富達Q1大量增持「微策略股票」間接曝險BTC〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/bank-of-america-and-fidelity-held-microstrategy-shares/",
-          "publishedOn": "2023-04-11T09:30:52.000Z",
-          "wordCount": 2084,
-          "title": "機構看好比特幣！美國銀行、富達Q1大量增持「微策略股票」間接曝險BTC",
-          "imageUrl": "https://image.blocktempo.com/2023/04/2023-04-11-14-49-11.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226671",
-          "author": "BTEditor",
-          "description": "加密貨幣交易所 JPEX 與全球推廣大使「流浪動物保護協會」攜手合作救助流浪毛孩，為社會貢獻一份心力。 （相關 […]\nJPEX在台推動「流浪動物救援計劃」，與動保協會暖心合作〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/jpex-supports-stray-animal-rescue-program-in-taiwan/",
-          "publishedOn": "2023-04-11T09:04:39.000Z",
-          "wordCount": 2043,
-          "title": "JPEX在台推動「流浪動物救援計劃」，與動保協會暖心合作",
-          "imageUrl": "https://image.blocktempo.com/2023/04/jpex_banner106_1181x589_zh-1024x511-1.jpeg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226649",
-          "author": "Joe",
-          "description": "社交媒體巨頭推特在被馬斯克收購後，最新法律文件表示 Twitter Inc. 已併入 X Holdings C […]\n推特要沒了？馬斯克「X集團」合併Twitter，為超級App X鋪路〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/musk-x-group-merges-with-twitter/",
-          "publishedOn": "2023-04-11T08:34:40.000Z",
-          "wordCount": 2043,
-          "title": "推特要沒了？馬斯克「X集團」合併Twitter，為超級App X鋪路",
-          "imageUrl": "https://image.blocktempo.com/2023/04/skynews-elon-musk-twitter_5938597.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=226484",
-          "author": "Joe",
-          "description": "比特幣（BTC）今日最高突破 3 萬美元，創下 10 個月來新高、以太坊則突破 1920 美元。大行情下，全網 […]\n急拉！比特幣突破3萬鎂大關、以太坊破1920；創去年6月以來新高〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/bitcoin-hits-the-30000-mark-tiktok-can-check-the-price-of-btc/",
-          "publishedOn": "2023-04-11T00:39:09.000Z",
-          "wordCount": 2045,
-          "title": "急拉！比特幣突破3萬鎂大關、以太坊破1920；創去年6月以來新高",
-          "imageUrl": "https://image.blocktempo.com/2023/04/Xnip2023-04-11_08-57-28.jpg"
         }
       ]
     },
@@ -3329,6 +3329,216 @@
       "feedUrl": "https://blockworks.co/feed/",
       "siteUrl": "https://blockworks.co",
       "articles": [
+        {
+          "id": "https://blockworks.co/news/robinhood-crypto-on-uptic",
+          "author": null,
+          "description": "Robinhood’s crypto-related revenues overall appear to be stabilizing off of fourth quarter lows",
+          "link": "https://blockworks.co/news/robinhood-crypto-on-uptic",
+          "publishedOn": "2023-05-10T22:11:13.000Z",
+          "wordCount": 18536,
+          "title": "Robinhood’s Crypto Custody Hits $11.5B in Q1",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Robinhood-vlad-tenev.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/franklin-templeton-latest-crypto-ambition",
+          "author": null,
+          "description": "An SEC filing on Wednesday for a Franklin Templeton blockchain private equity fund appears to be the asset manager’s latest move into crypto",
+          "link": "https://blockworks.co/news/franklin-templeton-latest-crypto-ambition",
+          "publishedOn": "2023-05-10T21:55:16.000Z",
+          "wordCount": 18796,
+          "title": "Blockchain Private Equity Fund Franklin Templeton’s Latest Crypto Ambition",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Franklin-Templeton.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/circle-backs-usdc-shorter-treasurys",
+          "author": null,
+          "description": "The US has never “intentionally defaulted on obligations” before, but that’s not stopping Circle from preparing for the worst",
+          "link": "https://blockworks.co/news/circle-backs-usdc-shorter-treasurys",
+          "publishedOn": "2023-05-10T21:28:44.000Z",
+          "wordCount": 18833,
+          "title": "Circle Backs USDC With Shorter US Treasurys, Worries US Government Will Default",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/02/circle.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/wyoming-gov-stablecoin-commission",
+          "author": null,
+          "description": "This meeting is the first step toward stablecoin creation in the state since the passage of the Wyoming Stable Token Act in March",
+          "link": "https://blockworks.co/news/wyoming-gov-stablecoin-commission",
+          "publishedOn": "2023-05-10T21:19:17.000Z",
+          "wordCount": 18990,
+          "title": "Wyoming Gov Wants Stablecoin Commission to Follow the ‘Letter of the Law’",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/wyoming-stablecoin.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/binance-focuses-on-uk",
+          "author": null,
+          "description": "The ongoing legal battle between Coinbase and the SEC has Binance questioning the regulatory environment in the US",
+          "link": "https://blockworks.co/news/binance-focuses-on-uk",
+          "publishedOn": "2023-05-10T21:00:25.000Z",
+          "wordCount": 19612,
+          "title": "Binance Focuses on UK as US Makes it ‘Very Difficult’ to do Business: CSO",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Binance-UK.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/aragon-dao-may-be-restructuring-to-get-ahead-of-swiss-regulations",
+          "author": null,
+          "description": "If ANT token holders profit from the DAO’s treasury, it may no longer be considered a utility token under Swiss laws",
+          "link": "https://blockworks.co/news/aragon-dao-may-be-restructuring-to-get-ahead-of-swiss-regulations",
+          "publishedOn": "2023-05-10T20:52:53.000Z",
+          "wordCount": 19652,
+          "title": "Aragon DAO May Be Restructuring to Get Ahead of Swiss Regulations",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/switzerland.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/grayscale-etf-bid-spot-bitcoin-fund-prospects",
+          "author": null,
+          "description": "The SEC approving a fund that holds bitcoin ETPs — products it has previously denied — would make it look silly, Bloomberg Intelligence analyst says",
+          "link": "https://blockworks.co/news/grayscale-etf-bid-spot-bitcoin-fund-prospects",
+          "publishedOn": "2023-05-10T20:33:17.000Z",
+          "wordCount": 20072,
+          "title": "What Grayscale’s ETF Bid Signals — or Doesn’t — About Spot Bitcoin Fund Prospects",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/tug-of-war-grayscale.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/south-korea-token-investigation-politics",
+          "author": null,
+          "description": "Kim Nam-kuk, a member of South Korea’s Democratic Party, is said to have owned 800,000 wemix coins in 2021",
+          "link": "https://blockworks.co/news/south-korea-token-investigation-politics",
+          "publishedOn": "2023-05-10T17:30:37.000Z",
+          "wordCount": 18824,
+          "title": "South Korean Politician’s Own Party Will Investigate Him for Irregular Token Trading",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/southkorea.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/eu-ambassadors-crypto-tax",
+          "author": null,
+          "description": "DAC8 proposes that crypto asset service providers report client transactions to counter tax-related criminal activities such as tax evasion",
+          "link": "https://blockworks.co/news/eu-ambassadors-crypto-tax",
+          "publishedOn": "2023-05-10T16:59:37.000Z",
+          "wordCount": 19452,
+          "title": "EU One Step Closer to Adopting New Rules on Sharing Crypto Tax Data",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/EUambassadors.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/customizable-rollups-across-blockchains",
+          "author": null,
+          "description": "Eclipse aims to provide interoperability and customizability to blockchain applications",
+          "link": "https://blockworks.co/news/customizable-rollups-across-blockchains",
+          "publishedOn": "2023-05-10T16:46:06.000Z",
+          "wordCount": 19817,
+          "title": "Have Your Cake and Eat it Too? Customizable Rollups Across Blockchains",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/slice-of-cake.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/self-custody-wallets-need-identities",
+          "author": null,
+          "description": "Bill Foster doubles down on his favorite point: The crypto industry needs license plate-like identities to track illicit activity",
+          "link": "https://blockworks.co/news/self-custody-wallets-need-identities",
+          "publishedOn": "2023-05-10T16:29:50.000Z",
+          "wordCount": 19409,
+          "title": "Democratic Rep Says Self-Custody Wallets Should Have Federal Digital Identities",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/digital-id-.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/5-firms-bashing-sec-proposed-custody-rule",
+          "author": null,
+          "description": "A collection of top crypto asset managers, including Dragonfly Digital and Electric Capital, are the latest to dissent to the SEC’s new proposed custody rules",
+          "link": "https://blockworks.co/news/5-firms-bashing-sec-proposed-custody-rule",
+          "publishedOn": "2023-05-10T16:04:03.000Z",
+          "wordCount": 19854,
+          "title": "Bain Capital Crypto Among 5 Firms Bashing SEC’s Proposed Custody Rule",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/SEC-bkcoin-1.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/twitter-hacker-extradited-pleads-guilty",
+          "author": null,
+          "description": "Joseph James O’Connor, or PlugwalkJoe, has been charged with stealing over $794,000 worth of crypto",
+          "link": "https://blockworks.co/news/twitter-hacker-extradited-pleads-guilty",
+          "publishedOn": "2023-05-10T15:44:09.000Z",
+          "wordCount": 19810,
+          "title": "2020 Twitter Hacker Extradited to US, Pleads Guilty to Wire Fraud",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/twitter-hacker.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/former-cftc-chair-tether-commodity",
+          "author": null,
+          "description": "Tether inches closer to its all-time high market cap of $83.4 billion following comments from the former CFTC chair and the release of its assurance report",
+          "link": "https://blockworks.co/news/former-cftc-chair-tether-commodity",
+          "publishedOn": "2023-05-10T15:28:05.000Z",
+          "wordCount": 19538,
+          "title": "Former CFTC Chair Says Tether Is a Commodity as Stablecoin Rakes in $1.5B",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Tether-phishing-scam.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/chamber-of-commerce-backs-coinbase-sec-fight",
+          "author": null,
+          "description": "The Chamber of Commerce claims that the SEC “is causing great economic harm” with the lack of clear regulations for digital assets",
+          "link": "https://blockworks.co/news/chamber-of-commerce-backs-coinbase-sec-fight",
+          "publishedOn": "2023-05-10T14:46:32.000Z",
+          "wordCount": 20068,
+          "title": "Chamber of Commerce Backs Coinbase in SEC Fight With Scathing Amicus",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Chamber-of-Commerce.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/private-keys-regulation",
+          "author": null,
+          "description": "The anti-self-custody regulatory noises coming after the banking crises will hurt consumers, not help them",
+          "link": "https://blockworks.co/news/private-keys-regulation",
+          "publishedOn": "2023-05-10T14:04:13.000Z",
+          "wordCount": 20283,
+          "title": "Hands Off Our Self-custody",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/custody.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/cboe-ark-21shares-bitcoin-etf",
+          "author": null,
+          "description": "The proposed ETF, a collaboration between Cathie Wood’s Ark Invest and crypto investment product firm 21Shares, aims to list and trade on the Cboe BZX exchange",
+          "link": "https://blockworks.co/news/cboe-ark-21shares-bitcoin-etf",
+          "publishedOn": "2023-05-10T13:51:01.000Z",
+          "wordCount": 19456,
+          "title": "Cboe Makes Third Attempt to List ARK 21Shares Bitcoin ETF",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/cboe-bitcoin-etf.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/finance-lobbyists-uk-crypto-policy",
+          "author": null,
+          "description": "UK finance lobby groups caution on risks of crypto regulation after UK government sought feedback on proposals",
+          "link": "https://blockworks.co/news/finance-lobbyists-uk-crypto-policy",
+          "publishedOn": "2023-05-10T12:54:45.000Z",
+          "wordCount": 19719,
+          "title": "Finance Lobbyists Raise Red Flags on UK Crypto Policy",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/uk-chartered-accountants.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/blur-blend-nft-lo",
+          "author": null,
+          "description": "Azuki NFTs are proving the most popular with borrowers and lenders on the new Blur  peer-to-peer loans protocol, Blend",
+          "link": "https://blockworks.co/news/blur-blend-nft-lo",
+          "publishedOn": "2023-05-10T11:58:15.000Z",
+          "wordCount": 19901,
+          "title": "Blur Users Open $95M Loans Backed By NFTs in 10 Days",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/nftloans.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/goldman-sachs-blockchain-canton",
+          "author": null,
+          "description": "Crypto industry applauds Canton Network as effort to bring together stakeholders to address practical challenges",
+          "link": "https://blockworks.co/news/goldman-sachs-blockchain-canton",
+          "publishedOn": "2023-05-10T11:03:24.000Z",
+          "wordCount": 20530,
+          "title": "What Crypto Builders Have to Say About Goldman Sachs’ New Blockchain Bid",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/goldman-sachs-tower-jersey.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/binance-crypto-capital-connect",
+          "author": null,
+          "description": "Binance hopes its new platform, Capital Connect, will be a central hub for institutional investors seeking portfolio managers",
+          "link": "https://blockworks.co/news/binance-crypto-capital-connect",
+          "publishedOn": "2023-05-10T10:00:26.000Z",
+          "wordCount": 19739,
+          "title": "Binance Wants To Connect Crypto Funds With Institutional Capital",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/binancecapital.jpg&w=1920&q=75&webp=false"
+        },
         {
           "id": "https://blockworks.co/news/grayscale-angling-for-crypto-etfs",
           "author": null,
@@ -7048,186 +7258,6 @@
           "wordCount": 19827,
           "title": "South Korean Authorities ‘in the Process’ of Freezing Do Kwon’s Assets",
           "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/do-kwon-terra.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/a16z-state-of-crypto-is-complicated",
-          "author": null,
-          "description": "Venture capital firm uses 14 metrics to build new index seeking to track the crypto industry’s health",
-          "link": "https://blockworks.co/news/a16z-state-of-crypto-is-complicated",
-          "publishedOn": "2023-04-11T13:00:00.000Z",
-          "wordCount": 20287,
-          "title": "What’s the Current State of Crypto? It’s Complicated, a16z Data Suggests",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/crypto-markets-a16z.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/metropolis-spotting-faulty-smart-contract-permissions",
-          "author": null,
-          "description": "Exclusive: No technical expertise required to visualize smart contract permissions",
-          "link": "https://blockworks.co/news/metropolis-spotting-faulty-smart-contract-permissions",
-          "publishedOn": "2023-04-11T12:53:00.000Z",
-          "wordCount": 19792,
-          "title": "Metropolis Wants to Make It Easier To Spot Faulty Smart Contract Permissions",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/smart-contracts.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/wyre-crypto-ceo",
-          "author": null,
-          "description": "Exclusive: Crypto payments processor Wyre has elevated its interim CEO to lead the company through a potentially transformative period",
-          "link": "https://blockworks.co/news/wyre-crypto-ceo",
-          "publishedOn": "2023-04-11T12:30:00.000Z",
-          "wordCount": 20309,
-          "title": "Crypto Startup Wyre Cements CEO To Get Back to Growth",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/wyreceo.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/crypto-vc-deals-funding-galaxy",
-          "author": null,
-          "description": "Pre-seed VC deals proved popular across the crypto startup landscape last quarter, although total funding dropped slightly",
-          "link": "https://blockworks.co/news/crypto-vc-deals-funding-galaxy",
-          "publishedOn": "2023-04-11T12:01:42.000Z",
-          "wordCount": 19978,
-          "title": "Crypto Saw 20% More VC Deals In First Quarter: Galaxy",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/web3venture.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/sec-boost-crypto-enforcement",
-          "author": null,
-          "description": "General attorneys for the SEC’s Crypto Assets and Cyber Unit can earn between $140k to $260k depending on their location",
-          "link": "https://blockworks.co/news/sec-boost-crypto-enforcement",
-          "publishedOn": "2023-04-11T11:33:17.000Z",
-          "wordCount": 19817,
-          "title": "SEC Unit to Boost Crypto Enforcement Team",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/sec-seal-washington.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/riot-new-york-times-post",
-          "author": null,
-          "description": "For the NYT to compare bitcoin power usage to electricity in people’s homes is an “arbitrary, inflammatory, and political choice,” Riot said",
-          "link": "https://blockworks.co/news/riot-new-york-times-post",
-          "publishedOn": "2023-04-11T10:36:58.000Z",
-          "wordCount": 20146,
-          "title": "Riot Slams New York Times For ‘Inflammatory’ Bitcoin Mining Post",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/ny-times.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/fed-cbdc-robert-kennedy-fednow",
-          "author": null,
-          "description": "US politicians are warning of potential Fed overreach in the form of a CBDC, although there’s no formal proposal for one just yet",
-          "link": "https://blockworks.co/news/fed-cbdc-robert-kennedy-fednow",
-          "publishedOn": "2023-04-11T09:36:08.000Z",
-          "wordCount": 19856,
-          "title": "Fed-issued CBDC Is a Hot Topic This Campaign Season",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/kennedycbdc.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/bitcoin-price-quarter-omen",
-          "author": null,
-          "description": "Bitcoin performed very well in the first quarter of 2023, which usually converts to gains over the entire year",
-          "link": "https://blockworks.co/news/bitcoin-price-quarter-omen",
-          "publishedOn": "2023-04-11T07:58:57.000Z",
-          "wordCount": 19722,
-          "title": "Bitcoin Just Had Its 4th-best Quarter Ever — A ‘Good Omen’ For 2023",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/bitcoinquarter.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/crypto-pushes-through-headwinds",
-          "author": null,
-          "description": "Jobs numbers and fears of further rate hikes may be dragging traditional markets down",
-          "link": "https://blockworks.co/news/crypto-pushes-through-headwinds",
-          "publishedOn": "2023-04-10T21:27:19.000Z",
-          "wordCount": 19595,
-          "title": "Crypto Pushes Through Headwinds While Traditional Markets Stumble",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/green-markets-crypto.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/signature-bank-failed-to-acknowledge-volatility-of-crypto-exposure-according-to-lawsuit",
-          "author": null,
-          "description": "Former investors in Signature Bank allege that the bank undermined “the health of its balance sheet” by failing to acknowledge its “degree of concentration” in the cryptocurrency sector",
-          "link": "https://blockworks.co/news/signature-bank-failed-to-acknowledge-volatility-of-crypto-exposure-according-to-lawsuit",
-          "publishedOn": "2023-04-10T20:13:18.000Z",
-          "wordCount": 20144,
-          "title": "Signature Bank Failed to Acknowledge ‘Volatility’ of Crypto Exposure, According to Lawsuit",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/Signature-bank-lawsuit.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/ethereum-shanghai-liquid-staking",
-          "author": null,
-          "description": "As soon as 18 million in staked ether are unlocked, a battle for liquid staking token supremacy will begin that will forever change the DeFi landscape",
-          "link": "https://blockworks.co/news/ethereum-shanghai-liquid-staking",
-          "publishedOn": "2023-04-10T19:48:38.000Z",
-          "wordCount": 21043,
-          "title": "Why the Ethereum Shanghai Upgrade Will Lead to War",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/Ethereum-Shanghai-upgrade-war.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/bank-america-fidelity-bitcoin-microstrategy",
-          "author": null,
-          "description": "Major financial institutions may not have an ETF – but they have MicroStrategy, which is strongly correlated with BTC",
-          "link": "https://blockworks.co/news/bank-america-fidelity-bitcoin-microstrategy",
-          "publishedOn": "2023-04-10T18:29:47.000Z",
-          "wordCount": 19694,
-          "title": "Fidelity, Bank of America’s Indirect Exposure to Bitcoin Through MicroStrategy",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/Bank-of-America-Fidelity-Bitcoin-MicroStrategy.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/etherscan-hides-zero-value-token-transfers",
-          "author": null,
-          "description": "Etherscan announced the optional feature in a Tweet Monday to counteract address poisoning attacks",
-          "link": "https://blockworks.co/news/etherscan-hides-zero-value-token-transfers",
-          "publishedOn": "2023-04-10T18:00:18.000Z",
-          "wordCount": 19646,
-          "title": "Etherscan Hides Zero-value Token Transfers",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/etherscan-security.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/adults-view-crypto-as-unsafe",
-          "author": null,
-          "description": "Pew Research Center finds that though 17% of US adults have ever invested in or used crypto, 31% currently don’t hold it",
-          "link": "https://blockworks.co/news/adults-view-crypto-as-unsafe",
-          "publishedOn": "2023-04-10T17:48:45.000Z",
-          "wordCount": 20577,
-          "title": "Majority of US Adults View Crypto as Unsafe, Survey Says",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/crypto-security-survey.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/arkansas-crypto-mining-bill",
-          "author": null,
-          "description": "Miners would be classified as data centers according to a new Arkansas bill, as legislation aims to prohibit “discrimination” against digital asset mining",
-          "link": "https://blockworks.co/news/arkansas-crypto-mining-bill",
-          "publishedOn": "2023-04-10T16:38:52.000Z",
-          "wordCount": 21098,
-          "title": "Arkansas Moves One Step Closer To Passing Crypto Mining Bill",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/bitcoin-mining-purple.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/sushiswap-3-million-hack",
-          "author": null,
-          "description": "Recovery efforts have seen a large portion of the stolen funds returned",
-          "link": "https://blockworks.co/news/sushiswap-3-million-hack",
-          "publishedOn": "2023-04-10T16:14:51.000Z",
-          "wordCount": 20718,
-          "title": "SushiSwap Smart Contract Bug Leads to $3.3M Hack",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/sushiswap-exploit.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/hong-kong-pushes-web3-adoption",
-          "author": null,
-          "description": "Hong Kong’s financial chief said he has plans to boost Web3 industry adoption through proper regulation and development",
-          "link": "https://blockworks.co/news/hong-kong-pushes-web3-adoption",
-          "publishedOn": "2023-04-10T15:36:37.000Z",
-          "wordCount": 20714,
-          "title": "Hong Kong’s Finance Chief Pushes for Web3 Adoption",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/Hong-Kong-flag.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/ftx-new-management-findings",
-          "author": null,
-          "description": "New revelations about FTX’s inefficiency could impact ongoing charges against SBF",
-          "link": "https://blockworks.co/news/ftx-new-management-findings",
-          "publishedOn": "2023-04-10T15:14:40.000Z",
-          "wordCount": 21669,
-          "title": "8 New Findings About FTX From Exchange’s New Management",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/04/ftx-logo-dark.jpg&w=1920&q=75&webp=false"
         }
       ]
     },
@@ -7236,6 +7266,36 @@
       "feedUrl": "https://techflowpost.mirror.xyz/feed/atom",
       "siteUrl": "https://techflowpost.mirror.xyz",
       "articles": [
+        {
+          "id": "https://techflowpost.mirror.xyz/MxtKrO6GzF5Chsq5HpZY1IClO4QLN7E6PP5yq4nz-FI",
+          "author": null,
+          "description": "Bankless：如何成为 Eigenlayer 早期参与者? – 深潮TechFlow\nEigenLayer——以太坊质押领域的新兴协议，为ETH持有者提供了大量新收益机会。\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/MxtKrO6GzF5Chsq5HpZY1IClO4QLN7E6PP5yq4nz-FI",
+          "publishedOn": "2023-05-10T08:39:49.000Z",
+          "wordCount": 817,
+          "title": "Bankless：如何成为 Eigenlayer 早期参与者?",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/zXeSVoCYa1_2HjUIxoZF9.png?height=255&width=510&h=255&w=510&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/XuQRpf7d9sq7RRLcIOwF8t6zkAGW8iVH5lCGrByjrYc",
+          "author": null,
+          "description": "Delphi Ventures 合伙人: 盘点推动 Cosmos 生态爆发的关键项目  – 深潮TechFlow\nCosmos 生态向外界展示了强大的增长势头和技术创新。\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/XuQRpf7d9sq7RRLcIOwF8t6zkAGW8iVH5lCGrByjrYc",
+          "publishedOn": "2023-05-10T06:03:23.000Z",
+          "wordCount": 1207,
+          "title": "Delphi Ventures 合伙人: 盘点推动 Cosmos 生态爆发的关键项目",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/GYQXZP_2BJgJQknsa3Wqi.png?height=630&width=1260&h=630&w=1260&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/GSwjCjOyMj1mXDytGT2IkFOa00OxIAjKHZVj_3H16zA",
+          "author": null,
+          "description": "速览上个月用稳定币赚取被动收入的 5 个最佳协议  – 深潮TechFlow\n撰写：Wajahat Mughal\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/GSwjCjOyMj1mXDytGT2IkFOa00OxIAjKHZVj_3H16zA",
+          "publishedOn": "2023-05-10T04:11:51.000Z",
+          "wordCount": 779,
+          "title": "速览上个月用稳定币赚取被动收入的 5 个最佳协议",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/delBzIgS1NC4EtTpQkc3D.png?height=447&width=894&h=447&w=894&auto=compress"
+        },
         {
           "id": "https://techflowpost.mirror.xyz/9_ZDgj8xlRUJ2ceBgM1WoXemUGikql_wnl7d_kcRjsg",
           "author": null,
@@ -7615,16 +7675,6 @@
           "wordCount": 1119,
           "title": "盘点五个潜力巨大的早期项目：从zkEVM到全链稳定币",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/YmUPDocn4IxsCnL_HIscI.png?height=381&width=762&h=381&w=762&auto=compress"
-        },
-        {
-          "id": "https://techflowpost.mirror.xyz/gRBlnP5sH-4dfeli0xdsOlG8r91d58-lYxN5cvzrTQw",
-          "author": null,
-          "description": "Pyth V2 深度研究：喂价模式的关键转变，跨链和多场景支持后暴涨的产品力  – 深潮TechFlow\n最近，大家的注意力似乎都聚焦在 L2 上。\nRead the full entry",
-          "link": "https://techflowpost.mirror.xyz/gRBlnP5sH-4dfeli0xdsOlG8r91d58-lYxN5cvzrTQw",
-          "publishedOn": "2023-04-11T11:16:41.000Z",
-          "wordCount": 1746,
-          "title": "Pyth V2 深度研究：喂价模式的关键转变，跨链和多场景支持后暴涨的产品力",
-          "imageUrl": "https://mirror-media.imgix.net/publication-images/3Cv6kzvsU8COW2fXQjKAW.png?height=1920&width=3840&h=1920&w=3840&auto=compress"
         }
       ]
     },
@@ -13140,6 +13190,326 @@
       "feedUrl": "http://feeds.feedburner.com/Coindesk",
       "siteUrl": "https://www.coindesk.com",
       "articles": [
+        {
+          "id": "OXRWSPVB3BBHVEQGB23AHRTDSA",
+          "author": "Sam Reynolds, James Rubin",
+          "description": "ALSO: Bitcoin needs a compelling narrative to break from its current range, but that likely will not occur until next year, says the CEO of Web3 bond-market platform Umee.",
+          "link": "https://www.coindesk.com/markets/2023/05/11/first-mover-asia-expect-bitcoin-to-hit-252k-soon-strategist/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-11T00:00:29.000Z",
+          "wordCount": 10374,
+          "title": "First Mover Asia: Expect Bitcoin to Hit $25.2K Soon: Strategist",
+          "imageUrl": "https://www.coindesk.com/resizer/gaZwiNIW3lxYTPJuir5NtXhIN1c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JMBL74YTJVB5FOOEKVL56KS5CM.jpg"
+        },
+        {
+          "id": "X5FFEYORTFHUXNPNAHU3H5N4DI",
+          "author": "Sage D. Young",
+          "description": "The number of staked ether has climbed to 19.55 million, a new all-time high, as ETH staking deposits surpassed withdrawals.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/ether-selling-pressure-post-shanghai-upgrade-was-non-event-says-nansen/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T21:09:40.000Z",
+          "wordCount": 7488,
+          "title": "Ether Selling Pressure Post-Shanghai Upgrade Was 'Non-Event,' Says Nansen",
+          "imageUrl": "https://www.coindesk.com/resizer/Ps5VC9Mb9vU6atC6JM4m1jlgMxU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XCDGW6GUHJFX7DA6Z5ECRGFGM4.jpg"
+        },
+        {
+          "id": "HZBLKM2PAFEKZD7L6PH6QVHXRI",
+          "author": "Danny Nelson",
+          "description": "Aragon's governance crisis began to subside Wednesday after the DAO builder's cofounder proposed buybacks, seemingly siding with a key talking point of activist investors.",
+          "link": "https://www.coindesk.com/business/2023/05/10/aragons-ant-rallies-after-cofounder-proposes-token-buybacks-to-end-activist-crisis/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T20:57:53.000Z",
+          "wordCount": 7445,
+          "title": "Aragon’s ANT Rallies After Cofounder Proposes Token Buybacks to End Activist Crisis",
+          "imageUrl": "https://www.coindesk.com/resizer/9oj9jTYFWzoniaD5m-ygTm-DHRo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YN2KGYYTHJD27K4TENI4AAWORM.jpg"
+        },
+        {
+          "id": "FNLMB5X7YZE5FKRTOUY5NZ4D6U",
+          "author": "Lyllah Ledesma",
+          "description": "Binance continues to be the dominant crypto derivatives trading platform.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/crypto-derivatives-market-share-hits-all-time-high/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T20:57:10.000Z",
+          "wordCount": 6512,
+          "title": "Crypto Derivatives Market Share Hits All-Time High",
+          "imageUrl": "https://www.coindesk.com/resizer/-Ggu2OGuT_1-wNPiEkw1QP_HRX4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PXV62LYT6ZBGLJIWW54TG7JQA4.png"
+        },
+        {
+          "id": "YHC2ULIYEFHOVO5TH7VAY2OGRY",
+          "author": "Elizabeth Napolitano",
+          "description": "The plan to implement fees on all of Uniswap’s version two liquidity pools, and some of its version three pools, would funnel money to the protocol’s treasury and token holders.",
+          "link": "https://www.coindesk.com/business/2023/05/10/uniswap-weighs-proposal-to-enrich-token-holders-switch-on-liquidity-pool-fees/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T19:33:26.000Z",
+          "wordCount": 6972,
+          "title": "Uniswap Weighs Proposal to Enrich Token Holders, Switch on Liquidity Pool Fees",
+          "imageUrl": "https://www.coindesk.com/resizer/rqIh_5AHhHA6iHbeckUn4BUkYi0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SEZF53NLHZEL5CLPCQY7YRJZJ4.jpg"
+        },
+        {
+          "id": "GPJOU5NXONF77EFQOQF4JVAIUQ",
+          "author": "Christopher  Calicott",
+          "description": "Applying rehypothecation onto bitcoin or crypto ignores the fundamental essence of these assets arising from a core bitcoin innovation, Christopher Calicott writes.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/05/10/rehypothecation-may-be-common-in-traditional-finance-but-it-will-never-work-with-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T19:26:23.000Z",
+          "wordCount": 8861,
+          "title": "Rehypothecation May Be Common in Traditional Finance, but It Will Never Work With Bitcoin",
+          "imageUrl": "https://www.coindesk.com/resizer/OHqkqsZTooMGvssnT_7UisUzBWg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CAMHGADMCFGUPJ5PP6JHMN76XY.jpg"
+        },
+        {
+          "id": "3ZMOX5ALHBBIXC6ID5FZGVKI3Q",
+          "author": "Tracy Wang",
+          "description": "The largest of the claims includes a $20.4 billion claim against Alameda Research LLC, which details nearly $20 billion in unpaid partnership taxes.",
+          "link": "https://www.coindesk.com/business/2023/05/10/us-internal-revenue-service-files-claims-worth-44-billion-against-ftx-bankruptcy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T19:05:42.000Z",
+          "wordCount": 6849,
+          "title": "U.S. Internal Revenue Service Files Claims Worth $44 Billion Against FTX Bankruptcy",
+          "imageUrl": "https://www.coindesk.com/resizer/llOzazRQkVeIt1YAz3A9SxiWk9k=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IPTJIMKLR5FVLFK5YY2JEHRMWM"
+        },
+        {
+          "id": "4CPHF5PLVFDRLHK433TFHN35ZU",
+          "author": "David Z. Morris",
+          "description": "Network congestion from ordinals and BRC-20s is a stress test – and Bitcoin is failing.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/05/10/if-bitcoin-cant-handle-a-few-jpegs-how-can-it-handle-the-world/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T18:15:24.000Z",
+          "wordCount": 8331,
+          "title": "If Bitcoin Can’t Handle a Few JPEGs, How Can It Handle the World?",
+          "imageUrl": "https://www.coindesk.com/resizer/-8zAK9WZKQt4wIcQgCNg3ciWjn0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PKQELE3BWRDWNDUNL7ZMHXAJKE.jpg"
+        },
+        {
+          "id": "PH7VZLGVO5BWJDKWDWXZQW7SSI",
+          "author": "Jocelyn Yang",
+          "description": "The BTC/USD trading pair on Coinbase was trading as low as $26,800 before regaining some ground.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/bitcoin-dips-below-27k-reversing-post-cpi-rally/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T18:13:43.000Z",
+          "wordCount": 6866,
+          "title": "Bitcoin Dips Below $27K, Reversing Post-CPI Rally",
+          "imageUrl": "https://www.coindesk.com/resizer/w__BbyXW4cl-tbF08H08e00V-O8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SFIRJXWEJVH37E3YPQKLKLSO3E.jpg"
+        },
+        {
+          "id": "AAQJIIXKDNB33LLJNTWJNWMCBE",
+          "author": "Cam Thompson",
+          "description": "The collection, which encourages holders to practice the “Joy of Missing Out,” will donate primary sale profits across five mental health organizations in honor of May’s Mental Health Awareness Month.",
+          "link": "https://www.coindesk.com/web3/2023/05/10/from-fomo-to-jomo-web3-mental-health-collective-peace-inside-live-launches-nft-collection/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T17:08:25.000Z",
+          "wordCount": 6951,
+          "title": "From FOMO to JOMO: Web3 Mental Health Collective Peace Inside Live Launches NFT Collection",
+          "imageUrl": "https://www.coindesk.com/resizer/a_yPDM63pQXnh12FRwifFEpPe34=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZV6X7MV2EZG4PF7TRDWCYAB7DQ.jpg"
+        },
+        {
+          "id": "LCLKAVNM3JGPDBTYUG4J3WJHPU",
+          "author": "Toby Bochan",
+          "description": "The CEO of Twitter shared a gif of the counterculture NFT declaring, “There is no meme, I love you,” shooting the collection to the top trending spot on the marketplace.",
+          "link": "https://www.coindesk.com/web3/2023/05/10/elon-musk-tweets-a-milady-nft-floor-price-soars-on-opensea/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T16:35:59.000Z",
+          "wordCount": 6683,
+          "title": "Elon Musk Tweets a Milady NFT, Floor Price Soars on OpenSea",
+          "imageUrl": "https://www.coindesk.com/resizer/CPPK5UKnR_MuFx-nApBvnsVkRS8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T62TJDWDNJBIZOBCW4K3OW3THI.jpg"
+        },
+        {
+          "id": "YX2J2EX6H5GD5F4PKBDJ5TVF4Y",
+          "author": "Oliver Knight",
+          "description": "The abrupt exit of Jane Street and Jump, two crucial cryptocurrency market makers, has the potential to disrupt the liquidity flow across the industry, according to a Kaiko analyst.",
+          "link": "https://www.coindesk.com/business/2023/05/10/bitcoin-liquidity-on-the-brink-as-jane-street-and-jump-exit-crypto-markets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T16:29:46.000Z",
+          "wordCount": 7282,
+          "title": "Bitcoin Liquidity on the Brink as Market Makers Pare Back in Crypto Markets",
+          "imageUrl": "https://www.coindesk.com/resizer/1Y4c6pd8_LVDjJMraO1_kB9JPSk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YVGZLG7YVVBC5H2VUND7XUE42E.jpg"
+        },
+        {
+          "id": "BZV4AQWZXBFMFLB4MGTOLMVKAQ",
+          "author": "Krisztian  Sandor",
+          "description": "The company’s USDT stablecoin has seen rapid growth this year as the U.S. banking crisis hit rivals.",
+          "link": "https://www.coindesk.com/business/2023/05/10/tether-reports-148b-profit-in-q1-reveals-bitcoin-gold-reserves/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T16:10:19.000Z",
+          "wordCount": 7302,
+          "title": "Tether Reports $1.48B Profit in Q1, Reveals Bitcoin, Gold Reserves",
+          "imageUrl": "https://www.coindesk.com/resizer/l7NheO-sJRghtN_sAOQHDYvnFm0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MHR4NVBUTND3PPZVLWT6RBOEB4.JPG"
+        },
+        {
+          "id": "QVCFMI6H3NALDLLHCILA6XITRQ",
+          "author": "Jack Schickler",
+          "description": "Bittrex filed for bankruptcy protection, but says no customer funds were re-used and that liabilities meet assets",
+          "link": "https://www.coindesk.com/policy/2023/05/10/bittrexs-us-maltese-arms-processed-425m-in-withdrawals-since-april-1-attorney-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T15:54:34.000Z",
+          "wordCount": 7477,
+          "title": "Bittrex’s U.S., Maltese Arms Processed $425M in Withdrawals Since April 1, Attorney Says",
+          "imageUrl": "https://www.coindesk.com/resizer/BWL706C4WDAiY-GAveFGXIrRvtI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/M5HRINAWNVEAHBGO4UXJLKK7QU.jpg"
+        },
+        {
+          "id": "EP4PXTPV6NHQRCKPRPF5XSLCCI",
+          "author": "Bradley Keoun",
+          "description": "The peer-to-peer network started in 2002 says it's taking on \"MEGACORP,\" much in the same vein as many blockchain networks. A bit more fun are the \"secret code names\" that users are assigned.",
+          "link": "https://www.coindesk.com/tech/2023/05/10/urbit-a-network-older-and-weirder-than-bitcoin-finally-turns-toward-growth/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T15:54:32.000Z",
+          "wordCount": 8412,
+          "title": "Urbit, a Network Older and Weirder Than Bitcoin, Finally Turns Toward Growth",
+          "imageUrl": "https://www.coindesk.com/resizer/pa2CfgbaeYRTwgSLEjUcqLbmeRk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F4YHOYHPQZBZXIEUNHSDMX2ID4.jpg"
+        },
+        {
+          "id": "HOBZCLGIIVBIBN3ABXUD2ZYR64",
+          "author": "Alex  Botte, CFA, CAIA",
+          "description": "Alex Botte of Runa Digital Assets explains why crypto isn’t ready for passive investing.",
+          "link": "https://www.coindesk.com/business/2023/05/10/crypto-isnt-ready-for-jack-bogle/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T15:30:00.000Z",
+          "wordCount": 7250,
+          "title": "Crypto Isn’t Ready for Jack Bogle",
+          "imageUrl": "https://www.coindesk.com/resizer/H02zn137O9QwSb87aCjS2Qs7ZF8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/U4RS3VI6PBDALN6CHBGVM7Q4DM.jpg"
+        },
+        {
+          "id": "BS2HMXGDXBFYHMKPJ74HTVYL7Y",
+          "author": "Glenn Williams, Nick Baker",
+          "description": "Web3 is a strong alternative to the current centralized internet, and there are associated crypto tokens worth examining.",
+          "link": "https://www.coindesk.com/web3/2023/05/10/web3-represents-a-strong-alternative-to-todays-internet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T15:30:00.000Z",
+          "wordCount": 9446,
+          "title": "Web3 Represents a Strong Alternative to Today’s Internet",
+          "imageUrl": "https://www.coindesk.com/resizer/0SWuFJVBJVjmgznQJLkkNjw7Q8Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NIIJBYOGVJFSJFX4NH7T6ZJUR4.jpg"
+        },
+        {
+          "id": "PVT4EQWMXRFJRMUGGXRSPMK4JE",
+          "author": "Lyllah Ledesma",
+          "description": "Even so, it remains the dominant centralized exchange in the industry.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/crypto-exchange-binance-trading-volume-fell-almost-50-in-april/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T15:18:49.000Z",
+          "wordCount": 6441,
+          "title": "Crypto Exchange Binance Trading Volume Fell Almost 50% in April",
+          "imageUrl": "https://www.coindesk.com/resizer/OQpa0qymFBzIcQeqdgWk3_YCWP8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Z7BYJA36WFH5HLJTTTYKDCN5KA.png"
+        },
+        {
+          "id": "BVCUVIBRBVFQLPOZCPIZEJTE74",
+          "author": "Jack Solowey, Jennifer Schulp",
+          "description": "The lack of clear crypto regulation risks sending companies overseas. Congress must bring regulatory clarity to crypto market structure, defining the bounds and appropriate legal treatment of crypto securities, commodities, and exchanges, say Jack Solowey and Jennifer J. Schulp.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/05/10/we-need-regulatory-clarity-to-keep-crypto-exchanges-onshore-and-defi-permissionless/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T14:47:36.000Z",
+          "wordCount": 8592,
+          "title": "We Need Regulatory Clarity to Keep Crypto Exchanges Onshore and DeFi Permissionless",
+          "imageUrl": "https://www.coindesk.com/resizer/K330H67Wo7PYg_8ES9axx6SVoqI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IH4IFBPJBFGODLRS7V5QL4RZZQ.jpg"
+        },
+        {
+          "id": "XXC477VBSVGDFK6HDD5GHZPOTQ",
+          "author": "Jesse Hamilton",
+          "description": "Relevant House committees decided to meet together to figure out how to move forward with legislation, but one key Democrat pushed back on the need for special crypto rules.",
+          "link": "https://www.coindesk.com/policy/2023/05/10/joint-us-house-hearing-on-cryptos-future-opens-with-discord/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T14:45:38.000Z",
+          "wordCount": 7899,
+          "title": "Joint U.S. House Hearing on Crypto’s Future Opens With Discord",
+          "imageUrl": "https://www.coindesk.com/resizer/BvXtgaWDne60Vr9svHL71C-WPIo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6VZUDSFHPZCQJGRJEFYEGLQKG4.jpg"
+        },
+        {
+          "id": "2DEXSNZHEVC6LJ2ZKLARQOWJOY",
+          "author": "Jack Schickler",
+          "description": "Officials are optimistic finance ministers will formally agree on laws allowing the sharing of information on crypto and NFT holdings between tax authorities next week.",
+          "link": "https://www.coindesk.com/policy/2023/05/10/new-rules-on-sharing-crypto-tax-data-unanimously-supported-by-eu-members/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T13:04:20.000Z",
+          "wordCount": 7003,
+          "title": "New Rules on Sharing Crypto Tax Data ‘Unanimously Supported’ by EU Members",
+          "imageUrl": "https://www.coindesk.com/resizer/v9l9Mz2My8t5WdBJWgtDyG-5Y2I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JGPAO7AQR5FLBKBKLEQLJM46QE.png"
+        },
+        {
+          "id": "QHZKFYJDDJCFHDT3JOUD3YYYVE",
+          "author": "Shaurya Malwa",
+          "description": "The blockchain, called Alpha, is said to be built mainly to support decentralized trading.",
+          "link": "https://www.coindesk.com/tech/2023/05/10/crypto-derivatives-protocol-vegas-mainnet-goes-live-for-futures-options-trading/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T13:00:00.000Z",
+          "wordCount": 7015,
+          "title": "Crypto Derivatives Protocol Vega's Mainnet Goes Live for Futures, Options Trading",
+          "imageUrl": "https://www.coindesk.com/resizer/DNy7ewu-wj65vj9ruwnMEEAEB-M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ALOAV2SUVBCHNPZFLHMFF74QQA.jpg"
+        },
+        {
+          "id": "55US2QBRTNGPNKSOV7VOIT5JGA",
+          "author": "Stephen  Alpher",
+          "description": "The Federal Reserve last week suggested it could pause its long series of rate hikes even as inflation remains well above its 2% target.",
+          "link": "https://www.coindesk.com/business/2023/05/10/us-cpi-inflation-falls-to-49-in-april-bitcoin-rises-above-28k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T12:37:12.000Z",
+          "wordCount": 7399,
+          "title": "U.S. CPI Inflation Falls to 4.9% in April; Bitcoin Rises Above $28K",
+          "imageUrl": "https://www.coindesk.com/resizer/McBDNDVX1svDHVg0sco02Xw1bsU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HTLBRNIDRFFWTIBUBW6VAFT4OQ.jpg"
+        },
+        {
+          "id": "N6AIXYM4QFC2PCD2JWD76FOEZI",
+          "author": "Ian Allison",
+          "description": "The EY OpsChain ESG made the announcement at the firm’s Global Blockchain Summit in London. T",
+          "link": "https://www.coindesk.com/business/2023/05/10/ey-launches-ethereum-based-carbon-emission-tracking-platform/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T12:00:00.000Z",
+          "wordCount": 7091,
+          "title": "EY Launches Ethereum-Based Carbon Emission Tracking Platform",
+          "imageUrl": "https://www.coindesk.com/resizer/pX3Dy3D-AfBAigk08pvEW6CZ59o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HG74SFQIRVC4DK4SLCLSGY4SBY"
+        },
+        {
+          "id": "5OBLMLOVJJB5FPPJLGBFS7EXI4",
+          "author": "Jack Schickler",
+          "description": "The EU member is still trying out options for a central bank digital currency that could help the unbanked.",
+          "link": "https://www.coindesk.com/policy/2023/05/10/hungarian-central-bank-sees-no-imminent-need-for-e-forint/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T11:30:46.000Z",
+          "wordCount": 6883,
+          "title": "Hungarian Central Bank Sees No Imminent Need for e-Forint",
+          "imageUrl": "https://www.coindesk.com/resizer/8JSl5j0M1XcjGhbbSw2LuXEiAuk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYO2PDAU5FFKTONLQP6NG6QXFU.jpg"
+        },
+        {
+          "id": "NHX7YBQA4ZGPPDQFAMONNI7OBA",
+          "author": "Omkar Godbole",
+          "description": "Monthly U.S. inflation readings influence the Fed policy, which impacts both crypto and traditional markets.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/bitcoin-tends-to-become-more-volatile-around-monthly-us-inflation-readings-kaiko/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T10:47:58.000Z",
+          "wordCount": 7385,
+          "title": "Bitcoin Tends to Become More Volatile Around Monthly U.S. Inflation Releases: Kaiko",
+          "imageUrl": "https://www.coindesk.com/resizer/_Vp4vJJ3B8qhpm7UVdukJKWK7ec=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HWRWZ7LW4JEYDD2CM4XHVFDG6Y.jpg"
+        },
+        {
+          "id": "PZIIX7KFL5AL3DEPHQUTWKZ7QY",
+          "author": "Sandali Handagama",
+          "description": "Hayes has been tweeting at the founder of the collapsed crypto fund  to return some $6 million he says he's owed.",
+          "link": "https://www.coindesk.com/policy/2023/05/10/three-arrows-founder-su-zhu-obtains-singapore-restraining-order-against-arthur-hayes-over-harassment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T10:22:45.000Z",
+          "wordCount": 7538,
+          "title": "Three Arrows Founder Su Zhu Obtains Singapore Restraining Order Against Arthur Hayes Over 'Harassment'",
+          "imageUrl": "https://www.coindesk.com/resizer/trXVH5uRg-Jky7qPOh-szqrnWAs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EPZDFFTF45HYDPGMIAM63B5ZO4"
+        },
+        {
+          "id": "2M2JF2NBPVC4LNNVSCYUTI7AAU",
+          "author": "Omkar Godbole",
+          "description": "Some argue that crypto assets could be in demand in a high-interest rates/high inflation environment because they could serve as a store of value, however crypto's track record is too short to prove this, S&P said.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/cryptocurrencies-could-theoretically-be-a-hedge-against-inflation-sp-global-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T08:46:56.000Z",
+          "wordCount": 7910,
+          "title": "Are Cryptocurrencies an Inflation Hedge? Theoretically Yes, Factually No Says S&P",
+          "imageUrl": "https://www.coindesk.com/resizer/WB4mCMCPfKUjzTI6UwLcNDT9A2E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZOZCTDRVQJDFDE3WNJIZXMX4HE.jpg"
+        },
+        {
+          "id": "KSJSTPDQTRFDLJNF5ARZS3O3MM",
+          "author": "Camomile Shumba",
+          "description": "The U.K. opened its plans for regulating the crypto sector for public comment back in February.",
+          "link": "https://www.coindesk.com/policy/2023/05/10/crypto-industry-asks-uk-to-think-globally-as-government-closes-consultation-on-proposed-rules/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T08:00:00.000Z",
+          "wordCount": 8592,
+          "title": "Crypto Industry Asks UK to Think Globally as Government Closes Consultation on Proposed Rules",
+          "imageUrl": "https://www.coindesk.com/resizer/kYIk4cROyK-87OtNiH5spAHzcqU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CPJHAT4PUBF7HCRGXPM3UZKVPA.jpg"
+        },
+        {
+          "id": "RPPZZF4TRRF67AUDVNYWXYWKTU",
+          "author": "Shaurya Malwa",
+          "description": "Larger market participants are buying up the meme coin even as prices dunk, suggesting another leg up might be on the cards soon.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/crypto-whales-accumulate-millions-in-pepecoin-as-trading-volume-shifts-to-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T06:52:15.000Z",
+          "wordCount": 7185,
+          "title": "Crypto Whales Accumulate Millions in Pepecoin as Trading Volume Shifts to Binance",
+          "imageUrl": "https://www.coindesk.com/resizer/2kTuWp5IFpWrdgWXHZ6oXWDW6rM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SFV3BI43HJBYBPGIHWVVORT7NE.jpg"
+        },
+        {
+          "id": "UHIRCFNPPRHQFCTHXKTEZLK4C4",
+          "author": "Sam Reynolds",
+          "description": "ALSO: SAM Bankman-Fried's motion to dismiss most charges against him raises questions about the reach of the Commodities Exchange Act.",
+          "link": "https://www.coindesk.com/markets/2023/05/10/first-mover-asia-bitcoin-ticks-up-as-congestion-wanes-and-investors-ponder-the-next-price-spur/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T01:49:51.000Z",
+          "wordCount": 10294,
+          "title": "First Mover Asia: Bitcoin Ticks Up as Congestion Wanes and Investors Ponder the Next Price Spur",
+          "imageUrl": "https://www.coindesk.com/resizer/Kxd5ALKaEkP9mbmLpKLO7ycI0WA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CKUMBLQ4INCDTLTZM2ULZRJLWM.jpg"
+        },
+        {
+          "id": "ZOCWEEDCA5B6NFHE5BRJZAYKGQ",
+          "author": "Sam Reynolds",
+          "description": "Twenty-three-year-old Joseph O’Connor, known by his handle PlugWalkJoe, was arrested in Spain in 2021.",
+          "link": "https://www.coindesk.com/business/2023/05/10/us-authorities-extradite-uk-citizen-behind-2020-twitter-hack-sim-swap-crypto-theft/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-05-10T01:30:58.000Z",
+          "wordCount": 6719,
+          "title": "U.S. Authorities Extradite UK Citizen Behind 2020 Twitter Hack, SIM Swap Crypto Theft",
+          "imageUrl": "https://www.coindesk.com/resizer/wYy5g8q9ji2ijmDfHWzo6gkWDVQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LFTH426RA5D5RDPISB2JC7J4DQ"
+        },
         {
           "id": "KFV4WQVBNVHIBHQSVAJEJ4STUY",
           "author": "Jocelyn Yang",
@@ -20249,276 +20619,6 @@
           "wordCount": 8047,
           "title": "Sei Labs Raises $30M for Trading-Focused Layer 1 Blockchain",
           "imageUrl": "https://www.coindesk.com/resizer/aGWuykM62KQtFhFgb474i3ssHf0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CJAX6OS4LRCSXHOB4MEKPE7TQY.jpg"
-        },
-        {
-          "id": "Q6DOFFET2FHQXJ7RI3IOZ34O2A",
-          "author": "Eliza Gkritsi",
-          "description": "The brand new Bitmain Antminer S19 XPs miners will be delivered by September.",
-          "link": "https://www.coindesk.com/business/2023/04/11/cleanspark-buys-1449m-of-bitcoin-mining-rigs-to-double-its-hashrate/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T13:00:00.000Z",
-          "wordCount": 8611,
-          "title": "CleanSpark Buys $144.9M of Bitcoin Mining Rigs to Double Its Hashrate",
-          "imageUrl": "https://www.coindesk.com/resizer/QRPqU2yAy7CJ1fnueKuRG-3cjs0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VBJHKTFHCBBV5JQYSSDX3EVLWI.jpg"
-        },
-        {
-          "id": "VOVKQMNC6BAGZKCARUAFOONTH4",
-          "author": "Brandy Betz",
-          "description": "The venture capital giant sees bear markets as a time for builders, particularly blockchain infrastructure projects.",
-          "link": "https://www.coindesk.com/business/2023/04/11/a16z-sees-web3-strength-in-second-state-of-crypto-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T13:00:00.000Z",
-          "wordCount": 8681,
-          "title": "A16z Highlights Web3 Strength in Its Second ‘State of Crypto’ Report",
-          "imageUrl": "https://www.coindesk.com/resizer/WoXqlpBjgla7pYyzHo1Nka_Hki8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SSSN2JHOQRCRJK45R3VAARYWGQ.jpg"
-        },
-        {
-          "id": "ULALW4RHY5FADPT3J3KXKXH32E",
-          "author": "Sam Reynolds",
-          "description": "Founder and CEO Matthew Sedigh says trading volumes have surpassed $200 million since Xclaim started operations in 2018.",
-          "link": "https://www.coindesk.com/business/2023/04/11/bankruptcy-trading-platform-xclaim-closes-7m-round-as-it-adds-crypto-focus/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T13:00:00.000Z",
-          "wordCount": 8426,
-          "title": "Bankruptcy Trading Platform Xclaim Closes $7M Round as It Adds Crypto Focus",
-          "imageUrl": "https://www.coindesk.com/resizer/ammWf_ILrztynCcy71xKmRxj40A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VQQ3VZOQ5VEVDGXXNVE6NHFZ7E.jpg"
-        },
-        {
-          "id": "ZC2YK5M4SZAHTCX6GXY6PS5RJY",
-          "author": "Sandali Handagama",
-          "description": "The Securities and Exchange Commission said in March that it was planning to add additional staff to the unit.",
-          "link": "https://www.coindesk.com/policy/2023/04/11/us-sec-adding-attorneys-to-crypto-enforcement-unit-signals-continued-crackdown/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T12:53:10.000Z",
-          "wordCount": 8659,
-          "title": "SEC Is Adding Attorneys to Crypto Enforcement Unit",
-          "imageUrl": "https://www.coindesk.com/resizer/TxXebiT2lPI_8xjJ8pwui270f0Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JB6LSPSKINEXHJVXWBLQYXAH3M.jpg"
-        },
-        {
-          "id": "PM4XJPQOPNCWHKX6FHIRL5QTX4",
-          "author": "Jamie Crawley",
-          "description": "Seoul Southern District Court Chief Judge Kim Ji-Sook issued a warrant for the arrests on Monday, saying \"There is concern about escaping.\"",
-          "link": "https://www.coindesk.com/policy/2023/04/11/employees-of-south-korean-crypto-exchange-coinone-arrested-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T12:24:57.000Z",
-          "wordCount": 7979,
-          "title": "Employees of South Korean Crypto Exchange Coinone Arrested: Report",
-          "imageUrl": "https://www.coindesk.com/resizer/V1SbeB6aXIq4-enJivay5zdtdtk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7OUWTALWYZBMPEEKY7WRZTOHNI"
-        },
-        {
-          "id": "RZXXFTD2CRG2LKORTUMMLYIQO4",
-          "author": "Lyllah Ledesma, Omkar Godbole",
-          "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for April 11, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/first-mover-americas-bitcoin-soars-past-30k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T12:10:06.000Z",
-          "wordCount": 9145,
-          "title": "First Mover Americas: Bitcoin Soars Past $30K",
-          "imageUrl": "https://www.coindesk.com/resizer/oqyNeq3KAW_zL_JAC5OMsgZffGo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TC7J6V3HOZF7VKT5VBPHFWDQNI.jpg"
-        },
-        {
-          "id": "X5XLV4GE4NGENJF2ZKRGV7OXZY",
-          "author": "Omkar Godbole",
-          "description": "Retail or non-professional investors powered XRP higher in recent weeks as large investors sold into the rally.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/xrp-rally-led-by-retail-investors-kaiko/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T11:41:06.000Z",
-          "wordCount": 8499,
-          "title": "XRP's 4-Week Rally Was Led by Retail Investors: Kaiko",
-          "imageUrl": "https://www.coindesk.com/resizer/bxhSCO-U1zejm23Uy1k16C3GMlg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GBBCOT6X35DU3KRIQEHGJTU4VQ.png"
-        },
-        {
-          "id": "NNSJCPGVCVFS3GSIAZVRFNNBWY",
-          "author": "Jack Schickler",
-          "description": "Regulators are seeking to extend EU laws to cover more diffuse and decentralized structures.",
-          "link": "https://www.coindesk.com/policy/2023/04/11/defi-could-be-forced-to-incorporate-and-certify-french-central-bank-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T10:47:46.000Z",
-          "wordCount": 8567,
-          "title": "DeFi Could Be Forced to Incorporate and Certify, French Central Bank Says",
-          "imageUrl": "https://www.coindesk.com/resizer/XpITv2lFx4wjeDNYnbk2p29qfbk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UDTAGHPNBVCUVLTNGUELHEX2FE.jpg"
-        },
-        {
-          "id": "EW6DGROFUJAXXOQZA6VPER35YA",
-          "author": "Shaurya Malwa",
-          "description": "The metaverse is unlikely to be fully completed on release as it will be an “ongoing project,” developers said.",
-          "link": "https://www.coindesk.com/tech/2023/04/11/shiba-inus-metaverse-will-partially-open-by-2023-end-developers-say/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T10:40:19.000Z",
-          "wordCount": 8633,
-          "title": "Shiba Inu's Metaverse Will Partially Open by End of 2023, Developers Say",
-          "imageUrl": "https://www.coindesk.com/resizer/wBCMh_eh5GpSBbG18ezJaUxjIfI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NP4P3NSLZJCY5LFYPISHMVWLK4.png"
-        },
-        {
-          "id": "AONSGSAMSBHM3BB7MLAG6LSJ74",
-          "author": "Jamie Crawley",
-          "description": "The pilot will see the central bank identify the practical application of a national stablecoin and come up with a design to simulate its circulation.",
-          "link": "https://www.coindesk.com/policy/2023/04/11/montenegros-central-bank-to-develop-cbdc-pilot-with-ripple/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T09:46:37.000Z",
-          "wordCount": 8191,
-          "title": "Montenegro's Central Bank to Test CBDC With Ripple",
-          "imageUrl": "https://www.coindesk.com/resizer/Me355L67CDNE0bkk4UV2jomlOHQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NLQYOENE25EVVAXPJMBDQ4VYQ4.jpg"
-        },
-        {
-          "id": "EI4SDP5JEND7RLWMPOAZ2SBQ5U",
-          "author": "Omkar Godbole",
-          "description": "Bitcoin's dominance rate, or share of the total crypto market, has risen to its highest in almost two years while ether's stagnates.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/bitcoin-not-ether-is-becoming-more-dominant-in-crypto-market-ahead-of-ethereums-shanghai-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T09:18:49.000Z",
-          "wordCount": 9693,
-          "title": "Bitcoin, Not Ether, Builds Crypto Market Dominance Ahead of Ethereum's Shanghai Upgrade",
-          "imageUrl": "https://www.coindesk.com/resizer/WuBRa6MiHlUTw8dt_p-THNu0Kak=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4PMRALPGVVBVROXDLIEN4DXW4A.jpg"
-        },
-        {
-          "id": "LNHMPRG67NCCLBYHQB4EVUEB4I",
-          "author": "Shaurya Malwa",
-          "description": "In a planned move, around 0.5% of the total token supply will be unlocked on Wednesday.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/aptos-bumps-ahead-of-50m-token-unlock-which-may-add-selling-pressure/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T07:06:05.000Z",
-          "wordCount": 8871,
-          "title": "Aptos Jumps 8% Ahead of $50M Token Unlock",
-          "imageUrl": "https://www.coindesk.com/resizer/cxr_1m4baEfdB8pdLK1qy63gjjs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SZE6MY5KXJDGDNGTO6L2FDXW7Q.jpg"
-        },
-        {
-          "id": "ILYHIOSEGRALXGEDIQ43WQIY7I",
-          "author": "Shaurya Malwa",
-          "description": "Over $145 million in shorts against bitcoin prices were liquidated since early Asian morning hours on Tuesday.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/bitcoin-shorts-take-on-87-of-futures-liquidations-as-btc-crosses-30k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T06:17:27.000Z",
-          "wordCount": 8652,
-          "title": "Bitcoin Shorts Take on 87% of Futures Liquidations as BTC Crosses $30K",
-          "imageUrl": "https://www.coindesk.com/resizer/I7qjfBIRu24jouc2tnS-c7hN4Vg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HGJVUMBBF5CC7IC65PPCG6F4F4.jpg"
-        },
-        {
-          "id": "PDGUEFN345BPRMMVC6I7J7VBNM",
-          "author": "Lingling Xiang",
-          "description": "Bitcoin prices showing up on Douyin seemed to be an indication that Beijing is warming up to crypto, however the ticker being taken down immediately afterwards seems to suggest otherwise.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/bitcoin-price-ticker-goes-live-on-chinas-douyin-app/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T06:15:27.000Z",
-          "wordCount": 8486,
-          "title": "China’s Douyin App Takes Down Bitcoin Price Ticker Hours After It Went Live",
-          "imageUrl": "https://www.coindesk.com/resizer/MJcpQT3CWP1vtQnRtqFhRx60Zc8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R5RVSNBT2BFF5FYVB3E2QCG2PQ.jpg"
-        },
-        {
-          "id": "2JYR6VQCWNGP7ERSISF3YX44HY",
-          "author": "James Rubin",
-          "description": "ALSO: Sam Reynolds writes that former BitMex CEO Arthur Hayes foresees the balkanization of finance and bitcoin rallying because the current global banking system \"is bankrupt.\" Bitcoin is on the rise.",
-          "link": "https://www.coindesk.com/markets/2023/04/11/first-mover-asia-arthur-hayes-sees-a-balkanization-of-finance-coming-soon-as-crypto-rallies/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T03:39:10.000Z",
-          "wordCount": 11615,
-          "title": "First Mover Asia: Arthur Hayes Sees a 'Balkanization of Finance' Coming Soon as Crypto Rallies",
-          "imageUrl": "https://www.coindesk.com/resizer/SLmIxlyISLGiwP7j1xOHmipAHfA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TG4XU33O4JAF5DNFFBXEPLHXBU.jpg"
-        },
-        {
-          "id": "G7ATJMEOTVCF3ECRGQW7HFIGNY",
-          "author": "James Rubin",
-          "description": "The move continues a 2023 rally that has now seen the most popular crypto gain more than 80% in value.",
-          "link": "https://www.coindesk.com/business/2023/04/11/bitcoin-breaks-above-30k-for-first-time-since-june-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-11T01:54:01.000Z",
-          "wordCount": 9456,
-          "title": "Bitcoin Breaks Above $30K for First Time Since June 2022",
-          "imageUrl": "https://www.coindesk.com/resizer/xib24SYhWNUpIGMcS3P4xbXYRv0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZS4YSVISFFGDJE4IGBFVLYQMXQ.jpg"
-        },
-        {
-          "id": "H5WIKHQR7ZBCDAWR5GHWMS3G4M",
-          "author": "James Rubin",
-          "description": "The roots of an hour-long surge were difficult to pinpoint, according to one analyst, but investors have recently been more optimistic about the crypto’s prospects following last month’s banking crisis.",
-          "link": "https://www.coindesk.com/markets/2023/04/10/bitcoin-approaches-30k-reaching-highest-price-since-june/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T21:56:12.000Z",
-          "wordCount": 8957,
-          "title": "Bitcoin Approaches $30K, Reaching Highest Price Since June",
-          "imageUrl": "https://www.coindesk.com/resizer/u4DlYRVeOnA8SZ82oFCqbKdtL_c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YPDWX5XYKRFYJDHGVL27WJUTXA.jpg"
-        },
-        {
-          "id": "RQYQMNPVWBDHVPOP6X3INZOAVM",
-          "author": "Rosie Perper",
-          "description": "The \"Moonbirds: Diamond Exhibition\" collection is available exclusively to holders that reached \"Diamond Nest\" status by staking their NFTs.",
-          "link": "https://www.coindesk.com/web3/2023/04/10/nft-collective-proof-launches-new-moonbirds-collection-with-beeple-other-artists/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T21:11:59.000Z",
-          "wordCount": 8090,
-          "title": "NFT Collective Proof Launches New Moonbirds Collection With Beeple, Other Artists",
-          "imageUrl": "https://www.coindesk.com/resizer/5k-9LWkLOsaSKCIP5Cn9GajU8CQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SFFSGBVEUND6NEJRUXYT76QJCE.jpg"
-        },
-        {
-          "id": "RHCZN3AN3ZCPJFU7TZIH7VFYRA",
-          "author": "Stephen  Alpher",
-          "description": "The bitcoin miners are posting the largest percentage gains on Monday.",
-          "link": "https://www.coindesk.com/markets/2023/04/10/crypto-related-stocks-surge-as-bitcoin-price-hits-highest-since-june-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T19:37:44.000Z",
-          "wordCount": 7905,
-          "title": "Crypto-Related Stocks Surge as Bitcoin Price Hits Highest Point Since June 2022",
-          "imageUrl": "https://www.coindesk.com/resizer/QI7fpuF__R4chO0PCG92LScykx8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/H74N3ETDAVHXBM36357XKHTW7Y.jpg"
-        },
-        {
-          "id": "NHQEJVO7ABH3DBSLMXLGQYAM6E",
-          "author": "Nick Baker",
-          "description": "The brothers had tried to get outside investment, Bloomberg said.",
-          "link": "https://www.coindesk.com/business/2023/04/10/winklevoss-twins-lent-their-crypto-platform-gemini-100m-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T19:32:25.000Z",
-          "wordCount": 7826,
-          "title": "Winklevoss Twins Lent Their Crypto Platform Gemini $100M: Bloomberg",
-          "imageUrl": "https://www.coindesk.com/resizer/8WlH9Fim_P18nA2K47Dlsld3kEA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/T7OHYTQWTZDGRLI7FZFF4FLJ6M.jpg"
-        },
-        {
-          "id": "KLNBCCZTR5FQVP44MAE4LL4JAY",
-          "author": "Elizabeth Napolitano",
-          "description": "Zero-token value transfers will no longer be visible by default as a way of preventing “address poisoning” hacks.",
-          "link": "https://www.coindesk.com/tech/2023/04/10/etherscan-reconfigures-blockchain-explorer-settings-to-filter-out-potential-scams/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T18:58:00.000Z",
-          "wordCount": 7522,
-          "title": "Etherscan Reconfigures Blockchain Explorer Settings to Filter Out Potential Scams",
-          "imageUrl": "https://www.coindesk.com/resizer/945nmGw_xOKj3SvEWkshe_gzXT8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IVKMCNFHCZECVMTXV2U7CWT7YY.jpg"
-        },
-        {
-          "id": "KXKZR53EBBEBRCIZL3FZBIZJW4",
-          "author": "Danny Nelson",
-          "description": "The MEV project Rook is hurtling toward major changes following an effort to split the token from the DAO.",
-          "link": "https://www.coindesk.com/business/2023/04/10/rook-token-surges-ahead-of-50m-treasury-split-between-community-and-mev-tech-builders/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T17:51:12.000Z",
-          "wordCount": 8534,
-          "title": "ROOK Token Surges Ahead of $50M Treasury Split Between Community and MEV Tech Builders",
-          "imageUrl": "https://www.coindesk.com/resizer/M5YGw7vxWmRlHEE7PjPUs8vYr6E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OCQC6LIVRVEBRL3DQZFYIYGKV4.jpg"
-        },
-        {
-          "id": "CZNKQKTN7VF2ZHM64ASDMYVGXU",
-          "author": "Fran Velasquez",
-          "description": "The upgrade may not shift the second largest cryptocurrency’s price immediately, but it may in time unlock a new group of investors, Brian Mosoff, said.",
-          "link": "https://www.coindesk.com/tech/2023/04/10/ether-capital-ceo-shanghai-upgrade-likely-to-be-a-non-event-on-eths-price/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T16:23:50.000Z",
-          "wordCount": 8205,
-          "title": "Ether Capital CEO: Shanghai Upgrade Likely to Be 'Nonevent' on ETH's Price",
-          "imageUrl": "https://www.coindesk.com/resizer/5oNm5lMyT460kDLl0Ll21dSZOwM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WA4X2AK52ZARRO6XYK4IMSSCQY.jpg"
-        },
-        {
-          "id": "7WNWGYTPOVBFFFQYIIJQBCRAUE",
-          "author": "Anna Baydakova",
-          "description": "They maintain multiple accounts for the same project, stay undetectable and maximize profits from airdrops like those of Arbitrum, Aptos, Sui and others. Special report by Anna Baydakova.",
-          "link": "https://www.coindesk.com/consensus-magazine/2023/04/10/crypto-airdrop-sybil-attacks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T16:23:21.000Z",
-          "wordCount": 10862,
-          "title": "Sybil Millionaires: How Airdrop Hunters Trick Projects and Snatch Fortunes",
-          "imageUrl": "https://www.coindesk.com/resizer/RNaVH20VtEXMFs9NRFNX3Ji-tFw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EK3RMEJMDRGEZDPOIZ6HB7UH6U.jpg"
-        },
-        {
-          "id": "U6GBJXRCQRBYJPB4D6IHCJQ52U",
-          "author": "Cam Thompson",
-          "description": "Finance chief Paul Chan said in a blog post that despite recent volatility in crypto, now is the time to push forward Web3 technologies.",
-          "link": "https://www.coindesk.com/web3/2023/04/10/hong-kongs-financial-secretary-declares-now-is-the-right-time-for-web3-adoption/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T16:21:56.000Z",
-          "wordCount": 8232,
-          "title": "Hong Kong’s Financial Secretary Declares Now Is the 'Right Time' for Web3 Adoption",
-          "imageUrl": "https://www.coindesk.com/resizer/dyXB-jOzbuYfRb6px4yJd0ukT7s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JFBBQJPPIZFC3D6RN3454XBVQU.jpg"
-        },
-        {
-          "id": "LSCBBLHOVBCKPHQXVNUWHNLMY4",
-          "author": "Sage D. Young",
-          "description": "The goal of the proposal is to let Euler users redeem their funds as soon as possible.",
-          "link": "https://www.coindesk.com/business/2023/04/10/euler-finance-community-weighs-plan-to-return-money-recovered-from-200m-hack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T16:09:36.000Z",
-          "wordCount": 8513,
-          "title": "Euler Finance Community Weighs Plan to Return Money Recovered From $200M Hack",
-          "imageUrl": "https://www.coindesk.com/resizer/ie8vspImKNPWuzQBPR1ZTguIZRQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TV53FNFGR5B7VOKJCF37NRIYJQ.jpg"
-        },
-        {
-          "id": "KCTHLZZQGRCF5C7X5GANPFPBMM",
-          "author": "Jamie Crawley",
-          "description": "CryptoGPT recently rolled out AI assistant \"Alex\" and is developing its ZK rollup layer 2 blockchain and a data-to-AI engine, which collects, encrypts and transfers data for commercial applications.",
-          "link": "https://www.coindesk.com/business/2023/04/10/ai-focused-blockchain-cryptogpt-raises-10m-funding-at-250m-valuation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
-          "publishedOn": "2023-04-10T13:16:37.000Z",
-          "wordCount": 8534,
-          "title": "AI-Focused Blockchain CryptoGPT Raises $10M Funding at $250M Valuation",
-          "imageUrl": "https://www.coindesk.com/resizer/d6S0I7swBBiulVIIo6kE57o4ucs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZO3ZU6FHZ5FCBCC5HZPNQD5UBY.jpg"
         }
       ]
     }
