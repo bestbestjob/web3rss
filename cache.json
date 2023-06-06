@@ -6,6 +6,38 @@
       "siteUrl": "https://substack.chainfeeds.xyz",
       "articles": [
         {
+          "id": "https://substack.chainfeeds.xyz/p/taproot-assets",
+          "author": "0xNatalie",
+          "description": "Taproot Assets 是基于比特币的可扩展协议，通过在交易中添加自定义的输出脚本来发行任意资产。ChainFeeds 将带领大家梳理 Taproot Assets。",
+          "link": "https://substack.chainfeeds.xyz/p/taproot-assets",
+          "publishedOn": "2023-06-05T07:07:54.000Z",
+          "wordCount": null,
+          "title": "Taproot Assets 解读：以最大化链上效率交互多资产",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7de414f7-78a1-4497-b069-6f028dba33fc_1000x600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7de414f7-78a1-4497-b069-6f028dba33fc_1000x600.png"
+        },
+        {
+          "id": "https://substack.chainfeeds.xyz/p/arbitrum-ld-capitall2-dex-cex-zksync",
+          "author": "Jewelry",
+          "description": "ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策",
+          "link": "https://substack.chainfeeds.xyz/p/arbitrum-ld-capitall2-dex-cex-zksync",
+          "publishedOn": "2023-06-05T01:44:57.000Z",
+          "wordCount": null,
+          "title": "投研早报｜Arbitrum 生态近期创新和新闻、LD Capital：L2 头部流动性定制 DEX 机制分析、抄底逃顶指标：CEX 流入流出情况、以 zkSync 为例，探讨在新链中应关注什么？",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1acb9b5-de7a-4e87-85b7-b788f5b4372a_1600x810.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1acb9b5-de7a-4e87-85b7-b788f5b4372a_1600x810.png"
+        },
+        {
           "id": "https://substack.chainfeeds.xyz/p/abcdethe-block5-6-lsd",
           "author": "Jewelry",
           "description": "ChainFeeds Newsletter 每日精选 10 条 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策",
@@ -844,6 +876,106 @@
       "feedUrl": "https://www.blocktempo.com/feed/",
       "siteUrl": "https://www.blocktempo.com",
       "articles": [
+        {
+          "id": "https://www.blocktempo.com/?p=244003",
+          "author": "Graham",
+          "description": "昨（5）日晚間，美國證券交易委員會（SEC）對加密貨幣交易所幣安（Binance）提起訴訟，法律文件中，SEC […]\nFTX翻版？SEC控CZ利用做市商Sigma撈錢，混用客戶百億鎂資金〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/cz-gives-the-green-light-to-sigma-the-market-maker-for-coin-security/",
+          "publishedOn": "2023-06-06T01:32:14.000Z",
+          "wordCount": 2101,
+          "title": "FTX翻版？SEC控CZ利用做市商Sigma撈錢，混用客戶百億鎂資金",
+          "imageUrl": "https://image.blocktempo.com/2023/06/Xnip2022-06-07_08-33-44-1.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243982",
+          "author": "Graham",
+          "description": "加密貨幣交易所幣安及其執行長 CZ 昨（5）日驚傳遭美國證券交易委員會起訴。SEC 特別指出 CZ 與幣安存在 […]\n幣安財務黑箱？SEC指控CZ從Binance收受6250萬美元、旗下造市商操縱幣價〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/62-million-was-transferred-to-cz-individuals-in-the-binance-account/",
+          "publishedOn": "2023-06-06T00:47:50.000Z",
+          "wordCount": 2041,
+          "title": "幣安財務黑箱？SEC指控CZ從Binance收受6250萬美元、旗下造市商操縱幣價",
+          "imageUrl": "https://image.blocktempo.com/2023/06/image-2023-06-06T030240094.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243994",
+          "author": "Joe",
+          "description": "證券交易委員會（SEC）深夜已起訴幣安與其執行長趙長鵬違反美國證券規則，起訴狀中更是將 SOL、ADA、MAT […]\nCZ宣戰：SEC將SOL、ADA、MATIC..列為證券，我們需「團結抗敵」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/sec-lists-sol-ada-matic-fil-as-securities/",
+          "publishedOn": "2023-06-05T17:41:01.000Z",
+          "wordCount": 1984,
+          "title": "CZ宣戰：SEC將SOL、ADA、MATIC..列為證券，我們需「團結抗敵」",
+          "imageUrl": "https://image.blocktempo.com/2023/06/Xnip2023-06-06_01-39-06.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243984",
+          "author": "PANews",
+          "description": "今日凌晨，美國證監會（SEC）正式起訴了全球最大的加密貨幣交易所幣安（Binance）及其執行長趙長鵬（CZ） […]\n“SEC起訴幣安”細節》13大要點看懂：美國政府對Binance、CZ的起訴書〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/13-points-summarize-sec-sued-binance-and-cz/",
+          "publishedOn": "2023-06-05T16:50:15.000Z",
+          "wordCount": 2257,
+          "title": "“SEC起訴幣安”細節》13大要點看懂：美國政府對Binance、CZ的起訴書",
+          "imageUrl": "https://image.blocktempo.com/2023/06/30AIrg5FYh.png"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243970",
+          "author": "Joe",
+          "description": "全球最大加密貨幣交易所幣安（Binance）近來飽受各國監管機關的合規挑戰，稍早據彭博消息，證券交易委員會（S […]\n重磅！SEC起訴「幣安、CEO趙長鵬」違反美國證券法，BNB大跌〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/sec-sues-binance-cz-for-violating-securities-laws/",
+          "publishedOn": "2023-06-05T15:19:27.000Z",
+          "wordCount": 1978,
+          "title": "重磅！SEC起訴「幣安、CEO趙長鵬」違反美國證券法，BNB大跌",
+          "imageUrl": "https://image.blocktempo.com/2023/06/changpeng-zhao-cz-fondateur-empire-binance-1.webp"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243974",
+          "author": "Joe",
+          "description": "稍早據彭博消息，證券交易委員會（SEC）已起訴幣安與其執行長趙長鵬（CZ）違反美國證券規則。CZ 本人則回應團 […]\n快訊》CZ急喊話：會確保「幣安存取款」正常！將回應美國SEC起訴〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/cz-responds-to-the-sec-lawsuit-ensure-that-users-withdraw-money-normally/",
+          "publishedOn": "2023-06-05T15:09:15.000Z",
+          "wordCount": 2032,
+          "title": "快訊》CZ急喊話：會確保「幣安存取款」正常！將回應美國SEC起訴",
+          "imageUrl": "https://image.blocktempo.com/2023/06/Xnip2022-09-02_09-01-39.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243829",
+          "author": "AC",
+          "description": "超過 500 萬用戶的加密貨幣錢包 Atomic Wallet 在近期傳出被駭事件後，官方回應尚未針對駭客攻擊 […]\n「只有1%活躍用戶被駭」Atomic Wallet 被抓包說謊〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/atomic-wallet-says-hack-affected-1-of-active-users-but-investors-claim-otherwise/",
+          "publishedOn": "2023-06-05T11:46:35.000Z",
+          "wordCount": 2130,
+          "title": "「只有1%活躍用戶被駭」Atomic Wallet 被抓包說謊",
+          "imageUrl": "https://image.blocktempo.com/2023/06/未命名設計-13.jpg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243864",
+          "author": "Defi 白澤研究院",
+          "description": "Avalanche 負責人 Luigi 在訪談中透露其並不會與以太坊競爭，模組化的區塊鏈對開發者更具吸引力，以 […]\n對話Avalanche：L2時代，雪崩未來的路在哪裡？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/in-layer2-era-where-is-the-future-of-avalanche/",
+          "publishedOn": "2023-06-05T11:45:54.000Z",
+          "wordCount": 2431,
+          "title": "對話Avalanche：L2時代，雪崩未來的路在哪裡？",
+          "imageUrl": "https://image.blocktempo.com/2023/06/640-9.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243841",
+          "author": "IOSG Ventures",
+          "description": "Zuzalu 居民的內心獨白：真正的 Zuzalu 是怎樣的？ 本文源自 Shuyao 於 substack  […]\n揭秘V神的社群實驗 “Zuzalu”：位於美麗海灘的菁英烏托邦〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/confessions-of-a-zuzulian/",
+          "publishedOn": "2023-06-05T11:35:46.000Z",
+          "wordCount": 2297,
+          "title": "揭秘V神的社群實驗 “Zuzalu”：位於美麗海灘的菁英烏托邦",
+          "imageUrl": "https://image.blocktempo.com/2023/06/FvslUsXakAMwZhv.jpeg"
+        },
+        {
+          "id": "https://www.blocktempo.com/?p=243813",
+          "author": "MetaCat",
+          "description": "許多人對於元宇宙的定義都不同，3D虛擬空間、數位世界與現實世界高度融合甚至是人類的精神時光屋，而本文將解答元宇 […]\n元宇宙致命的10個問題：虛擬土地還有戲嗎？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。",
+          "link": "https://www.blocktempo.com/ten-questions-of-metaverse/",
+          "publishedOn": "2023-06-05T11:21:11.000Z",
+          "wordCount": 2123,
+          "title": "元宇宙致命的10個問題：虛擬土地還有戲嗎？",
+          "imageUrl": "https://image.blocktempo.com/2023/06/dd.jpeg"
+        },
         {
           "id": "https://www.blocktempo.com/?p=243517",
           "author": "Joe",
@@ -3603,86 +3735,6 @@
           "wordCount": 1957,
           "title": "突發》幣安暫停提領比特幣！正修復 BTC 網路中",
           "imageUrl": "https://image.blocktempo.com/2023/05/today-crypto-binance-program.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234347",
-          "author": "Defi 白澤研究院",
-          "description": "在 2023 年，最新推出且最激動人心的標準是 ERC-4337，也被稱為 「智能錢包（智慧錢包）」 標準或帳 […]\n2023，你該關注的「以太坊改進」提案？ERC-4337 ERC-6551 ERC-5507 EIP-4844〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/2023-summarize-ethereum-upgrade-plan/",
-          "publishedOn": "2023-05-07T13:33:17.000Z",
-          "wordCount": 2475,
-          "title": "2023，你該關注的「以太坊改進」提案？ERC-4337 ERC-6551 ERC-5507 EIP-4844",
-          "imageUrl": "https://image.blocktempo.com/2023/05/1683259204205280.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234318",
-          "author": "James",
-          "description": "迷因幣佩佩蛙 $PEPE 最近兩周漲勢驚人，成為市場熱議話題，不過軟體工程師 Cygaar 近日披露， PEP […]\n迷因幣Pepe》超800萬鎂地址遭黑名單；巨鯨持續買入、交易所僅持19%總供應量〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/a-users-pepe-address-was-blacklisted/",
-          "publishedOn": "2023-05-07T10:47:49.000Z",
-          "wordCount": 2224,
-          "title": "迷因幣Pepe》超800萬鎂地址遭黑名單；巨鯨持續買入、交易所僅持19%總供應量",
-          "imageUrl": "https://image.blocktempo.com/2023/05/xx-1.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234302",
-          "author": "James",
-          "description": "由「股神」巴菲特（Warren Buffett）執掌的波克夏海瑟威（Berkshire Hathaway）在  […]\n巴菲特憂 AI 如原子彈危險：我們無法取消他的發明！查理芒格懷疑是炒作〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/warren-buffett-compares-ai-to-atom-bomb/",
-          "publishedOn": "2023-05-07T10:02:06.000Z",
-          "wordCount": 2020,
-          "title": "巴菲特憂 AI 如原子彈危險：我們無法取消他的發明！查理芒格懷疑是炒作",
-          "imageUrl": "https://image.blocktempo.com/2023/05/33.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=232453",
-          "author": "PANews",
-          "description": "Sui 主網已上線了，不過 Sui 的生態似乎討論聲量相當低，為了更好上手 Sui 生態，本文將介紹即將上線  […]\nSui生態快速盤點》隨主網上線的31個專案：DEX、Gamfi、NFT市集、借貸協議…〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/first-batch-goes-online-on-sui-mainnet/",
-          "publishedOn": "2023-05-07T08:30:51.000Z",
-          "wordCount": 3119,
-          "title": "Sui生態快速盤點》隨主網上線的31個專案：DEX、Gamfi、NFT市集、借貸協議…",
-          "imageUrl": "https://image.blocktempo.com/2023/05/f20695aa438a09d7038dd34bf4d5da7b-1.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234282",
-          "author": "James",
-          "description": "OpenAI（ChatGPT背後公司）執行長 Sam Altman 打造的加密貨幣項目 Worldcoin 今 […]\nOpenAI (ChatGPT)創辦人項目》世界幣Worldcoin啟動全球城市巡演！開放社群專家申請〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/worldcoin-community-specialist-application-is-open/",
-          "publishedOn": "2023-05-07T08:01:14.000Z",
-          "wordCount": 2111,
-          "title": "OpenAI (ChatGPT)創辦人項目》世界幣Worldcoin啟動全球城市巡演！開放社群專家申請",
-          "imageUrl": "https://image.blocktempo.com/2023/05/cbc.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234268",
-          "author": "James",
-          "description": "肯亞政府在周四向國會提交《2023年財政法案》，希望修訂《所得稅法》 ，新增數位資產稅，數位資產轉移或交易，需 […]\n肯亞將收「加密貨幣轉移稅3%」！全國8.5%人口持有虛擬資產〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/kenya-wants-to-tax-cryptocurrencies/",
-          "publishedOn": "2023-05-07T05:43:31.000Z",
-          "wordCount": 2010,
-          "title": "肯亞將收「加密貨幣轉移稅3%」！全國8.5%人口持有虛擬資產",
-          "imageUrl": "https://image.blocktempo.com/2023/05/Kenya-cryptocurrency-regulation-digital-wallets.jpg"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234253",
-          "author": "James",
-          "description": "迷因幣佩佩蛙 $PEPE 在 6 日於幣安上架後，一度衝上 0.00000439 美元，刷新歷史新高，不過隨後 […]\nPEPE歷史新高後大跌47%！推特傳Coinbase將上架佩佩蛙、已上Wallet〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/pepe-price-plummeted-by-40/",
-          "publishedOn": "2023-05-07T04:15:13.000Z",
-          "wordCount": 2223,
-          "title": "PEPE歷史新高後大跌47%！推特傳Coinbase將上架佩佩蛙、已上Wallet",
-          "imageUrl": "https://image.blocktempo.com/2023/05/4-2.png"
-        },
-        {
-          "id": "https://www.blocktempo.com/?p=234240",
-          "author": "luc:",
-          "description": "（背景補充：萬字精華》Cobo神魚聊比特幣減半：下一輪牛市的起點？ ）   根據區塊鏈情報公司 Ar […]\n巨鯨入市！ Circle鑄造1.4億枚USDC；16萬顆 ETH 存入質押〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈媒體 (比特幣, 加密貨幣)》。",
-          "link": "https://www.blocktempo.com/140m-circle-usdc-minted-by-a-whale/",
-          "publishedOn": "2023-05-06T16:21:11.000Z",
-          "wordCount": 2041,
-          "title": "巨鯨入市！ Circle鑄造1.4億枚USDC；16萬顆 ETH 存入質押",
-          "imageUrl": "https://image.blocktempo.com/2023/05/file-20230220-20-3yvrjjJPG.png"
         }
       ]
     },
@@ -3691,6 +3743,156 @@
       "feedUrl": "https://blockworks.co/feed/",
       "siteUrl": "https://blockworks.co",
       "articles": [
+        {
+          "id": "https://blockworks.co/news/reggie-fowler-sentenced-crypto-scheme",
+          "author": null,
+          "description": "The former part owner of the Minnesota Vikings misled a number of banks to process hundreds of millions of dollars of illicit crypto transactions",
+          "link": "https://blockworks.co/news/reggie-fowler-sentenced-crypto-scheme",
+          "publishedOn": "2023-06-05T22:23:40.000Z",
+          "wordCount": 21108,
+          "title": "Reggie Fowler Gets Over 6 Years for Crypto Scheme, Ordered to Forfeit $740M",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/released-from-prison.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/binance-execs-unlicensed-securities-exchange",
+          "author": null,
+          "description": "“We do not want to be regulated ever,” the SEC quotes an unnamed Binance CCO in lawsuit",
+          "link": "https://blockworks.co/news/binance-execs-unlicensed-securities-exchange",
+          "publishedOn": "2023-06-05T20:29:44.000Z",
+          "wordCount": 22435,
+          "title": "Binance Executives Claimed to Operate as ‘Unlicensed Securities Exchange’: SEC Lawsuit",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Binance-Australia.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/good-month-for-bitcoin-miners",
+          "author": null,
+          "description": "CleanSpark’s normal bitcoin production nearly doubled during five-day stretch in May amid Ordinals-spurred fee increases",
+          "link": "https://blockworks.co/news/good-month-for-bitcoin-miners",
+          "publishedOn": "2023-06-05T19:36:34.000Z",
+          "wordCount": 21805,
+          "title": "Higher Bitcoin Transaction Fees Spur Good Month for Miners",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/bitcoin-mining-marathon-digital.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/uk-considers-crypto-tsar",
+          "author": null,
+          "description": "Some legislators are hoping to get bills drafted and passed within the next two years",
+          "link": "https://blockworks.co/news/uk-considers-crypto-tsar",
+          "publishedOn": "2023-06-05T18:37:02.000Z",
+          "wordCount": 21535,
+          "title": "UK Considers ‘Crypto Tsar’ to Head Up Regulation",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/uk-crypto-bitcoin.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/gary-gensler-national-disgrace",
+          "author": null,
+          "description": "Gensler’s latest actions demonstrate his continuing disregard for American investors, entrepreneurs and interests",
+          "link": "https://blockworks.co/news/gary-gensler-national-disgrace",
+          "publishedOn": "2023-06-05T18:22:47.000Z",
+          "wordCount": 22154,
+          "title": "Gary Gensler Is a National Disgrace: It’s Time to Rein Him In",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Gary-Gensler-SEC-National-Disgrace.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/stablecoins-prominent-role-economy-australia",
+          "author": null,
+          "description": "The Australian central bank hasn’t made a decision on a CBDC, but it is “actively engaging” in research",
+          "link": "https://blockworks.co/news/stablecoins-prominent-role-economy-australia",
+          "publishedOn": "2023-06-05T17:37:15.000Z",
+          "wordCount": 21921,
+          "title": "Stablecoins Could Play ‘More Prominent’ Role in Economy: Australian Central Bank",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/australia-bank.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/binance-pushes-back-sec-lawsuit",
+          "author": null,
+          "description": "Binance claims that it tried to reach a settlement with the SEC ahead of the lawsuit",
+          "link": "https://blockworks.co/news/binance-pushes-back-sec-lawsuit",
+          "publishedOn": "2023-06-05T16:56:58.000Z",
+          "wordCount": 21812,
+          "title": "Binance Pushes Back on SEC Lawsuit, Denies Commingling User Assets",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Binance-Changpeng-Zhao-1-1024x576.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/sec-10-tokens-securities",
+          "author": null,
+          "description": "The SEC has deemed 10 crypto tokens securities — plus Binance’s native tokens",
+          "link": "https://blockworks.co/news/sec-10-tokens-securities",
+          "publishedOn": "2023-06-05T16:45:48.000Z",
+          "wordCount": 21615,
+          "title": "SEC Labels 10 Tokens Securities in Binance Lawsuit",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Solana.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/markets-red-after-sec-binance",
+          "author": null,
+          "description": "Bitcoin and ether take a beating on Binance lawsuit news",
+          "link": "https://blockworks.co/news/markets-red-after-sec-binance",
+          "publishedOn": "2023-06-05T16:30:02.000Z",
+          "wordCount": 21648,
+          "title": "Markets Dip Red After SEC Sues Binance",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Binance-BNB-.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/sec-allegations-against-binance",
+          "author": null,
+          "description": "Commingling customer funds, failure to register ‘securities’ and operating an unlicensed securities exchange are among the charges",
+          "link": "https://blockworks.co/news/sec-allegations-against-binance",
+          "publishedOn": "2023-06-05T16:09:12.000Z",
+          "wordCount": 22900,
+          "title": "The SEC Allegations Against Binance: How Bad Is It?",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Binance-Changpeng-Zhao-CFTC.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/sommelier-vaults-governance-token-yield",
+          "author": null,
+          "description": "Sommelier is offering a passive way to earn 2% to 4% yield on your governance tokens",
+          "link": "https://blockworks.co/news/sommelier-vaults-governance-token-yield",
+          "publishedOn": "2023-06-05T16:00:29.000Z",
+          "wordCount": 21846,
+          "title": "5 New Sommelier Vaults Now Capturing Governance Token Yield",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/bank-vault.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/binance-changpeng-zhao-face-sec-charges",
+          "author": null,
+          "description": "The SEC is bringing charges against Binance and its CEO, Changpeng Zhao",
+          "link": "https://blockworks.co/news/binance-changpeng-zhao-face-sec-charges",
+          "publishedOn": "2023-06-05T15:31:56.000Z",
+          "wordCount": 22096,
+          "title": "Binance and Changpeng ‘CZ’ Zhao Face Multiple SEC Charges",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/Changpeng-Zhao-Binance.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/tether-volcano-project-el-salvador",
+          "author": null,
+          "description": "Tether is putting money into a big renewable energy park called “Volcano Energy” in Metapán, El Salvador",
+          "link": "https://blockworks.co/news/tether-volcano-project-el-salvador",
+          "publishedOn": "2023-06-05T15:16:54.000Z",
+          "wordCount": 22363,
+          "title": "Tether Joins Volcano Energy Project in El Salvador",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/el-salvador-volcano.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/south-korea-xrp-trade",
+          "author": null,
+          "description": "In South Korea, XRP has persisted as the most-traded cryptocurrency outside of bitcoin over the year to date",
+          "link": "https://blockworks.co/news/south-korea-xrp-trade",
+          "publishedOn": "2023-06-05T13:02:49.000Z",
+          "wordCount": 22221,
+          "title": "South Korea Has Traded Way More XRP Than Ethereum This Year",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/southkorearipple.jpg&w=1920&q=75&webp=false"
+        },
+        {
+          "id": "https://blockworks.co/news/ftx-genesis-debt-bankruptcy",
+          "author": null,
+          "description": "FTX alleges Genesis owes $3.9 billion in cash and crypto, as major feeder fund enabling fraudulent business model",
+          "link": "https://blockworks.co/news/ftx-genesis-debt-bankruptcy",
+          "publishedOn": "2023-06-05T09:35:28.000Z",
+          "wordCount": 22158,
+          "title": "FTX Challenges Genesis’ Zero Debt Claim",
+          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/06/ftx-genesis-bankruptcy.jpg&w=1920&q=75&webp=false"
+        },
         {
           "id": "https://blockworks.co/news/magic-labs-take-the-cake",
           "author": null,
@@ -7190,46 +7392,6 @@
           "wordCount": 20643,
           "title": "Federal Reserve Policy Is Shaking Confidence in America’s Banks",
           "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/federal-reserve-1024x576.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/crypto-funding-down-52m-startups",
-          "author": null,
-          "description": "A community bitcoin payment and custody solution, a multichain ZK rollup trading layer, and a probability token provider were the top fundraisers",
-          "link": "https://blockworks.co/news/crypto-funding-down-52m-startups",
-          "publishedOn": "2023-05-07T13:00:00.000Z",
-          "wordCount": 20419,
-          "title": "Crypto Funding: $52M for Startups, Including Bitcoin Lightning Scaling Solution",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/funding.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/web3-patents-companies-filing",
-          "author": null,
-          "description": "Industry attention is once again turning to the role patents play in securing intellectual property related to blockchain technology — and perhaps gain a competitive edge",
-          "link": "https://blockworks.co/news/web3-patents-companies-filing",
-          "publishedOn": "2023-05-06T18:00:00.000Z",
-          "wordCount": 20837,
-          "title": "These 5 Companies Have Filed Web3 or NFT Patents",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/patents.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/dcg-turnover-taking-center-stage",
-          "author": null,
-          "description": "Michael Kraines stepped down as DCG’s chief financial officer",
-          "link": "https://blockworks.co/news/dcg-turnover-taking-center-stage",
-          "publishedOn": "2023-05-06T16:30:00.000Z",
-          "wordCount": 20153,
-          "title": "Crypto Hiring: DCG Turnover Taking Center Stage Again",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/Digital-Currency-Group.jpg&w=1920&q=75&webp=false"
-        },
-        {
-          "id": "https://blockworks.co/news/state-mining-bills-pending",
-          "author": null,
-          "description": "Montana bill protecting crypto miners from discrimination was signed this week amid broader state-level push on the topic",
-          "link": "https://blockworks.co/news/state-mining-bills-pending",
-          "publishedOn": "2023-05-06T15:00:00.000Z",
-          "wordCount": 20517,
-          "title": "Amid Pending State Mining Bills, One Has Become Law",
-          "imageUrl": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/05/bitcoin-mining-purple.jpg&w=1920&q=75&webp=false"
         }
       ]
     },
@@ -7238,6 +7400,66 @@
       "feedUrl": "https://techflowpost.mirror.xyz/feed/atom",
       "siteUrl": "https://techflowpost.mirror.xyz",
       "articles": [
+        {
+          "id": "https://techflowpost.mirror.xyz/85Ga6o_CCiVjsjO5k2fCEnxJvB9XuL3kPGlhOOHY38o",
+          "author": null,
+          "description": "寻找淘金的“铲子”：五个从 AI 叙事中长期受益的项目 – 深潮TechFlow\n撰写：Emperor Osmo\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/85Ga6o_CCiVjsjO5k2fCEnxJvB9XuL3kPGlhOOHY38o",
+          "publishedOn": "2023-06-05T10:08:27.000Z",
+          "wordCount": 832,
+          "title": "寻找淘金的“铲子”：五个从 AI 叙事中长期受益的项目",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/H0kG9N-IWqbc0s3TrQWjN.jpeg?height=500&width=1000&h=500&w=1000&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/tvfA2QedALXeeJTk_CRve1Gi1zA6O8IcflkCRwnQbm0",
+          "author": null,
+          "description": "专访 Vechain 创始人 Sunny ：从 LV 到加密世界，Web3 是可持续发展的完美答案  – 深潮TechFlow\n出品：深潮 TechFlow\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/tvfA2QedALXeeJTk_CRve1Gi1zA6O8IcflkCRwnQbm0",
+          "publishedOn": "2023-06-05T08:29:51.000Z",
+          "wordCount": 1059,
+          "title": "专访 Vechain 创始人 Sunny ：从 LV 到加密世界，Web3 是可持续发展的完美答案",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/zh9WTG2V9SWLOQvvqrwGV.jpeg?height=956&width=1912&h=956&w=1912&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/xazC1cuxse8xMgchq7481JMUhRYSDMFsaZb1VsVHTEg",
+          "author": null,
+          "description": "Apple 开发者大会即将举行，哪些元宇宙代币值得关注？ – 深潮TechFlow\n本文介绍了七个值得关注的元宇宙项目。\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/xazC1cuxse8xMgchq7481JMUhRYSDMFsaZb1VsVHTEg",
+          "publishedOn": "2023-06-05T07:01:59.000Z",
+          "wordCount": 791,
+          "title": "Apple 开发者大会即将举行，哪些元宇宙代币值得关注？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/QH6oNDxNpOyyE7sbZ4eG7.jpeg?height=884&width=1768&h=884&w=1768&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/7G1GesoQEwsbV9EGj1eGiwkdjZqwRbmrmwpjdEi-XlY",
+          "author": null,
+          "description": "a16z：Web3 协议的去中心化因素及分类  – 深潮TechFlow\n撰写：Miles Jennings、Stephen Wink、Adam Zuckerman\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/7G1GesoQEwsbV9EGj1eGiwkdjZqwRbmrmwpjdEi-XlY",
+          "publishedOn": "2023-06-05T06:26:31.000Z",
+          "wordCount": 845,
+          "title": "a16z：Web3 协议的去中心化因素及分类",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/NvCSsm2dDwICE3EPeDCRt.jpeg?height=960&width=1920&h=960&w=1920&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/-roPu_eoGHtGtRALRD1PZM_COt6jrNFL5-B8ZDi8bOg",
+          "author": null,
+          "description": "Vitalik 参与投资，Kakarot 如何将 EVM 引入 Starknet？ – 深潮TechFlow\n撰写：cookies\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/-roPu_eoGHtGtRALRD1PZM_COt6jrNFL5-B8ZDi8bOg",
+          "publishedOn": "2023-06-05T05:12:20.000Z",
+          "wordCount": 1286,
+          "title": "Vitalik 参与投资，Kakarot 如何将 EVM 引入 Starknet？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/5Sakj82pInB-Fy2B3dejS.jpeg?height=553&width=1106&h=553&w=1106&auto=compress"
+        },
+        {
+          "id": "https://techflowpost.mirror.xyz/p_gZHgbnYdVuqC4Xm91rl4i_ryoTzOuCzTcd-SObPds",
+          "author": null,
+          "description": "播客笔记：为什么 VanEck 预测 ETH 到 2030 年可能会达到 5 万美元？ – 深潮TechFlow\n出品：深潮 TechFlow 研究院\nRead the full entry",
+          "link": "https://techflowpost.mirror.xyz/p_gZHgbnYdVuqC4Xm91rl4i_ryoTzOuCzTcd-SObPds",
+          "publishedOn": "2023-06-05T04:38:34.000Z",
+          "wordCount": 964,
+          "title": "播客笔记：为什么 VanEck 预测 ETH 到 2030 年可能会达到 5 万美元？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/tJzcTFkskHLAs8WQUXdtH.png?height=600&width=1200&h=600&w=1200&auto=compress"
+        },
         {
           "id": "https://techflowpost.mirror.xyz/EN1tom5BBDS-DGuAGhVbUKX2LMoOyZuI55GX59AsEu0",
           "author": null,
@@ -7955,6 +8177,226 @@
       "feedUrl": "https://www.chainfeeds.xyz/rss",
       "siteUrl": null,
       "articles": [
+        {
+          "id": "https://twitter.com/Starknet_OG/status/1665360531014955009",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Starknet 网络即将迎来一些列更新，网络将能支持三位数的 TPS。加密 KOL Starknet_Digger 评估了 5 个 Starknet 生态的 DeFi 项目各自的特点及风险。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/Starknet_OG/status/1665360531014955009\">https://twitter.com/Starknet_OG/status/1665360531014955009</a></p>\n<p><strong>文章作者：</strong></p><p>Starknet_Digger</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Starknet_Digger：</strong>尽管 Starknet 的生态系统在所有采用指标上都在迅速增长，但数据还是比较低。Starknet 上的 TVL 只有 6000 万美元，Starknet DeFi 的 TVL 只有 1100 万美元（Uniswap 有超过 35 亿美元）。\n\nmySwap 是 Starknet 上 TVL 排名第三的 DeFi 协议，它由 Braavos 团队构建，可以直接集成到 Braavos 钱包（交易功能）。10kSwap 的 TVL 排名第三。但该项目是匿名的，Discord 也完全被放弃了，团队似乎还在平台上从事洗盘交易，因此我个人不会在这上面浪费时间。\n\nJediSwap 目前占 Starknet TVL 的约 60%，目前正努力在 Starknet 上部署 UniSwap 的 V3 版本。SithSwap 是 Curve、Convex 和 Uniswap V2 的组合。AVNU 旨在通过创建一个用于链上流动性的 DEX 聚合器（已在主网上线）和一个用于链外流动性的询价系统来解决 Starknet 上的流动性碎片化问题。【原文为英文】</p><a href=\"https://twitter.com/Starknet_OG/status/1665360531014955009\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/Starknet_OG/status/1665360531014955009",
+          "publishedOn": "2023-06-05T12:47:06.000Z",
+          "wordCount": null,
+          "title": "【英文长推】5 个 Starknet 生态 DeFi 项目速览：有何特点与风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xNing0x/status/1665646417946480640",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密分析师 NingNing 总结了当前市场的特点，分别为：流动性枯竭 + 叙事枯竭、BTC 跑不赢黄金 + 跑不赢美股、牛市累积的泡沫与恩怨在熊市释放。他认为这种情况在短期内还将继续维持。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/0xNing0x/status/1665646417946480640\">https://twitter.com/0xNing0x/status/1665646417946480640</a></p>\n<p><strong>文章作者：</strong></p><p>NingNing</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>NingNing：</strong>流动性枯竭 + 叙事枯竭的无聊市场：ARB、SUI 这种热门新币的 24h 交易量今天也就 1 亿多美元、PEPE 只有 8 千万美元不到。以太坊主网交互 gas 费平均值在今天降到了 22 gwei，预示着 Meme 热潮基本告一段落。现在也就  BRC20 的衍生叙事还能荡起一丝涟漪，但池子太小、鳄鱼太多。\n\n跑不赢黄金 + 跑不赢美股的弱势市场：3 月的 BTC 强势至极。到了 5 月，BTC 则与黄金、美股完成了去相关，既跑不赢黄金，又跑不赢的美股。上周五好不容易美债上限问题解决，A 股、美股、日股都来了一波强势上涨，加密市场却还来得及涨又开始弱势横盘了，预计 6 月还将延续 5 月的弱势。\n\n牛市累积的泡沫与恩怨在熊市释放：SEI、L2、Move 系公链都是上一轮牛市吹起得的漂亮泡沫。而在牛市中急速扩张的交易所，靠手续费收入压根养活不起如此庞大规模的高薪团队，于是一方面节支，疯狂无底线裁员；一方面开源，上 CX 币、上 Meme 币、上关系币 + 定点爆仓 + 虚空增发稳定币 + 吞冻结币。</p><a href=\"https://twitter.com/0xNing0x/status/1665646417946480640\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/0xNing0x/status/1665646417946480640",
+          "publishedOn": "2023-06-05T12:05:05.000Z",
+          "wordCount": null,
+          "title": "【长推】6 月加密市场主题预测：无聊、弱势、矛盾爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/taipei-ethereum-meetup/tornadocash-v2-privacy-pools-%E5%8F%8A-proof-of-innocence-4c19e8967adb",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>TornadoCash 早期开发者 ameen.eth 提出一种既能让人们拥有隐私，又能有效遏制洗钱活动的方案：Privacy-Pools 和 Proof-of-Innocence。以太坊台北研究员 albertlin.eth 解析了该方案的设计原理。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://medium.com/taipei-ethereum-meetup/tornadocash-v2-privacy-pools-%E5%8F%8A-proof-of-innocence-4c19e8967adb\">https://medium.com/taipei-ethereum-meetup/tornadocash-v2-privacy-pools-%E5%8F%8A-proof-of-innocence-4c19e8967adb</a></p>\n<p><strong>文章作者：</strong></p><p>albertlin.eth</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>albertlin.eth：</strong>「Proof-of-Innocence」是用另一个 Proof 来证明该笔领款是来自于允许清单中的存款。「Proof-of-Innocence」可以从允许清单和拒绝清单两个角度来建构。「Privacy-Pools」在 TornadoCash 基础上叠加了「Proof-of-Innocence」的概念，原本的收据代表意义多了第三个意思：证明提款的资金来自于允许清单中的存款 。\n\n提款者除了需要提供建构 Deposit Merkle Root 所需资料之外，还需要另外提供 Allow Merkle Root 和建构 Allow Merkle Root 的资料来证明提领资金的是存在允许清单中。\n\t\n由于 Allow Merkle Root 是由提款者提供，不法分子仍有办法透过假造的 Allow Merkle Root 来把不法资金领走。假造的 Allow Merkle Root 依然会呈现在链上并被其他人视为这笔领款仍有存有疑虑，借此来达到追踪不法资金的流向。\n\n笔者觉得有趣的角度是利用另一个 ZKP 来证明另一件事实，有点像是 ZKP 的加法。这样的使用方式会比建构一个更大行更复杂的 ZKP 更来为简单，效率也更高。关于 Allow Merkle Tree 的选择，感觉之后会是由一个比较公正的单位来建构，这样对于其他人也有比较高的说服性。</p><a href=\"https://medium.com/taipei-ethereum-meetup/tornadocash-v2-privacy-pools-%E5%8F%8A-proof-of-innocence-4c19e8967adb\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://medium.com/taipei-ethereum-meetup/tornadocash-v2-privacy-pools-%E5%8F%8A-proof-of-innocence-4c19e8967adb",
+          "publishedOn": "2023-06-05T11:01:58.000Z",
+          "wordCount": 2013,
+          "title": "TornadoCash V2: Privacy-Pools 及 Proof-of-Innocence",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*glybXi0-Cv09eqs7TvC8RQ.png"
+        },
+        {
+          "id": "https://twitter.com/moritz_web3/status/1665312453465640960",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密 KOL Moritz 复盘了过去一周 NFT 发生的新闻，并盘点了上周销售价格最高的 Top4 NFT。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/moritz_web3/status/1665312453465640960\">https://twitter.com/moritz_web3/status/1665312453465640960</a></p>\n<p><strong>文章作者：</strong></p><p>moritz</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>moritz：</strong>1）Spirit DAO 推出首部漫画作品；2）梅赛德斯奔驰推出 NFT 系列 Mercedes-Benz NXT；3）ZK Shark 和 Nullish 联合发行新的 Ordinal Maxi Biz 铭文；4）Doodle 和 CAMP 合作探索互动零售体验；\n\n5）DeGods 和 y00ts 合并 Discord 频道并推出 de [id]；6）Moonbirds Mythics 将于 7 月推出；7）ETHER 将铸币价格降至 0.65ETH，创始人暗示 6 月 30 日为可能的铸币日期；8）耐克旗下 Web3 可穿戴设备平台 .SWOOSH 与 EA Sports 合作。\n\n本周最高 NFT 销售价格：1）306976 美元（161.23 ETH）- Azuki #9236；2）216093 美元（116 ETH）- BAYC #4066；3）161476 美元（85 ETH）- Punk #1741；4）151977 美元（80 ETH）- Punk #7209。【原文为英文】</p><a href=\"https://twitter.com/moritz_web3/status/1665312453465640960\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/moritz_web3/status/1665312453465640960",
+          "publishedOn": "2023-06-05T10:06:46.000Z",
+          "wordCount": null,
+          "title": "【英文长推】一分钟速览过去一周 NFT 领域发生了什么：奔驰推出 NFT 系列、DeGods 和 y00ts 联合推出 de [id]、.SWOOSH 与 EA Sports 合作…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/samkazemian/status/1664737658797686784",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>frxETH v2 是去中心化的借贷市场和由验证者债务支持的 ETH 稳定币，它也是项目中最具可编程性的 LSD 基础层。frxETH v2 版本预计于本月底完成审计，项目创始人 Sam Kazemian 讲述了 LSD 协议的本质及 frxETH v2 的创新之处。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/samkazemian/status/1664737658797686784\">https://twitter.com/samkazemian/status/1664737658797686784</a></p>\n<p><strong>文章作者：</strong></p><p>Sam Kazemian（ Frax Finance 创始人）</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Sam Kazemian（ Frax Finance 创始人）：</strong>所有 LSD 协议的基础结构都是简单的借贷市场，出借人借出 ETH 并获得凭证代币（LSD），借款人租用运行验证器的权利并向贷方支付利息。简单明了，无需额外的营销说辞。\n\nfrxETH v2 的创新：不在验证器中的闲置 ETH 会被发送到 Curve AMO 以获得流动性 + 收益。利用率考虑到了 AMO ETH，所以它是自我平衡的。完全去中心化的信标预言机 / 链上控制的 zk 证明。没有管理密钥 /msig/ EOA 信任。frxETH v2 版本代码将在本月底完成并通过审计。【原文为英文】</p><a href=\"https://twitter.com/samkazemian/status/1664737658797686784\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/samkazemian/status/1664737658797686784",
+          "publishedOn": "2023-06-05T09:21:46.000Z",
+          "wordCount": null,
+          "title": "【英文长推】Frax 创始人解析 frxETH v2：有何创新之处？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/jessicaxyshen/status/1664861646773264385",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Blur DAO 治理将于 8 月中旬开启，届时 veToken 代币模型也将迎来更新。加密研究员 Jessica Shen 采用一级投资估值得出 Blur 内在价值约 $0.64，并结合即将发布项目更新，评估 DAO 开启后 Blur 代币估值为 $0.87。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/jessicaxyshen/status/1664861646773264385\">https://twitter.com/jessicaxyshen/status/1664861646773264385</a></p>\n<p><strong>文章作者：</strong></p><p>Jessica Shen</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Jessica Shen：</strong>结论：当前 Blur 内在价值约 $0.64，以 TGE 后 180 天（2023 年 8 月 14 日）开启 DAO 治理作为估值变化时间基准，Blur 未来代币估值为 $0.87。\n\n方法论：Blur 目前业务条线有 NFT 交易所、NFT 借贷业务，对两条业务分别估值后加总得到 Blur 新的内在价值估计。协同效应适当考虑。1）NFT 交易所业务对标 OpenSea 等的 P/Trading Volume；2）NFT 借贷业务 Blend 对标 BendDAO 等的 P/Lending Volume（日平均敞口贷款）。\n\n预计未来 Blur 估值影响事件包括：1）8 月中旬 DAO 治理开启；2）Tokenomics 更新（潜在 veToken 模型），3）Bidding Pool 及 Lending Pool TVL 增长；4）NFT 市场回暖；5）上线其他 NFT-Fi 功能，如点对池借贷、NFT、NFT Perpetuals、NFT Options、ERC1155 代币交易所等。</p><a href=\"https://twitter.com/jessicaxyshen/status/1664861646773264385\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/jessicaxyshen/status/1664861646773264385",
+          "publishedOn": "2023-06-05T08:32:08.000Z",
+          "wordCount": null,
+          "title": "【长推】Blur DAO 治理即将开启，探讨对其代币估值的影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Hercules_Defi/status/1665388432993173504",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Binance Labs 作为头部投资机构，基金规模高达 75 亿美元。加密研究员 Hercules 从 Binance Labs 投资的 165 个项目中挑选了 8 个他认为具有潜力的项目。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/Hercules_Defi/status/1665388432993173504\">https://twitter.com/Hercules_Defi/status/1665388432993173504</a></p>\n<p><strong>文章作者：</strong></p><p>Hercules | DeFi</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Hercules | DeFi：</strong>-LifeForm 是一个超现实的 3D 虚拟人物编辑器和视觉 DID 解决方案供应商。人们可以通过 Lifeform DID 解决方案轻松创建头像，使用 NFT 作为数字身份。\n-Fusionist 是一个区块链游戏和游戏基础设施层，最近完成了 beta 测试。\n-Mysten Labs 构建了两个有前途的项目：PoS 区块链 Sui 以及用于构建智能合约的编程语言 Move。\n-ARPA 是一个致力于构建区块链适应（Blockchain-adapted）密码学的安全计算网络，预计这个月将推出主网。\n-Space 是一个商业虚拟世界，有助于在 3D 中创建概念设计。\n-DoraHacks 是一个开发者平台，目前为止，DoraHacks 拥有 88932 名活跃的建设者，资助了 2532 万美元。\n-Zecrey 是一个基于 zk-Rollup 的二层协议，具有隐私和可扩展性。Zecrey 提供了一个用户友好的钱包，包含 L1 和 Zecrey 原生 L2。\n-Velvet Capital 是一个 DeFi 操作系统，帮助机构在链上推出和管理金融产品。【原文为英文】</p><a href=\"https://twitter.com/Hercules_Defi/status/1665388432993173504\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/Hercules_Defi/status/1665388432993173504",
+          "publishedOn": "2023-06-05T07:54:01.000Z",
+          "wordCount": null,
+          "title": "【英文长推】盘点 8 个 Binance Labs 投资的潜力项目：Space、Zecrey、Velvet Capital…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SolblueHK/status/1665390425648279554",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密分析师日蓝 Solblue 创建 Ordinals NFT 蓝筹指标分析工具，并撰推分析 6 月 4 日各个具有蓝筹潜力的 Ordinals NFT 的数据变化。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/SolblueHK/status/1665390425648279554\">https://twitter.com/SolblueHK/status/1665390425648279554</a></p>\n<p><strong>文章作者：</strong></p><p>日蓝 Solblue</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>日蓝 Solblue：</strong>分析背景：1）Inscriptions (70% 起始铭文 + 30% 最终铭文)；2）Market Performance 市场表现 (44.5% 交易量 + 55% MCap + 0.5% 持有者和供应比例）；3）Social Media 社媒人数 (40% Twitter + 60% Discord) 2）。蓝筹指数 = 10% I + 65% M + 25% S。按该方程式，各个项目今日蓝筹指数：1）DeGods - 456.07 (+2.59%) ；2）Bitcoin Frogs - 444.39 (-21.72%)；3）Bitcoin Punks - 312.59 (-8.10%) ；4）Pixel Pepes - 226.33 (-4.42%) ；5）Bitcoin Bears - 160.00 (NEW)；6）BTC Machine / Virus - 142.07 (-6.10%) ；7）DogePunks - 126.28 (-13.27%) 。\n\n数据上可见 Ordinals NFTs 的资金盘正在流失，导致大部份一线蓝筹地板价都下跌不少，原因可以有几种：其一是 SRC21 最近势头不错 (邮戳)，其二是有部分游资回到以太链，其三是 Bitcoin Bears 的绝大成交量吸收了其他蓝筹的资金。比特蛙是这几天最大的输家，目前地板价跌至 0.07 左右，再下试 0.05~0.06 的话又是一个强力的支持位。基本面其实没甚么大问题，持有者数目没有下跌，社交方面依然有力。</p><a href=\"https://twitter.com/SolblueHK/status/1665390425648279554\">内容来源</a><p style=\"white-space: pre-wrap\"><strong>日蓝 Solblue：</strong>部分项目的持有者数目及社交平台表现有明显下跌趋势。Bitcoin Bears 刚上架就已经成为新蓝筹强力挑战者，首先在首发两天的成交量已准备 flip DogePunks 的总量，另外也实现了由首发价翻三倍再跌再回升的奇迹，再加上他们推特追随数有七万多，营销能力不能小看。GBRC-721 版块有降温趋势，OrdiBots 目前地板价在 0.08 左右争持，走势与比特蛙相近但更坚挺，开发者近一两日有新动作，应注视一下后续版块会有否异动。\n\n最近 trevor.btc 的 Bitcoin Summer 与 Ben.eth 的 #FF6000 均已在以太坊上架，这两款项目皆主打引导以太坊玩家入坑 Ordinals，走势不错，相信相关话题将会是下一轮炒作的焦点，大家应留意一下以太坊一些有实力项目的举动，如果他们进军 Ordinals，对 Ordinals 认知较深的我们将与一般玩家拉开认知差距，可以占进先机。</p><a href=\"https://twitter.com/SolblueHK/status/1665390425648279554\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/SolblueHK/status/1665390425648279554",
+          "publishedOn": "2023-06-05T07:26:12.000Z",
+          "wordCount": null,
+          "title": "Ordinals NFTs: Blue Chip Index 蓝筹指数 (2023/6/4)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xSalazar/status/1665047487684694016",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>由于数据源模糊，Web3 协议容易受到黑客攻击和利用，为了防止这种情况，预言机和协议之间的信任很重要。加密 KOL Salazar.eth 撰文解析 API3DAO 如何通过托管 dAPI 解决此问题。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/0xSalazar/status/1665047487684694016\">https://twitter.com/0xSalazar/status/1665047487684694016</a></p>\n<p><strong>文章作者：</strong></p><p>Salazar</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Salazar：</strong>预言机有助于验证和执行从外部来源获取的数据，然后再在智能合约上访问。预言机从其他预言机（启用了 API）或直接从 API 获取数据。但是，使用第三方系统的智能合约会带来问题：例如，缺乏可组合性，用户无法在预言机中添加或删除 API；成本更贵，大多数情况下，用户必须支付所有相关的第三方预言机；透明度较低。需要其用户信任更多的中间件。【原文为英文】\n\n现在，输入 API3 及其新技术，使数据源可信。有 dAPI（去中心化 API），然后有托管 dAPI。dAPI 通过将 API 提供商直接链接到预言机智能合约来消除第三方中介托管 dAPI 通过增加透明度、安全性和完整性使其变得更好这使得托管 dAPI 成为寻求准确、可靠和安全数据的 dApp 的理想选择。这些作用域使托管 dAPI 更好：1）托管 dAPI 使用第一方预言机，直接通过 API3 Airnode 提供信誉良好的 API 数据。没有第三方中介，减少了操纵和攻击媒介。通过来源声誉、透明度等建立信任。\n\n2）链上数据验证。多源数据馈送，托管 dAPI 聚合来自多个第一方预言机的数据，从而提高准确性和可靠性。不同的数据点有助于整体数据质量。每个信标代表一个唯一的可验证提供商.3）推动预言机架构。托管 dAPI 使用推送预言机架构，及时向 dApp 提供数据，并促进从其他预言机服务轻松迁移。4）通过原生链聚合提高安全性。托管 dAPI 使用原生链聚合来增强数据安全性，无需桥接。他们为 DeFi 预言机设定了新标准，具有透明度，可靠的数据源，高效的交付和强大的安全性。【原文为英文】</p><a href=\"https://twitter.com/0xSalazar/status/1665047487684694016\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/0xSalazar/status/1665047487684694016",
+          "publishedOn": "2023-06-05T07:24:08.000Z",
+          "wordCount": null,
+          "title": "【英文长推】解析 API3 ：如何通过 dAPI 解决容易被黑客攻击的问题？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/y_cryptoanalyst/status/1664783185383677952",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Neutron 于 5 月 10 日主网启动并同步上线共享安全，成为 Cosmos 生态首条共享 Cosmos Hub 安全性的消费链，这也意味着 Cosmos 生态开始正式步入共享安全时代。那么在共享安全机制下，在 Terra 崩盘后似乎被市场遗弃的 ATOM 能否王者归来？加密研究员 yyy 撰文带你一探究竟。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/y_cryptoanalyst/status/1664783185383677952\">https://twitter.com/y_cryptoanalyst/status/1664783185383677952</a></p>\n<p><strong>文章作者：</strong></p><p>yyy</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>yyy：</strong>ATOM 因其价值捕获能力低下而被广为诟病。而 ICS 即共享安全的上线为 ATOM 带来了直接的赋能，接入 ICS 的消费链将向 Cosmos Hub 的验证者节点提供额外的经济激励。目前提案通过 ICS 的 Cosmos 应用链有两个，Neutron 和 Stride。根据 Neutron 的 ICS 提案，Neutron 将与 Cosmos Hub 验证者节点分享 2 项收入：25% 交易费用收入及 25% MEV 收入。收取交易费用的另一个目的是为了保护 Neutron 网络免受无成本的 DDOS 攻击。目前交易费用支持以 ATOM 或 NTRN 支付，后续将支持原生的 USDC。\n\nStride 是 Cosmos 生态中的龙头 LSD 应用链。根据其 ICS 提案，接入 ICS 后 Stride 将与 Cosmos Hub 验证者节点分享 4 部分收入：15% 的流动性质押奖励、15% STRD 通胀奖励、15% MEV 收入及 15% 交易费用收入。跟 Neutron 不同，Stride 主网启动由自己的验证者节点共识出块，平稳运行后再切入共享安全。共享安全后，质押 STRD 将不再对网络的安全性产生影响。</p><a href=\"https://twitter.com/y_cryptoanalyst/status/1664783185383677952\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/y_cryptoanalyst/status/1664783185383677952",
+          "publishedOn": "2023-06-05T06:01:58.000Z",
+          "wordCount": null,
+          "title": "【长推】Cosmos 生态步入共享安全时代，ATOM 能否迎来新发展？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xAKLabs/status/1665420436426072064",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Ordinals 协议更新版本 v0.6.0，宣布支持负数铭文，又称诅咒铭文，投研团队 AKLabs 发推详细本次升级。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/0xAKLabs/status/1665420436426072064\">https://twitter.com/0xAKLabs/status/1665420436426072064</a></p>\n<p><strong>文章作者：</strong></p><p>AKLabs</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>AKLabs：</strong>新版本的 ord 协议宣布支持负数铭文，又称诅咒铭文 Cursed Inscriptions。Ord 协议核心开发者 @raphjaph 表示官方索引网站 http://ordinals.com 将在 12h 之内支持诅咒铭文 Cursed Inscriptions 的索引。Ord 协议的另一位核心开发者 @veryordinally 在这条宣布 ord v0.6.0 升级的推文评论中还提到：「所有正数 Inscription Numbers 都不会变化。诅咒铭文（Cursed Inscriptions）的 Inscription Numbers 会随着时间的推移而变化，因为我们添加了更多类型的诅咒铭文，但它们仍将是负数的。但在未来的某个区块高度之后被认定为是被诅咒的新铭文将被祝福（回到正数）。该快照尚未实现，但在该区块高度快照之前的负数 Inscription Numbers 将保持负数。」\n\n这和我们在此前介绍诅咒铭文推文中谈到的猜想基本一致，即「如果按照这个方向发展，结果就是，有限数量的被诅咒（负数）铭文会继续存在，但是在之后就无法 Inscribe 新的被诅咒（负数）铭文」。</p><a href=\"https://twitter.com/0xAKLabs/status/1665420436426072064\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/0xAKLabs/status/1665420436426072064",
+          "publishedOn": "2023-06-05T04:53:23.000Z",
+          "wordCount": null,
+          "title": "Ordinals v0.6.0 正式更新，宣布支持负数铭文",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mirror.xyz/lokiz.eth/mNjsF0vyxkpQwxwC88Yo61e-U1DTbw0ky4Gr51WhKto",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>依据币安上架公告信息，2022 年 4 月至 2023 年 6 月 的 13 个月期间，币安一共新上线 20 种代币的现货交易，包括 6 个新币和 14 个老币。这 20 种代币持有至今平均收益率为 -22.3%，显著低于 BTC 7.9% 的同期平均收益率。加密研究员 0xLoki 对该问题产生的原因进行了剖析，发现上币效应透支增长空间是币安新上线代币表现不佳的最主要原因。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/lokiz.eth/mNjsF0vyxkpQwxwC88Yo61e-U1DTbw0ky4Gr51WhKto\">https://mirror.xyz/lokiz.eth/mNjsF0vyxkpQwxwC88Yo61e-U1DTbw0ky4Gr51WhKto</a></p>\n<p><strong>文章作者：</strong></p><p>0xLoki</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>0xLoki：</strong>20 个项目的持有至今平均收益率为 -22.3%，同期 BTC 的平均收益率为 7.9%，价格表现显著劣于 BTC；收益率超过同期 BTC 的仅有 ID、RPL、LDO 3 个，剩余 17 个均在同等周期内跑输 BTC，其中收益率高于 BTC 最多的是 RPL（领先 26%），低于 BTC 最多的是 OSMO（落后 96.6%）。此外，考虑到 Binance 存在上币效应，我们采用 T+7 作为基准日期进行计算，得到的 20 个项目平均收益率为 -11.3%，仍落后于 BTC 的平均收益率（9.4%）。\n\n首先我们可以确定的一件事是 Binance 上线的 14 个老币都是基本面良好并且已经经受市场检验的，客观地说确实属于「优质币种」。因此导致这种情况的原因可能有三个：上线的时机偏晚、Binance 流动性优势成为倾销目的地及「上币效应」透支了增长空间。在此基础上，我们选取了 14 个老币种，计算了从币安上线当天到上线币安前 7 天这段期间的收益率，可以看到币安的上币效应非常明显，因此上币效应透支增长空间是币安新上线代币表现不佳的最主要原因。\n\n站在币安的角度，按照一个合理的流程，选取了基本面良好的代币上线。如果在上币决策发生在上币之前，或者在币安做出上币决策的时候买入该代币，即使拉长市场周期，也可以赚取到高于市场平均水平的收益。但站在用户的角度，产生这种问题的原因在于「上币效应」，35% 的涨幅消磨掉了代币本来应该有的上涨空间，这是一种非理性投资或者说过度投资。</p><a href=\"https://mirror.xyz/lokiz.eth/mNjsF0vyxkpQwxwC88Yo61e-U1DTbw0ky4Gr51WhKto\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://mirror.xyz/lokiz.eth/mNjsF0vyxkpQwxwC88Yo61e-U1DTbw0ky4Gr51WhKto",
+          "publishedOn": "2023-06-05T04:50:05.000Z",
+          "wordCount": 635,
+          "title": "币安新币投资收益分析：收益率表现不佳的背后原因何在？",
+          "imageUrl": "https://mirror.xyz/images/social-fallback.png"
+        },
+        {
+          "id": "https://twitter.com/Flowslikeosmo/status/1665372858909065216",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密 AI 市场一直是 2023 年最热门的叙事之一，目前其市场总估值约 31.5 亿美元，但大部分代币跌幅都超过了 60%。我们该如何找到可持续从 AI 浪潮中受益的项目呢？加密研究员 Emperor Osmo 撰文盘点了 5 个利用 AI 叙事的值得关注的项目。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/Flowslikeosmo/status/1665372858909065216\">https://twitter.com/Flowslikeosmo/status/1665372858909065216</a></p>\n<p><strong>文章作者：</strong></p><p>Emperor Osmo</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Emperor Osmo：</strong>1）Akash Network：允许用户安全有效购买和出售计算资源的网络，旨在将云计算市场去中心化。代币看涨的理由包括 AI 的增长将增加对 GPU 的需求、新的 AKT 代币经济学及租用和租赁 GPU 功率的需求；2）Render Network：寻求将执行渲染工作的用户与具有闲置 GPU 的用户联系起来，目标是让 GPU 渲染更容易获得和负担，更多的 GPU 使用意味着对 RNDR 更多的需求；【原文为英文】\n\n3）Openτensor Foundaτion：致力于构建一个机器学习模型的去中心化网络，TAO 则用于奖励网络贡献者并授予网络访问权；4）Ocean Protocol：旨在创建一个去中心化数据市场的同时将 AI 学习注入模型中，看涨的理由包括 Ocean Protocol 将与 RAI 合作推出由 OCEAN 抵押的稳定币 H2O，该稳定币将作为数据交换媒介推动对 OCEAN 代币的需求；5）Arweave Ecosystem：AI 的进步推动了对 Arweave 和 AR 代币等数据存储供应商的需求。【原文为英文】</p><a href=\"https://twitter.com/Flowslikeosmo/status/1665372858909065216\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/Flowslikeosmo/status/1665372858909065216",
+          "publishedOn": "2023-06-05T04:07:14.000Z",
+          "wordCount": null,
+          "title": "【英文长推】盘点 AI 叙事中值得关注的五个加密项目：Akash Network、Render Network、Ocean Protocol......",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mp.weixin.qq.com/s/SaTmb1BbcJTGHfJKKdrtdQ",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Consensys 全球业务发展主管 da-bing 花了一个月时间参与 Vitalik 的社会学实验 Zuzalu，撰文表达他对 Zuzalu 的理解和看法，认为 Zuzalu 很像早期的以太坊。本文由 IOSG 首发。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mp.weixin.qq.com/s/SaTmb1BbcJTGHfJKKdrtdQ\">https://mp.weixin.qq.com/s/SaTmb1BbcJTGHfJKKdrtdQ</a></p>\n<p><strong>文章作者：</strong></p><p>da-bing</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>da-bing：</strong>比起海边的加密会议，Zuzalu 更像是一个古希腊城市。高浓度的人才集中，是 Zuzalu 的杀手锏。到了 Zuzalu （这个词是虚构的），我用 ZuPass 登记参加这个项目，并用二维码生成了一本「护照」，这是一个用零知识证明的身份验证系统，用于验证居民的身份。这个 App 就是出自于一位 Zuzalu 居民之手，其实，这次项目的技术方案也是由 Zuzalu 居民支持解决。学生和其他需要经济援助的人可以申请补贴。\n\n从智能合约开发者到密码学家，从安全专家到网络状态倡导者、「无国界协作」爱好者、AI 精英，甚至还包括 Elon Musk 的前妻 Grimes — 在 Zuzalu 随处走走，你都有机会与不同行业中最顶尖的人才交流。在 Zuzalu 谈成的合作，是大多数 Crypto 聚会不能比的。Vitalik 对 Zuzalu 的成功起到了关键作用：他发起了许多核心项目，邀请演讲者和参与者，并在每周的城镇大会上回答社区问题。\n\n在媒体的描述中，Zuzalu 是一个没有性行为的火人节，是针对加密富豪的成人夏令营，或者更直接地说，是一个无休止的会议。但对我来说，Zuzalu 很像以太坊的早期：原始而不确定，但充满对未来的乐观和激动。它是被故意设计成未完成的形式的。它的存在应该拓展我们的想象力，提供一种新的共同生活方式 — 希望这能成为一种利他主义的榜样。</p><a href=\"https://mp.weixin.qq.com/s/SaTmb1BbcJTGHfJKKdrtdQ\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://mp.weixin.qq.com/s/SaTmb1BbcJTGHfJKKdrtdQ",
+          "publishedOn": "2023-06-05T04:04:04.000Z",
+          "wordCount": 9967,
+          "title": "IOSG：V 神二次创业，Zuzalu 公民的以太坊社会学实验",
+          "imageUrl": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/ystoNEYMQzOFEJqpp5WJmHr2xheziaibBqKXvF7YaolrqpgeEHR9ghGvmRIN0bGnZeQUI6CCoOLqgKu7wZ4ic2DOg/0?wx_fmt=jpeg"
+        },
+        {
+          "id": "https://twitter.com/wacy_time1/status/1665365503391461378",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>zkSync 近期 TVL 健康增长，加密 KOL AlΞx Wacy 认为现在参与其生态系统的一个主要好处是有机会获得有价值的空投，其盘点了 zkSync 生态目前处于早期或尚未代币的项目，并介绍对降低交易成本有益的跨链桥及工具。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/wacy_time1/status/1665365503391461378\">https://twitter.com/wacy_time1/status/1665365503391461378</a></p>\n<p><strong>文章作者：</strong></p><p>AlΞx Wacy</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>AlΞx Wacy：</strong>值得关注的项目：1）SyncSwap，第一个无缝 DEX。不需要解释。不言而喻，你需要参与并密切关注该项目。2）Maverick Protocol，动态分发 AMM，可自动执行流动性策略，消除日常维护和元协议使用。3）Stratum Exchange ，原生流动性中心，旨在吸引生态系统中的 TVL。该中心使用「投票托管」NFT（veNFT）模型，允许在 zkSync 上构建的项目为其代币产生可持续的流动性。【原文为英文】\n\n4）Valea，社区驱动的流动性层和 AMM，旨在创新和革新 ve（3，3）模型。5）Omega（PRJCT），结合 DeFi 和 NFT 的真实收益平台。建立一个安全且用户友好的平台，允许投资者无缝地下注、借贷和交易资产。6）zkDX，计划增加外币和股票交易的衍生品 DEX。在其代币经济学中，20% 的分配专用于奖励。7）Super Launcher，投资 DAO。代币已经发布，但用户可以通过质押参与 IDO。8）ReactorFusion，DeFi 借贷市场。它基于复合金融，并具有贿赂奖励代币经济学。代币已发布。【原文为英文】\n\n跨链桥：1）Orbiter Finance，允许用户以更便宜的价格从其他链向 zkSync 发送资金。2）Bungee，可能的路由器列表，可以选择你喜欢的路由器。Refuel 功能可发送一些 ETH 来支付 gas 费用。有用的工具链接：1）@zkSync_Insider 和 @zkSyncFans ，有关 zkSync 的新闻和更新；2）dune.com/ Marcov /zkSync，链上分析；3）ecosystem.zksync. Io，生态系统项目。【原文为英文】</p><a href=\"https://twitter.com/wacy_time1/status/1665365503391461378\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/wacy_time1/status/1665365503391461378",
+          "publishedOn": "2023-06-05T04:02:37.000Z",
+          "wordCount": null,
+          "title": "【英文长推】zkSync TVL 健康增长，盘点其早期及无代币项目，捕获可观的利润",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/2lambro/status/1664448359262978048",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密 KOL 2Lambro 以其 zkSync 为例，介绍他在面对新生态时会寻找的三个机会，包含头矿、早期代币投注、生态系统激励。并解析 zkSync 各个项目目前的数据表现。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/2lambro/status/1664448359262978048\">https://twitter.com/2lambro/status/1664448359262978048</a></p>\n<p><strong>文章作者：</strong></p><p>2lambroz.eth</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>2lambroz.eth：</strong>1）头矿：早期耕作、排放奖励基数或实际交易收益率有几种类型。排放奖励，Dex 争夺主导流动性，从而提高回报。真实收益，跨链桥在早期生态中的使用时有限的，可能只有以太用于桥接。真实交易量，TVL > 交易量始终是一个好「农场」的标志。\n\n2）早期代币投注良好的风险和回报：每个生态系统都需要 dex，借贷，聚合器，永续协议，总有机会投注「第一个」，「首选」协议。我认为这些是对生态系统的杠杆押注。如果生态系统确实起飞，Dapp 代币的表现可能会超过「链代币」。然而，你仍然需要考虑它的估值和代币经济模型。\n\n2）生态系统激励：现在还没有像 Optimism 那样的激励，只有潜在的空投，但往往最好的「农场」是得到链激励的好协议。他们通常受到链的审查和激励，流动性充裕。【原文为英文】\n\nzkSync 生态概述：1）TVL 增长；2）交易量正在增长，但主要是以太坊；3）没有创新，主要是 fork；4）shit token 还不多，但是现在 rug 少了。要做的事：1）小「容量」挖矿机会；2）交易 / 挖矿激励；3）捕获空投。【原文为英文】</p><a href=\"https://twitter.com/2lambro/status/1664448359262978048\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/2lambro/status/1664448359262978048",
+          "publishedOn": "2023-06-05T04:01:07.000Z",
+          "wordCount": null,
+          "title": "【英文长推】以 zkSync 为例，分析在新生态系统应该寻找的 3 个机会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/definapkin/status/1665377483636764682",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>时间绑定代币（TBT）是一种新兴资产类别，有可能适用于整个 Web3 生态系统，而 Hourglass 也通过该机制改变了跨 DeFi 协议的时间锁定代币的效用维度。加密研究员 DefiNapkin 撰文对 TBT 的概念、优势及 Hourglass 将如何引领这项技术的发展进行了分析解读。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/definapkin/status/1665377483636764682\">https://twitter.com/definapkin/status/1665377483636764682</a></p>\n<p><strong>文章作者：</strong></p><p>DefiNapkin</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>DefiNapkin：</strong>时间绑定代币（TBT）代表在一个协议中特定时间段的代币质押。例如在 Frax Finance 中将 frxETH 质押 3 个月，收到的有效期为 3 个月的收据就是一个 TBT，且还可以获得质押奖励。TBT 其实是 ERC-1155 的 semi-fungible 代币，同时具备 ERC-20 和 ERC-721 的特征。此外，TBT 是在非托管基础上运作的，TBT 代表的所有权在整个锁定期内被安全保存在「Hourglass 托管智能合约」中，用户可在期限结束后赎回以换取相应资产。【原文为英文】\n\n相较于传统的 DeFi 质押机制，TBT 的优势包括：1）具有流动性的 DEX，用于在新产品功能中收取费用；2）用户能够使用额外的奖励换取 TBT；3）用户对于抵押资产具有更大实用性和灵活性；4）用户能够进行风险管理，允许用户卖出抵押头寸；5）TBT 提供了更稳定的 TVL。TBT 听起来和 LSD 很相似，两种工具的目的都是为锁仓资产提供额外效用，提高 DeFi 协议中抵押资产的流动性，唯一的去别是 TBT 具有时间因素，用户能够在抵押期结束前在市场上交易 TBT。【原文为英文】</p><a href=\"https://twitter.com/definapkin/status/1665377483636764682\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/definapkin/status/1665377483636764682",
+          "publishedOn": "2023-06-05T03:26:23.000Z",
+          "wordCount": null,
+          "title": "【英文长推】解读 Hourglass 及时间绑定代币 TBT：将为 DeFi 板块带来哪些新的可能性？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/jinglingcookies/status/1665357771158724610",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>Kakarot 旨在将 EVM 带入 Starknet，并帮助 EVM 应用扩大规模。加密分析师 cookies 撰文对 Kakarot 架构及各个阶段的路线图进行了剖析，还概述了 Kakarot 相关值得关注的领域。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/jinglingcookies/status/1665357771158724610\">https://twitter.com/jinglingcookies/status/1665357771158724610</a></p>\n<p><strong>文章作者：</strong></p><p>cookies</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>cookies：</strong>Kakarot zkEVM 是一种在 Cairo 中实现的 EVM，通过增强 EVM 的兼容性，扩展 Starknet 的生态系统。截止至 2023 年 5 月，Kakarot 实现了 100% 的字节码结构（Type 3 zkEVM）和 8/9 的 EVM 预编译。在实现 9/9 EVM 预编译后，Kakarot 将成为 2.5 型 zkEVM。【原文为英文】\n\nKakarot 路线图：1）第一阶段：Kakarot 最初将作为 Starknet 中一个 EVM 存在，开发者和用户体验与 Polygon、Scroll 或以太坊类似；2）第二阶段：通过 Kakarot 部署 zkEVM 应用链，允许他们利用有效性证明在 Starknet 上结算交易。通过将 Kakarot 和 基于 substrate 的 Starknet 排序器 Madara Starknet sequencer 合并为同意堆栈来实现；3）第三阶段：实现 Type 1 zkEVM，Kakarot 必须能够从 Madara 及 Kakarot 全节点内 Cairo 编写以太坊共识规则以证明 L1 共识，还需要从 Pedersen MPT 切换至 Keccak MPT。但第三阶段存在不确定性，这取决于以太坊 Verge 的路线图。【原文为英文】\n\nKakarot 相关值得关注的领域：1）ZK 竞争：包括具有不同证明系统的 ZK Rollup（Scroll、zkSync、Polygon、Taiko 及 Linea）、Optimistic Rollup（Optimism、Arbitrum、Base）及不同的 zkVM（Risc Zero 及 Hyper Oracle）；2）产品市场适应性：有多少 Rollup 需要这种服务？Rollup 是否更喜欢内部构建以实现主权和可定制性；3）产品迭代：Kakarot 正在建造一个技术上非常复杂的产品，需要不断迭代才能获得成功，且还依赖于 Madara、DA 解决方案等部件。【原文为英文】</p><a href=\"https://twitter.com/jinglingcookies/status/1665357771158724610\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/jinglingcookies/status/1665357771158724610",
+          "publishedOn": "2023-06-05T03:23:36.000Z",
+          "wordCount": null,
+          "title": "【英文长推】将 EVM 引入 Starknet：Kakarot 为何能吸引 Vitalik 参投？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mirror.xyz/opsidezk.eth/rgovFrpGSDH87Hqxkm3CrqHV_QSALiYRNPo_JPy5UZ0",
+          "author": null,
+          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>去中心化 ZK-RaaS 平台 Opside 提出了一种 ZK-PoW 算法，可用于可扩展性和未来 AI 中的应用，且为闲置矿工提供了新的挖矿场景。Opside 撰文对该算法机制及潜力进行了简要概述。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://mirror.xyz/opsidezk.eth/rgovFrpGSDH87Hqxkm3CrqHV_QSALiYRNPo_JPy5UZ0\">https://mirror.xyz/opsidezk.eth/rgovFrpGSDH87Hqxkm3CrqHV_QSALiYRNPo_JPy5UZ0</a></p>\n<p><strong>文章作者：</strong></p><p>Opside</p><hr><h3>观点：</h3><p style=\"white-space: pre-wrap\"><strong>Opside：</strong>随着 ZK 可扩展技术的成熟，特别是 zkEVM 在未来一到连年内将会被逐步实施，ZK Rollup 的数量将会大幅增长，中心化验证器将会带来以下几个问题：1）验证成本很高，维护中心化验证器集群需要专业设备和设施，不是每个 ZK Rollup 运营商都有能力维护这样一个中心化验证器设置；2）如果只有一个验证者，一个节点的故障可能会导致整个 ZK Rollup 交易无法确认，我们需要一个去中心化机制鼓励多个矿工同时参与 ZKP 计算并获得相应奖励；3）最后我们需要一个标准化 ZKP 优化算法来提高整体硬件效率。【原文为英文】\n\nOpside ZK-PoW 算法：1）Opside 采用了 PoS 和 PoW 混合共识。在 Pre-Alpha 测试阶段，基于 PoW 算法，Opside 区块内每个 Rollup 将根据某些规则提交一个序列，当前区块的 PoW 奖励根据注册的 Rollup slots 的数量和包含的批次数量在各序列之间进行分配。矿工可以自由选择参与一个或多个 Rollup 的 ZKP 计算。此外，为了防止矿工的恶意行为，矿工需要在一个特殊合约中进行代币注册和抵押；【原文为英文】\n\n2）为了鼓励多个矿工同时参与 ZKP 计算，Opside 提出了一个两步提交 ZKP 验证机制。在某一序列的特定时间窗口内允许多个矿工参与零知识证明的计算，随后在时间窗口之后，矿工提交原始证明，并根据之前提交的证明哈希进行验证。通过验证的矿工将有资格获得 PoW 奖励；3）为了防止恶意行为，Opside 的 ZKP 两步提交算法采用了先提交后验证的模式，消除了对证明和地址的不必要的聚合计算的需要。且该模式实现了 ZKP 并行计算和顺序提交，使得矿工可以同时执行多个 ZKP 生成任务，加快了 ZKP 生成效率。此外，Opside 团队还对 ZKP 递归聚合算法进行了一系列优化最大限度利用了集群资源进一步提高了 ZKP 计算速度。【原文为英文】</p><a href=\"https://mirror.xyz/opsidezk.eth/rgovFrpGSDH87Hqxkm3CrqHV_QSALiYRNPo_JPy5UZ0\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://mirror.xyz/opsidezk.eth/rgovFrpGSDH87Hqxkm3CrqHV_QSALiYRNPo_JPy5UZ0",
+          "publishedOn": "2023-06-05T02:55:12.000Z",
+          "wordCount": 3096,
+          "title": "【英文】读懂 Opside ZK-PoW 算法机制及潜力：如何将 ZKP 生成效率提高 80%？",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/QZ7CkfVurvoBNXOqPLwRT.jpeg?height=1601&width=3201&h=1601&w=3201&auto=compress"
+        },
+        {
+          "id": "https://twitter.com/WhaleWire/status/1665382326153388033",
+          "author": null,
+          "description": "<p>加密媒体 WhaleWire 推特发文称，比特币开发者正在争论是否应该调整比特币代码，以抑制 Ordinals 和 BRC-20 代币活动。今年 5 月，价值数十亿美元的交易涌入比特币网络，导致交易费用激增，网络极度拥堵。</p><p><a href=\"https://twitter.com/WhaleWire/status/1665382326153388033\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/WhaleWire/status/1665382326153388033",
+          "publishedOn": "2023-06-05T02:33:33.000Z",
+          "wordCount": null,
+          "title": "比特币开发者正在争论是否调整代码，以抑制 Ordinals 和 BRC-20 代币活动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://decrypt.co/143388/metropolitan-museum-of-art-return-550-thousand-in-ftx-donations",
+          "author": null,
+          "description": "<p>据 Decrypt 报道，纽约大都会艺术博物馆同意退还在创始人兼前首席执行官 Sam Bankman-Fried 的领导下从 FTX 收到的数十万美元捐款。根据周五提交的法庭文件，如果大都会博物馆与 FTX 债务人在交易所第 11 章破产案达成的协议获得批准，该博物馆最终将返还 55 万美元。一项动议称，大都会希望将捐款返还给 FTX 债务人，并表示该措施是双方「诚信、公平谈判」的结果。这些捐款是由经营 FTX US 的公司 West Realm Shires Services 提供的。根据法庭文件，West Realm Shires Services 最初于去年 3 月向大都会博物馆捐赠了 30 万美元，并于 5 月再次捐赠了 25 万美元。</p><p><a href=\"https://decrypt.co/143388/metropolitan-museum-of-art-return-550-thousand-in-ftx-donations\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://decrypt.co/143388/metropolitan-museum-of-art-return-550-thousand-in-ftx-donations",
+          "publishedOn": "2023-06-05T02:33:09.000Z",
+          "wordCount": 9246,
+          "title": "纽约大都会艺术博物馆将退还 55 万美元的 FTX 捐款",
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/06/The-Met-shutterstock_2020150829-16x9-1-gID_7.jpg"
+        },
+        {
+          "id": "https://twitter.com/cz_binance/status/1665391477550112769",
+          "author": null,
+          "description": "<p>币安首席执行官 CZ 发布推特称，币安已经在法国、阿联酋及巴林获得了 ISO 27001（信息安全）和 ISO 27701（数据隐私）认证。</p><p><a href=\"https://twitter.com/cz_binance/status/1665391477550112769\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
+          "link": "https://twitter.com/cz_binance/status/1665391477550112769",
+          "publishedOn": "2023-06-05T01:05:10.000Z",
+          "wordCount": null,
+          "title": "CZ：币安在法国、阿联酋及巴林获得了 ISO 27001 和 ISO 27701 认证",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/@foresightventures-zh/foresight-ventures-%E7%90%86%E6%80%A7%E7%9C%8B%E5%BE%85%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%AE%97%E5%8A%9B%E7%BD%91%E7%BB%9C-7c6e56b0adbe",
           "author": null,
@@ -12984,86 +13426,6 @@
           "wordCount": 832,
           "title": "Aether Games 完成  450 万美元代币和股权融资",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nintendodoomed/status/1655045007198531584",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL 妙蛙种子分析了「Arbirtum 首个游戏化 DEX」--Sparta Dex，认为其更像是一个支持引入外部 DeFi 真实收益的 GameFi，成功的关键与否看能否拉来足够多的项目方合作，启动正向循环增长。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/nintendodoomed/status/1655045007198531584\">https://twitter.com/nintendodoomed/status/1655045007198531584</a></p>\n<p><strong>文章作者：</strong></p><p>CapitalismLab</p><hr><h3>观点：</h3><p><strong>CapitalismLab：</strong>Sparta 和 DEX 之间的交互影响是什么？Sparta 城邦等级决定 DEX LP 的挖矿收益提升幅。Sparta 是一个 GameFi，需要使用代币来激励用户，会有持续的卖压，在熊市尤其难做。而与其他 DeFi 项目合作，这些项目方来 Sparta 激励或者贿赂，就实现了「羊毛出在猪身上」，引入外部收入来增强了项目的可持续性，让这个协议有了更多「真实收益」。\n\nSparta 其作为一个游戏将会有比较可观的用户时长，那么其流量价值就会比较高。Sparta 若能聚集到大量 DeFi 用户，那么对于这些项目方而言就有比较大的广告价值了。毕竟 DEX 底层基本都是 UNI V2/V3, Curve 或者仿品，激励哪个都差不多，这个至少还能多赚些曝光。\n\n当前 DEX 同质化严重，核心能力是 BD，就是说多少其他协议来在你这里部署流动性和贿赂，合作方来直接激励也好来贿赂也好，核心就是减少本协议净支出，不然光靠增发自己的代币来激励的话，实在是比较难维持可持续性。 SpartanDEX 能否成功，很大程度上也取决于其团队的 BD 能力。</p><a href=\"https://twitter.com/nintendodoomed/status/1655045007198531584\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/nintendodoomed/status/1655045007198531584",
-          "publishedOn": "2023-05-07T08:39:58.000Z",
-          "wordCount": 480,
-          "title": "【长推】观点：Sparta Dex 成功的关键在于能否有足够多的项目方合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/doganeth_en/status/1655080845642702848",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>加密货币 KOL Dogan 对比了 Sovereign Rollup 和基于智能合约的 Rollup，并对 Sovereign Rollup 工作原理的进行了简要总结。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/doganeth_en/status/1655080845642702848\">https://twitter.com/doganeth_en/status/1655080845642702848</a></p>\n<p><strong>文章作者：</strong></p><p>Dogan</p><hr><h3>观点：</h3><p><strong>Dogan：</strong>用完整性证明（零知识或欺诈证明），可以验证所有 rollup 计算。这意味着第三方参与者可以轻松验证 Rollup 交易。2）确保交易数据可用性：由于 Rollup 仍然是区块链，因此需要在任何时候 / 任何人想要时提供数据，对于 SC rollup，智能合约负责此任务。 DA 规则由 SC 定义。3）分叉选择规则：几乎所有区块链都被设计为不可变的，直到社区协调同意对其进行更改。 Rollup 也需要这些分叉技能才能执行网络修改。\n\nSovereign Rollup 的完整性证明包括三个 Rollup 组件：分叉选择规则、DA 规则和执行有效性。因此，我们可以拥有一个用户可以治理的独立 Rollup。如果协议想要进行升级，用户必须更新其轻客户端以验证正确的链，从而允许用户治理该协议。SC Rollup 在 L1 和 L2 之间有一个信任最小化的桥梁，而 Sovereign Rollup 则没有。不过只要使用相同的 DA 层，Sovereign Rollup 之间就可以有一个信任最小化的桥梁。但 Sovereign Rollup 是通过基于轻客户端的 SC 桥连接的，这意味着如果一条链分叉，另一条链也必须分叉，这需要通过社区协调和 / 或由 DA 层统治的治理来解决。【原文为英文】</p><a href=\"https://twitter.com/doganeth_en/status/1655080845642702848\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/doganeth_en/status/1655080845642702848",
-          "publishedOn": "2023-05-07T08:16:28.000Z",
-          "wordCount": 480,
-          "title": "【英文长推】一文读懂 Sovereign Rollup 工作原理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/crypthoem/status/1654498629875376129",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>如何跟踪聪明钱发现潜力 meme？加密货币 KLO hoeem 以 0x9e0 开头的钱包通过 pepe 赚了 15 倍为例，介绍了一套跟踪 smart money 的方法。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/crypthoem/status/1654498629875376129\">https://twitter.com/crypthoem/status/1654498629875376129</a></p>\n<p><strong>文章作者：</strong></p><p>hoeem</p><hr><h3>观点：</h3><p><strong>hoeem：</strong>1）使用 Token Analyzooor，发现 meme 代币的聪明钱地址。在 dune 上搜索像 defi_mochi 的 Token Analyzooor。2）在 CoinGecko 上查找 pepe，复制合约地址，在 Token Analyzooor 输入合约地址，所在公链，以及你要跟踪的时间天数。3）寻找聪明钱地址。下滑可以浏览到不同地址，其中很多是 MEV 机器人，或者潜在的 CEX 链上钱包。从中筛选出这个新的聪明钱包地址。\n\n很现在的问题是，这是项目方的钱包吗，还是一个知道内幕消息的鲸鱼？这些都不重要，我发现有趣的是它已经积累并一直保持到现在。所以这是一个值得关注的钱包。【原文为英文】</p><a href=\"https://twitter.com/crypthoem/status/1654498629875376129\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/crypthoem/status/1654498629875376129",
-          "publishedOn": "2023-05-07T06:44:29.000Z",
-          "wordCount": 480,
-          "title": "【英文长推】一文介绍跟踪 smart money 的方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/chasey_07/status/1654798316801081345",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>应用链作为是一种特殊类型的区块链，它的设计理念和技术方案更加注重于应用层面，专注于为特定领域和场景提供高效、可扩展的基础设施。Web3Caff Research 研究员 Chasey 详细介绍应用链在去中心化金融、社交、游戏等领域的应用场景和生态代表，并对比分析当前主流的应用链基础设施平台。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/chasey_07/status/1654798316801081345\">https://twitter.com/chasey_07/status/1654798316801081345</a></p>\n<p><strong>文章作者：</strong></p><p>Chasey</p><hr><h3>观点：</h3><p><strong>Chasey：</strong>应用链的核心优势在于其能够针对特定场景和应用需求进行优化和改进，对不可能三角进行了「曲线救国」。同时，跨链通信和互操作性的发展使得不同应用链之间可以实现互联互通，打破了应用孤岛的现象，让用户可以在不同链之间进行资产转移、数据共享等操作，为区块链的应用场景带来了新的可能性。\n\n在实际应用中，去中心化金融应用链（如 dYdX）、去中心化社交应用链（如 Steemit）和去中心化游戏应用链（如 Immutable X）等领域已经逐渐受到关注。这些领域的应用对于可定制性的要求更高，因此应用链具有显著的优势。此外，物联网应用链、电商应用链和医疗保健应用链也在蓬勃发展，值得关注。\n\n但应用链在发展过程中也面临着一些挑战和问题，例如性能和安全性的平衡、生态建设的难度、反复提到的跨链通信协议的标准化、可扩展性问题以及分散化治理的落地等。为了应对这些问题，还是需要不断进行技术创新和发展，增强生态支持，推广和营销，以及加强合作与联盟建设。</p><a href=\"https://twitter.com/chasey_07/status/1654798316801081345\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/chasey_07/status/1654798316801081345",
-          "publishedOn": "2023-05-07T04:24:06.000Z",
-          "wordCount": 480,
-          "title": "【长推】一文详解应用链赛道：构成背景、技术原理、生态现状与未来挑战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.panewslab.com/zh/articledetails/gyla3lyv.html",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>迷因币 PEPE 创造了又一波暴富故事，在短短 21 天内涨了 37.5 万倍。本文由 PANews 编译。加密货币 Miles Deutscher 撰写了寻找潜力迷因币（MEME Coin）的完整指南。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://www.panewslab.com/zh/articledetails/gyla3lyv.html\">https://www.panewslab.com/zh/articledetails/gyla3lyv.html</a></p>\n<p><strong>文章作者：</strong></p><p>Miles Deutscher</p><hr><h3>观点：</h3><p><strong>Miles Deutscher：</strong>1）监控正在上涨的代币。查看 DEXToolsApp 等网站上涨幅较高的代币，以便可以从价格角度衡量哪些迷因币表现出色。2）验证代币是否具有浓厚的社区文化。3）研究基本面。投资迷因币最大的阻力之一是不断出现的跑路和被黑客攻击。 通过 Token_Sniffer 平台完成快速审计以及通过 bubblemaps 平台评估钱包的分布情况。\n\n4）投资「开创者」，还是仿盘。新进入的市场资金首先会被 leader 吸引，然后才会分配至市值较小的仿盘上。当某一特定行业的流动性发生变化时，仿盘的利润往往会回流到 leader 代币。这使得 leader 代币的收益更高。5）跟着聪明钱走。为了找到新的迷因币机会，可以看看鲸鱼 / 其他成功的迷因币交易者在购买什么。</p><a href=\"https://www.panewslab.com/zh/articledetails/gyla3lyv.html\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://www.panewslab.com/zh/articledetails/gyla3lyv.html",
-          "publishedOn": "2023-05-07T03:36:39.000Z",
-          "wordCount": 521,
-          "title": "PEPE 早期投资者经验分享：发掘 MEME 的策略、工具及时机",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/05/06/images/Ad092t5gdL.jpg"
-        },
-        {
-          "id": "https://twitter.com/flowslikeosmo/status/1654863614279573506",
-          "author": null,
-          "description": "<p><strong>Chainfeeds 导读：</strong></p><p>NFT 市场规模达到 133 亿美元，但其中大部分是高度流动性不足的。加密货币 KOL Emperor Osmo 认为 2023 年是改变这一情况的一年，并盘点了为 NFT 提供流动性，并在某些情况下为用户提供实际收益的项目。</p>\n<p><strong>文章来源：</strong></p><p><a href=\"https://twitter.com/flowslikeosmo/status/1654863614279573506\">https://twitter.com/flowslikeosmo/status/1654863614279573506</a></p>\n<p><strong>文章作者：</strong></p><p>Emperor Osmo</p><hr><h3>观点：</h3><p><strong>Emperor Osmo：</strong>1）nftperp，是一个用于 NFT 地板价交易的永久协议。允许合约简单地跟踪基础 NFT 集合的地板价，允许交易发生在 ETH 中。该项目目前处于测试阶段。2） llamalend，目前大多数 NFT 服务都专注于大型蓝筹系列，但超过 54% 的市场由较小的非流动性系列组成。llamalend 允许较小的用户以固定利率即时获得流动性，而没有清算风险。\n\n3）sudoswap ，NFT 的 Uniswap。作为 AMM，LP 可以将资产存入单边买卖池，或存入买卖 NFT 的双边交易池。4）Insrt finance 允许 NFT 持有者通过访问各种收益金库来部署定制策略。这些策略是为想要获得被动回报的 NFT 持有者、想要分散资产者和投机者而制定的。\n\n5）JPEG’d 允许用户从 NFT 上赚取收益，以它们为抵押借款并铸造 pETH，并提供给 Curve 上的 pETH/ETH 以获得额外的收益，甚至可以提供给 Convex，目前的 APY 约为 50%。6）Spice Finance 是一个 NFT 贷款聚合器，可帮助贷方找到借款人以产生本地 ETH 收益。存款人可以在各种 NFT 市场上获得多样化的 NFT 贷款，同时通过各种自动化策略获得收益。【原文为英文】</p><a href=\"https://twitter.com/flowslikeosmo/status/1654863614279573506\">内容来源</a><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/flowslikeosmo/status/1654863614279573506",
-          "publishedOn": "2023-05-07T03:18:13.000Z",
-          "wordCount": 480,
-          "title": "【英文长推】盘点为 NFT 提供流动性的项目：nftperp、llamalend、sudoswap...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/sid_bnb/status/1654350071939432448",
-          "author": null,
-          "description": "<p>Web3 域名和身份平台 SPACE ID 与以太坊域名服务 ENS 建立合作关系，通过 ERC-3668（CCIP 读取）将 .bnb 域名引入以太坊网络，实现了 .bnb.eth 和 .eth.bnb 的相互解析。在 MetaMask 上输入 xxx.bnb.eth，会在以太坊上解析为用户的 BNB Chain 地址。</p><p><a href=\"https://twitter.com/sid_bnb/status/1654350071939432448\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://twitter.com/sid_bnb/status/1654350071939432448",
-          "publishedOn": "2023-05-07T02:35:03.000Z",
-          "wordCount": 480,
-          "title": "SPACE ID 和 ENS 合作实现 .bnb.eth 和 .eth.bnb 的相互解析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.avax.network/blog/chainlink-functions-now-live-on-avalanche-fuji-helping-bring-the-worlds-apis-to-web3",
-          "author": null,
-          "description": "<p>无服务器开发平台 Chainlink Functions 已在 Avalanche Fuji 测试网上上线，在 Avalanche 生态系统中构建的智能合约开发者现在可以使用 Chainlink Functions 在其智能合约中轻松连接 Web2 API 和云服务。Chainlink Functions 开启了 Web3 和 Web2 集成的全新领域。目前为止，Web3 开发人员无法将他们的智能合约连接到现有的 Web2 API 以访问社交媒体信号、AI 计算、消息服务等。相反，Web2 开发人员在开始构建 Web3 应用程序时无法利用其现有的基础设施。Chainlink Functions 提供了这一缺失的基础设施的关键部分，开发人员需要构建复杂的应用程序，以充分利用两全其美的优势。</p><p><a href=\"https://www.avax.network/blog/chainlink-functions-now-live-on-avalanche-fuji-helping-bring-the-worlds-apis-to-web3\">内容来源</a></p><hr><p><a href=\"https://chainfeeds.substack.com\"><img width=\"100%\" src=\"https://images.chainfeeds.xyz/image/6433ea2e3c11f.png\" alt=\"https://chainfeeds.substack.com\"/></a></p>",
-          "link": "https://www.avax.network/blog/chainlink-functions-now-live-on-avalanche-fuji-helping-bring-the-worlds-apis-to-web3",
-          "publishedOn": "2023-05-07T02:33:58.000Z",
-          "wordCount": 3260,
-          "title": "Chainlink Functions 已上线 Avalanche Fuji 测试网",
-          "imageUrl": "https://assets-global.website-files.com/6347ee29ff5e8757db1b4853/6454ebe67e02ba7d6e8ebe60_Functions%20Banner.png"
         }
       ]
     },
@@ -13072,6 +13434,336 @@
       "feedUrl": "http://feeds.feedburner.com/Coindesk",
       "siteUrl": "https://www.coindesk.com",
       "articles": [
+        {
+          "id": "U6G3G4RQRJEKNCDTGHTPLGTWUI",
+          "author": "James Rubin, Sam Reynolds",
+          "description": "ALSO: Lido’s stETH token has become the seventh largest token by market cap, right ahead of Cardano and just behind XRP, according to data from CoinGecko. What's behind its ascent?",
+          "link": "https://www.coindesk.com/markets/2023/06/06/first-mover-asia-why-did-bitcoin-fall-to-254k-sec-lawsuit-against-binance-rocks-crypto-markets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-06T00:18:42.000Z",
+          "wordCount": 10658,
+          "title": "First Mover Asia: Why Did Bitcoin Fall to $25.4K? SEC Lawsuit Against Binance Rocks Crypto Markets",
+          "imageUrl": "https://www.coindesk.com/resizer/1uqf7H0Pa2JZD_pJWbVpgSsZbF0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/V2JRAKCWDZA4TMTAWA2X6EL2YM.png"
+        },
+        {
+          "id": "NEBEM4JTGRB4XKG4MHCOA6LDDA",
+          "author": "Rosie Perper",
+          "description": "Apple on Monday announced its Vision Pro headset, which it says \"seamlessly blends digital content with the physical world.\" What could this mean for the future of Web3?",
+          "link": "https://www.coindesk.com/web3/2023/06/05/apples-new-headset-could-change-the-way-we-design-the-metaverse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T22:54:39.000Z",
+          "wordCount": 8353,
+          "title": "Apple's New Headset Could Change the Way We Design the Metaverse",
+          "imageUrl": "https://www.coindesk.com/resizer/AkCWKeYaRkHvkYluHfpgvt1nQGg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XVOFOGQ7A5CL7LEGQJHY77ODZA.jpg"
+        },
+        {
+          "id": "ZXB7S2A6VBGLHDBGSEUW6B5NI4",
+          "author": "Krisztian  Sandor",
+          "description": "Cryptocurrency prices nosedived Monday as the U.S. Securities and Exchange Commission (SEC) sued the crypto exchange and its chief executive for multiple federal securities law violations.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/crypto-traders-suffer-320m-losses-in-liquidations-as-sec-lawsuit-against-binance-spurs-market-plunge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T22:29:41.000Z",
+          "wordCount": 6909,
+          "title": "Crypto Traders Suffer $320M Losses in Liquidations as SEC Lawsuit Against Binance Spurs Market Plunge",
+          "imageUrl": "https://www.coindesk.com/resizer/RuWOT9pURSHQTzebN0a_HCYSUYg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LS7UC7WSERFCPPN3BFBIWUE5CA.jpg"
+        },
+        {
+          "id": "M7BLEL43ONGWNAGQXUTEVS52Z4",
+          "author": "Elizabeth Napolitano",
+          "description": "The insolvent lender will now have until August 2 to submit a plan to emerge from bankruptcy.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/genesis-bankruptcy-judge-extends-mediation-period-between-genesis-creditors/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T21:42:07.000Z",
+          "wordCount": 6611,
+          "title": "Genesis Bankruptcy Judge Extends Mediation Period Between Genesis, Creditors",
+          "imageUrl": "https://www.coindesk.com/resizer/OevbirqhR8ah1UL32jtKSKXHDTk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CA6T2FUIKNH4NCPM2WXH7JJEVU.jpg"
+        },
+        {
+          "id": "DIRM7QCGPFFVVDU4GVCLMBRF7Q",
+          "author": "Margaux Nijkerk",
+          "description": "The \"Bedrock” upgrade will improve the usability of the chain by lowering gas fees and cutting deposit-confirmation times by 90% – pitched as a key step toward the Optimism network's goal of becoming a \"Superchain.\"",
+          "link": "https://www.coindesk.com/tech/2023/06/05/optimism-bedrock-upgrade-to-speed-confirmations-cut-gas-fees-set-path-to-superchain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T21:17:11.000Z",
+          "wordCount": 7288,
+          "title": "Optimism 'Bedrock' Upgrade to Speed Confirmations, Cut Gas Fees, Set Path to 'Superchain'",
+          "imageUrl": "https://www.coindesk.com/resizer/EUdSI5siB0Nzv4QdN2OE-APRbBM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SVHCF4IP2ZHVFOSUAH3K2BGDEQ.jpeg"
+        },
+        {
+          "id": "SCZTALQAF5CJDD4TCTFMQPPPIU",
+          "author": "Aoyon Ashraf",
+          "description": "If Coinbase faces charges from SEC, at least 37% of the crypto exchange's net revenue would be at risk, analysts says.",
+          "link": "https://www.coindesk.com/business/2023/06/05/binance-sec-lawsuit-could-be-preview-of-what-coinbase-may-face-berenberg-says/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T21:02:26.000Z",
+          "wordCount": 6890,
+          "title": "Binance SEC Lawsuit Could be Preview of What Coinbase May Face, Berenberg Says",
+          "imageUrl": "https://www.coindesk.com/resizer/T1KY-eH48o94jyvWLScn8Y1APbA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3H73INSCORHFJCKJLJCAVIIUBM.jpg"
+        },
+        {
+          "id": "XGKCQE626ZFIJDEST37XLKYF4M",
+          "author": "Helene Braun",
+          "description": "The Securities and Exchanges Commission’s (SEC) suit against the biggest crypto exchange in the world, Binance, could be a huge misstep if other countries allow the crypto industry to develop and it eventually replaces the traditional banking sector, Jim Bianco, president and founder of Bianco Research said.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/binance-lawsuit-could-be-huge-mistake-or-bring-needed-clarity-to-us-crypto-industry/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T20:27:44.000Z",
+          "wordCount": 7345,
+          "title": "Binance Lawsuit Could Be ‘Huge Mistake’ or Bring Needed Clarity to U.S. Crypto Industry",
+          "imageUrl": "https://www.coindesk.com/resizer/N2VlLMaAMKEXZBRCEgnt1fqZA_Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SXTC4TFQCNCXZKH7ODEOCYIRJI.jpg"
+        },
+        {
+          "id": "GE6KYN2C6FA2VGVVPHD36KQXJU",
+          "author": "Sage D. Young",
+          "description": "Both are significant tokens in the Binance ecosystem and had their prices drop by more than 8%.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/bnb-cake-plummet-following-sec-crackdown-on-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T20:21:51.000Z",
+          "wordCount": 6228,
+          "title": "BNB, CAKE Plummet Following SEC Crackdown on Binance",
+          "imageUrl": "https://www.coindesk.com/resizer/ryBzTQShuIOOHB8M3FrhgSK6tV4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GBSM6RBRSFDY7NBMRL72RD67GM.png"
+        },
+        {
+          "id": "QLVBL43JIBGXLGQI63YC6AZD4E",
+          "author": "Helene Braun",
+          "description": "Crypto asset manager Arca has cut 30% of its staff amid a continuing bear market and regulatory uncertainty, the company said Monday.",
+          "link": "https://www.coindesk.com/business/2023/06/05/crypto-hedge-fund-arca-laid-off-30-of-staff-citing-bear-market-regulatory-uncertainty/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T18:22:44.000Z",
+          "wordCount": 5983,
+          "title": "Crypto Hedge Fund Arca Has Trimmed 30% of  Its Staff",
+          "imageUrl": "https://www.coindesk.com/resizer/Ao8DrwuKSL-9jMBmairfxR3hSsM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CUVFZ2CK6NGJPM2CH5HA2IPJG4.jpg"
+        },
+        {
+          "id": "Z5P5O4E2ERGEHFHVMWNYFBVMTM",
+          "author": "Lyllah Ledesma",
+          "description": "The SEC on Monday charged the crypto exchange and its CEO with violating a number of securities laws, including offering unregistered securities to the public.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/cryptocurrencies-tumble-after-the-sec-charges-binance-with-sale-of-unregistered-securities/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T16:55:01.000Z",
+          "wordCount": 6660,
+          "title": "Cryptocurrencies Crash After the SEC Charges Binance With Sale of Unregistered Securities",
+          "imageUrl": "https://www.coindesk.com/resizer/AdRRI15MgEMMeiK2Di_DmBqGcuc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZPDJNZM43NA4VDGV7NA3CTQP3U.jpg"
+        },
+        {
+          "id": "DGXA4FGDQVBQLOFUBAYA4EOVRY",
+          "author": "Sage D. Young",
+          "description": "The surge in DYDX comes as the SEC alleges BNB and BUSD – tokens belonging to centralized exchange Binance – are unregistered security offerings.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/decentralized-exchange-dydxs-token-spikes-almost-10-after-sec-sues-binance-for-alleged-securities-violations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T16:39:17.000Z",
+          "wordCount": 6148,
+          "title": "Decentralized Exchange DYdX’s Token Spikes Almost 10% After SEC Sues Binance for Alleged Securities Violations",
+          "imageUrl": "https://www.coindesk.com/resizer/MRq0Pivg828Wp7YyyiTFSxHRu1I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AYINMS2J4ZHRBKI4BPO623OWOQ.png"
+        },
+        {
+          "id": "A36G3CNXXRGZDOYECNLBUYGNAM",
+          "author": "Krisztian  Sandor",
+          "description": "The world’s largest crypto exchange was sued for multiple securities law violations by the U.S. Securities and Exchange Commission on Monday.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/binance-endures-69m-in-net-outflows-within-an-hour-amid-sec-charge-nansen/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T16:26:21.000Z",
+          "wordCount": 7009,
+          "title": "Binance Withdrawal On Track to be Largest Since March Crypto Banking Crisis",
+          "imageUrl": "https://www.coindesk.com/resizer/N2VlLMaAMKEXZBRCEgnt1fqZA_Q=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SXTC4TFQCNCXZKH7ODEOCYIRJI.jpg"
+        },
+        {
+          "id": "DCZKEY6THNDVHFAJKPDB67AHII",
+          "author": "Helene Braun",
+          "description": "Shares of Coinbase (COIN) were down 10% after news broke that the Securities and Exchanges Commission (SEC) sued Binance on allegations of violating federal securities law on Monday.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/coinbase-stock-drops-6-following-secs-suit-against-binance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T16:25:10.000Z",
+          "wordCount": 6368,
+          "title": "Coinbase Shares Drop 10% Following SEC’s Suit Against Binance",
+          "imageUrl": "https://www.coindesk.com/resizer/WWocaBAcXv63T9QcWffjua76_4o=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E4RG47Q5MREMLOGRBB4RHQLY64.png"
+        },
+        {
+          "id": "PZ63Y3W6XFEWPJHWR5F3Q6VUTM",
+          "author": "George Kaloudis",
+          "description": "And that’s okay.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/06/05/the-lightning-network-doesnt-fix-everything-wrong-with-bitcoin/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T16:21:27.000Z",
+          "wordCount": 7080,
+          "title": "The Lightning Network Doesn’t Fix Everything Wrong With Bitcoin",
+          "imageUrl": "https://www.coindesk.com/resizer/HpcQBT3KzKW6EmkW0eEq0T_bUhY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2RZ3FC7C4ZEBHHFAUMXARFGGUE.jpg"
+        },
+        {
+          "id": "D4WJT6BCIRBBDG53W65SEFFYRM",
+          "author": "Nikhilesh De",
+          "description": "The U.S. Securities and Exchange Commission is suing crypto exchange Binance, Binance.US and its CEO, Changpeng \"CZ\" Zhao on allegations of violating federal securities laws.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/sec-sues-crypto-exchange-binance-ceo-changpeng-zhao/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T15:15:10.000Z",
+          "wordCount": 9359,
+          "title": "SEC Sues Crypto Exchange Binance and CEO Changpeng Zhao, Alleging Multiple Securities Violations",
+          "imageUrl": "https://www.coindesk.com/resizer/beKgSFU3eFiy6majFEDVjeisn9E=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DBNDM5UWFNDZRAWJ4W2FCTBVDQ.jpg"
+        },
+        {
+          "id": "D2R5RI7UENGB7KSF22G5HSJ2XY",
+          "author": "Oliver Knight",
+          "description": "Cryptocurrency's virtual reality sector has surged by almost 8% over the past 24 hours as investors anticipate Apple's VR headset reveal on Monday.",
+          "link": "https://www.coindesk.com/business/2023/06/05/virtual-reality-tokens-surge-8-as-traders-await-apples-vr-headset-release/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T15:12:31.000Z",
+          "wordCount": 6376,
+          "title": "Virtual Reality Tokens Surge 8% as Traders Await Apple's VR Headset Release",
+          "imageUrl": "https://www.coindesk.com/resizer/Uh1u4q_qUdp8FSHfOeut5kytcj4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GPNUPZCQ5RAOLIQR2NVOV5RATQ.jpg"
+        },
+        {
+          "id": "2KTLCCKZRJG5HG7NYAIPXKXA7I",
+          "author": "Sage D. Young",
+          "description": "Velodrome’s upgrade is slated for June 15 and is a complete overhaul of the protocol.",
+          "link": "https://www.coindesk.com/business/2023/06/05/optimism-based-velodrome-token-slides-nearly-8-ahead-of-major-upgrade/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:24:51.000Z",
+          "wordCount": 6294,
+          "title": "Optimism-Based Velodrome Token Slides Nearly 8% Ahead of Major Upgrade",
+          "imageUrl": "https://www.coindesk.com/resizer/rV2Tgb8YlVvTADGS59XsjiIMByU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/64FORI3TQBAQJOTJ7YKQATDXNI.png"
+        },
+        {
+          "id": "7PHASXAHZVAJBD4HOHN5LCF5MU",
+          "author": "Jesse Hamilton",
+          "description": "Some Consensus 2023 participants argue that the economic benefits of CBDCs  are not worth the threats to privacy in an excerpt from CoinDesk’s first-ever Consensus @ Consensus Report.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/06/05/privacy-concerns-dominate-cbdc-discussion-at-consensus-2023/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:16:11.000Z",
+          "wordCount": 6628,
+          "title": "Privacy Concerns Dominate CBDC Discussion at Consensus 2023",
+          "imageUrl": "https://www.coindesk.com/resizer/thkyuBnrw0TLwtH2IhQG-0rbtbQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6PPKWK7BVFCZ3FF3T6D74Z4ZPI.jpg"
+        },
+        {
+          "id": "A3FLXU43UJEUFPZYP3NPRSNRFI",
+          "author": "Marc Hochstein",
+          "description": "Based on intimate, curated group discussions that took place at Consensus 2023, it covers a wide range of pressing issues for the digital assets industry.",
+          "link": "https://www.coindesk.com/consensus-magazine/2023/06/05/introducing-coindesks-first-ever-consensus-consensus-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:15:15.000Z",
+          "wordCount": 7244,
+          "title": "Introducing CoinDesk’s First-Ever ‘Consensus @ Consensus’ Report",
+          "imageUrl": "https://www.coindesk.com/resizer/0QyVUTuWuLzzoYHwqtGEjceOc-g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/FBQ3YECPWRAWFE6UKFTA77LLMU.jpg"
+        },
+        {
+          "id": "6MAS355LXZGKLAFJAACUFWWLLQ",
+          "author": "Eliza Gkritsi",
+          "description": "The 241 MW site will be powered by wind and solar energy.",
+          "link": "https://www.coindesk.com/business/2023/06/05/el-salvadors-volcano-energy-secures-1b-in-commitments-for-241-mw-bitcoin-mine/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:13:19.000Z",
+          "wordCount": 6871,
+          "title": "El Salvador's Volcano Energy Secures $1B in Commitments for 241 MW Bitcoin Mine",
+          "imageUrl": "https://www.coindesk.com/resizer/6DkYBLaE35obv9bj2CmOuoMU-RU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OWYC5J5WUJCM7G7Z7WIVROCWRY.jpg"
+        },
+        {
+          "id": "7ZVZLVPQLVFITOJPJLBQQ3PCLY",
+          "author": "Jamie Crawley",
+          "description": "Binance.US has always claimed to be independent from Binance, a stance that may come under scrutiny following this news.",
+          "link": "https://www.coindesk.com/business/2023/06/05/binance-executive-controlled-bank-accounts-belonging-to-us-wing-in-2019-20-reuters/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:11:02.000Z",
+          "wordCount": 6001,
+          "title": "Binance Executive Controlled Bank Accounts Belonging to U.S. Wing in 2019-20: Reuters",
+          "imageUrl": "https://www.coindesk.com/resizer/_JMQjkv_Qj4FJbux0Mvr7GqEDjQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JMCNRJNV6VBJLPNEY7BYUDIZJE.jpg"
+        },
+        {
+          "id": "V6XO3HIETJC4TGLV5IBEWI2T3U",
+          "author": "Sage D. Young",
+          "description": "Its R stablecoin is collateralized by one crypto asset: liquid staking leader Lido’s staked ether (stETH).",
+          "link": "https://www.coindesk.com/tech/2023/06/05/new-stablecoin-issuer-raft-is-eschewing-fiat-for-its-financial-backing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T14:00:00.000Z",
+          "wordCount": 6688,
+          "title": "New Stablecoin Issuer Raft Is Eschewing Fiat for Its Financial Backing",
+          "imageUrl": "https://www.coindesk.com/resizer/l2owfsM6HMYypwbAYGSA2INu5Z0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7I7WKK3QG5GXNOFHIWATA63ZZE.jpg"
+        },
+        {
+          "id": "2SSF5BMCGNHLTDTLBQQLVYFTQQ",
+          "author": "Megan  DeMatteo",
+          "description": "Through new forms of digital artistry and cutting-edge technological innovation, today’s leading beauty companies hope to reach Web3-native consumers, create meaningful experiences and perhaps even clean up their supply chain.",
+          "link": "https://www.coindesk.com/web3/2023/06/05/3-reasons-why-beauty-on-the-blockchain-makes-sense/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T13:14:12.000Z",
+          "wordCount": 7769,
+          "title": "3 Reasons Why Beauty on the Blockchain Makes Sense",
+          "imageUrl": "https://www.coindesk.com/resizer/vN4jyMqPxPm27HQ_cuglwm5-Ibo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XAH5GDSVAJHFPE6HBSZMPLKJ7E.jpg"
+        },
+        {
+          "id": "G5EFYZQJJJBKFL2566LX6JKAVY",
+          "author": "Lyllah Ledesma",
+          "description": "The latest price moves in bitcoin (BTC) and crypto markets in context for June 5, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/first-mover-americas-is-bitcoin-heading-below-26k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T12:07:31.000Z",
+          "wordCount": 7197,
+          "title": "First Mover Americas: Is Bitcoin Heading Below $26K?",
+          "imageUrl": "https://www.coindesk.com/resizer/e2FyMMO3ViabB_TnxLj1AZ1BKYc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DOMGS6NLHREPZKDR2I5HFZFX34.png"
+        },
+        {
+          "id": "ODRSIJDXPBFYLJTAPC7VM3GG4A",
+          "author": "Will Canny",
+          "description": "The event will double the bitcoin production cost to around $40,000, creating a positive psychological effect, the report said.",
+          "link": "https://www.coindesk.com/markets/2023/06/05/bitcoin-retail-demand-to-remain-strong-ahead-of-halving-event-jpmorgan/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T09:56:40.000Z",
+          "wordCount": 6542,
+          "title": "Bitcoin Retail Demand to Remain Strong Ahead of Halving Event: JPMorgan",
+          "imageUrl": "https://www.coindesk.com/resizer/-4jqHGb4r1H4_6Ipc4ZFRpSiENA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MVO6AOD7IVEZ7MITO4IJFU7CGI.jpg"
+        },
+        {
+          "id": "H6FI7S3J2NC7PNEMZE2RHYXR44",
+          "author": "Jamie Crawley",
+          "description": "The aim of the project is to settle dollar trades in real time around the clock as opposed to over a matter of days and only during the working week.",
+          "link": "https://www.coindesk.com/business/2023/06/05/jpmorgan-6-indian-banks-to-settle-dollar-trades-on-onyx-blockchain-system-bloomberg/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T09:35:46.000Z",
+          "wordCount": 6165,
+          "title": "JPMorgan, 6 Indian Banks to Settle Dollar Trades on Onyx Blockchain System: Bloomberg",
+          "imageUrl": "https://www.coindesk.com/resizer/E475nhNdf7VLO2frKpe8G05tfgg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4V3PLAJWKND5ZJLKFCDRGFKAHA.jpg"
+        },
+        {
+          "id": "2Q3RHCJICBF6HD65L5S3OS6AQY",
+          "author": "Jack Schickler",
+          "description": "The bankrupt crypto company is seeking the return of funds sent by Sam Bankman-Fried’s empire before its November collapse.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/new-yorks-met-museum-agrees-to-return-550k-in-ftx-donations/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T09:24:43.000Z",
+          "wordCount": 6124,
+          "title": "New York’s Met Museum Agrees to Return $550K in FTX Donations",
+          "imageUrl": "https://www.coindesk.com/resizer/d9t3gd0n3IzF8jclw6JeD-PpIq4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5TIGFRLQ25BMND3UG4CCA4HX7M.jpg"
+        },
+        {
+          "id": "BQYGID7XDJGKBDZZEPOKV5VDXY",
+          "author": "Ian Allison",
+          "description": "Taking up an expanded role overseeing regional markets outside the U.S., former regulator Richard Teng wants to demonstrate Binance is “a new organization.”",
+          "link": "https://www.coindesk.com/business/2023/06/05/binance-hands-rising-star-teng-key-role-to-replace-ceo-zhao-at-largest-crypto-exchange/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T09:03:07.000Z",
+          "wordCount": 7563,
+          "title": "Binance Hands Rising Star Teng Key Role to Replace CEO Zhao at Largest Crypto Exchange",
+          "imageUrl": "https://www.coindesk.com/resizer/xJWcnA6NTBQU1xP8JG-vmyS6sWE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UXT3PVEK2JHAHGB2KCAXYUEEF4.WEBP"
+        },
+        {
+          "id": "FPOWIFS3U5FFPMJ6DNUB4RZJPE",
+          "author": "Jack Schickler",
+          "description": "The defunct crypto hedge fund has claimed over $1 billion against Genesis, which itself filed for bankruptcy in January.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/defunct-crypto-hedge-fund-3ac-insists-on-taking-part-in-genesis-mediation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T08:34:15.000Z",
+          "wordCount": 6893,
+          "title": "Defunct Crypto Hedge Fund 3AC Insists on Taking Part in Genesis Mediation",
+          "imageUrl": "https://www.coindesk.com/resizer/F61lM_Wo2QpvHKfuNAMyPXKcFvk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IHYYAR7SEBGH5H7XNZRK73DWNY.jpg"
+        },
+        {
+          "id": "YBOSX7ZHVZFSXM6W2FKCVSRQAI",
+          "author": "Jamie Crawley",
+          "description": "London-based Arch Insurance International, a syndicate member of Lloyd's of London, has authorized Evertas to increase its coverage limit for a single policy for crypto custodians and exchanges.",
+          "link": "https://www.coindesk.com/business/2023/06/05/crypto-insurer-evertas-coverage-limit-increased-to-420m-reuters/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T08:23:27.000Z",
+          "wordCount": 6209,
+          "title": "Crypto Insurer Evertas’ Coverage Limit Increased to $420M: Reuters",
+          "imageUrl": "https://www.coindesk.com/resizer/XYNbztp8jSeaGFP-yxNxe2ieyjI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7VBSOCF6YZDQPA3CRWOLJHBDSI.jpg"
+        },
+        {
+          "id": "77HLIXOEIJDUJBCHQG7YMJOOKM",
+          "author": "Camomile Shumba",
+          "description": "The Crypto and Digital Assets All Parliamentary Group released its long-awaited inquiry into crypto on Monday.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/uk-lawmakers-call-for-a-dedicated-government-role-to-oversee-crypto-regulation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T08:17:50.000Z",
+          "wordCount": 7315,
+          "title": "UK Lawmakers Call for a Dedicated Government Role to Oversee Crypto Regulation",
+          "imageUrl": "https://www.coindesk.com/resizer/-aktI8fLOcI05RPFP3FQK6fbxl0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YYQEHGIAPJFN7MNM5T3HDXNVXM.jpg"
+        },
+        {
+          "id": "YKV7OU5O3FC3VIQZAUI6Q35NXY",
+          "author": "Sandali Handagama",
+          "description": "A previous approval was annulled by a higher court after it was determined the Terra founder's finances were not sufficiently assessed in the first decision.",
+          "link": "https://www.coindesk.com/policy/2023/06/05/do-kwons-428k-bail-request-in-fake-passport-case-approved-by-montenegro-court/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T08:08:32.000Z",
+          "wordCount": 6499,
+          "title": "Do Kwon's $428K Bail Request in Fake Passport Case Approved by Montenegro Court",
+          "imageUrl": "https://www.coindesk.com/resizer/fTmkss08plU76xAuyUj9NySNOOY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TB6RKT3RIJEUDOVW2UKB5CNMAY.jpg"
+        },
+        {
+          "id": "LX2FZ7YJSBEHTKRJ5FW5EZV55M",
+          "author": "Shaurya Malwa",
+          "description": "Atomic Wallet said Monday that “less than 1%” of its monthly active users were impacted in the weekend breach.",
+          "link": "https://www.coindesk.com/tech/2023/06/05/atomic-wallet-users-hacked-for-35m-worth-of-bitcoin-ether-tether-and-other-tokens/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+          "publishedOn": "2023-06-05T05:46:27.000Z",
+          "wordCount": 6533,
+          "title": "Atomic Wallet Users Hacked for $35M Worth of Bitcoin, Ether, Tether and Other Tokens",
+          "imageUrl": "https://www.coindesk.com/resizer/9ms9IyBgKAggbG4aHd4KOPDoCnc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/XBI5RPZDBRF43I7ZJBYOQSV7FY.jpg"
+        },
         {
           "id": "YMKHL4VSUVCMZEEMGEZHAX63CY",
           "author": "Sam Reynolds, Glenn Williams",
