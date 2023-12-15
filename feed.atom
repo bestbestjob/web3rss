@@ -2,10 +2,785 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-14T01:07:06.580Z</updated>
+    <updated>2023-12-15T01:08:14.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Interchain Foundation puts aside $26.4M to grow Cosmos ecosystem]]></title>
+        <id>https://blockworks.co/news/cosmos-ecosystem-receives-funding</id>
+        <link href="https://blockworks.co/news/cosmos-ecosystem-receives-funding"/>
+        <updated>2023-12-14T22:27:36.000Z</updated>
+        <summary type="html"><![CDATA[The Cosmos ecosystem will receive less funding from the Interchain Foundation in 2024 than it has in previous years]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial Regulators Reiterate Call for Legislation to Address Crypto Risks]]></title>
+        <id>W4PWRZENMRG67I2H7ZDO7S5E7M</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/financial-regulators-reiterate-call-for-legislation-to-address-crypto-risks/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T22:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Congress needs to pass laws addressing stablecoins and non-securities spot markets, the Financial Stability Oversight Council said in its latest annual report.]]></summary>
+        <author>
+            <name>Nikhilesh De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Bitcoin NFT' Hysteria Comes to Sotheby's as Super-Mario-Style Mushroom Character Tops $200K]]></title>
+        <id>GPPFZJ5YDVGC7GDXJPX462IAJA</id>
+        <link href="https://www.coindesk.com/tech/2023/12/14/bitcoin-nft-hysteria-comes-to-sothebys-as-super-mario-style-mushroom-character-tops-200k/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T21:39:39.000Z</updated>
+        <summary type="html"><![CDATA[In the historic auction house's first-ever sale of the Ordinals inscriptions known as "NFTs on Bitcoin," a batch of three pixelated images from a mushroom-themed collection drew about $450,000, or roughly five times the highest estimates.]]></summary>
+        <author>
+            <name>Bradley Keoun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger CEO says attack was an ‘unfortunate isolated incident’]]></title>
+        <id>https://blockworks.co/news/ledger-statement-on-phishing-hack</id>
+        <link href="https://blockworks.co/news/ledger-statement-on-phishing-hack"/>
+        <updated>2023-12-14T20:58:26.000Z</updated>
+        <summary type="html"><![CDATA[The attack happened after a former employee was phished, giving the attacker access to Ledger’s package manager]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto-Friendly Does Not Mean Crypto-Easy]]></title>
+        <id>YF5S4UMATFDCRPT6INPVAOTVOA</id>
+        <link href="https://www.coindesk.com/consensus-magazine/2023/12/14/crypto-friendly-does-not-mean-crypto-easy/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T20:21:43.000Z</updated>
+        <summary type="html"><![CDATA[U.S. crypto regulation has much to learn from Japan, Singapore and Hong Kong. But while these jurisdictions offer legal clarity around digital assets, they also have some of the toughest rules in the world, says CoinDesk’s Emily Parker.]]></summary>
+        <author>
+            <name>Emily Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nirvana Finance hacker pleads guilty, forfeits $12.3M]]></title>
+        <id>https://blockworks.co/news/nirvana-hacker-pleads-guilty</id>
+        <link href="https://blockworks.co/news/nirvana-hacker-pleads-guilty"/>
+        <updated>2023-12-14T19:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Charges against Shakeeb Ahmed were announced back in July]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gensler says SEC is taking ‘new look’ at spot bitcoin ETF proposals]]></title>
+        <id>https://blockworks.co/news/sec-reevaluating-bitcoin-etf-applications</id>
+        <link href="https://blockworks.co/news/sec-reevaluating-bitcoin-etf-applications"/>
+        <updated>2023-12-14T19:41:40.000Z</updated>
+        <summary type="html"><![CDATA[In an interview with CNBC, Gary Gensler said that the Grayscale court ruling pushed the SEC to take a ‘new look’ at bitcoin ETF proposals]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Data Feeds Available on Polygon zkEVM]]></title>
+        <id>PIHTU46LOFFOHKWGMIP2QB3WTY</id>
+        <link href="https://www.coindesk.com/tech/2023/12/14/chainlink-data-feeds-available-on-polygon-zkevm/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers building on Polygon’s zkEVM will be able to incorporate these data feeds into their on-chain applications.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptos mixed while stocks rally on Fed decision]]></title>
+        <id>https://blockworks.co/news/bitcoin-falters-pending-fed-decision</id>
+        <link href="https://blockworks.co/news/bitcoin-falters-pending-fed-decision"/>
+        <updated>2023-12-14T18:32:27.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin, which initially rose as much as 2.6% Wednesday following the central bank’s announcement, faltered Thursday while ether maintained its rally]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TradFi Goes All-In on Fed Rate Cuts. What It Means for Bitcoin]]></title>
+        <id>XB43UJKHC5FODGDAM4CXXZNM7Q</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/tradfi-goes-all-in-on-fed-rate-cuts-what-it-means-for-bitcoin/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T18:19:16.000Z</updated>
+        <summary type="html"><![CDATA[The Fed yesterday signaled that far easier monetary policy is in store for 2024.]]></summary>
+        <author>
+            <name>Stephen  Alpher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Throws Hat In Ring for Celo's Migration to Layer-2 Blockchain]]></title>
+        <id>EWZWI5DSIJCFVLZOMMKR4OYGHE</id>
+        <link href="https://www.coindesk.com/tech/2023/12/14/arbitrum-throws-hat-in-ring-for-celos-migration-to-layer-2-blockchain/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T17:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Celo originally planned to build its Ethereum layer-2 network with Optimism's OP Stack. Then Polygon and Matter Labs pitched their stacks. Now, Arbitrum, the biggest layer-2, wants in on the bake-off.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Ethereum Backers Cyber.Fund to Invest $100M in 'Cybernetic Economy']]></title>
+        <id>QB5WNID2SVCWJHH7RSZ5SJQZE4</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/early-ethereum-backers-cyberfund-to-invest-100m-in-cybernetic-economy/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyber.Fund, which also backed Cosmos, Solana and Polkadot, is focused growing the "cybernetic economy," in which blockchain is the bedrock.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know About the Massive Ledger Hack]]></title>
+        <id>MMOPPZUMRFHWBEC2JPN5RJVQPA</id>
+        <link href="https://www.coindesk.com/consensus-magazine/2023/12/14/what-we-know-about-the-massive-ledger-hack/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T16:47:37.000Z</updated>
+        <summary type="html"><![CDATA[The latest crypto exploit, affecting security firm Ledger and a number of popular DeFi protocols, is a moment of levity for some.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto for Advisors: ETH Staking in 2024]]></title>
+        <id>DOTR7A6KMJBBBKTXV4LMLFGFXQ</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/crypto-for-advisors-eth-staking-in-2024/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's issue of Crypto for Advisors, we share what advisors need to know about how ETH staking works and what’s coming.]]></summary>
+        <author>
+            <name>Sarah Morton, Michael Nadeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global bank regulator tightens rules for inclusion in top stablecoin ranking]]></title>
+        <id>https://blockworks.co/news/basel-commitee-tightens-stablecoin-rules</id>
+        <link href="https://blockworks.co/news/basel-commitee-tightens-stablecoin-rules"/>
+        <updated>2023-12-14T16:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Under the standards, stablecoins would be sorted into two buckets: Group 1b and Group 2]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alleged Crypto Investment Scam Worth $80M Sees Four People Charged With Money Laundering in U.S.]]></title>
+        <id>3YQX6ZU4WBGJTEMB4VN4OV5XRI</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/alleged-crypto-investment-scam-worth-80m-sees-four-people-charged-with-money-laundering-in-us/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T16:20:47.000Z</updated>
+        <summary type="html"><![CDATA[The four allegedly obtained the money through so-called pig-butchering and other fraudulent schemes.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Exploit Drained $484K, Upended DeFi; Former Staffer Linked to Malicious Code]]></title>
+        <id>XA3WYGC4VNEU7N6WOEMAWDCBXE</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/ledger-exploit-drained-484k-upended-defi-former-staffer-linked-to-malicious-code/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T16:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Hackers stole almost $484k after inserting malicious code into Ledger's Connect Kit on GitHub on Thursday. Several decentralized finance (DeFi) protocols have been impacted and users are being warned to avoid using decentralized apps (dApps) until further updates.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger says attacker conducted phishing attack on former employee]]></title>
+        <id>https://blockworks.co/news/ledger-attacker-phishes-former-employee</id>
+        <link href="https://blockworks.co/news/ledger-attacker-phishes-former-employee"/>
+        <updated>2023-12-14T16:12:56.000Z</updated>
+        <summary type="html"><![CDATA[The Ledger attacker was able to upload the malicious code to ConnectKit after phishing a former Ledger employee]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Trader Turns $1K Into $100K on Solana’s Newest Memecoin, Dogwifhat]]></title>
+        <id>3NHRK3JBPRBF5NLK6LUCNOTZSQ</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/crypto-trader-turns-1k-into-100k-on-solanas-newest-memecoin-dogwifhat/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[The Dogwifhat (WIF) memecoin is Solana's latest joke token. One trader turned $1000 into $100000 buying it.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronos broadens scaling roadmap from Cosmos to Ethereum]]></title>
+        <id>https://blockworks.co/news/ethereum-rollups-using-zkstack</id>
+        <link href="https://blockworks.co/news/ethereum-rollups-using-zkstack"/>
+        <updated>2023-12-14T15:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Cronos Labs launches testnet for the Cronos zkEVM Chain, the first “hyperchain” using zkSync’s ZK Stack]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出大事》暫時勿與任何Dapp互動！DeFi爆發大規模安全漏洞、Ledger錢包遭駭釀禍]]></title>
+        <id>https://www.blocktempo.com/?p=303154</id>
+        <link href="https://www.blocktempo.com/massive-security-breach-breaks-out-in-defi/"/>
+        <updated>2023-12-14T15:01:04.000Z</updated>
+        <summary type="html"><![CDATA[去中心化交易所 SushiSwap 技術長 Matthew Lilley 今（14）晚 9 時許發文警告，常用 […]
+出大事》暫時勿與任何Dapp互動！DeFi爆發大規模安全漏洞、Ledger錢包遭駭釀禍〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Zhang joy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ends of Aragon]]></title>
+        <id>APDPY32KXBFRPH3SRKWPPEOK3A</id>
+        <link href="https://www.coindesk.com/consensus-magazine/2023/12/14/the-ends-of-aragon/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T14:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Aragon had a dream to remake capitalism with DAOs. As it faces a governance crisis, what can we learn about how to organize DAOs in the future?]]></summary>
+        <author>
+            <name>Joshua  Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play-to-earn was a bust — we need to create-to-earn]]></title>
+        <id>https://blockworks.co/news/play-to-earn-gaming-create-ownership</id>
+        <link href="https://blockworks.co/news/play-to-earn-gaming-create-ownership"/>
+        <updated>2023-12-14T14:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Players care more about playing a high-quality game than they do about earning money: The shine wears off]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Mover Americas: JPMorgan Cautious About Crypto Markets in 2024]]></title>
+        <id>EPRFOIYTS5CXNAY3S6TWWAV7KA</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/first-mover-americas-jpmorgan-cautious-about-crypto-markets-in-2024/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T13:27:27.000Z</updated>
+        <summary type="html"><![CDATA[The latest price moves in bitcoin [BTC] and crypto markets in context for Dec. 14, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.]]></summary>
+        <author>
+            <name>Jamie Crawley, Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Wallet drainer’ code added to Ledger library has crypto on edge]]></title>
+        <id>https://blockworks.co/news/ledger-wallet-vulnerability-connectkit</id>
+        <link href="https://blockworks.co/news/ledger-wallet-vulnerability-connectkit"/>
+        <updated>2023-12-14T13:25:48.000Z</updated>
+        <summary type="html"><![CDATA[A suspected “supply chain attack” on Ledger ConnectKit may leave dapp users open to loss of funds]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deutsche Bank-Backed Taurus Starts Tokenizing German SME Loans]]></title>
+        <id>SZ6FA3WNPJAA7ITHTKQ7HFGQ2M</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/deutsche-bank-backed-taurus-starts-tokenizing-german-sme-loans/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Crypto custody specialist Taurus has partnered with lending company Teylor.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Exploit Endangers DeFi; Sushi Says 'Do Not Interact With ANY dApps']]></title>
+        <id>5BNM3Q3ICRD3ZNUWJA2EL2GIPM</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T12:48:20.000Z</updated>
+        <summary type="html"><![CDATA[The exploit reportedly prompts users to connect their wallets via a pop-up, triggering a token drainer.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase wants to support ‘responsible DeFi development’ through Base]]></title>
+        <id>https://blockworks.co/news/coinbase-responsible-defi-development</id>
+        <link href="https://blockworks.co/news/coinbase-responsible-defi-development"/>
+        <updated>2023-12-14T12:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase is making a big push to bring institutions over to crypto, with tokenized real-world assets taking center stage]]></summary>
+        <author>
+            <name>Blockworks: News and insights about digital assets.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Hub 停滞不前，凸显五大问题]]></title>
+        <id>https://www.chaincatcher.com/article/2108454</id>
+        <link href="https://www.chaincatcher.com/article/2108454"/>
+        <updated>2023-12-14T12:05:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Cosmos Hub 是著名的加密货币创新中心，开创了许多现已被广泛采用的技术。然而，Cosmos 在 TVL、活跃用户和收入等指标上落后于竞争对手，人们对它的信心已经减弱。GCR 研究员 Lukasinho 分析 Cosmos 停滞不前背后的因素，以及如何才能让 Cosmos 重新成为加密货币领域领导者。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.chaincatcher.com/article/2108454">https://www.chaincatcher.com/article/2108454</a></p>
+<p><strong>文章作者：</strong></p><p>Lukasinho</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Lukasinho：</strong>1）应用链（appchain）花费昂贵的现实：为应对这一挑战，大多数 Cosmos 链转而以通货膨胀作为支付验证机费用的手段。这种方法在牛市效果不错，但却在熊市暴露了它的缺点。由于验证者不断出售通胀奖励以维持运营，导致代币价格一落千丈。即使最近市场回暖，Osmosis 等著名项目仍下跌 90% 甚至更多。这使得对许多开发者来说，推出应用链可能是一个糟糕的商业决策。
+
+2）综合服务社未能为 Hub 提供急需的价值主张：如果说在 Cosmos Hub 上运行 app 是最佳财务结果，那么在 ICS 链上运行 app 则是第二好的选择。但即便如此，Cosmos Hub 也不能明显获胜。ICS 链实际上给 Cosmos Hub 带来了财务挑战。Hub 验证器必须验证所有交易，因此可扩展性受到限制。无论是交易量大还是小的 ICS 链，对 Hub 都没有吸引力。
+
+3）Atom 代币经济学不可持续：通胀也影响着 Cosmos Hub，区块奖励的不断出售对 Atom 代币价格造成了下行压力。由于没有可观的收入来源，Atom 面临着与其小型竞争者相同的困境。为加强 Atom 的代币经济价值并将其转化为真正的链间货币，我们提出了两项具体措施：加快通胀率下降速度，以更快达到 7% 的最终目标；引入流动性质押税。
+
+4）流动性分散、用户体验差、采用率低：与 Solana 等更精简的单链区块链相比，在 Cosmos 上进行代币交易需要额外步骤，可能会造成混乱，从而阻碍新用户采用；另一个重大挑战是流动性分散。用户（尤其是大型交易商）在 Cosmos 生态系统中进行交易时会遇到更高的滑点，从而降低吸引力。这种分散性还使套利活动复杂化，不利于维持不同链之间的价格稳定。
+
+5）缺乏组织、指导和资本效率：Cosmos 是由许多小公司建立起来的，每个公司都在开发符合自己兴趣和偏好的功能。没有一个更高的协调组织来确定任务的优先次序、制定全面计划并确保各项工作都是为了实现一个共同目标。此外，每个独立公司都必须管理法律、会计、管理和其他行政职能相关的费用，造成了冗余和低效。为支付这些费用，这些公司向 Interchain 基金会和社区池收取额外费用，增加了生态系统开发和维护的总体成本。</p><a href="https://www.chaincatcher.com/article/2108454">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thala Protocol：LSD 加持的完全体，Aptos 生态复苏的发动机 - 深潮TechFlow]]></title>
+        <id>https://techflowpost.mirror.xyz/1MVDK2sb4zWoCifBITGQip9AHbdQkZ_YCFdM8bp6o-Y</id>
+        <link href="https://techflowpost.mirror.xyz/1MVDK2sb4zWoCifBITGQip9AHbdQkZ_YCFdM8bp6o-Y"/>
+        <updated>2023-12-14T11:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Thala Protocol：LSD 加持的完全体，Aptos 生态复苏的发动机 - 深潮TechFlow – 深潮TechFlow
+Thala 作为 Aptos 生态上领先的“多面手”，产品越全面能够踩中的叙事也越多。
+Read the full entry]]></summary>
+        <author>
+            <name>深潮TechFlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rulematch, a Swiss Crypto Exchange for Banks, Goes Live With Spain's BBVA]]></title>
+        <id>2VDTKFQIFZDO3MS5S6LBO7ISAE</id>
+        <link href="https://www.coindesk.com/business/2023/12/14/rulematch-a-swiss-crypto-exchange-for-banks-goes-live-with-spains-bbva/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T11:26:20.000Z</updated>
+        <summary type="html"><![CDATA[The institutional crypto platform uses Nasdaq’s trading tech, and comes out the gates with seven banks and securities firms.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿根廷總統Milei「休克療法」治國：披索大貶，但加密政策仍懸而未決]]></title>
+        <id>https://www.blocktempo.com/?p=303028</id>
+        <link href="https://www.blocktempo.com/argentine-president-javier-milei-adopts-sharp-devaluation-of-peso-and-implements-austerity-measures/"/>
+        <updated>2023-12-14T11:06:17.000Z</updated>
+        <summary type="html"><![CDATA[阿根廷新總統 Javier Milei 推行激進的經濟政策，包括大幅貶值披索和實施緊縮措施實行「休克療法」。包 […]
+阿根廷總統Milei「休克療法」治國：披索大貶，但加密政策仍懸而未決〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>DaFi Weaver</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不只比特幣泡菜溢價！韓國交易所BTC、ETH、ADA等全溢價上揚6%]]></title>
+        <id>https://www.blocktempo.com/?p=303072</id>
+        <link href="https://www.blocktempo.com/south-korea-exchange-upbit-premium-price-3000-usd/"/>
+        <updated>2023-12-14T11:05:26.000Z</updated>
+        <summary type="html"><![CDATA[泡菜溢價再現，今（14）日比特幣的全球平均價格與韓國最大間加密貨幣交易所 Upbit 上的比特幣溢價來到了 6 […]
+不只比特幣泡菜溢價！韓國交易所BTC、ETH、ADA等全溢價上揚6%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>chalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VC 说｜Pantera 发布加密年度总结、Delphi Digital 如何为 NFT 项目估值、Hashkey 锐评「非共识」市场...]]></title>
+        <id>https://substack.chainfeeds.xyz/p/cryptovc-vol23</id>
+        <link href="https://substack.chainfeeds.xyz/p/cryptovc-vol23"/>
+        <updated>2023-12-14T11:02:56.000Z</updated>
+        <summary type="html"><![CDATA[汇集 VC 观点，洞悉加密新叙事]]></summary>
+        <author>
+            <name>纯真</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文长推】胖企鹅 NFT 售价 25000 美元，是低估还是高估？]]></title>
+        <id>https://twitter.com/0xPrismatic/status/1733133115898421367</id>
+        <link href="https://twitter.com/0xPrismatic/status/1733133115898421367"/>
+        <updated>2023-12-14T10:49:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Delphi Digital NFT 研究主管 Teng Yan 以相对估值和价值驱动因素两种方式对胖企鹅（Pudgy Penguins）当前价格进行分析，表达看好情绪，并提供有关 NFT 估值框架或指标方面的见解。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/0xPrismatic/status/1733133115898421367">https://twitter.com/0xPrismatic/status/1733133115898421367</a></p>
+<p><strong>文章作者：</strong></p><p>Teng Yan（Delphi Digital 研究员）</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Teng Yan（Delphi Digital 研究员）：</strong>与传统市场不同，加密货币目前还没有标准化的估值框架或指标，NFT 更甚。我认为，有两种方式来看待今天的胖企鹅：
+
+1）相对估值：以太坊上顶级的 PFP（不包括 punks）是 BAYC，地板价为 30 ETH。假设胖企鹅在未来一年的执行力（合作伙伴关系、品牌知名度、社区发展）上超过 BAYC，并被视为顶级 PFP，则上行空间从这里开始可能是最高 3 倍。
+
+2）价值驱动因素：拥有胖企鹅 NFT 并不等于持有股权。相反，NFT 代表无形资产的特点：弹性价值；身份证明；收藏价值（稀缺性 + 文化）；专属 VIP。评估这些无形资产需要对社会情绪、影响者和文化趋势有直观的理解。一般来说，如果胖企鹅作为一个品牌不断发展并吸引数百万人，那么它们的弹性、身份证明和收藏价值就会增加。然而，这种增长并不总是可预测的或与业务本身线性相关。
+
+所以这是一个很复杂的答案，我只想表达我看好胖企鹅 2024 年的发展。以及，这样的评估方式也同样适用于其他 NFT 项目。【原文为英文】</p><a href="https://twitter.com/0xPrismatic/status/1733133115898421367">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入探討 Layer2、L2 Rollup 差異，比特幣生態的前進之路]]></title>
+        <id>https://www.blocktempo.com/?p=303080</id>
+        <link href="https://www.blocktempo.com/clarification-of-layer2-and-l2-rollup-concepts/"/>
+        <updated>2023-12-14T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[你搞得清楚比特幣生態上的 Layer2 和 L2 Rollup 項目的差異嗎？本文為讀者認真研究 Layer2 […]
+深入探討 Layer2、L2 Rollup 差異，比特幣生態的前進之路〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>深潮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密貨幣詐騙新招》黑道拐到「台北餐廳」推銷儲值卡，百名銀髮族被害逾2億元]]></title>
+        <id>https://www.blocktempo.com/?p=303073</id>
+        <link href="https://www.blocktempo.com/new-scam-strategy-gangs-launch-hybrid-restaurant-for-cryptocurrency-fraud/"/>
+        <updated>2023-12-14T10:09:46.000Z</updated>
+        <summary type="html"><![CDATA[詐騙集團的犯案手法層出不窮！天道盟太陽會成員孫姓男子透過開設加密貨幣的複合式餐飲店，引誘民眾進行加密貨幣「假投 […]
+加密貨幣詐騙新招》黑道拐到「台北餐廳」推銷儲值卡，百名銀髮族被害逾2億元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>AC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣首檔！陽光綠益債務STO「完成3000萬募資」國泰證券啟動次級市場交易]]></title>
+        <id>https://www.blocktempo.com/?p=303111</id>
+        <link href="https://www.blocktempo.com/taiwan-first-sto-completes-30-million-fundraising/"/>
+        <updated>2023-12-14T10:09:24.000Z</updated>
+        <summary type="html"><![CDATA[國泰證券與本土綠能新創、再生能源售店業者陽光伏特家背後母公司「綠點能創」合作發行的台灣首檔「陽光綠益債務型 S […]
+台灣首檔！陽光綠益債務STO「完成3000萬募資」國泰證券啟動次級市場交易〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Banking Regulator Wants Tougher Criteria for Giving Stablecoins Preferential Risk Treatment]]></title>
+        <id>FWZM7XA4VFA6ZM462K7ZZ7A4JE</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/global-banking-regulator-proposes-changes-to-criteria-that-give-stablecoins-preferential-risk-treatment/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T10:09:10.000Z</updated>
+        <summary type="html"><![CDATA[The Basel Committee for Banking Supervision wants to tighten requirements that allow stablecoins to qualify as less risky than unbacked cryptocurrencies like bitcoin.]]></summary>
+        <author>
+            <name>Sandali Handagama, Camomile Shumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SERAPH：暗黑系Loot鏈遊全解析]]></title>
+        <id>https://www.blocktempo.com/?p=302333</id>
+        <link href="https://www.blocktempo.com/gamefi-seraph-intrdouce/"/>
+        <updated>2023-12-14T09:52:47.000Z</updated>
+        <summary type="html"><![CDATA[SERAPH 目前經過了兩輪測試，玩家被畫面及玩法吸引，Loot 與鏈遊的結合感覺也不錯。本文源自 Snapf […]
+SERAPH：暗黑系Loot鏈遊全解析〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Block Beats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$BONK上線Coinbase24小時漲超50%！站上第三大市值迷因幣]]></title>
+        <id>https://www.blocktempo.com/?p=302947</id>
+        <link href="https://www.blocktempo.com/bonk-list-on-coinbase-24-hours-rise-over-50-become-3rd-marketcap-memecoin/"/>
+        <updated>2023-12-14T09:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Solana 生態中第一個迷因幣 $Bonk 今（14）日上線於 Coinbase，即迎來 24 小時超 50 […]
+$BONK上線Coinbase24小時漲超50%！站上第三大市值迷因幣〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>chalex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多個龍頭NFT大漲背後，借生態項目空投引入「金鏟子」玩法]]></title>
+        <id>https://www.blocktempo.com/?p=302998</id>
+        <link href="https://www.blocktempo.com/nft-market-sees-significant-recovery/"/>
+        <updated>2023-12-14T09:50:50.000Z</updated>
+        <summary type="html"><![CDATA[近期，Cosmos、Solana 和 Aptos 等正藉助空投將龍頭 NFT 打造成鏟子型項目，這種玩法直接推 […]
+多個龍頭NFT大漲背後，借生態項目空投引入「金鏟子」玩法〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>深潮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Exchange CoinList Settles OFAC's Russian Sanctions Allegations for $1.2M]]></title>
+        <id>D33RAERQ7RAVRNR3CY7SPA4TFI</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/crypto-exchange-coinlist-settles-ofacs-russian-sanctions-allegations-for-12m/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T09:49:12.000Z</updated>
+        <summary type="html"><![CDATA[CoinList did not detect users who claimed to be from non-embargoed countries, but provided addresses in Crimea, OFAC said.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入LandX：投資農作物與大宗商品，RWA 賽道的另類選擇]]></title>
+        <id>https://www.blocktempo.com/?p=303037</id>
+        <link href="https://www.blocktempo.com/landx-real-world-assets-on-blockchain/"/>
+        <updated>2023-12-14T09:47:58.000Z</updated>
+        <summary type="html"><![CDATA[LandX Finance 是一種區塊鏈協議，旨在通過永續大宗商品保險庫將 RWAs 引入到 DeFi 領域。 […]
+深入LandX：投資農作物與大宗商品，RWA 賽道的另類選擇〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>深潮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy：从七大主题看 2023 年 Q4 比特币技术发展]]></title>
+        <id>https://www.jinse.cn/blockchain/3669497.html</id>
+        <link href="https://www.jinse.cn/blockchain/3669497.html"/>
+        <updated>2023-12-14T09:08:01.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Galaxy 研究员撰文介绍 2023 年 10 月和 11 月比特币生态系统中的重要技术发展，涵盖以下七个主题：BitVM 白皮书发布、Taproot Assets 主网上线、OP_CAT 提案、OP_TXHASH 提案、Lightning Timeout Trees 提案、MuSig2-PSBT 提案、BIP-324 提案。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.jinse.cn/blockchain/3669497.html">https://www.jinse.cn/blockchain/3669497.html</a></p>
+<p><strong>文章作者：</strong></p><p>Gabe Parker，Guillaume Girard</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Galaxy Research：</strong>考虑到比特币设计的性质，直接在比特币上执行智能合约既缓慢又昂贵。 使用 BitVM，智能合约是在链外执行的，参与者只有在发生争议时才能直接使用比特币上的代码，利用比特币的本机脚本来执行合约规则。BitVM 合约的结构是让两方就导致事件的预签名交易序列达成一致。借助 BitVM，可以在比特币之上构建的层上执行更复杂的计算，从而继续通过层扩展比特币，而不是升级核心协议。
+
+Lightning Labs 是一家为比特币闪电网络构建软件的区块链开发公司，发布了一项新协议用于在闪电网络上发行稳定币和其他资产。Taproot Assets 协议（以前称为 TARO）使开发人员能够发行、发送和接收基于比特币的资产。Taproot Assets 将提供一种在比特币上创建可替代代币的有效方法，是一个很有前景的解决方案，可以在比特币上引入 NFT，并让更多用户加入闪电网络。
+
+OP_CAT 操作码将使开发人员能够在 Tapscript 中构建和评估 Merkle 树和其他哈希数据结构，Tapscript 是一种原生脚本语言，用于在 Taproot 升级过程中启用新的交易类型。OP_CAT 将成为开发人员的有用工具，并且不会为节点操作员带来过多的计算开销。启用 OP_CAT 将消除之前施加的限制，从而进一步增强比特币的可编程性，从而为不同的用例创造新的机会。
+
+OP_TXHASH 操作码将直接与当今比特币的两个主要契约提案 BIP-118 和 BIP-119 竞争。 契约是对比特币交易施加的预先确定的支出条件。当与 OP_CAT 等其他 BIP 结合时，OP_TXHASH 有可能复制 BIP-118 的功能，这是比特币社区目前正在评估的另一个领先的契约提案。</p><a href="https://www.jinse.cn/blockchain/3669497.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文】Figment Capital：应用层最终将产生巨大的现实价值]]></title>
+        <id>https://figmentcapital.medium.com/growing-the-application-layer-d01328c0350a</id>
+        <link href="https://figmentcapital.medium.com/growing-the-application-layer-d01328c0350a"/>
+        <updated>2023-12-14T09:05:22.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Figment Capital 研究员 Trace 撰文介绍一个用于区块链应用程序进行分类的框架，对应用层进行全面重新审视，并分享其对如何提高区块链应用程序采用率的看法。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://figmentcapital.medium.com/growing-the-application-layer-d01328c0350a">https://figmentcapital.medium.com/growing-the-application-layer-d01328c0350a</a></p>
+<p><strong>文章作者：</strong></p><p>Trace</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Trace：</strong>通用区块链存储状态并提供该状态的逻辑。我们通常将状态称为资产，将逻辑称为应用程序。例如，以太坊存储 ETH 和 Dai 等资产（状态），这些资产可用于 Uniswap 和 Aave 等应用程序（逻辑）。状态和逻辑共同构成了应用层。加密经济始于 2009 年比特币的推出，以太坊通过新的区块链原生虚拟机扩展了状态层和逻辑层。然而，其基础设施仍然有限。迄今为止，区块链一直具有很强的反身性。加密经济与现实世界隔绝，投机之外的需求有限。过去的牛市，如 2020-2021 年的 DeFi 热潮，都是由投机推动的。新的加密原生代币和协议的爆炸式增长引发了反身性上涨 —— 投机推动了活动，从而推动更多投机。可想而知，这种循环并没有持续。投机被误认为是产品与市场的契合，而对真实用例的探索仍在继续。
+
+应用层有两个组件：状态和逻辑。状态是数据，逻辑是计算。状态和逻辑都可以在链上或链下。这样，可以得到一个 2x2 网格。每个象限都有不同应用，区块链用例位于前三个象限。其中大多数区块链应用属于第一象限，在链上协议中使用加密原生资产；第二象限涉及将现实世界资产引入链上，并在协议中使用它们；第三象限涉及在链下使用加密原生资产；其他所有情况都属于第四象限，即状态和逻辑都不在链上，不是区块链应用。
+
+根据生态系统的最新发展，我们对如何发展应用层形成了两种逆向观点。第一个观点是，就目前而言，资产创新比应用创新更重要。我们需要创造真正值得交换的资产，这是可持续扩展链上活动的更可行之路。我们鼓励更多团队将新颖资产上链；第二个观点是，从中短期来看，第三象限比第二象限更重要。RWA 在加密经济中大有可为。但就目前而言，我们认为将加密原生资产带入现实世界比将 RWA 带入链上更为重要。前者是其自身类型的 「RWA」，拥有更多未探索、不受限制的设计空间。
+
+随着二、三象限在加密经济中的比重增大，市场的反身性也会下降。一旦我们对加密资产和协议有了外生需求，第一象限的循环性就会降低。现实世界的用例削弱了加密经济的反身性。随着时间推移，市场将变得更无因性，即对区块链应用的需求并非来自区块链本身的内生原因 —— 这是我们能找到的与「反身性」的反义词最接近的。应用层的最终状态将不会像现在这样具有反身性，它将产生巨大的现实价值。【原文为英文】</p><a href="https://figmentcapital.medium.com/growing-the-application-layer-d01328c0350a">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cronos, Partner of Crypto.com, to Start Layer 2 Network With Matter Labs]]></title>
+        <id>QBLELVVRFRF5NGXEQPDGVKLNZA</id>
+        <link href="https://www.coindesk.com/tech/2023/12/14/cronos-partner-of-cryptocom-to-start-layer-2-network-with-matter-labs/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new "Cronos zkEVM chain" is launching initially as a test network, based on Matter Labs’ software tools, which can be used to spin up new layer 2 and layer 3 “hyperchains” atop Ethereum.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan Is Cautious About Crypto Markets Into 2024]]></title>
+        <id>QY6Z3I4NOZEE5EV53SAGNTRYMM</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/jpmorgan-is-cautious-about-crypto-markets-into-2024/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T08:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Ether is expected to outperform bitcoin and other cryptocurrencies next year due to the Ethereum blockchain’s EIP-4844 upgrade, the report said.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK Sells $42.6M Coinbase Shares as COIN Hits 20-Month High]]></title>
+        <id>DNYKIN2PGRDURIG6WGUD6UUVHU</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/ark-sells-426m-coinbase-shares-as-coin-hits-20-month-high/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T08:56:18.000Z</updated>
+        <summary type="html"><![CDATA[The firm has sold over $150 million worth of stake in COIN since Dec. 5.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total Value of Cardano DeFi Ecosystem Nears $450M Amid Layer 1 Push; ADA Rockets 17%]]></title>
+        <id>HIVUCSUQP5EABMLQBWGPD3EJ5M</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/total-value-of-cardano-defi-ecosystem-nears-450m-amid-layer-1-push-ada-rockets-17/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T08:18:50.000Z</updated>
+        <summary type="html"><![CDATA[The total value locked (TVL) of all Cardano-based tokens jumped to over $440 million late earlier this week, crossing a previous peak of $330 million set in April.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Block 起底 DWF Labs：投资 470 个项目背后的操作秘密]]></title>
+        <id>https://www.chaincatcher.com/article/2108465</id>
+        <link href="https://www.chaincatcher.com/article/2108465"/>
+        <updated>2023-12-14T08:16:50.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>The Block 采访了 16 位客户、潜在客户和对公司运营有深入了解的人士，分析了 DWF Labs 客户和潜在客户之间的 10 份建议书和合同，以及他们之间的沟通情况。其中的重要发现是，DWF Labs 在试图吸引潜在客户的注意时，甚至在与客户合作时，经常谈论潜在的价格变动。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://www.chaincatcher.com/article/2108465">https://www.chaincatcher.com/article/2108465</a></p>
+<p><strong>文章作者：</strong></p><p>Tim Copeland（The Block 主编）</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Cope：</strong>DWF Labs 于 2022 年 9 月成立后不久，就为潜在客户制作了一份宣传材料。经 The Block 获取并核实，该宣传材料中大量提到了价格行动。在名为「价格管理」的章节中，该宣传材料称交易公司可以与潜在客户的营销团队同步，帮助代币的价格对相关事件做出反应。随后，它解释了如何做到这一点。「在重要的预定新闻事件发生之前或期间，算法可以偏向订单簿中的一方，从而推动价格上涨。」它补充说：「由于这是在被动的订单水平上完成的，而不是通过主动创造人为交易量，因此代币价格的增长看起来是真实的。」
+
+有一段时间，DWF Labs 向客户提供的建议模板语言解释说，该公司将利用其做市商服务和自有资金交易客户的代币，改善代币市场。它表示，这将导致「看涨情绪、有机交易活动和价格提升」。这一点在口头交谈和书面谈话中也有所体现。最近，根据过去几个月提供给两个潜在客户的两份独立文件显示，该公司似乎已经逐步淘汰了这种与价格管理相关的书面语言（至少是在推销方案中）。
+
+DWF Labs 专注于三种类型的交易：流动代币投资、锁定代币投资和做市商安排，并且经常将这些交易打包在一起。对于流动代币投资，DWF Labs 通常会尝试用稳定币购买一定数量的代币。根据 The Block 看到的三笔交易的条款，稳定币的价格会比当时的市场价格低 5-15%。在一个或几个月内，每天分批购买约 10-15 万美元的代币，购买价格为每天开始时的代币价格减去折扣后的价格。这意味着，项目创始人可以通过 DWF Labs 有效地套现（略微溢价），同时吹嘘项目获得了大笔投资。
+
+做市商服务方面，根据 The Block 所见的两份给潜在客户的建议书和一份与客户签订的合同，DWF Labs 通常会在一年内提供服务。如两份建议书所示，这可能涉及以项目代币贷款。根据这两份提案，贷款时，公司将拥有看涨期权，可以行使期权以协议签署时的价格购买项目代币，这是做市商合同的常见特征。如果代币价格达到一定水平（即执行价格），就可以行使这些期权。这样做是为了保护做市商在提供服务期间，如果代币价格上涨，偿还贷款时不会遭受损失。对于 DWF Labs 来说，根据两份提案的条款，行权价被设定为代币价格的数倍之高。这意味着，如果代币价格大幅上涨，DWF Labs 有可能获得更高的回报率。</p><a href="https://www.chaincatcher.com/article/2108465">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Bull Run Has Plenty of Steam Left, These Indicators Suggest]]></title>
+        <id>OGLNIRKWQJCZVC5ZVD4QRJ56RU</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/bitcoins-bull-run-has-plenty-of-steam-left-these-indicators-suggest/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T07:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Key indicators tracking Bitcoin's blockchain activity, miner flows and the 200-day moving average suggest bitcoin is far from being overvalued and could continue to rally in 2024.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文长推】Bitwise 团队对 2024 年加密货币的 10 个预测]]></title>
+        <id>https://twitter.com/RasterlyRock/status/1734956139580936658</id>
+        <link href="https://twitter.com/RasterlyRock/status/1734956139580936658"/>
+        <updated>2023-12-14T07:41:12.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Bitwise 研究员 Ryan Rasmussen 撰文分享 Bitwise 团队对 2024 年加密货币的 10 个预测，包括比特币价格将创下历史新高，现货比特币 ETF 将成为有史以来最成功的 ETF，Coinbase 的收入将翻倍，等等……</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/RasterlyRock/status/1734956139580936658">https://twitter.com/RasterlyRock/status/1734956139580936658</a></p>
+<p><strong>文章作者：</strong></p><p>Ryan Rasmussen</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Ryan Rasmussen：</strong>1）比特币交易价格将突破 80000 美元，创下历史新高。两个主要的催化剂将帮助实现这一目标：预计将于 2024 年初推出现货比特币 ETF、4 月底左右的比特币减半。2）现货比特币 ETF 将获得批准，它们将成为有史以来最成功的 ETF。五年内，我们估计现货比特币 ETF 将占据美国 ETF 市场（约 7.2 万亿美元 ）的 1%，即达到 720 亿美元资产管理规模。
+
+3）Coinbase 的收入将翻倍，且超出华尔街预期至少 10 倍。从历史上看，Coinbase 的交易量在牛市中激增，我们预计同样的情况会再次发生。此外，他们还推出了一系列颇具吸引力的新产品。4）使用稳定币结算的资金将多于使用 Visa 的资金。稳定币是加密货币的「杀手级应用」之一，过去四年里，稳定币市场规模从零增长到 1370 亿美元，2024 年将是又一个重要年份。5）随着华尔街准备将现实世界资产（RWA）代币化，摩根大通将代币化一支基金并在链上推出。这将使他们能够利用链上资产提供的效率，同时进入一个爆炸式增长的市场。
+
+6）随着用户涌向加密应用程序，以太坊收入将增长 2 倍以上，达到 50 亿美元。2023 年，用户将支付约 23 亿美元的费用来使用以太坊。我们认为，2024 年这一数字将至少增长 2 倍，从而使以太坊成为增长最快的大型科技平台之一。7）Taylor Swift 将推出 NFT 来与粉丝建立联系。Spotify（Taylor Swift 是 2023 年流媒体播放次数最多的艺术家，播放量超 260 亿次）正在尝试代币门控播放列表，要求听众拥有特定 NFT 才能收听。
+
+8）AI 助手将开始使用加密货币在线支付，确认加密货币是「互联网的原生货币」。AI 助手会更喜欢比特币或稳定币等数字原生货币，我们认为这将在 2024 年开始发生。9）去中心化预测市场将投入超过 1 亿美元，成为基于赛事和更传统的体育相关投注的主要场所，进而成为加密货币的新「杀手级应用」。10）以太坊的重大升级将使平均交易成本低于 0.01 美元。EIP-4844 可能会使以太坊的使用成本降低 90% 以上，这次升级将为加密领域真正的主流应用程序铺平道路。【原文为英文】</p><a href="https://twitter.com/RasterlyRock/status/1734956139580936658">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文】Interchain Foundation 2024 年资助计划速览]]></title>
+        <id>https://medium.com/the-interchain-foundation/icf-funding-program-2024-3928d3b59e2f</id>
+        <link href="https://medium.com/the-interchain-foundation/icf-funding-program-2024-3928d3b59e2f"/>
+        <updated>2023-12-14T06:40:43.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>支持 Cosmos 的基金会 Interchain Foundation 宣布计划在 2024 年分配 2640 万美元资金，用于资助  Interchain Stack 的开发和采用。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://medium.com/the-interchain-foundation/icf-funding-program-2024-3928d3b59e2f">https://medium.com/the-interchain-foundation/icf-funding-program-2024-3928d3b59e2f</a></p>
+<p><strong>文章作者：</strong></p><p>Interchain Foundation</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Interchain Foundation：</strong>1） 分配 300 万美元确保 CometBFT 的持续模块化、效率和稳定性。此外，还将资助 Informal Systems 在提高模块化程度、通过优化带宽和存储来提高效率等关键领域开展工作；2）向 Binary Builders 和 Zondax 分配 450 万美元用于扩展 Cosmos SDK 相关工作，除了维护 Cosmos SDK，Binary Builders 将会在提高 Cosmos SDK 模块化和可组合性、支持与 Rollups 的集成、提高代码效率等领域交付成果；【原文为英文】
+
+3）向 Informal Systems、Interchain GmbH 和 Strangelove Ventures 分配 750 万美元，用于区块链链间通信协议；4）向 Confio GmbH 分配 250 万美元，用于 CosmWasm 的工作。致力于增强 dApp 功能和 IBC 连接性。关键领域包括维护和支持 CosmWasm、通过提供 DevRel 支持、为 dApp 开发人员创建更好的文档及改善 CosmWasm 的 IBC 连接性；【原文为英文】
+
+5）为 Cosmology 分配 15.5 万美元，用于 CosmJS 的相关工作，以弥合 Cosmos SDK 兼容性方面的差距，其他工作内容包括确保 CosmJS 保持稳健并与最新编码器保持同步及重建 CosmJS 基本功能以提高效率；6）为 Interchain Stack 安全审计分配 150 万美元，主要用于对 2024 年路线图中提到的关键产品升级和重写进行审计。【原文为英文】</p><a href="https://medium.com/the-interchain-foundation/icf-funding-program-2024-3928d3b59e2f">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Search of the Elusive Crypto Voter]]></title>
+        <id>NX7CJD5XBBH6HP6VL3PCU5GVVE</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/in-search-of-the-elusive-crypto-voter/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[On Monday, a New Hampshire state representative asked a mostly-filled room at an industry campaign event to raise their hands if they were visiting from another state. More than half the people in the room raised their hands. These visitors had come to hear from industry representatives, state lawmakers and – perhaps most importantly – three presidential candidates talk about the upcoming election.]]></summary>
+        <author>
+            <name>Nikhilesh De</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meme Coin BONK Spikes 40% on Coinbase Listing]]></title>
+        <id>FH5WKR5SPJDIDGXDM4M7RURAW4</id>
+        <link href="https://www.coindesk.com/markets/2023/12/14/meme-coin-bonk-spikes-40-on-coinbase-listing/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T06:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Prices reversed nearly all losses from last week following the announcement. BONK traded at $0.000014 on Thursday morning, with a trading volume of over $235 million.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文长推】Polygon 首席信息安全官解读 Polygon zkEVM 安全性：有何亮点？]]></title>
+        <id>https://twitter.com/saxenism/status/1734795654160158843</id>
+        <link href="https://twitter.com/saxenism/status/1734795654160158843"/>
+        <updated>2023-12-14T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Polygon 首席信息安全官 Mudit Gupta  在 zk bankai 黑客之家对 Polygon 的 zkEVM 安全性进行了详细概述，Rahul Saxena 对此次会议和问答中的几个有趣观点进行了总结，包括多重签名类型、双因素验证方法及形式验证等。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/saxenism/status/1734795654160158843">https://twitter.com/saxenism/status/1734795654160158843</a></p>
+<p><strong>文章作者：</strong></p><p>Rahul Saxena</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Rahul Saxena：</strong>有两种类型的多重签名：工程多重标识及紧急多重签名。工程多重标识负责在需要时升级 L1 合约，这些更改会在时间锁定后进行。但是如果需要快速升级以修补实时错误的花，紧急多重签名可以禁用时间锁并立即升级。zkEVM 最糟糕的情况是电路的数学运算出错。因为没有电路可升级性的概念，一旦你的电路在数学上不健全，你就必须重新编写电路，然后部署一个新的验证器。为了防止出现这种情况，Polygon 做了很多努力，例如让所有东西都经过审核、进行测试等。【原文为英文】
+
+zkSync 和 Polygon 都在采用双因素验证方法，但 zkSync 认为这种执行必须在 TEE 中进行。但 Polygon 认为 TEE 在这里是不必要。ZkSync 希望能够在 TEE 上运行执行，从而生成执行证明，然后开源整个堆栈，这样如果有人不信任 zksync 的执行，他们就可以自己验证执行。反观 Polygon，排序器从 RPC 获取事务，验证器从排序器发送的批次中生成证明，然后将证明发送给聚合层。聚合层是唯一有权向以太坊 L1 上验证合约发送证明的层，证明最终会在这里得到验证和结算，如果有人作恶，RPC 层本身就可以阻止他们。【原文为英文】
+
+因此，Polygon 团队即将推出 「Forced Transactions」功能，以应对来自中心化排序器的审查。但这可能会出现链停止运行的情况，且由于 RPC 的原因，排序器无法访问阻止链运行的交易。 Mudit 对此也给出了几种解决方案，包括在 RPC 层上为该特定事务创建一个异常等。关于形式验证，Mudit 认为我们目前拥有的形式化验证工具根本不足以对复杂电路系统进行形式化验证。且他认为形式化验证虽然是一个很好的工具，但仍存在容易出错的认为因素。【原文为英文】</p><a href="https://twitter.com/saxenism/status/1734795654160158843">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【长推】Layer2 市场动作频频，zkSync 还坐的住吗？]]></title>
+        <id>https://twitter.com/saxenism/status/1734795654160158843</id>
+        <link href="https://twitter.com/saxenism/status/1734795654160158843"/>
+        <updated>2023-12-14T05:09:06.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>面对其他 Layer2 项目近期的动作，尽管 zkSync 官方还是一幅波澜不惊的样子，但从大环境上看，zkSync 将不得不被动做出一些「改变」，加密研究员 Haotian 则认为 大概率 zkSync 不再把技术突破作为核心叫卖亮点，而转而会去啃「生态」这根硬骨头。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/saxenism/status/1734795654160158843">https://twitter.com/saxenism/status/1734795654160158843</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Haotian：</strong>1）短期看，Blast 确实给整个 Layer2 市场带来了活力，从 TVL 数据来看，zkSync 告别下跌颓势，已稳步增长至近 6 亿美元；2）原本期待 zkSync 的技术上能够渐次开放核心 Sequencer 和 Prover、Validator 等关键组件，这会是 zkSync 发 token 的必要条件。现在来看，大概率 zkSync 不再把技术突破作为核心叫卖亮点，而转而会去啃生态这根硬骨头；
+
+3）就生态而言，zkSync 细分生态远比官方还要急。之前发文说过，zkSync 会也必须得尽全力扶持出一个王炸级 Derivative 平台出来。现在看，Derivatives 赛道也逐渐热闹起来了。Holdstation 的代币经济学正在形成一个 Gas 补贴用户，吸引用户交易，累计更多 Fees，补贴更多用户的 Flywheel 模式。我个人比较印象深刻的是，Holdstation 背靠 AA 账户抽象钱包，用核心 Paymaster+Batch transaction 功能来给平台的用户实现 Gas 补贴，这个思路和即将发 Token 的 Starknet 实施的 token 返利策略如出一辙。事实上，账户抽象功能中的 Paymaster funtion 天然有利于实施一系列的运营激励策略，这似乎对解决 ZK-Rollup 生态不够活跃的问题大有裨益；
+
+4）Starknet 面临的窘境，zkSync 同样存在。因此， Starknet 的空投市场效应将直接决定 zkSync 发空投的标准和时间快慢。在我看来，zkSync 空投标准绝对不会仅限于神灯，在其多期采访以及推文中似乎暗示了 zkSync 的价值趋向：是否 Layer2 增量用户？5）最近，zkSync 低调完成了 boojum 升级，同时集成了 STARK 和 SNARK 证明。直接结果是，近 30 天，zkSync Gas 费显著降低了 30% 左右，已经和 Arbitrum 达到了同一水平线。zkSync 原本就在用户体验上有优势，最近 Gas 费的下降会让其进一步获得更广的用户和流量。</p><a href="https://twitter.com/tmel0211/status/1734765367065755869">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读 Morph：主打消费场景与技术融合，能否从 L2 同质化竞争中突围？ - 深潮TechFlow]]></title>
+        <id>https://techflowpost.mirror.xyz/8s0VIbYsjYUGfb2uP8MU0gIZ-rlVpKt64NwH3DwYZSo</id>
+        <link href="https://techflowpost.mirror.xyz/8s0VIbYsjYUGfb2uP8MU0gIZ-rlVpKt64NwH3DwYZSo"/>
+        <updated>2023-12-14T04:52:13.000Z</updated>
+        <summary type="html"><![CDATA[解读 Morph：主打消费场景与技术融合，能否从 L2 同质化竞争中突围？ - 深潮TechFlow – 深潮TechFlow
+本文旨在以技术创新点、生态建设着力点、未来发展规划等角度为出发点，走进 Morph 以及项目所处 Layer 2 赛道的机遇与挑战。
+Read the full entry]]></summary>
+        <author>
+            <name>深潮TechFlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[制造币安：极致效率和简陋工具]]></title>
+        <id>https://crypto4.wtf/p/8fd</id>
+        <link href="https://crypto4.wtf/p/8fd"/>
+        <updated>2023-12-14T04:09:16.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>从 0 到 3 万亿美元，你所需要的也许仅仅是 Telegram 群聊和谷歌文档。本篇文章是 AAAny 创始人汉洋「币安系列」的第二篇，主要概述了币安工作机制的演变及当下的发展困境。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://crypto4.wtf/p/8fd">https://crypto4.wtf/p/8fd</a></p>
+<p><strong>文章作者：</strong></p><p>汉洋 MASTERPA</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>汉洋 MASTERPA：</strong>币安确有独特工作方式。币安独特的工作方式，似乎是在增长最高速时并不在乎协作与管理这件事。早期币安的协作就在围绕全员大群开展，此外，币安还有很多群，比如单独的华语群。而一些紧急的工作，会再拉一个小群。币安员工称之为「TG 群协作模式」，并且认为效率很高。对个人困扰比较大的，可能是完全没有线下的远程工作会让人和人之间失去连接。很多人在全职远程工作之前都认为这不是什么大事儿。可每天独来独往，身边没有多少能在线下能见到的真实的人，时间长了还是会让人渴望更面对面的交流。
+
+对于币安来说，只要不妨碍增长，那一切事情都可以往后放放 —— 包括管理。管理对于很多创始人来说是最重要的事情。但币安展示了另外一条不同的路：只要不耽误增长，做一个基于 telegram 群聊的公司又如何？但这不意味着常规的管理模式毫无意义。即使是币安，也在员工逐渐增多后感受到粗放生长带来的弊端。
+
+2020 年下半年公司接近千人时，币安启动了第一次迁移。Telegram 被逐渐放弃，全员陆续搬迁到思科的 WebEx 上。不过这只是一个过渡，最终的目的地是币安自研内部软件 Wea。而这也是币安逐渐变得没有那么扁平与透明的开始。对币安来说，相比于透明，更重要的是要保证员工不泄密。从 WebEx 开始，币安就取消了全员群。并且 CZ 不允许拉大的同事群。不过还会有一些兴趣小组群。这些群也只能维持在小几十人的规模，不允许更大。从这时候开始，币安员工之间也不再可以随时互相联系。甚至有的时候两个币安的员工是在第三方介绍下认识的。也是在这个时期，币安开始不再疯狂增长。监管、合规等问题开始暴露。
+
+但币安的变化不会在此停止。今年年中，币安进行了一次大规模的裁员。而决定一家公司是昙花一现还是可以道路漫长的，一般就取决于第一次大收缩之后的反思与重建。与马斯克一样，CZ 、何一、新任 CEO Richard Teng 与币安的管理层同样进行着很多从来没有人做过的事情：如何让一家被无数国家和地区监管部门盯上的公司合法运营？如何让全球最大的交易所在这个缺乏规则的市场里持续保持地位？如何管理好几千人的远程团队？这里有太多无法学习，只能靠币安自己摸索的答案。2022 年 11 月 22 日，CZ 辞去了币安 CEO 的职务。无论如何，这对公司而言又是一个新的阶段、一次新的挑战。币安已经有了比其他公司更多需要解答的问题，现在又多了一个。</p><a href="https://crypto4.wtf/p/8fd">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文】Vitalik：ZK-EVM 实现探索，有哪些权衡及挑战？]]></title>
+        <id>https://notes.ethereum.org/@vbuterin/enshrined_zk_evm#What-might-an-%E2%80%9Censhrined-ZK-EVM%E2%80%9D-look-like</id>
+        <link href="https://notes.ethereum.org/@vbuterin/enshrined_zk_evm#What-might-an-%E2%80%9Censhrined-ZK-EVM%E2%80%9D-look-like"/>
+        <updated>2023-12-14T03:35:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>以太坊联合创始人 Vitalik Buterin 发文深入探讨了「ZK-EVM」概念及其可能实现形式，包括设计挑战、权衡利弊及哪些方向可能被采纳。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://notes.ethereum.org/@vbuterin/enshrined_zk_evm#What-might-an-%E2%80%9Censhrined-ZK-EVM%E2%80%9D-look-like">https://notes.ethereum.org/@vbuterin/enshrined_zk_evm#What-might-an-%E2%80%9Censhrined-ZK-EVM%E2%80%9D-look-like</a></p>
+<p><strong>文章作者：</strong></p><p>Vitalik Buterin（以太坊联合创始人）</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Vitalik Buterin（以太坊联合创始人）：</strong>enshrined ZK-EVM 应具备的关键特性：1）验证以太坊区块，应（至少）接受一个前态根、一个区块和一个后态根作为输入，并验证后态根实际上是在前态根之上执行区块的结果；2）与以太坊多客户端理念兼容；3）证明存在于 EVM 和区块数据结构之外，工作原理可能与 blob 验证类似；4）可审计性，如果任何执行得到了证明，我们希望底层数据是可用的；5）可升级性，如果发现某个特定的 ZK-EVM 方案存在漏洞，我们希望能够快速修复；6）支持几乎左右的 EVM，如果某个 L2 的 VM 与 EVM 只有一点点差别，那么 L2 最好仍能在与 EVM 相同的部分使用本地协议内 ZK-EVM，而在不同的部分依赖自己的代码。【原文为英文】
+
+多客户端理念可能是本列表中最具主观性的要求。我们可以选择放弃它，专注于一个 ZK-SNARK 方案，这样可以简化设计，但代价是成为以太坊更大的「哲学转折点」，而且会带来更大的风险。另一种选择是封闭的多客户端系统，在协议中已经有一套固定的证明系统，这比单一的证明系统要好，但降低了系统的适应性。我更倾向于采用开放的多客户端系统，将证明放在「区块外」，由客户端分别验证。个人用户可以使用他们想要的任何客户端来验证区块，只要至少有一个证明人为该证明系统创建证明，他们就可以这样做。但这种方法确实具有更高的复杂性成本。【原文为英文】
+
+如果我们将 enshrined ZK-EVM 作为协议特性，Layer2 项目将扮演什么角色？1）快速预确认：单插槽终局性可能会使 L1 插槽速度变慢，而 L2 项目已经在为其用户提供「预确认」，并有 Layer2 自身安全支持，延迟时间比一个插槽要低得多；2）MEV 缓解策略：这可能包括加密内存池、基于声望的顺序选择等 L1 不愿意实施的特性，；3）对 EVM 的扩展：包括「almost-EVM」和完全不同的方法；4）为用户和开发者提供便利。【原文为英文】</p><a href="https://notes.ethereum.org/@vbuterin/enshrined_zk_evm#What-might-an-%E2%80%9Censhrined-ZK-EVM%E2%80%9D-look-like">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菩提：一个解决内容激励和公共物品募资问题的实验]]></title>
+        <id>https://zhangluyao.com/zh/blog/about_bodhi/</id>
+        <link href="https://zhangluyao.com/zh/blog/about_bodhi/"/>
+        <updated>2023-12-14T02:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>「分发」和「激励」两个问题是内容产业急需解决的问题。目前，Web2 公司能够很好地解决「分发」问题，但「激励」仍未被解决，而菩提正是为此而创造的。本篇文章中，菩提创始人张路遥概述了菩提的起源、机制及未来。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://zhangluyao.com/zh/blog/about_bodhi/">https://zhangluyao.com/zh/blog/about_bodhi/</a></p>
+<p><strong>文章作者：</strong></p><p>Luyao</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Luyao：</strong>所谓激励，就是创造了有价值的东西，并从中获得回报。这种回报可以是社会性的（观看和点赞），也可以是经济性的（赚钱）。在加密世界，激励有价值的内容可以拆分为两个子问题：1）如何识别内容的价值：有一点是肯定的：我们无法通过内容本身来衡量它的价值。内容的价值由其消费者决定。因此，协议不需要知道内容是什么。它通过消费者行为来衡量内容的价值；2）如何提供激励：首先，我们需要明白哪些方法在 crypto 协议下行不通：任何付费观看都是不可行的。而菩提是解决内容激励问题的一个实验。
+
+菩提不依赖广告或付费观看，而是将你创造的任何内容都变成一种资产，就像一家迷你公司。人们可以通过菩提购买和出售其股份。当人们购买时，股价自动上升，当他们出售时，股价下降。作为创作者，你拥有该内容的初始股份，并随着它价格的增长而获利。此外，每当有人交易你内容的股份时，你都会收到交易金额的一部分作为给你的费用。
+
+从技术角度来看，菩提将内容存储在 Arweave 上，并将每个 Arweave ID 变成一个 ERC1155 资产。随着用户购买，更多代币被铸造出来，其价格遵循供应量的二次方曲线。从金融角度来看，菩提为长尾资产提供了流动性。由于交易的对手方是协议，因此一项资产即使只有一个人交易，也会有足够的流动性。
+
+由于菩提没有协议费用，这意味着任何人都可以在其上层构建任何类型的协议，并收取你的费用。可能可以构建在菩提上的协议包括：类 Youtube/ TikTok 平台、图书出版发行协议、类似 Steam 的游戏发行协议、内置激励的协议版 Twitter / Medium、社区众筹工具、学术论文发行和募资协议、菩提上的投票协议及协议版 Github，开源项目可以托管并获得经济激励 。</p><a href="https://zhangluyao.com/zh/blog/about_bodhi/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投研早报｜Glassnode 周报：比特币上演「往返之旅」，反弹似遇阻力 / Uniswap Labs：使用链上数据验证私有内存池行为 / 比特币生态下一步逻辑：热门元宇宙及 Gamefi 项目盘点]]></title>
+        <id>https://substack.chainfeeds.xyz/p/glassnode-uniswap-labs-gamefi</id>
+        <link href="https://substack.chainfeeds.xyz/p/glassnode-uniswap-labs-gamefi"/>
+        <updated>2023-12-14T02:13:46.000Z</updated>
+        <summary type="html"><![CDATA[ChainFeeds Newsletter 每日精选 10 条 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策]]></summary>
+        <author>
+            <name>Jewelry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet v0.13.0 上线测试网，将促进 STRK 支付交易费用]]></title>
+        <id>https://twitter.com/Starknet/status/1735015007580987875</id>
+        <link href="https://twitter.com/Starknet/status/1735015007580987875"/>
+        <updated>2023-12-14T01:43:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>Starknet v0.13.0 版本上线测试网，包括新的交易版本，一旦  STARK 变得可转让，将促进 STRK 支付交易费用，这将对路线图中即将推出的功能（费用市场、Paymaster 及 Volition 模式）起到推动作用。此外该版本还通过优化 Cairo 步骤和网络配置大幅降低交易成本。</p><p><a href="https://twitter.com/Starknet/status/1735015007580987875">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Labs 完成 1350 万美元融资， a16z 和 Founders Fund 领投]]></title>
+        <id>https://fortune.com/crypto/2023/12/13/dynamic-labs-raises-13-5-million-dollars-a16z-founders-fund/</id>
+        <link href="https://fortune.com/crypto/2023/12/13/dynamic-labs-raises-13-5-million-dollars-a16z-founders-fund/"/>
+        <updated>2023-12-14T01:42:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>据财富杂志报道，Web3 身份验证和授权平台 Dynamic Labs 完成 1350 万美元融资， a16z 和 Founders Fund 领投。
+Dynamic Labs 由麻省理工学院毕业生 Itai Turbahn 和 Yoni Goldberg（分别担任首席执行官和首席技术官）创立，为加密货币和非加密货币公司提供技术以创建由数字钱包支持的无缝登录体验。Dynamic Labs 的客户包括 NFT 公司 Doodles 和区块链分析平台 Flooz。Dynamic Labs 此前于 2022 年完成 750 万美元种子轮融资， a16z 领投。</p><p><a href="https://fortune.com/crypto/2023/12/13/dynamic-labs-raises-13-5-million-dollars-a16z-founders-fund/">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Hub 完成 v14 升级]]></title>
+        <id>https://twitter.com/cosmoshub/status/1734899656516088117</id>
+        <link href="https://twitter.com/cosmoshub/status/1734899656516088117"/>
+        <updated>2023-12-14T01:22:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>Cosmos Hub 宣布 v14 升级已经完成，引入了 equivocation 加密验证功能，能够更有效地防范双重签名和轻客户端攻击。此外，从明年第一季度开始，Cosmos Hub 将为 Gaia v15 提出升级将以，将 Gaia 从 Cosmos SDK v0.45 升级到 Cosmos SDK v0.47。</p><p><a href="https://twitter.com/cosmoshub/status/1734899656516088117">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Bankruptcy Judge Takes Step to Shorten Timeline for Customers' Recoveries]]></title>
+        <id>CHXR5TRCVNFUZCEIC67LKGSL2Y</id>
+        <link href="https://www.coindesk.com/policy/2023/12/14/ftx-judge-takes-step-to-shorten-timeline-for-ftx-customers-recoveries/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
+        <updated>2023-12-14T00:44:45.000Z</updated>
+        <summary type="html"><![CDATA[A federal judge took steps to end a protracted dispute between FTX and its largest creditor at a bankruptcy hearing, signaling the court could try to speed up efforts to recover FTX customer's funds from the failed crypto firm's estate.]]></summary>
+        <author>
+            <name>Elizabeth Napolitano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Bounces Over $43K, Altcoins, Crypto Stocks Burst Higher as Fed Projects Rate Cuts Next Year]]></title>
         <id>CXEB3TK2HVDOVLFPHWOFHVSRJQ</id>
@@ -16026,1076 +16801,6 @@ Nocturne 支持以太坊隐私账户，允许用户向 Nocturne 合约中的隐�
         <summary type="html"><![CDATA[The latest price moves in bitcoin [BTC] and crypto markets in context for Nov. 15, 2023. First Mover is CoinDesk’s daily newsletter that contextualizes the latest actions in the crypto markets.]]></summary>
         <author>
             <name>Lyllah Ledesma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Hockey League Comes Around to Digital Collectibles, Using Sweet Platform]]></title>
-        <id>JCOWLWK3YVGTJKRSCAE6XCWAIQ</id>
-        <link href="https://www.coindesk.com/tech/2023/11/15/national-hockey-league-comes-around-to-digital-collectibles-using-sweet-platform/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NHL Breakaway launches with Sweet, a platform for brands to create NFT collectibles under the Ethereum ERC-721 standard on Polygon and the Ethereum mainnet, as well as the Tezos NFT standard.]]></summary>
-        <author>
-            <name>Bradley Keoun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kazakhstan Central Bank Marks Digital Tenge Pilot With First Retail Payment]]></title>
-        <id>4D3ULNN3SZGSDPJAWHENC4AKII</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/kazakhstan-central-bank-marks-digital-tenge-pilot-with-first-retail-payment/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T12:58:19.000Z</updated>
-        <summary type="html"><![CDATA[The National Bank of Kazakhstan plans to implement a digital tenge by the end of 2025.]]></summary>
-        <author>
-            <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana’s SOL Jumps 20% as Investors Turn Bullish, Fears of FTX Sales Wane]]></title>
-        <id>MCKXZVDDL5APVPV7SW7U2JMKFY</id>
-        <link href="https://www.coindesk.com/markets/2023/11/15/solanas-sol-jumps-20-as-investors-turn-bullish-fears-of-ftx-sales-wane/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T12:32:32.000Z</updated>
-        <summary type="html"><![CDATA[The tokens crossed $63, reaching a level previously seen in May 2022. Trading volumes spiked to over $3.5 billion, up more than 70% from average levels of $2 billion each day at the start of November.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】剖析模块化区块链：技术性、密码学、经济框架]]></title>
-        <id>https://twitter.com/RubiksWeb3hub/status/1724443960742207525</id>
-        <link href="https://twitter.com/RubiksWeb3hub/status/1724443960742207525"/>
-        <updated>2023-11-15T12:07:01.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Rubiks 撰文对模块化区块链进行分析，包括其技术展望、密码结构以及经济框架。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/RubiksWeb3hub/status/1724443960742207525">https://twitter.com/RubiksWeb3hub/status/1724443960742207525</a></p>
-<p><strong>文章作者：</strong></p><p>Rubiks</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Rubiks：</strong>从技术上来说，模块化网络中 rollup 排序器交易部分代码用于确保交易完整性，充当理解以下概念的门户：Blobstream Validations：模块化区块链中交易验证不仅是正确性，代码「shareIndexInRow」表示受其验证规则约束的交易数据。它保障一致性，确保已验证区块的无缝集成；共识：定义存储在区块链上的数据的规范，当验证者使用选定 mempool 交易作为输入，并通过共识机制计算出下一个区块的新状态时，交易就会被执行；执行层：将区块链从 N 更新为 N+1 所需的计算；数据可用性结构：数组和索引的使用意味着用于存储和管理信息的数据结构。通过使数据可访问，「shareIndexInRow」成为不同模块内验证过程的基石。
-
-执行层根据交易输入更新区块链状态，从而提高了整体设计的模块化和灵活性。这引发了交易批处理、执行激励和策略性交易排序。每个模块都有自己的模型，公钥采用 Ed25519 椭圆曲线加密算法。它在上述代码确定的架构中定义了简单性和速度。此外，Secp256k1 是另一种在系统不同部分进行交易签名的算法，它是比特币区块链中使用的一种特定椭圆曲线。
-
-模块化区块链的动态经济框架：区块链收取的费用越多，增加供应量所需发行的费用就越少，这造成了对发行的依赖。此外，额外的交易增加了带宽要求，导致更多的状态膨胀和系统要求。要实现经济可持续性，需要在带宽和交易费用两个方向实现复合增长。通过限制可用区块空间的数量，同时提高去中心化程度和手续费收入。L1 的吞吐量与为其提供动力的代币的健全性直接相关，如果链的吞吐量增加，资产通胀就会加剧。然而，普通人成为验证者的能力也会降低。这会将社区分为两类公民，一类有能力验证区块链并有权获得收入，另一类没有能力只能购买验证器并出售。
-
-模块化设计的优点是每个模块的优化都会放大其他模块的优化，因此：1）通过 PoS 增加去中心化并增加以太坊上的分片数量；2）以太坊 L1 上更多的分片将使 L2 Rollup 的规模增加几个数量级；3）L2 Rollup 的规模扩大会释放出新的可行经济活动，并最终增加 L1 Rollup 支付的集体费用；4）向 L1 支付的集体费用会增加运行验证者的动力，使验证者池更大并允许创建更多分片；5）重复以上操作。【原文为英文】</p><a href="https://twitter.com/RubiksWeb3hub/status/1724443960742207525">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣上的DeFi現狀：跨鏈、Layer 2、新協議與原生方案]]></title>
-        <id>https://www.blocktempo.com/?p=294072</id>
-        <link href="https://www.blocktempo.com/current-status-of-defi-applications-on-bitcoin/"/>
-        <updated>2023-11-15T12:06:55.000Z</updated>
-        <summary type="html"><![CDATA[比特幣作為市值最大的加密資產，在比特幣網路上開發應用程式的聲音從未停止過，下文總結了四類在比特幣上開發 DeF […]
-比特幣上的DeFi現狀：跨鏈、Layer 2、新協議與原生方案〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>PANews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[趨勢》以太坊正往模組化區塊鏈演變]]></title>
-        <id>https://www.blocktempo.com/?p=294029</id>
-        <link href="https://www.blocktempo.com/the-ethereum-blockchain-is-evolving-towards-modularity/"/>
-        <updated>2023-11-15T12:05:46.000Z</updated>
-        <summary type="html"><![CDATA[在 Layer2 解決方案逐漸成為大眾採用規範的世界中，模組化區塊鏈透過將執行、結算、共識和資料可用性層劃分來 […]
-趨勢》以太坊正往模組化區塊鏈演變〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>odailynews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[區塊鏈獎勵即將減半，比特幣礦商還值得投資嗎？]]></title>
-        <id>https://www.blocktempo.com/?p=294008</id>
-        <link href="https://www.blocktempo.com/after-the-bitcoin-halving-are-bitcoin-miners-still-worth-investing-in/"/>
-        <updated>2023-11-15T12:05:15.000Z</updated>
-        <summary type="html"><![CDATA[雖然減半的實際影響將使比特幣礦工的生產成本增加一倍，但比特幣礦業股票可能仍然適合某些加密貨幣投資組合。本文源自 […]
-區塊鏈獎勵即將減半，比特幣礦商還值得投資嗎？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Foresight News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Startup Kinto Plans 'First KYC'd' Ethereum Layer-2 Network After Raising $5M]]></title>
-        <id>OKDHQ32RZJEZVCTH2CTDTF2ZGE</id>
-        <link href="https://www.coindesk.com/business/2023/11/15/blockchain-startup-kinto-plans-first-kycd-ethereum-layer-2-blockchain-after-raising-5m/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Kinto network, built with the Optimism's OP Stack, features native know-your-customer (KYC) checks and investor accreditation mechanism to help onboard regulated financial institutions.]]></summary>
-        <author>
-            <name>Krisztian  Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iERC20 协议再受关注：与知名链游合作，Ethi 站上风口]]></title>
-        <id>https://techflowpost.mirror.xyz/53Tl1YRtZnedh3LvmuSUoGdD7hswvf_nMVCdD1SRaAE</id>
-        <link href="https://techflowpost.mirror.xyz/53Tl1YRtZnedh3LvmuSUoGdD7hswvf_nMVCdD1SRaAE"/>
-        <updated>2023-11-15T11:29:10.000Z</updated>
-        <summary type="html"><![CDATA[iERC20 协议再受关注：与知名链游合作，Ethi 站上风口 – 深潮TechFlow
-项目方规划将 PoW 的公平挖矿模式引入到 IERC20 协议当中，并积极与其他项目合作发射铭文。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨行俠Mark Cuban開示：加密貨幣已死是「大錯特錯」、NFT賠錢也不會消失]]></title>
-        <id>https://www.blocktempo.com/?p=294254</id>
-        <link href="https://www.blocktempo.com/mark-cuban-doesnt-think-cryptocurrencies-are-dead/"/>
-        <updated>2023-11-15T11:18:10.000Z</updated>
-        <summary type="html"><![CDATA[美國知名億萬富翁、 NBA 達拉斯獨行俠隊老闆 Mark Cuban 向來是加密貨幣的堅定支持者，他在近期回答 […]
-獨行俠Mark Cuban開示：加密貨幣已死是「大錯特錯」、NFT賠錢也不會消失〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】介绍 BRC20-swap：游戏规则改变者]]></title>
-        <id>https://twitter.com/leilanibabiez/status/1724376036606140861</id>
-        <link href="https://twitter.com/leilanibabiez/status/1724376036606140861"/>
-        <updated>2023-11-15T11:07:52.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>缺乏 BRC20 代币交换是阻碍比特币网络上 DeFi 发展的一个重要因素，但 BRC20-swap 的出现改变了游戏规则。加密研究员 Leilani 撰文对其进行介绍。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/leilanibabiez/status/1724376036606140861">https://twitter.com/leilanibabiez/status/1724376036606140861</a></p>
-<p><strong>文章作者：</strong></p><p>Leilani</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Leilani：</strong>BRC20-swap 是 Unisat 的最新创意。这款用户友好型产品提供快速、轻松的 BRC20 代币交换，无需中间商。BRC20-swap 围绕两大支柱展开：交易者：交换 BRC20 代币；流动性提供者（LP）： 为 BRC20 代币对提供流动性，并获得交易费作为回报。BRC20-swap 中使用 Unisat 的 Sats 代币支付交易费用，这些费用的很大一部分会返还给 LP。目前，Unisat 正在对部分群体进行 BRC20-swap 试点测试，并计划很快向所有人开放。
-
-BRC20-swap 由 Swap、Pools 和数据概览部分组成，支持初始的 14 个具有一定交易活动和交易量的 BRC20 代币。要开始交换，首先要使用「inscribe TRANSFER」将 BRC20 代币存入 brc20-swap 模块。该平台专注独立执行或模块化实施，确保更安全、无问题的体验。它还提供两种模式：黑色模块和白色模块，以增强用户交互并简化提款流程。
-
-Ordinals 生态系统可能面临一些流动性和可访问性方面的挑战，但 BRC20-swap 将改变游戏规则。作为首个提高 Ordinals 生态系统流动性的工具，它将为市场注入新的活力。Unisat 还作出重大承诺，将 BRC20-Swap 交易费用的一部分捐赠给 L1 基金会，以支持 BRC20 标准开发过程。此外，他们还通过公开共享完整的 BRC20-swap 代码来促进开源。我很高兴看到比特币 DeFi 生态系统的潜力在 Unisat 等贡献者的努力下得以释放，并且迫不及待地想知道未来会发生什么，尤其是即将推出的 Dex、借贷、衍生品和期权等功能。【原文为英文】</p><a href="https://twitter.com/leilanibabiez/status/1724376036606140861">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代幣的靈魂》ERC 標準是什麼？ ERC-20、ERC-721、ERC-1155 有什麼差異]]></title>
-        <id>https://www.blocktempo.com/?p=293891</id>
-        <link href="https://www.blocktempo.com/what-is-the-erc-standard-what-are-erc-20-erc-721-and-erc-1155/"/>
-        <updated>2023-11-15T11:04:25.000Z</updated>
-        <summary type="html"><![CDATA[常聽見的 ERC-20、ERC-721、ERC-1155 代幣標準是什麼？為什麼需要它？本文將詳細介紹這 3 […]
-代幣的靈魂》ERC 標準是什麼？ ERC-20、ERC-721、ERC-1155 有什麼差異〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Ting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central Bank Digital Currencies Can Replace Cash, Offer Resilience: IMF Chief]]></title>
-        <id>247H6FV6HZGMLAUWBX7JIWO73E</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/central-bank-digital-currencies-can-replace-cash-offer-resilience-imf-chief/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T10:43:50.000Z</updated>
-        <summary type="html"><![CDATA[The public sector should continue to prepare for CBDC deployment, IMF Managing Director Kristalina Georgieva said.]]></summary>
-        <author>
-            <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRC-20夯！比特幣NFT銷售量超以太坊1.6倍、礦工獎勵創一年半新高]]></title>
-        <id>https://www.blocktempo.com/?p=294232</id>
-        <link href="https://www.blocktempo.com/bitcoin-nft-sales-volume-surpasses-ethereum-by-1-6-times/"/>
-        <updated>2023-11-15T10:41:04.000Z</updated>
-        <summary type="html"><![CDATA[比特幣近期不僅價格在高位震盪，其生態也非常熱絡，比特幣 NFT 銷售量超越了以太坊，過去 24 小時內高達 1 […]
-BRC-20夯！比特幣NFT銷售量超以太坊1.6倍、礦工獎勵創一年半新高〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Boxing Champ Manny Pacquiao’s Foundation Will Use Shibarium for Its Operations]]></title>
-        <id>ZCFIT67LWFDEHIULUKVCD7OVXI</id>
-        <link href="https://www.coindesk.com/tech/2023/11/15/former-boxing-champ-manny-pacquiaos-foundation-will-use-shibarium-for-its-operations/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T10:34:48.000Z</updated>
-        <summary type="html"><![CDATA[The charitable foundation established by the eight-time WBC champion will use the Shibarium blockchain to optimize fundraising, distribution, and other operations.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DYDX Pumps Ahead of Massive $500M Token Unlock]]></title>
-        <id>KZWWBLYNMBBQLLRE6KSGGLDAA4</id>
-        <link href="https://www.coindesk.com/markets/2023/11/15/dydx-pumps-ahead-of-massive-500m-token-unlock/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T10:24:08.000Z</updated>
-        <summary type="html"><![CDATA[DYDX, the native token of the newly released eponymous chain and decentralized exchange, has risen by more than 20% in the past 24 hours, just 16 days before more than $500 million worth of the tokens will be released to early investors and core team members.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自救指南》加密貨幣傳錯網路地址怎麼辦，還能找回來嗎？該如何避免失誤]]></title>
-        <id>https://www.blocktempo.com/?p=294021</id>
-        <link href="https://www.blocktempo.com/sent-wrong-adress-how-find-it-back/"/>
-        <updated>2023-11-15T10:08:53.000Z</updated>
-        <summary type="html"><![CDATA[在加密貨幣的世界中，誤將資金發送至錯誤網路是一個常見又棘手的問題。本文將探討如何最大可能恢復誤發的加密貨幣，並 […]
-自救指南》加密貨幣傳錯網路地址怎麼辦，還能找回來嗎？該如何避免失誤〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>chalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain Developer Lattice Unveils 'Alternative Data Availability' Network for Optimism]]></title>
-        <id>QBRPOML6KFCCNDC5HEHRJQTVGM</id>
-        <link href="https://www.coindesk.com/tech/2023/11/15/blockchain-developer-lattice-unveils-alternative-data-availability-network-for-optimism/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Redstone is operating in testnet, and aims to be cost-effective for on-chain games and decentralized applications.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP/ERC 仓库分家，谈谈以太坊治理组织与流程]]></title>
-        <id>https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A</id>
-        <link href="https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A"/>
-        <updated>2023-11-15T09:58:36.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>10 月底，「EIP-7329: ERC/EIP Repository split」正式生效，ERC 仓库从 EIP 库中分离出来。Wen Building 联合创始人 Franci Deng 邀请到 LXDAO 联合创始人 Bruce Xu，EthStorage 创始人 Qi Zhou，共同探讨这一变更给 builder 带来的影响，以及整个 EIP/ERC 治理流程的概要、问题和可以改善的地方。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A">https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A</a></p>
-<p><strong>文章作者：</strong></p><p>Franci Deng</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Qi Zhou：</strong>举例来说，上一期关于 EIP4844 的升级。Arbitrum 虽然是 Layer2，但他们收购了 Prysm 团队，所以也在做很多这方面的实验。因为他们本身跟以太坊的整个进展是紧密相连的，所以他们也在越来越多地对他们的需求进行各种实验并且去发声。因为他们也知道这些升级能否成功对他们本身是非常重要的。
-
-另外比如说这次升级还有几个方案来自 Uniswap 开发者。Uniswap 本身是一个智能合约，更可以说是 Core EIP 的用户。但他们发现在以太坊上如果使用一些方案，能够极大地减少 Gas 开销，所以他们也积极地向以太坊开发者解释为什么他们需要实现这样一个方案，并且提供了一个实现模板。所以这方面，的确看到一些大的以太坊生态项目已经开始反过来去影响整个 Core EIP 的发展。但是相对而言，Core EIP 需要比较长的时间，以及比较严格的审核步骤，所以我看到的其实都还是比较大规模的项目，相对比较小或比较新的项目要去贡献 EIP 可能还需要时间。</p><a href="https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A">内容来源</a><p style="white-space: pre-wrap"><strong>Bruce：</strong>EIP 跟 ERC 的受众或者审核流程各方面有比较大的区别，比如像 Core 这种 EIP 通常是基金会或行业里比较有理解力的人提出来的，大家去推进，然后有很多核心开发者去 review，去做测试，它是非常漫长而且非常重要的。如果把这个标准套到 ERC 上面的话，其实这些应用的开发者可能就会被这个繁冗的流程吓跑了，或者说根本进行不下去。那么 ERC 通常可能来自于实践或者一些经验，然后希望把这些应用场景抽象，或者推广到形成一个标准，大家都可以介入。它的侧重点可能跟 EIP Core 就有比较大的一些区别。ERC 偏应用，网络层的核心开发者可能并不关心，这样就导致两个会分裂越来越明显。
-
-我认为这次变更对于社区贡献者，尤其是 DApp 开发者来说，是有积极影响的。我之前也咨询过 Victor Zhou（EIP Editor）ERC final 的标准是什么，他说这个非常看重推动者或提出者的想法或态度。比如 ERC 4337，它的一些应用都也上线开始用了，但它还在 Draft 状态，这是因为他们可能希望能有更长时间，能看出一些实际问题，避免 Final 之后有比较重大的问题。有一些我们身边的朋友提的 ERC 可能很快就 Final 了，因为他们觉得可能并没有太多可以讨论的空间，也比较简单，然后编辑会根据这个在格式或内容上确保没有什么太大问题，也不会有特别严苛的一些标准。那么对 DApp 开发者来说，他就可以用一个适合他的标准，尽快推行落地，尽快构建自己的生态，然后吸引大家来用这个 ERC。</p><a href="https://mp.weixin.qq.com/s/zwkUtspf7H5Ctb7hCPsI_A">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singapore Central Bank Starts Tokenization Pilots Alongside JPMorgan, BNY Mellon, DBS]]></title>
-        <id>ZISDTK5VXJCSTCX6XBRZY5BFEQ</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/monetary-authority-of-singapore-starts-tokenization-pilots-alongside-financial-services-heavyweights/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T09:54:16.000Z</updated>
-        <summary type="html"><![CDATA[The test will explore bilateral digital asset trades, foreign currency payments, multicurrency clearing and settlement, fund management and automated portfolio rebalancing.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana飆升，預告了下個版塊財富密碼？]]></title>
-        <id>https://www.blocktempo.com/?p=294084</id>
-        <link href="https://www.blocktempo.com/solana-surges-which-cryptos-will-follow-next/"/>
-        <updated>2023-11-15T09:41:25.000Z</updated>
-        <summary type="html"><![CDATA[本文作者將探索 Solana 反彈與下一個潛在的「財富密碼」，僅供讀者參考閱讀，並非投資建議。本文源自 Sub […]
-Solana飆升，預告了下個版塊財富密碼？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Bitpush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣進入牛初階段？接下去劇情該怎麼走]]></title>
-        <id>https://www.blocktempo.com/?p=294059</id>
-        <link href="https://www.blocktempo.com/bitcoin-enters-the-early-stages-of-a-bull-market-what-should-be-the-next-step/"/>
-        <updated>2023-11-15T09:36:53.000Z</updated>
-        <summary type="html"><![CDATA[彭博分析師的研究顯示，比特幣 ETF 在明年 1 月通過的概率很高，結合目前 SEC 的舉措，這正成為市場多數 […]
-比特幣進入牛初階段？接下去劇情該怎麼走〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Bitpush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Chartered Investment Arm Launches Tokenization Platform]]></title>
-        <id>CC2MNVBLY5E6TEYTGDX2FDBE7E</id>
-        <link href="https://www.coindesk.com/tech/2023/11/15/standard-chartered-investment-arm-launches-tokenization-platform/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T09:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Libeara will enable the creation of a tokenized Singapore dollar government bond fund.]]></summary>
-        <author>
-            <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's Options Market Has Overtaken Its Futures Market in a Sign of Growing Sophistication]]></title>
-        <id>4I4T6N6EUBGRZC7ZV3SFWBGL7I</id>
-        <link href="https://www.coindesk.com/markets/2023/11/15/bitcoins-options-market-has-overtaken-its-futures-market/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T09:20:18.000Z</updated>
-        <summary type="html"><![CDATA[The notional open interest in the global BTC options market stood at $17.5 billion at press time, while open interest in the futures market was $15.84 billion.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】Injective：专为金融应用构建的区块链]]></title>
-        <id>https://twitter.com/jake_pahor/status/1724442342860484759</id>
-        <link href="https://twitter.com/jake_pahor/status/1724442342860484759"/>
-        <updated>2023-11-15T08:58:12.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Jake Pahor 发布 Injective 研究报告，从用例、采用状况、代币经济学、治理等方面对 Injective 进行全面介绍。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://twitter.com/jake_pahor/status/1724442342860484759">https://twitter.com/jake_pahor/status/1724442342860484759</a></p>
-<p><strong>文章作者：</strong></p><p>Jake Pahor</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Jake Pahor：</strong>Injective Labs 于 2018 年创立，同年由 Binance Labs 孵化，2020 年 10 月成为币安 Launchpad 推出的第一个项目，通过多轮融资共筹集约 5670 万美元资金。Injective 是专为金融应用构建的区块链，旨在构建能够吸引新用户并促进机构采用的应用程序，具有以下特点：最快的 L1 区块链、去中心化和模块化订单簿、使用 Tendermint 实现即时交易、跨链互操作性。Injective 最近宣布了两项激励计划：针对 Cosmos 生态系统的 1.2 亿美元激励计划、与合作伙伴（Pantera、Jump、Kucoin、Delphi Labs）共同发起的 1.5 亿美元生态系统基金计划。
-
-Injective 当前 TVL 为 975 万美元，其中大部分（83%）集中在头部 DEX Helix 上。尽管近期 TVL 有所下降，但 INJ 仍是今年表现较好的代币之一（年增长 817%）。Injective 向做市商收取 0.1% 的交易费用，交易者为 0.2%，上周共产生约 5.5 万美元费用。协议收入的 40% 用于开发者激励，60% 用于每周通过回购和销毁机制拍卖。Injective 已经建立了全球化的 DAO，允许社区参与协议升级提案、验证网络（质押奖励）和销毁拍卖。最低存款要求为 500 INJ，每个投票期将持续 4 天。
-
-INJ 是为 Injective 及其生态系统提供动力的原生通缩资产，用于保证网络安全、支付 gas 费以及管理。Injective 采用 POS 机制，目前可以通过委托赚取 16% 的年利率。Injective 实施了目前业内最高的每周代币销毁，截至目前，已有超过 580 万枚（8950 万美元）INJ 代币被销毁。INJ 最大供应量 1 亿枚、当前循环供应量 8376 万枚、市值 13 亿美元、FDV 15.9 亿美元、市值 / FDV 0.84。Injective 金库持有 1520 万枚 INJ，约合 2.36 亿美元。
-
-Injective 面临着两方面的竞争：传统基于 EVM 的 Perpetuals 协议，如 GMX、Gains 和 Synthetix；开发自己的定制应用链的新竞争对手，如 dYdX、Kujira 和 Sei。Injective 已经过 CertiK 审核，安全评分为 73.66。它在代码安全性、基本健康状况、运营弹性和治理强度方面得分极高（前 10%）。不过，市场稳定性方面的得分排在后 5%。【原文为英文】</p><a href="https://twitter.com/jake_pahor/status/1724442342860484759">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. CBDC Is Unlikely in the Near Term: Bank of America]]></title>
-        <id>FHTKNGLRV5BJ7HGRVKIHP5R3YE</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/us-cbdc-is-unlikely-in-the-near-term-bank-of-america/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T08:51:47.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Reserve continues to pilot a central bank digital currency, but will not issue one without executive branch and Congressional support, the report said.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Messari Cosmos Hub 2023第 3 季度报告：代币价格环比下跌，链间安全提供者地位凸显]]></title>
-        <id>https://techflowpost.mirror.xyz/jHEXEnDvgRsIjJZx78fa-wJhMV_ocJxlM1WOpE_xdY4</id>
-        <link href="https://techflowpost.mirror.xyz/jHEXEnDvgRsIjJZx78fa-wJhMV_ocJxlM1WOpE_xdY4"/>
-        <updated>2023-11-15T08:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Messari Cosmos Hub 2023第 3 季度报告：代币价格环比下跌，链间安全提供者地位凸显 – 深潮TechFlow
-尽管ATOM价格和Cosmos Hub活动量下降，但其收入环比增长了2.4%。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对话 Hashed 投资人：揭秘 Hashed 的部门架构，游戏不会带来下一个十亿用户]]></title>
-        <id>https://techflowpost.mirror.xyz/OiI0vbJDNiSXtE5CAoJLg7wMsiNhZ98fGUS6h6cNBCg</id>
-        <link href="https://techflowpost.mirror.xyz/OiI0vbJDNiSXtE5CAoJLg7wMsiNhZ98fGUS6h6cNBCg"/>
-        <updated>2023-11-15T08:37:17.000Z</updated>
-        <summary type="html"><![CDATA[对话 Hashed 投资人：揭秘 Hashed 的部门架构，游戏不会带来下一个十亿用户  – 深潮TechFlow
-Edward 进入加密货币世界的旅程标志着他与传统金融背景背道而驰。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paypal 发布公开信:  为什么我们选择拥抱 Crypto ?]]></title>
-        <id>https://techflowpost.mirror.xyz/dhI3vqjkNV-X76h_eO3jQaAsWOafB1uXg4SFi0lktBw</id>
-        <link href="https://techflowpost.mirror.xyz/dhI3vqjkNV-X76h_eO3jQaAsWOafB1uXg4SFi0lktBw"/>
-        <updated>2023-11-15T08:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Paypal 发布公开信:  为什么我们选择拥抱 Crypto ?  – 深潮TechFlow
-用加密货币支付意味着随心所欲地支付。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诅咒铭文或将绝版，有哪些值得关注的标的？]]></title>
-        <id>https://techflowpost.mirror.xyz/2nJYdjcypB1RLy-Bld6m1mR8scoJpBae-C9bHZfB9Y0</id>
-        <link href="https://techflowpost.mirror.xyz/2nJYdjcypB1RLy-Bld6m1mR8scoJpBae-C9bHZfB9Y0"/>
-        <updated>2023-11-15T08:33:38.000Z</updated>
-        <summary type="html"><![CDATA[诅咒铭文或将绝版，有哪些值得关注的标的？ – 深潮TechFlow
-如果当诅咒铭文绝版，稀缺性必然再次增加，这也导致铭文爱好者纷纷陷入FOMO，试图寻觅到投资与投机机会。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密支付卡实用指南：KYC 和费率，你关心的都在这里]]></title>
-        <id>https://techflowpost.mirror.xyz/UzMqb256apj9MPEpTkjuPtktUEtxuAa3GKu8sE4MYSI</id>
-        <link href="https://techflowpost.mirror.xyz/UzMqb256apj9MPEpTkjuPtktUEtxuAa3GKu8sE4MYSI"/>
-        <updated>2023-11-15T08:25:04.000Z</updated>
-        <summary type="html"><![CDATA[加密支付卡实用指南：KYC 和费率，你关心的都在这里  – 深潮TechFlow
-没有最佳的卡片，只有更聪明的用卡人。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年 10 月 投融资月报：哪些项目值得关注？]]></title>
-        <id>https://techflowpost.mirror.xyz/jUkcsao2Ccai6486qV9N0RdERxtoMQT2ygzaCBtRTvY</id>
-        <link href="https://techflowpost.mirror.xyz/jUkcsao2Ccai6486qV9N0RdERxtoMQT2ygzaCBtRTvY"/>
-        <updated>2023-11-15T08:23:45.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 10 月 投融资月报：哪些项目值得关注？ – 深潮TechFlow
-Web3 公司获得了 75 笔投资，总投资额约为 4.27 亿美元，创2022年10月以来新低。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos 降通胀提案惹争议：社区内战，反对方占上风]]></title>
-        <id>https://techflowpost.mirror.xyz/YUR6LtwenA20QUOQmHbapKgWxhDC7M698Jncfsckg7A</id>
-        <link href="https://techflowpost.mirror.xyz/YUR6LtwenA20QUOQmHbapKgWxhDC7M698Jncfsckg7A"/>
-        <updated>2023-11-15T08:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos 降通胀提案惹争议：社区内战，反对方占上风  – 深潮TechFlow
-是一场改善生态的良机，还是损害了某些利益方的利益？
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解密土耳其加密市场：4 成居民持币，经济困境下的加密热潮]]></title>
-        <id>https://techflowpost.mirror.xyz/d0Ddn3KmnnzsVDJOODCIy_Rh21iGUm59HYsu-O3iGtA</id>
-        <link href="https://techflowpost.mirror.xyz/d0Ddn3KmnnzsVDJOODCIy_Rh21iGUm59HYsu-O3iGtA"/>
-        <updated>2023-11-15T08:09:20.000Z</updated>
-        <summary type="html"><![CDATA[解密土耳其加密市场：4 成居民持币，经济困境下的加密热潮 – 深潮TechFlow
-选择加密资产，当然是为了追求它的收益与成长，但并不是为了孤注一掷。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对现货 ETF 期望过高，是一件好事吗？]]></title>
-        <id>https://techflowpost.mirror.xyz/aMlLvAN_8BwpH6X24kMtq5dK_2jRhnGBIIDuJ4Q9vpI</id>
-        <link href="https://techflowpost.mirror.xyz/aMlLvAN_8BwpH6X24kMtq5dK_2jRhnGBIIDuJ4Q9vpI"/>
-        <updated>2023-11-15T08:08:08.000Z</updated>
-        <summary type="html"><![CDATA[对现货 ETF 期望过高，是一件好事吗？ – 深潮TechFlow
-他们声称投资者只是不想要加密期货 ETF，因为与现货产品相比，它们是跟踪资产价格的次优方式。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文】重新定义区块链交互：Solvers 在以意图为中心的未来中的关键作用]]></title>
-        <id>https://perridonventures.xyz/publications/redefining-blockchain-interactions-the-crucial-role-of-solvers-in-an-Intent-focussed-future</id>
-        <link href="https://perridonventures.xyz/publications/redefining-blockchain-interactions-the-crucial-role-of-solvers-in-an-Intent-focussed-future"/>
-        <updated>2023-11-15T07:56:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Perridon Ventures 研究员撰文探索 Solvers 当前的功能、随着时间的推移可能的演变、相关风险和潜在的缓解策略，并设想在以意图为中心的未来，Solvers 将发挥的关键作用。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://perridonventures.xyz/publications/redefining-blockchain-interactions-the-crucial-role-of-solvers-in-an-Intent-focussed-future">https://perridonventures.xyz/publications/redefining-blockchain-interactions-the-crucial-role-of-solvers-in-an-Intent-focussed-future</a></p>
-<p><strong>文章作者：</strong></p><p>Robin Davids、Sergio Gallardo、Floyd Perridon</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Perridon Ventures：</strong>随着围绕意图的讨论越来越多，Solvers 的作用也变得更加突出。即使在短期内，它们也在执行质量和增强用户体验等方面显示出了重要作用。Solvers 是为用户意图提供交易对手发现的市场参与者。简而言之，用户通过意图表达其期望的结果，Solvers 找到实现该结果的最佳路径，并通过满足所述意图赚取费用。
-
-Solvers 可以充当可用链上流动性和优化链下流动性之间的纽带，通过利用多种流动性来源（包括链下）提供最高的执行质量，甚至可以提供比 CEX 更好的价格，尤其是对于那些无法享受交易费用减免的普通用户。在 Solvers 驱动的拍卖中，用户甚至能获得超出其最初预期的执行质量，从而获得比初始报价更好的价格。此外，Solvers 可以合并有关交换的更广泛的链下上下文数据，例如区分有毒和无毒订单流。
-
-然而，Solvers 依赖于内存池模拟和各种类型的预测，需要考虑大量不确定性。在当前的交易供应链中，信息优势最大的一方是区块构建者，他们受益于对每个区块的「最后查看」以及对最新状态的了解，例如区块内交易和资产在 CEX 的价格，这种信息不对称可以成为关键的竞争优势。因此，可能会出现垂直整合的增长趋势，其中 Solvers 也开始成为区块构建者，以对状态有更全面的了解，同时最大限度地减少延迟。然而，这将进一步加大目前已经显现的中心化压力。
-
-目前，我们对意图和 Solvers 的理解主要集中在交换上。交换具有客观的「最佳执行」路径，且不依赖于任何主观的用户特定数据点，围绕其构建 Solvers 拍卖相对简单。然而，随着时间的推移，我们也将关注围绕「主观」意图的生态系统将如何发展。借贷就是主观意图的一个例子，「哪里是赚取 USDC 收益的最佳地点？」取决于每个用户的风险状况，并不存在客观事实。此外，随着以 Rollup 为中心的未来和模块化堆栈的发展，Solvers 的作用将变得更加重要。【原文为英文】</p><a href="https://perridonventures.xyz/publications/redefining-blockchain-interactions-the-crucial-role-of-solvers-in-an-Intent-focussed-future">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha 笔记 ｜解析 $SOL 飙升：涅槃背后的催化力、本周代币观察列表、一周链上动态捕捉]]></title>
-        <id>https://substack.chainfeeds.xyz/p/alpha-sol</id>
-        <link href="https://substack.chainfeeds.xyz/p/alpha-sol"/>
-        <updated>2023-11-15T07:51:24.000Z</updated>
-        <summary type="html"><![CDATA[探寻加密宝藏，透视前沿 Alpha 机会]]></summary>
-        <author>
-            <name>fi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Futures Funding Rates Normalize After Bitcoin Drops to $35.6K]]></title>
-        <id>ZOXLUQ4LXFFB5FMTUFQOVGGTFI</id>
-        <link href="https://www.coindesk.com/markets/2023/11/15/crypto-futures-funding-rates-normalize-after-bitcoin-drops-to-356k/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T07:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Large movements in spot markets led to open interest surging to $35 billion over the weekend, indicating highly leveraged bets from traders hoping for even higher prices.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Giant OKX Goes Live With Off-Exchange Derivatives Trading]]></title>
-        <id>JDEWVAGHUZHNLIYZ3U4MNME7PM</id>
-        <link href="https://www.coindesk.com/business/2023/11/15/crypto-giant-okx-goes-live-with-off-exchange-derivatives-trading/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Asset manager CoinShares along with crypto custody joint venture Komainu are aiming for TradFi standards in derivatives settlement with much reduced counterparty risk.]]></summary>
-        <author>
-            <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访 Delysium 联合创始人：构建基于区块链的 AI 基础设施，解决未来 AI Agent 之间的沟通和协作问题]]></title>
-        <id>https://techflowpost.mirror.xyz/XGYahMqnsAbz8sRQyGVMXLm3Feq5DfyNI02ZF55qCbo</id>
-        <link href="https://techflowpost.mirror.xyz/XGYahMqnsAbz8sRQyGVMXLm3Feq5DfyNI02ZF55qCbo"/>
-        <updated>2023-11-15T06:37:34.000Z</updated>
-        <summary type="html"><![CDATA[专访 Delysium 联合创始人：构建基于区块链的 AI 基础设施，解决未来 AI Agent 之间的沟通和协作问题 – 深潮TechFlow
-区块链是为 AI 而生，也是一个允许我们往后看三十年、四十年甚至更久的领域。
-Read the full entry]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文】快速了解 Cosmos 生态首条消费者链 Neutron：生态、代币价格及发展挑战]]></title>
-        <id>https://medium.com/@rpatel1443/neutron-the-premiere-controller-chain-d8510c8ed425</id>
-        <link href="https://medium.com/@rpatel1443/neutron-the-premiere-controller-chain-d8510c8ed425"/>
-        <updated>2023-11-15T06:14:50.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>加密研究员 Rpatel 撰文概述了 Cosmos 生态链 Neutron 协议的基本面、市场定位、风险及可能影响未来代币价格的因素。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://medium.com/@rpatel1443/neutron-the-premiere-controller-chain-d8510c8ed425">https://medium.com/@rpatel1443/neutron-the-premiere-controller-chain-d8510c8ed425</a></p>
-<p><strong>文章作者：</strong></p><p>Rpatel</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Rpatel：</strong>Neutron 是一个具有高度安全性的跨链智能合约平台，基于 Neutron 构建的智能合约应用程序和 Rollapps 能够通过 IBC 在 50 多个网络中扩展。作为首个消费链，Neutron 从推出之日起就获得了 Cosmos 生态系统中最高级别的安全性，且通过与 Cosmos Hub 分享交易费用和 MEV 收入，与 ATOM 社区建立了激励机制的一致性。【原文为英文】
-
-和其他区块链不同，Neutron 致力于充分发挥 Cosmos 模块的潜力，任何开发者都可以以无需权限的方式快速启动跨链 dApp，同时还以使用 Cosmos 的安全。而我对 NTRN 代币的看法是它为网络提供了动力。NTRN 动态无通胀，且其供应量存在上限，并且具有代币燃烧机制。其代币价格的催化剂包括执行能力优秀的团队、投资者基础、有能力成为 Cosmos DeFi 中心、超 6 个月内没有重大解锁事件、Neutron 将为 Celestia Rollup 提供结算，并作为 TIA 流动性的主要桥梁合作伙伴之一等。【原文为英文】
-
-长期风险：1）以太坊主网和 L2 继续占据主导地位，执行速度快于 Cosmos 和其他模块化生态系统；2）Solana 等替代单链获得更多关注和牵引力；3）Cosmos Hub 治理 / 安全风险。短期风险则包括：1）宏观环境对数字资产不利，流动性枯竭或集中在 BTC 和 ETH 上；2）网络和 dApp 在初期可能会面临不可预见的执行挑战。【原文为英文】</p><a href="https://medium.com/@rpatel1443/neutron-the-premiere-controller-chain-d8510c8ed425">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文】Glassnode 周报：投资者积累了大量比特币]]></title>
-        <id>https://insights.glassnode.com/the-week-onchain-week-46-2023/</id>
-        <link href="https://insights.glassnode.com/the-week-onchain-week-46-2023/"/>
-        <updated>2023-11-15T06:06:14.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>第四次比特币减半即将到来，这对比特币资产和投资者来说都是一个重要的里程碑。Glassnode 深入探讨比特币供应的紧张程度，并展示如何衡量投资者行为。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://insights.glassnode.com/the-week-onchain-week-46-2023/">https://insights.glassnode.com/the-week-onchain-week-46-2023/</a></p>
-<p><strong>文章作者：</strong></p><p>glassnode</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>glassnode：</strong>根据当前平均区块间隔，我们的最佳估计是分叉距离现在还有 158 天，预计在 2024 年 4 月 23 日。考虑到挖矿的高资本支出和运营支出要求，比特币矿工过去通常分发了大部分比特币收入以支付成本。通过新铸造供应发放给矿工的美元价值的年初高点约为每月 10 亿美元，这是一种非常重要的资本流入阻力。在 2024 年分叉后，这将减少到每月 5 亿美元，与一年前 FTX 最低点周围的每月 4.5 亿美元的分发压力相当。
-
-我们将通过供应和投资者行为模式的角度来探讨分叉是否是价格升值周期的主要驱动因素，我们将其分为三个分析阶段：评估「可用和活跃」供应；测量「供应储存」的速度，分析资本流向市值的影响表明「可用供应」处于历史低点，「供应存储」比率比当前发行量高出 2.4 倍。这表明投资者积累了大量比特币，发行量减少和供应动态变化可能会对估值产生巨大影响。【原文为英文】</p><a href="https://insights.glassnode.com/the-week-onchain-week-46-2023/">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Sees Net Capital Inflow for First Time in 17 Months]]></title>
-        <id>E5OS7STSXZGFRM37VEE4GYPEGA</id>
-        <link href="https://www.coindesk.com/markets/2023/11/15/crypto-market-sees-net-capital-inflow-for-first-time-in-17-months/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T05:52:13.000Z</updated>
-        <summary type="html"><![CDATA[The 90 day net change in the supply of the top four stablecoins has flipped positive, indicating an inflow of capital into the market.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文】Solana 客户端生态系统解读：Firedancer 如何运作？扩展能力如何？]]></title>
-        <id>https://www.asxn.xyz/p/firedancer-consensus-at-the-speed</id>
-        <link href="https://www.asxn.xyz/p/firedancer-consensus-at-the-speed"/>
-        <updated>2023-11-15T05:24:02.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Solana 基金会在 Solana 社区年度峰会 Breakpoint 上推出由 Jump Crypto 开发的 Solana 第二个节点验证器 Firedancer 测试网。研究机构 ASXN 撰文对 Solana 客户端生态系统进行了概述，并解读了 Firedancer 堆栈及发展现状。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.asxn.xyz/p/firedancer-consensus-at-the-speed">https://www.asxn.xyz/p/firedancer-consensus-at-the-speed</a></p>
-<p><strong>文章作者：</strong></p><p>ASXN</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>ASXN：</strong>Firedancer 由高频交易和做市商 Jump Group 团队开发，旨在优化 Solana labs 客户端软件的低效性，创建一个真正高性能的验证器，其瓶颈仅在于客户端的硬件。此外，Firedancer 客户端还能与当前的 Solana 验证器硬件配合使用。Firedancer 重写了现有 Solana Labs 客户端的 3 个主要功能组件：网络、运行时间和共识组件。具体而言，Firedancer 中网络组件负责处理互联网上的任何事务，运行时间组件主要是 Solana 虚拟机，用于执行用户提交的交易和其他操作，同时在执行之间保留链的状态。此外，Firedancer 的共识组件则负责处理投票、分叉选择以及确保链的安全和所有交易的有效性。【原文为英文】
-
-对 Firedancer 网络能力早期模拟显示，节点硬件的内核数量几乎呈线性增长，且随着内核数量的增加，带宽几乎成线性增长。在 Breakpoint 上的演示表明，内核验证器每秒可以接收 100 万笔交易。因此，如果验证器仅运行一个内核，用户可在一秒钟内向验证器发送 100 万条交易流。此外，接收交易只是 Firedancers 网络功能的一半，节点还需要创建区块并将其传播到网络。如果成功，Firedancer 将成为吞吐量最高的链，达到 10 倍之多。【原文为英文】</p><a href="https://www.asxn.xyz/p/firedancer-consensus-at-the-speed">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解密土耳其加密市场：4 成居民持币，经济困境下的加密热潮]]></title>
-        <id>https://www.techflowpost.com/article/detail_14533.html</id>
-        <link href="https://www.techflowpost.com/article/detail_14533.html"/>
-        <updated>2023-11-15T05:21:09.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>站在亚欧大陆的交叉点，土耳其这个国家，在历史发展的洪流里天然接受着东西方文化的碰撞；而在 Crypto 影响力逐渐扩大的今天，土耳其这个国家，一只脚已经踏入了加密世界的沃土。深潮 TechFlow 详解土耳其加密市场。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_14533.html">https://www.techflowpost.com/article/detail_14533.html</a></p>
-<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>深潮 TechFlow：</strong>币安的报告显示，每 5 个土耳其居民中就有 2 个持有加密资产；过去 3 年间当地的加密接受度从 16% 飙升至 40%。以相同的加密接受度指数标准来进行评分，土耳其也能排在全球第 12 位；考虑到世界地缘经济中的定位，以及与其他经济体相比较小的体量，土耳其的这份加密接受程度，属实有点遥遥领先了。
-
-此外，一个冷知识是，土耳其是全球第 4 大加密资产交易市场，其加密资产交易量显著高于世界上其他几个大经济体。而币安的内部交易数据也显示，在今年 9 月初，土耳其的里拉（当地法币）一度高居整个交易所法币交易对的榜首，占比达到了惊人的 75%。
-
-为什么土耳其会有如此高的加密接受程度？市场的选择与经济环境密不可分，土耳其在过去 5 年的时间中，正经历着经济上的煎熬与低谷。在本国经济下行和随后加密牛市周期的强烈对比下，必然开始寻求避险和追逐更高收益；于是土耳其一脚踏入加密世界，也是大经济环境和行业周期互相作用下的必然选择。同时，由于地处欧亚大陆板块交界，土耳其也深受地壳运动的影响，地震频发。而震后可能由于当地基础设施的瘫痪，受灾地难以及时通过银行系统获取资金，此时加密货币可以以低成本无摩擦的方式，为灾后重建工作提供资金支持。</p><a href="https://www.techflowpost.com/article/detail_14533.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain.com Closes $110M Raise: Bloomberg]]></title>
-        <id>R257CXN5FVH53PKL7FOS7WDKV4</id>
-        <link href="https://www.coindesk.com/business/2023/11/15/blockchaincom-closes-110m-raise-bloomberg/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[The exchange's valuation in the $110 million round was less than half of its previous $14 billion valuation, according to the report.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索比特币闪电网络与以太坊系统集成的潜力]]></title>
-        <id>https://www.hellobtc.com/kp/du/11/4834.html</id>
-        <link href="https://www.hellobtc.com/kp/du/11/4834.html"/>
-        <updated>2023-11-15T05:17:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>闪电网络是比特币的 Layer2 扩展解决方案，允许即时、低成本的 BTC 支付，开发团队正在积极研究将闪电网络的支付通道、侧链、哈希时间锁定合约以及其他功能与以太坊集成的方法。Nur Arifin Akbar 分析正在探索的不同集成方法、潜在好处和用例以及面临的挑战。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.hellobtc.com/kp/du/11/4834.html">https://www.hellobtc.com/kp/du/11/4834.html</a></p>
-<p><strong>文章作者：</strong></p><p>白话区块链</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>白话区块链：</strong>目前，在不同区块链之间转移资产和数据非常复杂，通常需要第三方中介机构作为托管人。例如，将比特币包装为以太坊上的 ERC-20 Token 需要中心化方以 1:1 的比例持有实际的 BTC。这会导致跨链的碎片化，限制可组合性，并要求用户信任促进传输的第三方。通过闪电网络集成，比特币和以太坊可以直接且无需信任地交互。闪电网络的哈希时间锁定合约（HTLC）可以实现链之间资产的跨链原子交换。用户可以立即将比特币换成 ETH 或稳定币，且没有交易对手风险。闪电网络甚至可以允许以太坊上的智能合约从用户或其他合约发送和接收比特币付款。这可能会催生去中心化交易平台（DEX），在比特币 / 闪电网络和基于以太坊的 Token 之 间进行直接交换。
-
-比特币和以太坊都因其有限的交易吞吐量而受到批评。比特币每秒只能处理 7 笔交易，而以太坊目前只能管理 15 TPS。这导致网络拥塞和费用波动，损害了用户体验。通过利用闪电通道近乎即时的交易和充足的流动性，两个网络都可以大大增强可扩展性。对于以太坊来说，这有望解决其长期存在的容量问题。对于比特币来说，它开启了作为高效交换媒介的可能性。
-
-然而，这种集成仍处于早期阶段，在投入生产之前需要严格的测试和迭代。确保安全、维护去中心化原则以及解决融合两个平台的技术挑战将是关键焦点。这需要比特币和以太坊生态系统的开发人员和社区领导者之间的持续合作。但如果成功，比特币闪电网络与以太坊的集成有望成为加密货币的历史性里程碑。</p><a href="https://www.hellobtc.com/kp/du/11/4834.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MT Capital 研报：Stacks Nakamoto 升级在即，为比特币生态注入新动力]]></title>
-        <id>https://www.theblockbeats.info/news/47429</id>
-        <link href="https://www.theblockbeats.info/news/47429"/>
-        <updated>2023-11-15T05:11:59.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Stacks（STX）是一个比特币智能合约层，旨在扩展比特币的功能，使其支持智能合约和去中心化应用。MT Capital 从团队背景、资本关系、共识机制、技术架构等方面介绍了 Stacks。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.theblockbeats.info/news/47429">https://www.theblockbeats.info/news/47429</a></p>
-<p><strong>文章作者：</strong></p><p>MT Capital</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>MT Capital：</strong>Stacks 是一个由多个独立实体和社区组成的项目，最初由 Blockstack PBC 领导，后来更名为 Hiro Systems PBC。根据 Linkedin 最新资料显示，总部 NYC，团队目前有 49 人。Stacks 总共进行 5 轮融资，总额 $88M。
-
-POB 允许 Stacks 矿工通过销毁加密货币而非消耗电力的方式参与竞争。与普通的工作量证明区块链相比，燃烧证明链的矿工无需专用硬件即可参与，并为网络参与者提供了更高的透明度。但是，POW，燃烧证明也是破坏性的，要求矿工销毁价值来换取区块链的安全性。POX（Proof of Transfer）是燃烧证明机制的延伸。PoX 使用已建立区块链的工作证明加密货币来确保新区块链的安全。不过，与 POB 不同的是，矿工不是烧毁加密货币，而是将承诺的加密货币转移给网络中的其他参与者。
-
-Nakamoto 升级引入了一系列技术进步，与 1:1 比特币支持资产 sBTC 的引入相结合，Stacks 将很快实现以完全去中心化的方式写入比特币。sBTC 是在 L1 和 L2 之间移动比特币的一种信任最小化的方式。此外，与早期侧链方式不同，阈值钱包由一组无权限、动态变化的实体管理的，这些实体在经济上有动力维护挂钩，他们可以随意加入或退出挂钩维护。利用这种机制，可以在比特币层发行一种资产，这种资产始终与比特币保持 1:1 的挂钩关系。此外，Nakamoto 升级还将大幅缩短执行时间，从几分钟缩短到几秒钟。</p><a href="https://www.theblockbeats.info/news/47429">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Custodian Hex Trust Obtains Full Dubai Operating License]]></title>
-        <id>OKGIKM642ZDMLHI6KQFY5UIGN4</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/crypto-custodian-hex-trust-obtains-full-dubai-operating-license/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This final approval allows the firm to offer digital asset custodial services to institutional clients and sophisticated investors in Dubai.]]></summary>
-        <author>
-            <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan, Apollo Tokenize Funds in 'Proof of Concept' With Axelar, Oasis, Provenance]]></title>
-        <id>RQMQ73X3OBCFTPRMVP66LYHBDY</id>
-        <link href="https://www.coindesk.com/tech/2023/11/15/jpmorgan-apollo-tokenize-funds-in-proof-of-concept-with-axelar-oasis-provenance/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T04:42:47.000Z</updated>
-        <summary type="html"><![CDATA[The aim of the project was to allow wealth managers to tokenize funds and to be able to purchase and rebalance positions in tokenized assets across multiple interconnected chains.]]></summary>
-        <author>
-            <name>Lyllah Ledesma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos 降通胀提案惹争议：社区内战，反对方占上风]]></title>
-        <id>https://www.techflowpost.com/article/detail_14532.html</id>
-        <link href="https://www.techflowpost.com/article/detail_14532.html"/>
-        <updated>2023-11-15T04:28:56.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>近日，Atom 通胀减半提案 #848 正式上线，旨在将 ATOM 通胀率从约 14% 降低至 10%。尽管减少通胀意味着减少抛售压力，但这也引发了一场关于利弊的激烈讨论。是一场改善生态的良机，还是损害了某些利益方的利益？</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.techflowpost.com/article/detail_14532.html">https://www.techflowpost.com/article/detail_14532.html</a></p>
-<p><strong>文章作者：</strong></p><p>深潮 TechFlow</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>深潮 TechFlow：</strong>正方观点（Yes）：对于 Cosmos 社区而言，减少通胀率是一项长期利好，投资者并不喜欢高通胀代币。长期以来，Atom 本身缺乏价值捕获能力，而过高的通胀，是导致其价格持续低迷的原因之一。如果这一提案通过，则有望减少大户和节点的抛售压力，同时推动 LSM 的广泛采用，让 ATOM 被广泛应用于所有欢迎它的链中，而不是仅仅只是质押，为整个生态带来积极发展。
-
-反方观点（No）：这一提案存在一个关键缺陷，即将 Staking 奖励从近 19% 降至 13.4%。这一大幅度的 APR 下降可能会使许多质押者望而却步，从而对网络的安全性构成威胁。另一方面，JUNO、OSMO、Stargaze 等项目的例子也成为了反方的论据。反方认为，即使它们极大地降低了通货膨胀，但价格依然快速下降。
-
-在我看来，减少通胀率是 Cosmos 生态长远发展的关键一步。高通胀对于 Atom 的长期价值和生态健康并不利。虽然，平衡好降低通胀与维护网络安全的问题是一个挑战，但是多年以来，20% 的通胀并没有带给 Atom 多好的发展，只是充当着鲸鱼们零成本的印钞机。何不换一种思路？减少 Atom 通胀的同时，用 Cosmos 生态去激活 Atom 的另一种收益？</p><a href="https://www.techflowpost.com/article/detail_14532.html">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZachXBT：Scroll 上借贷协议 Lendora 疑似出现「退出骗局」，建议用户立即撤出资产]]></title>
-        <id>https://twitter.com/zachxbt/status/1724518553976488238</id>
-        <link href="https://twitter.com/zachxbt/status/1724518553976488238"/>
-        <updated>2023-11-15T04:10:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>据链上分析师 ZachXBT 提醒，Scroll 上借贷协议 Lendora Protocol 疑似出现「退出骗局」。ZachXBT 指出，Lendora 团队多重签名地址收到了来自 Kokomo 退出骗局的 8.3 万美元，该协议的多个用户与 Kokomo 和 Bass Exchange 的退出骗局有关。该团队曾使用过与其 Magnate 骗局相同的底层安全公司 Vital Block。该组织还组织了其他诈骗，包括 Magnate、Solfire、Hash DAO、Kokomo、Snowflake 等，总计 1620 万美元以上。</p><p><a href="https://twitter.com/zachxbt/status/1724518553976488238">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap 正式推出 Uniswap 钱包安卓版应用]]></title>
-        <id>https://cointelegraph.com/news/uniswap-android-app-launch-swap-function</id>
-        <link href="https://cointelegraph.com/news/uniswap-android-app-launch-swap-function"/>
-        <updated>2023-11-15T04:09:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>Uniswap Labs 宣布正式推出 Uniswap 钱包安卓版应用，该版本支持六种不同的语言和 18 种不同的货币、支持代币跨 8 个链兑换、保护交易免受 MEV 影响、每笔交易都会收到通知。
- 
-Uniswap Labs 设计副总裁 Callil Capuozzo 表示，新应用程序允许用户在应用程序内通过 DEX 进行代币交换，从而无需单独的网络浏览器扩展程序。</p><p><a href="https://cointelegraph.com/news/uniswap-android-app-launch-swap-function">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文】Variant 联创：「渐进式所有权」代币模型如何加深用户忠诚度？]]></title>
-        <id>https://www.lisnewsletter.com/p/progressive-ownership</id>
-        <link href="https://www.lisnewsletter.com/p/progressive-ownership"/>
-        <updated>2023-11-15T03:43:57.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>很多例子表明分发代币实际上阻碍了项目的增长和用户的留存，但 Variant 普通合伙人 Jesse Walden 和 Li Jin 并不认为将代币应用于应用程序是一种错误，而是应该不断迭代代币设计，以实现一种更加自下而上及选择性的所有权分配模式，称之为「渐进式所有权」。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.lisnewsletter.com/p/progressive-ownership">https://www.lisnewsletter.com/p/progressive-ownership</a></p>
-<p><strong>文章作者：</strong></p><p>Li Jin 及 Jesse Walden</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Li Jin（Variant 联合创始人）：</strong>渐进式所有权基于渐进式去中心化构建，在一定程度上采用了经济激励措施以逐步提高用户忠诚度和留存率，以最汇总实现所有权。在这种模式下，用户可以获得收入分成的激励，但可以决定是否用个人收入换取代表社区收入一定比例份额所有权的代币。这种灵活转换让用户能够根据自身情况调整经济参与风险和参与程度。而对于创作者，他们可以利用收入分成激励机制推动增长。建立忠诚度、保留控制权并快速迭代。但渐进式所有权只适用于早期产品与市场契合且收入可分享的项目。【原文为英文】
-
-实现渐进式所有权包括三个步骤：1）打造满足用户需求的产品：这是最难实现的一步，渐进式所有权的基础始于开发服务用户的新颖产品和服务，通过满足这些需求，产品可以找到契合点，甚至培养心理所有权；2）利用链上收入分成实现增长及留存：可以让用户分享产品的成功，健身他们的兴趣和承诺。更重要的是，经济所有权能更优意义的将用户与平常长期成功联系在一起；3）让有实力的用户升级为所有权用户：最忠诚的用户可以选择通过代币获得所有权，代币包含经济权和管理权。这种转变不是自动和被动的，而是用户自己选择的。【原文为英文】</p><a href="https://www.lisnewsletter.com/p/progressive-ownership">内容来源</a><p style="white-space: pre-wrap"><strong>Jesse Walden（Variant Fund 创始人）：</strong>渐进式所有权模式与以往的代币发行模式大相径庭。ICO 和空投的主要目的是作为引导工具，但事实证明，它们往往无法有效地激励有机用户。在渐进式所有权模式中，收入共享刺激了增长，巩固了忠诚度，最终由用户主动选择所有权，确保只有最忠实的用户才能成为利益相关者。这就为建立一个致力于网络长期成功的拥护者社区铺平了道路。【原文为英文】</p><a href="https://www.lisnewsletter.com/p/progressive-ownership">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik 长文：EVM Validiums 的退出游戏和 Plasma 的回归]]></title>
-        <id>https://www.odaily.news/post/5191023</id>
-        <link href="https://www.odaily.news/post/5191023"/>
-        <updated>2023-11-15T03:04:46.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>以太坊联创 Vitalik Buterin 认为 Plasma 是一个被低估的设计。Plasma 让人们完全绕过了数据可用性问题，大大降低了交易费用。且对于那些本来会是 validiums 的链来说，Plasma 可以是一个重大的安全升级。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://www.odaily.news/post/5191023">https://www.odaily.news/post/5191023</a></p>
-<p><strong>文章作者：</strong></p><p>Vitalik Buterin（以太坊联合创始人）</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Vitalik Buterin（以太坊联合创始人）：</strong>要理解的最简单的 Plasma 版本是 Plasma Cash。Plasma Cash 通过将每个单独的代币视为一个独立的 NFT，并为每个代币跟踪一个单独的历史来工作。Plasma 链有一个运营者，负责制作并定期发布区块。每个区块中的交易都存储为一个稀疏的默克尔树：如果交易转移了代币 k 的所有权，它就出现在树的 k 位置。当 Plasma 链运营者创建一个新区块时，他们将默克尔树的根发布到链上，并直接将与用户所拥有的代币相对应的默克尔分支发送给每个用户。
-
- 扩展至可替代代币：将 Plasma Cash 应用于可替代代币的一种方法是将每个小面额的代币视为一个单独的 NFT，但退出的 Gas 费用将会太高。一种解决方案是通过将许多相邻的代币作为一个单元进行优化处理，可以一次性转移或退出，有两种方法可以实现，但都遇到了碎片化的问题。另一种解决方法是考虑传统的「未使用的交易输出」模型；
-
-扩展至 EVM：存在三个挑战，分别是 EVM 中的许多状态对象没有明确的「所有者」、EVM 不试图限制依赖性 及 EVM 中无限的依赖性使得很难有证明有效性的一致激励。但我们可以通过有效性证明缓解这些问题。在 EVM 的情况下，有效性证明还让我们能够做一些聪明的事情：它们可以用来实现 ETH 和 ERC 20 代币的并行 UTXO 图，并用 SNARK 证明 UTXO 图与 EVM 状态之间的等价性。一旦拥有了这个，你就可以在 UTXO 图上实现一个「常规」的 Plasma 系统。此外，已经有更简单的方案被提出来制作一个「Plasma EVM」，例如 Plasma Free，但也存在一个问题，即它们在正常情况下不允许即时提款，因为总是有可能需要回退最新状态。
-
-EVM Plasma 方案虽然很强大，但并不能为所有用户提供安全安全保证，最明显的失败案例是特定状态对象没有明确的经济「所有者」的情况。另一个例子是隐私系统，例如 Tornado Cash 或 Privacy Pools。Uniswap LP 头寸有类似的问题：如果你在 Uniswap 头寸中用 USDC 交易了 ETH，你可以尝试提取你交易前的 USDC 和交易后的 ETH。如果你与 Plasma 链运营者勾结，流动性提供者和其他用户将无法访问交易后的状态，因此他们将无法提取他们交易后的 USDC。需要特殊的逻辑来防止这种情况发生。</p><a href="https://www.odaily.news/post/5191023">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投研早报｜Mint Ventures：对 BRC20 的阶段性看法、Starknet 即将推出 STAR 代币，解析其新代币范式、Stacks 联创：BTC 生态、ETH 和 Solana 可能会发展为三边战争]]></title>
-        <id>https://substack.chainfeeds.xyz/p/mint-ventures-brc20-starknet-star</id>
-        <link href="https://substack.chainfeeds.xyz/p/mint-ventures-brc20-starknet-star"/>
-        <updated>2023-11-15T01:54:35.000Z</updated>
-        <summary type="html"><![CDATA[ChainFeeds Newsletter 每日精选 10 条 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策]]></summary>
-        <author>
-            <name>Jewelry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's Supreme Court Turns Away Petition Asking Government to Frame Crypto Guidelines]]></title>
-        <id>7MSDDRTIVBESHKHZZ2HBELSFP4</id>
-        <link href="https://www.coindesk.com/policy/2023/11/15/indias-supreme-court-turns-away-petition-asking-government-to-frame-crypto-guidelines/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-15T01:18:56.000Z</updated>
-        <summary type="html"><![CDATA[India's Supreme Court has turned away a petition that sought to direct the government and relevant authorities to frame guidelines for regulating the trading and mining of cryptocurrencies.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX 与 Polygon Labs 共同推出 zKEVM Layer2 网络 X1 测试网]]></title>
-        <id>https://www.okx.com/cn/learn/okx-launches-x1-layer-two-polygon-cdk</id>
-        <link href="https://www.okx.com/cn/learn/okx-launches-x1-layer-two-polygon-cdk"/>
-        <updated>2023-11-15T01:09:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>OKX 宣布与 Polygon Labs 共同推出 zKEVM Layer2 网络 X1 测试网，该网络为 OKBC 全新升级版本，将以 OKB 作为原生代币支付 Gas 费用。据悉，X1 是基于 Polygon CDK 开发的高性能及高安全性 Layer2 网络，开发者可使用 Polygon Chain Development Kit（CDK）来构建生态。此外，作为合作的一部分，OKX 将作为 Polygon CDK 核心贡献者，并投入大量工程资源来增强以太坊扩展解决方案技术堆栈。</p><p><a href="https://www.okx.com/cn/learn/okx-launches-x1-layer-two-polygon-cdk">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkEVM Kakarot 完成第二轮融资，Stake Capital Group 和 LongHash Ventures 领投]]></title>
-        <id>https://twitter.com/KakarotZkEvm/status/1724406350825103425</id>
-        <link href="https://twitter.com/KakarotZkEvm/status/1724406350825103425"/>
-        <updated>2023-11-15T01:08:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>基于 CairoVM 构建的模块化 zkEVM Kakarot 宣布完成第二轮融资，Stake Capital Group 和 LongHash Ventures 领投，Eterna Capital、Fenbushi Capital、OKX Ventures、Foresight Ventures 等参投。所筹资金将用于壮大团队及加快以太坊扩展解决方案的开发。zkEVM Kakarot 表示，团队目前正专注于通过以太坊基金会的蜂巢和执行测试，一旦完成，将在独立测试网络中发布新的 EVM。</p><p><a href="https://twitter.com/KakarotZkEvm/status/1724406350825103425">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急殺》比特幣清晨重挫34800、以太坊失守2000，10月CPI降溫反帶崩市場？]]></title>
-        <id>https://www.blocktempo.com/?p=293983</id>
-        <link href="https://www.blocktempo.com/the-united-states-releases-october-cpi-data/"/>
-        <updated>2023-11-15T00:54:33.000Z</updated>
-        <summary type="html"><![CDATA[美國勞工統計局昨（14）晚發佈了 10 月 CPI（消費者物價指數）報告，年增率低於預期放緩至3.2％。受此影 […]
-急殺》比特幣清晨重挫34800、以太坊失守2000，10月CPI降溫反帶崩市場？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Zhang joy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Bulls Hit by $300M in Liquidations as Bitcoin, Ether Buckle on Fizzling ETF Momentum]]></title>
-        <id>D3DJ7KZUU5AANDPPRHI5MYVFRQ</id>
-        <link href="https://www.coindesk.com/markets/2023/11/14/crypto-bulls-hit-by-300m-in-liquidations-as-bitcoin-ether-buckle-on-fizzling-etf-momentum/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T22:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Tuesday's sharp decline in crypto prices spurred the largest daily leveraged long liquidation since August, CoinGlass data shows.]]></summary>
-        <author>
-            <name>Krisztian  Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain.com raises $110M funding round at lower valuation: BBG]]></title>
-        <id>https://blockworks.co/news/blockchain-com-raise-110m</id>
-        <link href="https://blockworks.co/news/blockchain-com-raise-110m"/>
-        <updated>2023-11-14T21:52:29.000Z</updated>
-        <summary type="html"><![CDATA[The round was reportedly led by Kingsway, with Lightspeed, Baillie Gifford and Lakestar also taking part]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Drops 4% to $35K Despite Soaring Tradfi Markets, But Analysts Remain Optimistic]]></title>
-        <id>34LRQFIKXRH2VJEJNR4ZG4GBTI</id>
-        <link href="https://www.coindesk.com/markets/2023/11/14/bitcoin-drops-4-to-35k-despite-soaring-tradfi-markets-but-analysts-remain-optimistic/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T21:00:11.000Z</updated>
-        <summary type="html"><![CDATA[An unexpected slowdown in inflation sent stock and bond markets sharply higher, but crypto was left out, possibly due to declining enthusiasm about the imminent approval of a spot bitcoin ETF.]]></summary>
-        <author>
-            <name>Krisztian  Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaware refers XRP fake filing to state justice officials]]></title>
-        <id>https://blockworks.co/news/delaware-xrp-fake-filing-state-justice-officials</id>
-        <link href="https://blockworks.co/news/delaware-xrp-fake-filing-state-justice-officials"/>
-        <updated>2023-11-14T20:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Monday’s false report briefly sent the price of XRP soaring]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake BlackRock XRP Filing Referred to Delaware Department of Justice]]></title>
-        <id>QWLG4RZLKZH5FBV2P5BRCZAE5I</id>
-        <link href="https://www.coindesk.com/business/2023/11/14/fake-blackrock-xrp-filing-referred-to-delaware-department-of-justice/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T20:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Delaware's Department of Justice may be investigating the fake filing made for an apparent XRP exchange-traded fund.]]></summary>
-        <author>
-            <name>Nikhilesh De, Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Mutant Ape Planet' NFT Developer Pleaded Guilty in $3M Fraud]]></title>
-        <id>R5NQXKCJCBBN3HWAJ7OFJNN7NM</id>
-        <link href="https://www.coindesk.com/policy/2023/11/14/mutant-ape-planet-nft-developer-pleaded-guilty-in-3m-fraud/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T20:03:32.000Z</updated>
-        <summary type="html"><![CDATA[The developer behind the Mutant Ape Planet non-fungible token (NFT) collection – a knockoff of the Mutant Ape Yacht Club NFTs – pleaded guilty on Tuesday to defrauding buyers in a rug pull that netted almost $3 million, according to the U.S. Department of Justice (DOJ).]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘We're Not Asking for Special Treatment’: Coin Center on the Proposed IRS Broker Rules]]></title>
-        <id>PKI2LSJBABA3DNB62NH2XZQJEQ</id>
-        <link href="https://www.coindesk.com/consensus-magazine/2023/11/14/were-not-asking-for-special-treatment-coin-center-on-the-proposed-irs-broker-rules/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T19:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Peter Van Valkenburgh on why the crypto industry has responded with 120,000 comments to the controversial new tax regulations.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto’s most hated rallies may have confirmed the bull market]]></title>
-        <id>https://blockworks.co/news/crypto-most-hated-rallies-bull-market</id>
-        <link href="https://blockworks.co/news/crypto-most-hated-rallies-bull-market"/>
-        <updated>2023-11-14T19:21:46.000Z</updated>
-        <summary type="html"><![CDATA[A new theory goes that the bull market can start once crypto’s most hated projects rally hard]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delaware, We Need to Talk]]></title>
-        <id>MJ4BCX34BNFFTO5FMFSWHIDRQ4</id>
-        <link href="https://www.coindesk.com/policy/2023/11/14/delaware-we-need-to-talk/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Some sectors of the crypto industry were excited (and/or confused) by an apparent BlackRock XRP Trust filing in the state of Delaware, suggesting the massive asset manager may try to launch an XRP exchange-traded fund (ETF) after applying to launch bitcoin and ether ETFs. But, this filing was "false."]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash plaintiffs seek appeals after federal court losses]]></title>
-        <id>https://blockworks.co/news/tornado-cash-fans-appeal</id>
-        <link href="https://blockworks.co/news/tornado-cash-fans-appeal"/>
-        <updated>2023-11-14T17:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Plaintiffs in two cases are bringing their battle against the US Treasury Department to federal appellate courts]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from New York for California’s New Crypto Licensing Regime]]></title>
-        <id>EPR43KL2RJABZFJRIYG35GIY2M</id>
-        <link href="https://www.coindesk.com/consensus-magazine/2023/11/14/lessons-from-new-york-for-californias-new-crypto-licensing-regime/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T17:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Linda Lacewell, who helped modernize New York’s regime for crypto startups, offers advice to California regulators about setting up a similar scheme there.]]></summary>
-        <author>
-            <name>Linda Lacewell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldman, BNP Paribas lead Fnality’s $95M round]]></title>
-        <id>https://blockworks.co/news/fnality-funding-round-goldman</id>
-        <link href="https://blockworks.co/news/fnality-funding-round-goldman"/>
-        <updated>2023-11-14T17:42:59.000Z</updated>
-        <summary type="html"><![CDATA[The blockchain payments startup drew backing from an array of deep-pocketed financial institutions]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centralized exchange OKX launches decentralized L2 with Polygon CDK]]></title>
-        <id>https://blockworks.co/news/okx-launching-l2-polygon</id>
-        <link href="https://blockworks.co/news/okx-launching-l2-polygon"/>
-        <updated>2023-11-14T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OKX will become a core contributor to Polygon and provide engineering resources]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The IRS and the Rising Cost of Crypto Tax Compliance]]></title>
-        <id>772FDRJFMVDPXMWZGRZKNCO7LI</id>
-        <link href="https://www.coindesk.com/consensus-magazine/2023/11/14/the-irs-and-the-rising-cost-of-crypto-tax-compliance/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T16:42:03.000Z</updated>
-        <summary type="html"><![CDATA[David Kemmerer anticipates the unintended consequences of proposed new regulations on brokers reporting crypto transactions. Expensive “tax experts” are set to benefit financially, he says, even if ordinary investors won’t.]]></summary>
-        <author>
-            <name>David Kemmerer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cathie Wood Speculates Gary Gensler's Political Ambitions Are Affecting Spot BTC ETF Judgement]]></title>
-        <id>QEOL7266HZBBXKAUYXAUDUVHRA</id>
-        <link href="https://www.coindesk.com/policy/2023/11/14/cathie-wood-speculates-gary-genslers-political-ambitions-are-affecting-spot-btc-etf-judgement/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T16:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Wood said Gensler's concerns that bitcoin is prone to market manipulation, one of the barriers to the approval of a spot BTC ETF in the U.S., belie his perfectly sound cryptocurrency knowledge.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the IRS Gets Wrong About DeFi and Crypto in Its Latest Tax Reporting Proposal]]></title>
-        <id>QANMER37PRC2BC6SVYVNSQ4YHQ</id>
-        <link href="https://www.coindesk.com/consensus-magazine/2023/11/14/what-the-irs-gets-wrong-about-defi-and-crypto-in-its-latest-tax-reporting-proposal/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T16:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Given the negative impacts of the so-called "broker rule" for many non-custodial and open platforms, clear congressional authorization is required before the Treasury could expand the tax agency's remit, Marisa Coppel argued at a hearing.]]></summary>
-        <author>
-            <name>Marisa T. Coppel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptocurrency Exchange OKX Coming Out With Layer 2 ‘X1’ Built on Polygon Technology]]></title>
-        <id>ZGVROVQSFJHWLJITS7YIBUTX6I</id>
-        <link href="https://www.coindesk.com/tech/2023/11/14/cryptocurrency-exchange-okx-coming-out-with-layer-2-x1-built-on-polygon-technology/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T16:22:47.000Z</updated>
-        <summary type="html"><![CDATA[The OKB token will be used for gas fees on the new chain, which comes as rival crypto exchanges including Coinbase and reportedly Kraken are pursuing their own layer-2 projects.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OMG Token Surges 16% as Vitalik Buterin Hails the 'Return of Plasma']]></title>
-        <id>OCQDIYFCP5ASRGRHUF6QCYTGTA</id>
-        <link href="https://www.coindesk.com/markets/2023/11/14/omg-token-surges-16-as-vitalik-buterin-hails-the-return-of-plasma/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T16:15:15.000Z</updated>
-        <summary type="html"><![CDATA[OMG, the native token of the OMG Network, surged 16% to a six-month high of $0.77 after Ethereum creator Vitalik Buterin published a blog post on how Plasma, the technology the network is based on, has the potential to reduce transaction fees and improve security.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Miner Hut 8 Q3 Net Loss More Than Doubles as Production Slumps]]></title>
-        <id>NG32PV7WBVDNDET2GEE3U5SFNE</id>
-        <link href="https://www.coindesk.com/business/2023/11/14/bitcoin-miner-hut-8-q3-net-loss-more-than-doubles-as-production-slumps/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T15:22:41.000Z</updated>
-        <summary type="html"><![CDATA[The firm said it mined fewer coins due to a higher network difficulty, operational issues and the suspension of some operations.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried will not haunt us forever]]></title>
-        <id>https://blockworks.co/news/sam-bankman-fried-trial-reputation</id>
-        <link href="https://blockworks.co/news/sam-bankman-fried-trial-reputation"/>
-        <updated>2023-11-14T15:17:31.000Z</updated>
-        <summary type="html"><![CDATA[It may hurt today, but there will come a time when SBF becomes a distant memory of an industry just getting off its training wheels]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap rolls out crypto wallet for Android users]]></title>
-        <id>https://blockworks.co/news/uniswap-launches-android-wallet</id>
-        <link href="https://blockworks.co/news/uniswap-launches-android-wallet"/>
-        <updated>2023-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“We have a lot of users on Twitter asking, ‘wen Android,’ so we’re expecting a good amount of users for the Android device,” a vice president at Uniswap told Blockworks]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Does NFTs Again in Partnership With NBA Top Shot Makers Dapper Labs]]></title>
-        <id>SKVPWG77CBAXHJBSX6PRVHKMYA</id>
-        <link href="https://www.coindesk.com/consensus-magazine/2023/11/14/disney-does-nfts-again-in-partnership-with-nba-top-shot-makers-dapper-labs/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[CEO Roham Gharegozlou and VP Ridhima Kahn discuss the company's latest consumer-facing app.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle to Enable Cross-Chain USDC Transfers With Cosmos's Noble Later This Month]]></title>
-        <id>JIDX5M6YCBE7FKBTFE6P6GSZGQ</id>
-        <link href="https://www.coindesk.com/tech/2023/11/14/circle-to-enable-cross-chain-usdc-transfers-with-cosmoss-noble-later-this-month/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized exchange dYdX will be the a user of CCTP, as the project expands beyond Arbitrum, Base, Ethereum and Optimism.]]></summary>
-        <author>
-            <name>Lyllah Ledesma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. CPI Unexpectedly Flat in October; Bitcoin Adds Nearly 1%]]></title>
-        <id>V36PE2TRXZGHDN4QGDU4G43OAQ</id>
-        <link href="https://www.coindesk.com/markets/2023/11/14/us-cpi-unexpectedly-flat-in-october-bitcoin-adds-nearly-1/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines"/>
-        <updated>2023-11-14T13:39:55.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the headline beat, core CPI unexpectedly declined last month.]]></summary>
-        <author>
-            <name>Stephen  Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lens Protocol V2 正式上線Polygon：擴大盈利方式與社交可組合性]]></title>
-        <id>https://www.blocktempo.com/?p=293685</id>
-        <link href="https://www.blocktempo.com/lens-v2-still-in-beta-has-launched-on-the-polygon-mainnet/"/>
-        <updated>2023-11-14T11:45:50.000Z</updated>
-        <summary type="html"><![CDATA[昨（13）日 Web3 社交協議 Lens Protocol 在 Polygon 主網正式上線 V2 測試版本 […]
-Lens Protocol V2 正式上線Polygon：擴大盈利方式與社交可組合性〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遏止炒作垃圾幣！韓國金管局將提「虛擬貨幣上下架」交易所指導方針]]></title>
-        <id>https://www.blocktempo.com/?p=293847</id>
-        <link href="https://www.blocktempo.com/south-korea-forms-a-task-force-for-virtual-asset-listings/"/>
-        <updated>2023-11-14T11:45:10.000Z</updated>
-        <summary type="html"><![CDATA[韓國作為知名的炒幣大國，國內交易所的加密貨幣上、下架過程卻經常惹出爭議，為此，韓國金融監督局（FSS）近日成立 […]
-遏止炒作垃圾幣！韓國金管局將提「虛擬貨幣上下架」交易所指導方針〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怕幣安機密帶崩市場？美國法院批准保護令，嚴管SEC訴訟Binance資訊]]></title>
-        <id>https://www.blocktempo.com/?p=293919</id>
-        <link href="https://www.blocktempo.com/us-court-approves-protective-order-to-regulate-information-disclosure-in-the-sec-vs-binance-case/"/>
-        <updated>2023-11-14T11:24:29.000Z</updated>
-        <summary type="html"><![CDATA[美國法院近日通過了一項針對 SEC 與幣安實體、執行長趙長鵬間訴訟案的保護令，將規範各方在案件中提供的所有資訊 […]
-怕幣安機密帶崩市場？美國法院批准保護令，嚴管SEC訴訟Binance資訊〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克：中國100%會統一台灣！無論和平或軍事手段]]></title>
-        <id>https://www.blocktempo.com/?p=293905</id>
-        <link href="https://www.blocktempo.com/elon-musk-said-china-will-definitely-unify-taiwan/"/>
-        <updated>2023-11-14T10:13:41.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉（Tesla）執行長馬斯克（Elon Musk）過去多次針對台灣問題發表看法，稱台灣是中國的基本組成部分 […]
-馬斯克：中國100%會統一台灣！無論和平或軍事手段〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>James</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國最大《工商銀行》遭「Lockbit勒索攻擊」，美債結算大亂，已付比特幣贖金]]></title>
-        <id>https://www.blocktempo.com/?p=293860</id>
-        <link href="https://www.blocktempo.com/lockbit-says-icbc-paid-ransom-over-hack/"/>
-        <updated>2023-11-14T09:55:56.000Z</updated>
-        <summary type="html"><![CDATA[中國最大的工商銀行在紐約子公司 ICBCFS 日前遭受勒索軟體攻擊，導致美債結算中斷。自稱為攻擊者的勒索軟體組 […]
-中國最大《工商銀行》遭「Lockbit勒索攻擊」，美債結算大亂，已付比特幣贖金〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雙雄爭霸》內功深厚的幣安 VS 厚積薄發的OKX，誰能主宰市場？]]></title>
-        <id>https://www.blocktempo.com/?p=293797</id>
-        <link href="https://www.blocktempo.com/binance-vs-okx-who-can-take-the-throne-of-exchanges/"/>
-        <updated>2023-11-14T09:34:59.000Z</updated>
-        <summary type="html"><![CDATA[在激烈的加密貨幣市場競爭中，幣安的「交易所一哥」地位是否還能維持住？今天我們主要從三個維度來比較分析下幣安和 […]
-雙雄爭霸》內功深厚的幣安 VS 厚積薄發的OKX，誰能主宰市場？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>PANews</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ大讚：比特幣是有史以來最偉大商業模式！BTC挖礦收入創今年新高]]></title>
-        <id>https://www.blocktempo.com/?p=293920</id>
-        <link href="https://www.blocktempo.com/cz-said-bitcoin-is-the-greatest-business-model-ever-invented/"/>
-        <updated>2023-11-14T09:29:13.000Z</updated>
-        <summary type="html"><![CDATA[幣安創辦人趙長鵬今日發推提讚揚：比特幣是有史以來最偉大的商業模式。為整個生態系的參與者和持有者帶來豐富價值。 […]
-CZ大讚：比特幣是有史以來最偉大商業模式！BTC挖礦收入創今年新高〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Wallet出席Devconnect Istanbul，聯合1inch主辦線下活動]]></title>
-        <id>https://www.blocktempo.com/?p=293921</id>
-        <link href="https://www.blocktempo.com/bitget-wallet-cowork-with-1inch-to-host-a-side-event-of-devconnect-2023/"/>
-        <updated>2023-11-14T09:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Web3錢包服務 Bitget Wallet（原 BitKeep 錢包）正在土耳其伊斯坦堡參加為期一週的以太坊 […]
-Bitget Wallet出席Devconnect Istanbul，聯合1inch主辦線下活動〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>廣編頻道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣 MEV 狙擊銘文市場》比特幣 OG 的復仇還是 BRC-20 壓力測試？]]></title>
-        <id>https://www.blocktempo.com/?p=293864</id>
-        <link href="https://www.blocktempo.com/bitcoin-mev-sniping-the-inscription-market/"/>
-        <updated>2023-11-14T09:03:37.000Z</updated>
-        <summary type="html"><![CDATA[近期 BRC-20 生態因為幣安上架 ORDI 代幣又重新火熱起來，比特幣手續費飆升的同時，MEV 套利的動作 […]
-比特幣 MEV 狙擊銘文市場》比特幣 OG 的復仇還是 BRC-20 壓力測試？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Block Beats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝萊德申請XRP現貨ETF「證實為假消息」！幣價飆漲15%後全數回吐]]></title>
-        <id>https://www.blocktempo.com/?p=293663</id>
-        <link href="https://www.blocktempo.com/blackrock-application-for-xrp-spot-etf-confirmed-to-be-fake-news/"/>
-        <updated>2023-11-14T00:51:15.000Z</updated>
-        <summary type="html"><![CDATA[今晨接近五點，社群傳出貝萊德已經申請新的 XRP 基金，但很快被證實是假消息。結果導致 XRP 價格在短暫飆漲 […]
-貝萊德申請XRP現貨ETF「證實為假消息」！幣價飆漲15%後全數回吐〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
         </author>
     </entry>
 </feed>
