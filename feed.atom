@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-06T01:42:39.250Z</updated>
+    <updated>2025-04-07T01:40:56.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Drops Below $79K as Cryptos Plunge, Stock Futures Fall Another 5%]]></title>
+        <id>9f569193-ff33-4794-bc48-5bea64f2185e</id>
+        <link href="https://www.coindesk.com/markets/2025/04/06/bitcoin-falls-to-usd79k-as-cryptos-plunge-perhaps-previewing-sunday-night-stock-action"/>
+        <updated>2025-04-06T21:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Hedge funder Bill Ackman called President Trump's tariff plan "economic nuclear war" and urged a Monday pause.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cathie Wood’s ARK Buys Over $13M Worth Coinbase Shares During Market Rout]]></title>
+        <id>adc596e1-1524-4ef7-ae8c-b38960d21a52</id>
+        <link href="https://www.coindesk.com/markets/2025/04/06/cathie-wood-s-ark-buys-over-usd13m-worth-coinbase-shares-during-market-rout"/>
+        <updated>2025-04-06T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ARK Invest adds over 83,000 shares of Coinbase across multiple ETFs during the market downturn.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Posts Worst Q1 in a Decade, Raising Questions About Where the Cycle Stands]]></title>
+        <id>ac8c48ca-2e1f-459d-9323-a57e1f19b43b</id>
+        <link href="https://www.coindesk.com/markets/2025/04/06/bitcoin-posts-worst-q1-in-a-decade-raising-questions-about-where-the-cycle-stands"/>
+        <updated>2025-04-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BTC fell 11.7% in Q1 2025, its weakest first quarter since 2015, as investors sold into economic uncertainty.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart of the Week: Bond Market Could be Bitcoin's 'Canary in the Coal Mine' Signal]]></title>
+        <id>100793b4-dae3-414a-898d-83cbbeb8b83e</id>
+        <link href="https://www.coindesk.com/markets/2025/04/06/chart-of-the-week-bond-market-could-be-bitcoin-s-canary-in-the-coal-mine-signal"/>
+        <updated>2025-04-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Widening credit spreads could be sign of further trouble for risk-on positioning.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币收益指南：详解八种稳定币收益模式]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/e5621c4a-8a60-42a7-add0-255620ed5002</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/e5621c4a-8a60-42a7-add0-255620ed5002"/>
+        <updated>2025-04-06T10:35:17.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>近期加密市场乏善可陈，保守稳健的收益再次成为市场需求，加密研究员 Jacob Zhao 撰文总结了自己的投资心得及去对稳定币领域的集中研究成果，对稳定币收益这个话题进行了深入解读。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://mirror.xyz/zhaotaobo.eth/G_kbXo-qsNfYOcKiKscXc8f0XNP6Op2GDo7xJ1Cy-lg">https://mirror.xyz/zhaotaobo.eth/G_kbXo-qsNfYOcKiKscXc8f0XNP6Op2GDo7xJ1Cy-lg</a></p>
+<p><strong>文章作者：</strong></p><p>Jacob Zhao</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Jacob Zhao：</strong>当前加密市场的稳定币收益模式主要包括借贷、流动性挖矿、市场中性套利、RWA（真实世界资产）挂钩收益、期权结构化产品、收益代币化、稳定币组合收益以及另类质押模式等。作为最传统且主流的收益方式，稳定币借贷依然占据着最大资金体量。CeFi 平台（如 Binance、Coinbase、Bybit 等）提供的活期理财是普通用户最常使用的方式；DeFi 领域则以 Aave、Sky Protocol、Morpho 等为代表，具有一定的去中心化属性。活期借贷利率反映市场活跃度，而固定利率产品则适合风险厌恶用户。近年来如 Pendle、Notional 等协议也在探索固定利率的创新形式，包括利率分层、杠杆借贷、以及引入 RWA 收益。
+
+市场中性套利策略旨在通过同时持有多头与空头头寸，实现净市场敞口接近于零，从而实现稳定收益。最具代表性的项目是 Ethena。其核心为链上实现 “资金费率套利”：用户在协议中存入 stETH 以获得 USDe，再在中心化交易所做空 ETH 永续合约，赚取资金费率差价。历史数据显示资金费率正值出现的概率约为 80%，协议亦设置储备金覆盖负费率时的损失。Ethena 的合规性体现在其采用第三方托管机构并提供定期审计报告，透明度远超多数套利产品。尽管其仍存在平台风险和极端市场条件下的负收益风险，但整体机制相对稳健，并为零售用户打开了参与套利的新路径。
+
+美债类 RWA 项目是当前最具合规性与安全性的稳定币收益方式。典型项目如 Ondo 的 USDY 和 Usual 的 USD0。Usual 更进一步推出 USD0++，引入了流动性代币机制，为锁定期美债提供了链上流动性。这种设计有点类似于 Lido 的 stETH，为用户提供了灵活性和额外收益机会。尽管高收益部分可能源自代币激励、流动性挖矿等投机成分，不具备长期可持续性，但其底层结构合理，风险相对可控。此类模式未来可能成为传统金融机构进入 DeFi 的桥梁，推动高质量资产上链并获得稳健收益。</p><a href="https://mirror.xyz/zhaotaobo.eth/G_kbXo-qsNfYOcKiKscXc8f0XNP6Op2GDo7xJ1Cy-lg">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Price Stability at Risk From Potential 'Basis Trade Blowup' That Catalyzed the COVID Crash]]></title>
+        <id>29a92d15-cf1e-429c-972e-e98499c6e9ed</id>
+        <link href="https://www.coindesk.com/markets/2025/04/06/bitcoin-s-strength-amid-nasdaq-drop-is-impressive-but-the-risk-of-a-basis-trade-blowup-that-spurred-the-covid-crash-looms"/>
+        <updated>2025-04-06T08:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Market volatility poses risk to $1 trillion Treasury basis trades. A potential blowup could  trigger a global dash for cash.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes警告：美股明天可能重演1987年「黑色星期一」，比特幣是避險首選？]]></title>
+        <id>https://www.blocktempo.com/?p=411518</id>
+        <link href="https://www.blocktempo.com/arthur-hayes-warning-u-s-stocks-may-repeat-black-monday-of-1987-tomorrowretryclaude-can-make-mistakes-please-double-check-responses/"/>
+        <updated>2025-04-06T08:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Arthur Hayes 今日中午發推表示，明天美股開盤可能會重演1987年的黑色星期一，並且比特幣在週末也沒 […]
+Arthur Hayes警告：美股明天可能重演1987年「黑色星期一」，比特幣是避險首選？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Ting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全美多地爆反川普抗議潮，超60萬人上街要求馬斯克把介入政治的「髒手拿開」]]></title>
+        <id>https://www.blocktempo.com/?p=411506</id>
+        <link href="https://www.blocktempo.com/anti-trump-protests-erupt-across-the-united-statesretryclaude-can-make-mistakes-please-double-check-responses/"/>
+        <updated>2025-04-06T06:29:41.000Z</updated>
+        <summary type="html"><![CDATA[川普上任後的一系列政策措施不僅讓美國乃至海外民眾產生抵觸心理，其在 4 月 3 日公布的對等關稅措施更是拖垮全 […]
+全美多地爆反川普抗議潮，超60萬人上街要求馬斯克把介入政治的「髒手拿開」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Ting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[資深刑警曝「大台北地區」非法幣商每日OTC交易量破億台幣，社群質疑：知道還不抓？]]></title>
+        <id>https://www.blocktempo.com/?p=411500</id>
+        <link href="https://www.blocktempo.com/senior-detective-reveals-taipei-crypto-dealers-daily-otc-trades-exceed-nt100mretryclaude-can-make-mistakes-please-double-check-responses/"/>
+        <updated>2025-04-06T03:58:40.000Z</updated>
+        <summary type="html"><![CDATA[在當前投資風氣盛行的社會中，許多詐團看上投資人急於賺錢的心理，設計出許多投資的詐騙套路，騙取投資人的辛苦錢。而 […]
+資深刑警曝「大台北地區」非法幣商每日OTC交易量破億台幣，社群質疑：知道還不抓？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Ting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台股週一難逃跌停！財經專家預測跌幅落在8.5%至10%，PTT股民：下週畢業季]]></title>
+        <id>https://www.blocktempo.com/?p=411495</id>
+        <link href="https://www.blocktempo.com/taiwan-stock-market-faces-steep-drop-monday/"/>
+        <updated>2025-04-06T02:27:15.000Z</updated>
+        <summary type="html"><![CDATA[美國總統川普在 3 日宣布對多國實施對等關稅政策後，全球金融市場迎來劇烈跌幅，此外，中國也在次日祭出反制措施， […]
+台股週一難逃跌停！財經專家預測跌幅落在8.5%至10%，PTT股民：下週畢業季〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Ting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC Staff to Reassess Biden-Era Crypto Guidance Amid Regulatory Shakeup]]></title>
         <id>85ea8665-3ed1-4828-b7cf-0be4771d8bea</id>
@@ -11500,366 +11610,6 @@ Doge主人推官方柴犬幣$COCORO、市值破億後慘崩60%，社群嘆：迷
         <summary type="html"><![CDATA[The filings add to a growing list of firms seeking to launch XRP-focused ETFs in the U.S.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple Co-founder’s $150M XRP Heist Related to LastPass Hack: ZachXBT]]></title>
-        <id>7905fb24-edfd-4668-a996-971d7647ad82</id>
-        <link href="https://www.coindesk.com/tech/2025/03/08/ripple-co-founder-s-usd150m-xrp-heist-related-to-lastpass-hack-zachxbt"/>
-        <updated>2025-03-08T11:18:34.000Z</updated>
-        <summary type="html"><![CDATA[Larsen confirmed the incident in January, where he clarified the hack affected only his personal accounts, not Ripple’s corporate wallets.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動區週報》川普白宮加密峰會發言、美國建立比特幣戰略儲備、關稅延遲…]]></title>
-        <id>https://www.blocktempo.com/?p=404556</id>
-        <link href="https://www.blocktempo.com/quick-look-at-this-week-market-dynamics-and-analysis-0308/"/>
-        <updated>2025-03-08T09:42:54.000Z</updated>
-        <summary type="html"><![CDATA[本週因川普的加密貨幣儲備比特幣價格在 8.6 萬美元一路上下插針從 8.15 萬美元到 9.5 萬美元。下文為 […]
-動區週報》川普白宮加密峰會發言、美國建立比特幣戰略儲備、關稅延遲…〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Arthur Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社群瘋：投票下架ETH！幣安上幣共同治理新制讓以太坊成靶心]]></title>
-        <id>https://www.blocktempo.com/?p=404628</id>
-        <link href="https://www.blocktempo.com/community-buzz-vote-to-delist-eth-goes-viral/"/>
-        <updated>2025-03-08T09:15:56.000Z</updated>
-        <summary type="html"><![CDATA[幣安昨日宣布引入「投票上幣」與「投票下幣」機制，社群隨即瘋傳「投票把 ETH 下架」，一眾 KOL 轉發「不破 […]
-社群瘋：投票下架ETH！幣安上幣共同治理新制讓以太坊成靶心〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP, ADA, SOL Fall Harder Than BTC as White House Crypto Summit Fails to Wow Traders]]></title>
-        <id>b9ddd4a2-d0d9-454d-ba73-9ca0c7f37c1a</id>
-        <link href="https://www.coindesk.com/markets/2025/03/08/xrp-ada-sol-fall-deeper-than-bitcoin-as-white-house-crypto-summit-fails-to-wow-traders"/>
-        <updated>2025-03-08T07:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Expectations of bigger plans for the largest cryptocurrencies fell short on Friday as the first-ever presidential crypto summit ended with promises of stablecoin legislation and lower regulatory resistance.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Saylor：美國2035年前應收購比特幣總量5-25%，未來財政部可年收10兆美元]]></title>
-        <id>https://www.blocktempo.com/?p=404618</id>
-        <link href="https://www.blocktempo.com/michael-saylor-the-u-s-should-acquire-5-25-of-total-bitcoin-supply-by-2035/"/>
-        <updated>2025-03-08T07:39:44.000Z</updated>
-        <summary type="html"><![CDATA[微策略創辦人 Michael Saylor 於白宮數位資產峰會建議，美國應在 2035 年前程式化購買比特幣  […]
-Michael Saylor：美國2035年前應收購比特幣總量5-25%，未來財政部可年收10兆美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Schiff轟川普加密峰會：「美國的恥辱」！白宮遭加密派系綁架]]></title>
-        <id>https://www.blocktempo.com/?p=404605</id>
-        <link href="https://www.blocktempo.com/peter-schiff-slams-trumps-crypto-summit-a-embarrassment-to-america/"/>
-        <updated>2025-03-08T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[對於美國總統川普於白宮主持首屆加密峰會，知名比特幣反派 Peter Schiff 直言這是「美國的恥辱」，痛批 […]
-Peter Schiff轟川普加密峰會：「美國的恥辱」！白宮遭加密派系綁架〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國貨幣監理署放寬監管！銀行可託管加密資產、穩定幣交易，無須事前審批]]></title>
-        <id>https://www.blocktempo.com/?p=404590</id>
-        <link href="https://www.blocktempo.com/u-s-occ-allows-banks-to-engage-in-crypto-business-without-prior-approval/"/>
-        <updated>2025-03-08T04:43:57.000Z</updated>
-        <summary type="html"><![CDATA[美國貨幣監理署（OCC）昨日宣布撤銷 2021 年發布的解釋性信函 1179，取消銀行需事前獲得 OCC「無異 […]
-美國貨幣監理署放寬監管！銀行可託管加密資產、穩定幣交易，無須事前審批〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普白宮加密峰會：重申比特幣儲備行政命令「僅提1更新」，BTC下探8.5萬鎂]]></title>
-        <id>https://www.blocktempo.com/?p=404582</id>
-        <link href="https://www.blocktempo.com/trumps-white-house-crypto-summit-reaffirms-bitcoin-reserve-executive-order-with-only-one-update/"/>
-        <updated>2025-03-08T02:39:07.000Z</updated>
-        <summary type="html"><![CDATA[川普於加密峰會期間多是重申建立「美國戰略比特幣儲備」的行政命令內容，未能滿足市場對進一步政策細節的預期，導致比 […]
-川普白宮加密峰會：重申比特幣儲備行政命令「僅提1更新」，BTC下探8.5萬鎂〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策]]></title>
-        <id>https://substack.chainfeeds.xyz/p/denverai-agent-gpt-manus-ai-152-acdc</id>
-        <link href="https://substack.chainfeeds.xyz/p/denverai-agent-gpt-manus-ai-152-acdc"/>
-        <updated>2025-03-08T01:36:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>投研早报丨从香港到 Denver，以太坊正在进入「敦刻尔克时刻」/AI Agent 的「GPT 时刻」，Manus 炸醒整个 AI 圈/第 152 次以太坊 ACDC 会议：开发人员将继续努力把 Holesky 恢复到稳定状态</p><p><a href="">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billionaire Winklevoss Twins-Backed Gemini Confidentially Filed for a U.S IPO: Bloomberg]]></title>
-        <id>78428617-8e60-4544-aac9-c148acf337ca</id>
-        <link href="https://www.coindesk.com/business/2025/03/07/billionaire-winklevoss-twins-backed-gemini-confidentially-filed-for-a-u-s-ipo-bloomberg"/>
-        <updated>2025-03-07T23:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Gemini has hired Goldman Sachs and Citigroup for the potential IPO, the report said.]]></summary>
-        <author>
-            <name>Aoyon Ashraf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO Armstrong Says He'll Hire 1,000 in U.S. as Crypto Tide Turns]]></title>
-        <id>1087e9bd-78f7-4acb-b819-0aa8207af3de</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/coinbase-ceo-armstrong-says-he-ll-hire-1-000-in-u-s-as-crypto-tide-turns"/>
-        <updated>2025-03-07T23:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Brian Armstrong said recent policy shifts warrant a new push in the U.S., and president's working group chief Hines said Trump is delivering on crypto promises.]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCC Says Banks Can Engage in Crypto Custody and Certain Stablecoin Activities]]></title>
-        <id>5be4ceeb-16d1-4733-8063-f3cbddb7df8a</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/occ-says-banks-can-engage-in-custody-and-certain-stablecoin-activities"/>
-        <updated>2025-03-07T22:32:43.000Z</updated>
-        <summary type="html"><![CDATA[OCC lifts approval and control requirements for banks engaging in cryptocurrency activities in new interpretive letter.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exchange Kraken is Mulling IPO in 2026: Bloomberg]]></title>
-        <id>a35c1a54-26f9-46b8-b6af-f9a50401a4f9</id>
-        <link href="https://www.coindesk.com/markets/2025/03/07/crypto-exchange-kraken-is-mulling-ipo-in-2026-bloomberg"/>
-        <updated>2025-03-07T22:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Exchange cites a more friendly regulatory environment under the Trump administration as a reason for the move toward a public listing]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana monetary decisions in the spotlight]]></title>
-        <id>https://blockworks.co/news/solana-monetary-decisions</id>
-        <link href="https://blockworks.co/news/solana-monetary-decisions"/>
-        <updated>2025-03-07T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Solana world has worked itself into a frenzy over SIMD-0228]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's Crypto Summit Sets Agenda for U.S. Pivot]]></title>
-        <id>1e567bf3-47e0-48fb-98f6-a0094e617354</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/trump-s-crypto-summit-sets-agenda-for-u-s-pivot"/>
-        <updated>2025-03-07T21:19:53.000Z</updated>
-        <summary type="html"><![CDATA[After ordering a bitcoin reserve, the president ushered crypto CEOs into the White House today to tell them their era of U.S. government resistance to crypto is over.]]></summary>
-        <author>
-            <name>Jesse Hamilton, Cheyenne Ligon, Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactions are mixed to BTC reserve, crypto stockpile]]></title>
-        <id>https://blockworks.co/news/trump-btc-reserve-mixed-reactions</id>
-        <link href="https://blockworks.co/news/trump-btc-reserve-mixed-reactions"/>
-        <updated>2025-03-07T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Industry watchers weigh in on Trump’s Thursday night executive order]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How North Korea Launders Billions in Stolen Crypto]]></title>
-        <id>7c5eb385-15ce-491c-9704-9ccfdf9634c5</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto"/>
-        <updated>2025-03-07T20:02:54.000Z</updated>
-        <summary type="html"><![CDATA[The Hermit Kingdom, which intelligence agencies say was behind the $1.5 billion Bybit hack, faces “offramping” challenges due to the size of its hauls.]]></summary>
-        <author>
-            <name>Tom Carreras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanctioned Russian Crypto Exchange Garantex Seized, Operators Charged With Money Laundering]]></title>
-        <id>08a86c4d-f198-4be9-8729-797381d6b05b</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/sanctioned-russian-crypto-exchange-garantex-seized-operators-charged-with-money-laundering"/>
-        <updated>2025-03-07T18:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Garantex was sanctioned in 2022 for facilitating money laundering for ransomware actors and darknet markets.]]></summary>
-        <author>
-            <name>Cheyenne Ligon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axie Infinity reveals Atia’s Legacy MMO, AXS reward pool]]></title>
-        <id>https://blockworks.co/news/axie-infinity-new-game</id>
-        <link href="https://blockworks.co/news/axie-infinity-new-game"/>
-        <updated>2025-03-07T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The new game lets you embark on quests, collect loot and socialize]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Recap: Bitcoin Gains Special Reserve Status]]></title>
-        <id>84eacf5c-4f39-41a3-a10b-18ae499c1d14</id>
-        <link href="https://www.coindesk.com/news-analysis/2025/03/07/weekly-recap-bitcoin-gains-special-reserve-status"/>
-        <updated>2025-03-07T18:18:18.000Z</updated>
-        <summary type="html"><![CDATA[As industry leaders gathered for a White House Summit, the premier crypto emerged as a clear winner.]]></summary>
-        <author>
-            <name>Benjamin Schiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄軍夜襲烏克蘭！川普揚言「制裁 + 關稅」施壓俄羅斯，直至停火和解]]></title>
-        <id>https://www.blocktempo.com/?p=404573</id>
-        <link href="https://www.blocktempo.com/trump-threatens-sanctions-on-russia/"/>
-        <updated>2025-03-07T18:18:13.000Z</updated>
-        <summary type="html"><![CDATA[俄羅斯昨（7）晚再次對烏克蘭發動新一輪大規模的無人機和飛彈襲擊，損壞烏克蘭部分基礎設施和住宅，且導致多人受傷， […]
-俄軍夜襲烏克蘭！川普揚言「制裁 + 關稅」施壓俄羅斯，直至停火和解〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Editor Jr.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A brief history of Ethereum’s relationship with ZK]]></title>
-        <id>https://blockworks.co/news/brief-history-zk-tech</id>
-        <link href="https://blockworks.co/news/brief-history-zk-tech"/>
-        <updated>2025-03-07T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why is ZK the endgame?]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幣安推「投票上下幣」新機制！Binance錢包TGE項目保送Alpha觀察區]]></title>
-        <id>https://www.blocktempo.com/?p=404554</id>
-        <link href="https://www.blocktempo.com/binance-launches-voting-mechanism-for-listing-and-delisting-coins/"/>
-        <updated>2025-03-07T17:05:27.000Z</updated>
-        <summary type="html"><![CDATA[幣安昨（7）日稍晚發佈公告表示，幣安將對其上幣機制進行升級，尤其將引入「投票上幣」與「投票下幣」機制，以提升社 […]
-幣安推「投票上下幣」新機制！Binance錢包TGE項目保送Alpha觀察區〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Editor Jr.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrating Dorian Nakamoto, the Satoshi who wasn’t]]></title>
-        <id>https://blockworks.co/news/dorian-nakamoto-media-frenzy</id>
-        <link href="https://blockworks.co/news/dorian-nakamoto-media-frenzy"/>
-        <updated>2025-03-07T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s been 11 years since Newsweek ignited a media frenzy around Dorian Nakamoto]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADA, XRP, SOL Plunge as White House Backpedals on Trump's Crypto Reserve Plan]]></title>
-        <id>c2438a9c-7882-4895-806e-6a9f1fa840c4</id>
-        <link href="https://www.coindesk.com/markets/2025/03/07/ada-xrp-drop-as-crypto-czar-sacks-backpedals-trump-s-crypto-reserve-plan"/>
-        <updated>2025-03-07T16:54:12.000Z</updated>
-        <summary type="html"><![CDATA[An official said Trump was "just giving five examples" of cryptocurrencies that could theoretically be in a crypto stockpile.]]></summary>
-        <author>
-            <name>Krisztian Sandor, Cheyenne Ligon, Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase a Buying Opportunity After Three-Week 30% Plunge: Rosenblatt]]></title>
-        <id>8e8baaa8-ed44-449f-a2fc-a3916ecf79dd</id>
-        <link href="https://www.coindesk.com/markets/2025/03/07/coinbase-year-to-date-stock-plunge-buying-opportunity-says-rosenblatt"/>
-        <updated>2025-03-07T16:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Analyst Chris Brendler sees 45% upside in shares of the crypto exchange.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto projects raised $1.1B in February]]></title>
-        <id>https://blockworks.co/news/crypto-projects-fundraise-february</id>
-        <link href="https://blockworks.co/news/crypto-projects-fundraise-february"/>
-        <updated>2025-03-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VC activity was slightly down month over month, according to TIE data]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC Staking Platform Core Seeks Further Institutional Reach With APAC Custodian Cobo]]></title>
-        <id>34b882be-2270-4279-8d9e-09d203a1d0f2</id>
-        <link href="https://www.coindesk.com/tech/2025/03/07/btc-staking-platform-core-seeks-further-institutional-reach-with-apac-custodian-cobo"/>
-        <updated>2025-03-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Core, the issuer of lstBTC, will enable Cobo's institutional clients to earn yield on BTC holdings while maintaining full control over their assets.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Pectra主網升級確定延後！基金會啟動額外測試，ETH跌破年度低點]]></title>
-        <id>https://www.blocktempo.com/?p=404548</id>
-        <link href="https://www.blocktempo.com/ethereum-pectra-mainnet-upgrade-officially-delayed/"/>
-        <updated>2025-03-07T15:35:02.000Z</updated>
-        <summary type="html"><![CDATA[以太坊在今年的重大更新「Pectra 升級」，在 Holesky 與 Sepolia 兩次測試均出現錯誤的情況 […]
-以太坊Pectra主網升級確定延後！基金會啟動額外測試，ETH跌破年度低點〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Editor Jr.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Crypto Summit Nears, White House Maintains Special Status for Bitcoin]]></title>
-        <id>bc54df17-a60a-4dd5-b1aa-779b4634af39</id>
-        <link href="https://www.coindesk.com/policy/2025/03/07/as-crypto-summit-nears-white-house-maintains-special-status-for-bitcoin"/>
-        <updated>2025-03-07T15:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The approach to the newly announced bitcoin reserve grants that BTC deserves special treatment among digital assets, a White House official said.]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Is Skeptical About the Formation of a U.S. Strategic Reserve: JPMorgan]]></title>
-        <id>9a5b4327-0c4b-4825-b865-bfbda563702e</id>
-        <link href="https://www.coindesk.com/markets/2025/03/07/crypto-market-is-skeptical-about-the-formation-of-a-u-s-strategic-reserve-jpmorgan"/>
-        <updated>2025-03-07T14:38:53.000Z</updated>
-        <summary type="html"><![CDATA[A number of U.S. states have rejected the idea of using bitcoin as a reserve asset due to its volatility, the report said.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MtnDAO's Experimental Crypto Investment Fund Will 'Outperform VCs' Claims Founder]]></title>
-        <id>4e7cb7c3-328f-4cd1-884a-6f30bf73e637</id>
-        <link href="https://www.coindesk.com/business/2025/03/07/mtndao-s-experimental-crypto-investment-fund-will-outperform-vcs-claims-founder"/>
-        <updated>2025-03-07T14:30:58.000Z</updated>
-        <summary type="html"><![CDATA[MtnDAO is launching a token and a futarchy-powered investment fund to boot.]]></summary>
-        <author>
-            <name>Danny Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does crypto need disclosures?]]></title>
-        <id>https://blockworks.co/news/does-crypto-need-disclosures</id>
-        <link href="https://blockworks.co/news/does-crypto-need-disclosures"/>
-        <updated>2025-03-07T14:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Here’s what we know about the bitcoin strategic reserve and the digital asset stockpile ahead of today’s summit]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微策略Michael Saylor：可提供「零成本」增持比特幣儲備策略；Grok也給建議]]></title>
-        <id>https://www.blocktempo.com/?p=404542</id>
-        <link href="https://www.blocktempo.com/michael-saylor-says-he-has-a-budget-neutral-strategy-to-help-the-u-s-increase-its-bitcoin-holdings/"/>
-        <updated>2025-03-07T14:26:27.000Z</updated>
-        <summary type="html"><![CDATA[加密與 AI 沙皇 David Sacks 昨（7）日在 X 平台宣佈川普已經正式簽署行政命令，建立美國比特幣 […]
-微策略Michael Saylor：可提供「零成本」增持比特幣儲備策略；Grok也給建議〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Editor Jr.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinDesk 20 Performance Update: AAVE Drops 2.9% as Index Inches Lower From Thursday]]></title>
-        <id>acfafe7b-7653-4b4d-8bdd-a0f7f9fc50e5</id>
-        <link href="https://www.coindesk.com/coindesk-indices/2025/03/07/coindesk-20-performance-update-aave-drops-2-9-as-index-inches-lower-from-thursday"/>
-        <updated>2025-03-07T14:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Cardano (ADA) was also among the underperformers, falling 2.9%.]]></summary>
-        <author>
-            <name>CoinDesk Indices</name>
         </author>
     </entry>
     <entry>
