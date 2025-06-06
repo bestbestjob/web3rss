@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-05 datetime="2025-06-05T01:21:21.000Z">2025-06-05</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-05 datetime="2025-06-05T01:21:21.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-06 datetime="2025-06-06T01:26:29.000Z">2025-06-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-06 datetime="2025-06-06T01:26:29.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -42,17 +42,782 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://substack.chainfeeds.xyz/p/rwa-ethglobal-prague-2025-pantera"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/0f3ed2b6-2be7-4dbe-b894-9238a963bdd0"
                         open
                       >
-                        <summary class="article-expander__title">ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://substack.chainfeeds.xyz/p/rwa-ethglobal-prague-2025-pantera">
+                        <summary class="article-expander__title">【英文长推】从竞争到共建：隐私「四大天王」如何构建下一代可信计算组合？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/0f3ed2b6-2be7-4dbe-b894-9238a963bdd0">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb5bf8c-6076-4222-bddc-64bbae2e20d3_1200x795.jpeg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>投研早报丨以太坊 RWA 爆发：监管变局与全新增长引擎/ETHGlobal Prague 2025 决赛入围项目速览/Pantera 解析两大流行趋势：加密资产金库储备和稳定币
+                              <span>Chainfeeds 导读：
+TEE、MPC、FHE 和 ZKP 并不是竞争对手。人们常常试图比较这些技术，判断哪一种更优秀。但实际上，这些技术并不相互排斥，反而可以协同工作，优势互补。
+文章来源：
+https://x.com/paramonoww/status/1930621357479395724
+文章作者：
+Pavel Paramonov 
+
+观点：
+Pavel Paramonov ：MPC 协议通常分为三个阶段：用户将私有输入进行秘密共享，将加密后的数据发送给计算节点，以非串通或全阈值模型（即所有节点需串通）确保安全性；然后节点对这些秘密份额进行计算；最后节点返回输出的份额，用户将其合并还原结果。MPC 最适合节点连接良好的网络环境，但由于各节点之间的数据交换非常频繁，通信成本极高。标准 MPC 协议中，每个节点需与所有其他节点通信，例如在乘法门操作时，因此其通信复杂度为 O (n²)。这意味着，如果有 10 个节点，且每个节点的计算量为 1 KB，则总数据交换量约为 100 GB；若为 100 个节点，则可达 10 TB。这使得实际应用中，MPC 节点数量通常限制在 2–10 个以内。相比之下，FHE 在数据传输方面的需求更少，但计算资源消耗极高。FHE 解决了「在不解密的情况下进行安全计算」的长期难题，用户可加密数据上传至服务器，由服务器在密文上执行计算，最终输出仍为密文，再由用户解密。尽管无需数据泄露，但其计算开销巨大，例如原本毫秒级的数据库查询在 FHE 下可能延迟至 2–10 秒，AI 推理则可能从毫秒级延长到数秒或数分钟。
+
+ 在零知识证明（ZKP）中，常见用途如 zk-rollup 通常用于生成 “真 / 假” 类型的布尔证明，具备简洁（succinct）和快速验证的特性，适用于链上应用。但 zk-rollup 并不使用 ZKP 的隐私特性，因为生成证明的实体在运行 zk 电路时能完全访问用户输入，因而存在隐私暴露问题。为解决这一问题，可以将 zkVM 的证明过程置于 TEE 中运行。TEE 可提供安全隔离环境，防止宿主设备访问运行期间的数据，同时输出一份经过可信验证的证明。例如，Phala Network 使用支持 TEE 的 GPU 来运行 SP1 zkVM，即使在处理复杂任务如 zkEVM 时，开销也不超过 20%。这种组合可有效将 zk 电路私有化，同时保留其简洁性和可验证性。此外，TEE 还能生成可靠的证明生成证明（attestation），用于证明电路在安全环境中被正确执行，从而提升用户对链下证明过程的信任程度。
+
+ TEE 虽然快速高效，但因依赖硬件密钥，其数据便携性和抗审查性存在挑战。将 TEE 与 MPC 结合可以缓解这些问题。例如，Fairblock 使用 MPC 技术构建机密计算应用，以防止信息泄露和中心化风险。在其架构中，Phala 的 TEE 环境用于生成私钥，然后将密钥以门限加密方式分片存储于 Fairblock 的 MPC 节点网络中。同时，智能合约负责监控 TEE 操作，要求定期提交加密密钥作为状态验证机制。一旦 TEE 出现故障，智能合约将触发 MPC 模块私下重建并解密密钥，以确保数据持续保密。此架构实现了双重安全保障：TEE 确保在隔离环境中生成和使用密钥，MPC 则保障单点故障时的数据恢复与保密性。在整个过程中，密钥始终处于加密状态，任何单一节点均无法访问完整密钥，有效规避了集中风险并提升了系统鲁棒性。【原文为英文】
 内容来源</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</button>
+                  <a class="source-heading__link" href="https://www.coindesk.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="da121ad7-23fe-4b40-ad54-8e77078b1a7b"
+                        open
+                      >
+                        <summary class="article-expander__title">Asia Morning Briefing: Bitcoin Bulls Laser Focused on $120K Despite Trump-Musk Turmoil</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/asia-morning-briefing-bitcoin-bulls-laser-focused-on-120k-despite-trump-musk-turmoil">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/0d4a209c6b28818adc5ac0667b9e379cee43d769-1920x1280.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>PLUS: $TRUMP token slumps on Trump-Musk drama and wallet fallout</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;31
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-06-05 datetime="2025-06-05T21:39:38.000Z">2025-06-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-06-05 datetime="2025-06-05T21:39:38.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</button>
+                  <a class="source-heading__link" href="https://www.coindesk.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="f35fc90c-5eeb-4a8c-a880-d2965ec612af"
+                        open
+                      >
+                        <summary class="article-expander__title">Senate Stablecoin Bill Likely to Win Massive Bipartisan Support, Dem Lawmaker Says</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/senate-stablecoin-bill-likely-to-win-massive-bipartisan-support-dem-lawmaker-says">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/d960f691e3e8d1df1d85c75dada63f4f46fe67c5-6000x3376.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Republicans &quot;adopted a lot of the amendments&quot; Democrats wanted, Sen. Ruben Gallego said.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;33
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="05d30174-953a-474c-a9bb-96f122f034c5"
+                        open
+                      >
+                        <summary class="article-expander__title">Bitcoin Threatens $100K, Crypto Losses Grow as Musk/Trump Feud Goes Nuclear</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/bitcoin-threatens-100k-crypto-losses-grow-as-musktrump-feud-goes-nuclear">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/6e76e68756fb1b0a0ae4d11f0f654964d362df43-2861x1907.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>What began as a spat over the GOP tax and spending bill moving through Congress morphed into uncharted levels on Thursday.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="212aee56-665b-45b6-9998-4bd0e2b0ce7b"
+                        open
+                      >
+                        <summary class="article-expander__title">OFAC Sanctions Philippines-Based Tech Company For Facilitating Pig Butchering Schemes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/ofac-sanctions-philippines-based-tech-company-for-facilitating-pig-butchering-schemes">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/0ea1cb7fb70019fe7a7096c2b88c56d7e34f5d6c-5018x3345.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>According to OFAC, Funnull Technology Inc. provides computer infrastructure for “hundreds of thousands” of pig butchering websites.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="c793b029-4605-45ab-90b9-51ef9b2c9fb8"
+                        open
+                      >
+                        <summary class="article-expander__title">Circle Soars 167% After IPO, Closing at $83 in First Day of Trading</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/circle-soars-167-after-ipo-closing-at-83-in-first-day-of-trading">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/4ea058b7f62ca56c162d4b89b8cebd1e70f86b38-3500x2333.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The euphoric action harkens back to the 2021 Coinbase IPO, which didn&#x27;t end well for those who piled in near the high.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="dfddaf85-3a29-44d2-9cda-1aa8d1f7aac7"
+                        open
+                      >
+                        <summary class="article-expander__title">Bitcoin ATM Operator CoinFlip Explores Potential $1B Sale: Bloomberg</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/bitcoin-atm-operator-coinflip-explores-potential-1b-sale-bloomberg">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/a184a518e11cd10bd95e29e2ad8694ba1e47a6ef-1200x681.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The company could become the latest crypto firm to sell as bitcoin’s rally fuels an acquisition boom.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="64629195-3292-486e-a6e0-02c94b99b7cb"
+                        open
+                      >
+                        <summary class="article-expander__title">Trump Family Hits Magic Eden With Cease-and-Desist Over Crypto Wallet Plans: Bloomberg</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/trump-family-hits-magic-eden-with-cease-and-desist-over-crypto-wallet-plans-bloomberg">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/c414affecab26fbb82c399b41b9a82cb67c4a9dd-8190x5460.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>All three of U.S. President Donald Trump’s sons have denied being involved with Magic Eden’s plans for a $TRUMP wallet.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1770c33f-0d1b-48df-ab4d-de9d6435a9d5"
+                        open
+                      >
+                        <summary class="article-expander__title">SOL Slips Below $150 as Whale Outflows Weigh on Market Sentiment</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/sol-slips-below-usd150-as-whale-outflows-weigh-on-market-sentiment">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/ff4a4695fc28ed707275a41f9998a7675307d631-700x430.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Solana (SOL) breached key support after large inflows to exchanges triggered high-volume selling despite continued strength in network usage.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="923eb61d-1b61-4dfb-a459-78179fa73157"
+                        open
+                      >
+                        <summary class="article-expander__title">Filecoin Tumbles 5% After Breaking Below Key Support Level at $2.54</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/filecoin-tumbles-5-after-breaking-below-key-support-level-at-254">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/d212b43a40e33b4c9cd0c379b1a862a2dcb78996-700x430.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Momentum indicators point to continued weakness with further downside potential toward the $2.48-$2.45 range.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="1dd27718-abff-44b4-8184-3634c71b2045"
+                        open
+                      >
+                        <summary class="article-expander__title">What’s Next for AI and Web3: NeuroSymbolic Intelligence</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/opinion/2025/06/05/whats-next-for-ai-and-web3-neurosymbolic-intelligence">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/ccc5a360e090d4c98aafe87353815bc31bb9f069-1920x1080.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AI based on large language models poses risks to Web3 principles. Enter NeuroSymbolic AI, which offers greater auditability and less misinformation, say Ramesh Ramadoss and John deVadoss.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;28
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="24af7b70-7414-402d-9c54-9d444f641f9d"
+                        open
+                      >
+                        <summary class="article-expander__title">PTSD-Afflicted Crypto Investors Hit the Sell Button After Circle&#x27;s Euphoric IPO</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/ptsd-afflicted-crypto-investors-hit-the-sell-button-after-circles-euphoric-ipo">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/f7bceabb91c41619a4511b45f7ec1230fc3fc579-4608x3456.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Coinbase&#x27;s April 2021 debut marked what was then an epic price top for bitcoin.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="22a49484-10a8-4c40-902d-2b1a7860d150"
+                        open
+                      >
+                        <summary class="article-expander__title">UNI Slumps Below $6.21 as Rejection at $6.44 Triggers Fresh Sell-Off</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/uni-slumps-below-usd6-21-as-rejection-at-usd6-44-triggers-fresh-sell-off">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/cd4995b9f04e3e0712b8f32fd59fb424ad7e07b1-700x430.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>UNI tumbles after strong intraday rally fades, with sellers regaining control and critical support levels now under pressure.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="a8b29800-bc9f-480c-916f-6f4331ef1736"
+                        open
+                      >
+                        <summary class="article-expander__title">Circle Shares Surge on NYSE Debut, Signalling Strong Appetite for Stablecoin Issuers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/circle-shares-open-at-69-on-nyse-debut-signaling-strong-appetite-for-stablecoin-issuers">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/cb1060c16888be566680cc2da03e09d71a421784-5781x3922.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The stablecoin issuer’s IPO arrives as investors brace for more market headwinds and regulatory change while stablecoin demand grows.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6ed83dfb-eb44-451d-ad56-2ccfb83a705e"
+                        open
+                      >
+                        <summary class="article-expander__title">Top 50 Women in Web3 &amp; AI—Methodology</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/web3/2025/06/05/coindesk-top-women-in-web3-aimethodology">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/dc1d2e6394514d761433d389cddd7077272edf7c-3840x2160.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>How we chose 50 women shaping the future of finance and the internet. This list is powered by Proof of Talk.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;29
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="6eac1459-a6a4-4098-beac-26e8215bef51"
+                        open
+                      >
+                        <summary class="article-expander__title">CoinDesk Top 50 Women in Web3 &amp; AI, Powered by Proof of Talk</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/web3/2025/06/05/top-50-women-in-web3-and-ai">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/d2f8cc2bb1225ce97d1a4225a0bdc13373bee328-3840x2160.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A list of the most influential women in crypto and artificial intelligence, as chosen by CoinDesk, Proof of Talk and an external panel of judges.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;57
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="cb6c57e7-a7c8-4778-baa8-2a83fe693c5a"
+                        open
+                      >
+                        <summary class="article-expander__title">White House Crypto Chief Bo Hines Met With El Salvador’s Bukele to Discuss Bitcoin</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/white-house-crypto-chief-bo-hines-met-with-el-salvadors-bukele-to-discuss-bitcoin">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/9763009bc1d31d9b36f97c0a0e2009a5409ad328-1440x960.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&quot;Extraordinary things&quot; could happen for the United States and El Salvador as a result of the meeting, said Salvadoran Bitcoin Office Director Stacy Herbert.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="577e4a04-1352-4cb8-afa1-0f87c22bda12"
+                        open
+                      >
+                        <summary class="article-expander__title">EasyA Promises Even Bigger Hackathon After Record-Breaking Success at Consensus 2025</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/consensus-toronto-2025-coverage/2025/06/05/easya-promises-even-bigger-hackathon-after-record-breaking-success-at-consensus-2025">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/3418aa760fedb9c08cddab88174c38439754e012-4032x3024.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>More than 1,000 developers flocked to Toronto to compete for millions of dollars in prizes.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="cf5fa591-5db8-41d5-b974-389daae32f61"
+                        open
+                      >
+                        <summary class="article-expander__title">Ex-Google Chief Eric Schmidt Backs Firms Behind Blockchain Credit Bureau</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/business/2025/06/05/ex-google-chief-eric-schmidt-backs-firms-behind-blockchain-credit-bureau">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/592a390fc4aca94e94cf6808aa66b1c0a10a94ff-1500x937.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>High throughput blockchain Keeta is facilitating credit data platform SOLO to create PASS, an on-chain bank-grade financial identity layer.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="35b02c6d-cad3-486c-a2a2-e43992858994"
+                        open
+                      >
+                        <summary class="article-expander__title">Ethereum Foundation Unveils New Treasury Policy With 15% Opex Cap</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/tech/2025/06/05/ethereum-foundation-unveils-new-treasury-policy-with-15-opex-cap">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/bf3bb2a695e2f328f36be1ff918cbf9eb4231f1d-3000x2000.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The EF published an updated treasury policy, outlining plans around token sales, fiat purchases and transparency reporting.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="ed340468-ace5-477a-956a-150c354b8cab"
+                        open
+                      >
+                        <summary class="article-expander__title">U.S. Seizes Darknet, Internet Domains, Crypto Funds Tied to Illegal Trading in Credit Card Data</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/us-seizes-darknet-internet-domains-crypto-funds-tied-to-illegal-trading-in-credit-card-data">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/003cd2de934f151865d05b6aaf339fb49564042f-6000x3375.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The BidenCash marketplace was used to buy and sell stolen credit cards as well as related personal information.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="ab6f485e-677f-4ecf-84f9-7b0f9622c87e"
+                        open
+                      >
+                        <summary class="article-expander__title">Crypto Lender Maple Finance Expands to Solana With Chainlink</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/business/2025/06/05/crypto-lender-maple-finance-expands-to-solana-with-chainlink">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/74ef4d433113d3a7f91ef5a9ec243bcf7fc33437-1420x916.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Maple’s ecosystem has allocated $500,000 in incentives and coordinated over $30 million in liquidity.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="dd929db0-5a44-4c33-be99-f54957b35b9c"
+                        open
+                      >
+                        <summary class="article-expander__title">U.S. Federal Reserve&#x27;s New Supervision Chief Will Wield Crypto Authority</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/06/05/u-s-federal-reserve-s-new-supervision-chief-will-wield-crypto-authority">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/c11d5f693fc43972f5a52d818136d3c4dddf15a2-1200x675.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Whether it&#x27;s crypto&#x27;s access to banking or the issuance of stablecoins, new Fed supervision chief Michelle Bowman will have a say.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="2ca49002-22a1-4454-9fb4-61688b1b3f3c"
+                        open
+                      >
+                        <summary class="article-expander__title">AVAX Drops 5%, Forming Bearish Pattern on Short Time Frame</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/avax-drops-5-forming-bearish-pattern-on-short-time-frame">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/b748898e2681cc6048eca3f19156e2435ce3be4f-1376x852.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The token underperformed the CoinDesk 20.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="b53e8738-936c-41b8-a73d-fd413ee6026b"
+                        open
+                      >
+                        <summary class="article-expander__title">APT Slips 4% After Breaking $4.77 Technical Support Level</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/06/05/apt-slips-4-after-breaking-477-technical-support-level">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/0859e59eefdc38c06988fd4e3eeb409168b1cd2f-700x430.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The price has now stabilized around $4.771, suggesting potential consolidation after a sharp decline.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="88e98313-7fd3-4b9e-ab64-d8348a1e0df5"
+                        open
+                      >
+                        <summary class="article-expander__title">HyperLiquid&#x27;s Market Making Vault Grows by $250M in 2 Months Despite JELLY Fiasco</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/business/2025/06/05/hyperliquid-s-market-making-vault-grows-by-usd250m-in-2-months-despite-jelly-fiasco">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/7077692f4c6298b28fcd8045a128422fd68ccca8-2704x1040.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The vault&#x27;s TVL dropped to just $163 million after a controversial trade settlement in March.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Blockworks: News and insights about digital assets.</button>
+                  <a class="source-heading__link" href="https://blockworks.co">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/solana-usdc-stablecoin-outflow"
+                        open
+                      >
+                        <summary class="article-expander__title">Solana stablecoin supply dip led by $1.8B USDC outflow</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/solana-usdc-stablecoin-outflow">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fusdc.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Solana’s USDC caught a boost after being paired with the TRUMP memecoin</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;102
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/circle-shares-nyse-day-one"
+                        open
+                      >
+                        <summary class="article-expander__title">Circle ends NYSE debut up 167% from IPO price</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/circle-shares-nyse-day-one">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fcircle-nyse.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The stablecoin issuer’s successful first day of trading is likely to spur more crypto IPOs, industry watchers say</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;104
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/the-current-labor-market-in-charts"
+                        open
+                      >
+                        <summary class="article-expander__title">The current labor market, in charts</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/the-current-labor-market-in-charts">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-labor.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Job openings rallied and continuing claims stalled ahead of May’s employment report</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;101
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/netflix-reality-show-streamers-1-bitcoin"
+                        open
+                      >
+                        <summary class="article-expander__title">Netflix show to give away 1 BTC in Twitch streamer competition</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/netflix-reality-show-streamers-1-bitcoin">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-house-streams.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A group of Twitch streamers battle for bitcoin. Will their chats help them?</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;100
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/crypto-needs-fix-token-holder-protections"
+                        open
+                      >
+                        <summary class="article-expander__title">Crypto needs to fix token holder protections</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/crypto-needs-fix-token-holder-protections">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-key-token.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Tokens still suffer from a lack of transparency</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;101
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/skale-labs-launches-fair"
+                        open
+                      >
+                        <summary class="article-expander__title">SKALE Labs launches FAIR, world’s first MEV-resistant L1 built for AI and DeFi</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/skale-labs-launches-fair">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2FJack-Oholleran.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The blockchain creates a fair environment where AI agents and users can access deep liquidity without MEV or other forms of value extraction</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;102
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/digital-gold-crypto-before-bitcoin-history"
+                        open
+                      >
+                        <summary class="article-expander__title">Before Bitcoin: Digital gold in the ’90s was interesting, until it wasn’t</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/digital-gold-crypto-before-bitcoin-history">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-digital-gold.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>E-gold reached $2 billion annual volume at its 2006 peak</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;101
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/circle-hits-75-nyse-trading"
+                        open
+                      >
+                        <summary class="article-expander__title">Circle hits $75 per share in first-day pop on NYSE</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/circle-hits-75-nyse-trading">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-circle-nyse.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>After upping its offer multiple times, Circle is finally trading on the NYSE</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;101
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/circle-stock-public-ipo-what-to-expect"
+                        open
+                      >
+                        <summary class="article-expander__title">What to expect when Circle’s stock goes public</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/circle-stock-public-ipo-what-to-expect">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fbw-circle-empire.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Circle goes public on the NYSE Thursday — here’s what to expect</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;102
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blockworks.co/news/walletconnect-ecosystem-update"
+                        open
+                      >
+                        <summary class="article-expander__title">WalletConnect ecosystem update: Growth, milestones, and what’s next</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/walletconnect-ecosystem-update">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F06%2Fwalletconnect-rainbow.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>WalletConnect is the default for secure, scalable onchain interaction — but this isn’t a peak, it’s the launchpad</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;101
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -73,6 +838,216 @@
                   <a class="source-heading__link" href="https://www.blocktempo.com">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422642"
+                        open
+                      >
+                        <summary class="article-expander__title">USDC發行商Circle正式上市紐約證券交易所NYSE，加密融入主流金融里程碑</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/circle-usdc-issuer-goes-public-nyse-valuation-crypto-finance-milestone/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/circle.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>穩定幣 USDC 發行商 Circle 正式登陸紐約證券交易所，估值達 62 億美元。是加密貨幣與傳統金融融合 […]
+USDC發行商Circle正式上市紐約證券交易所NYSE，加密融入主流金融里程碑〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422625"
+                        open
+                      >
+                        <summary class="article-expander__title">CUDIS 空投來了！Solana 鏈上發行「首波上幣安alpha」，戴戒指就能賺錢？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/cudis-launches-native-token-on-solana-for-decentralized-health/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/54525254236.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Web3 AI公司 CUDIS 在 Solana 推出原生代幣 CUDIS，結合穿戴裝置與 AI 教練推動去中 […]
+CUDIS 空投來了！Solana 鏈上發行「首波上幣安alpha」，戴戒指就能賺錢？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422619"
+                        open
+                      >
+                        <summary class="article-expander__title">中國警方：涉案虛擬貨幣，現在透過香港交易所賣出上繳國庫</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/beijing-police-virtual-currency-disposal-hong-kong-channel/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/cover-image-beijing-police-virtual-currency-disposal-hong-kong-channel.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>北京市公安局推出《涉案虛擬貨幣新機制》，犯罪被沒收的虛擬貨幣可透過香港合規交易所賣出變現，上繳國庫。 （前情提 […]
+中國警方：涉案虛擬貨幣，現在透過香港交易所賣出上繳國庫〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422595"
+                        open
+                      >
+                        <summary class="article-expander__title">Upbit 上市Ravencoin韓元交易對，RVN暴漲104%、沈默礦工收益爆衝三倍</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/ravencoin-price-surges-upbit-krw-listing/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/ravencoin-price-surges-upbit-krw-listing.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Ravencoin (RVN) 因在南韓交易所 Upbit 上市韓元交易對，價格於 24 小時內飆漲逾倍，市值 […]
+Upbit 上市Ravencoin韓元交易對，RVN暴漲104%、沈默礦工收益爆衝三倍〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422606"
+                        open
+                      >
+                        <summary class="article-expander__title">HTX從Aave提出5.7億USDT，借款APY利率飆升至33%</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/htx-usdt-withdrawal-triggers-aave-liquidity-crisis-rate-hike/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/aave.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>加密貨幣交易所 HTX 從 Aave 大量提取 USDT，導致流動性銳減及利率飆升！ （前情提要：AAVE日內 […]
+HTX從Aave提出5.7億USDT，借款APY利率飆升至33%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422599"
+                        open
+                      >
+                        <summary class="article-expander__title">Bitfinex分析師：若聯準會提前降息，比特幣6月可望井噴！</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/bitcoin-price-us-jobs-report-fed-rate-crypto-outlook/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/fed.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>比特幣價格徘徊於 10.5 萬美元，市場靜待週五（美國時間6/6）的美國就業報告，該數據或影響聯準會降息及加密 […]
+Bitfinex分析師：若聯準會提前降息，比特幣6月可望井噴！〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422565"
+                        open
+                      >
+                        <summary class="article-expander__title">Crypto AI熱度再起，市場最近在炒什麼？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/what-is-hot-on-crypto-ai-june-2025/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/ai.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Crypto AI 在交易部分一直被認為無法加入對市場「情緒直覺」的因素可能也會在未來的某個時間點被攻破。 （ […]
+Crypto AI熱度再起，市場最近在炒什麼？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422581"
+                        open
+                      >
+                        <summary class="article-expander__title">上市公司加密儲備隱憂：可能重演灰度GBTC「爆雷劇本」？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/grayscale-gbtc-meltdown-scenario-will-shock-maket/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/market.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>微策略引來一批模仿者，但高溢價背後的槓桿風險可能對投資者很可怕？ （前情提要：美國上市公司Classover搶 […]
+上市公司加密儲備隱憂：可能重演灰度GBTC「爆雷劇本」？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422575"
+                        open
+                      >
+                        <summary class="article-expander__title">以太坊快起飛了？四大因素可能成為幣價推進器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/etherum-will-raise-in-2025-or-not/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/eth-2.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>以太坊基金會動作不斷，ETH 現貨 ETF 資金不斷湧入。 （前情提要：評論》為什麼高盛對以太坊的判斷，是錯誤 […]
+以太坊快起飛了？四大因素可能成為幣價推進器〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;422557"
+                        open
+                      >
+                        <summary class="article-expander__title">Gate.io回應LA合約異常：賠償所有「穿倉用戶」總額超3000萬USDT</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/gate-io-la-contract-price-anomaly-response-compensation/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.blocktempo.com/2025/06/cover-image-gate-io-la-contract-price-anomaly-response-compensation.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Gate.io LA 合約價格異常，官方指數據與風控疊加效應，迅速下架並宣布全額補償用戶，金額逾三千萬 USD […]
+Gate.io回應LA合約異常：賠償所有「穿倉用戶」總額超3000萬USDT〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -130,6 +1105,191 @@
                               <span>美國總統川普今日午夜在社群發文表示，主張廢除美國聯邦債務上限以避免經濟動盪。此觀點也獲得民主黨參議員華倫的認同 […]
 川普喊：美國應完全廢除債務上限，以避免經濟浩劫〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >ChainFeeds精选</button>
+                  <a class="source-heading__link" href="">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/0ab04428-ec64-41fe-84d8-ea8a4045a5bc"
+                        open
+                      >
+                        <summary class="article-expander__title">Artemis：2400 亿稳定币供应去向何方？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/0ab04428-ec64-41fe-84d8-ea8a4045a5bc">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Chainfeeds 导读：
+当人们还在争论 USDC 和 USDT 的市场份额时，真正的变革其实正在分销层面悄然发生。
+文章来源：
+https://www.techflowpost.com/article/detail_26092.html
+文章作者：
+Artemis
+
+观点：
+Artemis：稳定币的增长逻辑正在发生变化，从发行阶段迈入分销阶段。在早期阶段，发行方是主要的价值捕获者，但如今，用户关心的是能否在熟悉的平台上使用稳定币，能否在需要的场景中实现便捷支付或交易。随着 Coinbase、Telegram、Stripe 等大型平台深度整合稳定币支付，分销商开始掌握主导权。Circle 甚至在招股说明书中披露，2023 年支付给 Coinbase 的分销激励高达 9 亿美元，占其总收入一半以上。稳定币发行方正在从幕后走到前台，构建全栈能力以维持竞争力，例如通过 API、钱包、支付网络打造网络效应。这一转变意味着稳定币从加密货币转向全球金融基础设施。
+
+ 当前市场对稳定币的认知存在多重误区。一方面，稳定币交易量虽高达 3.1 万亿美元，但其中 31% 实际来源于 MEV 机器人重复使用同一笔资金进行高频交易，真实用户的交易量远低于表面数据。另一方面，财富集中问题同样严重。虽然稳定币地址数超过 1.5 亿个，但其中 99% 钱包余额不足 1 万美元，而不到 2 万个钱包控制了 760 亿美元，占总供应的 32%。这些未归属钱包背后身份模糊，被归为灰色地带，其资金流向和使用目的尚难以厘清。这些现象揭示了当前稳定币生态中的结构性不均，以及衡量 adoption 时仅看交易量或 TVL 的片面性。
+
+ 链上用例成为衡量稳定币 adoption 的核心指标。从稳定币在中心化交易所、DeFi 协议、MEV 操作和未标记钱包中的流动情况来看，不同类型参与者对稳定币的使用具有显著差异。例如中心化交易所控制了约 27% 的稳定币供应，但链上交易量只占 11%；DeFi 协议尽管供应仅占 11%，却贡献了 21% 的交易量。最显著的是 MEV，占据了高达 31% 的链上交易量但几乎无长期持仓。此外，未归属钱包虽然数量庞大且余额低，但控制着稳定币流通的主要部分。这些链上数据提供了识别真实 adoption、价值捕获和使用趋势的重要视角，为未来基础设施建设和协议设计提供了参考方向。
+内容来源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/d3c4b8eb-407f-417e-8eb5-700b009b2eaa"
+                        open
+                      >
+                        <summary class="article-expander__title">【英文长推】Arbitrum DAO 激励机制复盘报告：有哪些经验教训？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/d3c4b8eb-407f-417e-8eb5-700b009b2eaa">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Chainfeeds 导读：
+Arbitrum DAO 已通过多个激励计划向 100 多个协议分发了超过 1.53 亿枚 $ARB，旨在推动用户增长、资金流动性和生态系统发展。但哪些计划真正产生了效果？又有哪些收效甚微？
+文章来源：
+https://x.com/castle_labs/status/1930254327966208399
+文章作者：
+Castle Capital
+
+观点：
+Castle Capital：Arbitrum 的激励计划尽管花费巨大，却始终难以带来长期效果。TVL 和交易量等指标在奖励发放期间往往短暂激增，但激励一旦结束，用户迅速流失。这种悬崖效应引发了社区对激励计划可持续性与投资回报率的广泛质疑。同时，多个激励项目在目标设定、结构设计与数据衡量上缺乏统一标准，使得跨周期对比和经验积累变得困难。STIP、STIP Bridge、LTIPP 等计划在目标和规模上各异，但多数缺乏可调整机制或与生态长期目标保持一致的衡量标准。为应对上述问题，引入了一套统一的评估框架，将每个激励计划拆解为四个部分：目标与预期产出、项目设计、实际产出、变化与经验总结。通过这一框架，可以对内外部不同项目基于统一维度进行横向比较。研究中提炼出若干关键洞见：其一，大多数用户以收益为导向，仅在有奖励时参与，真正留存取决于产品本身的吸引力和生态基本面；其二，激励适用于已有产品市场匹配的协议扩展，而非为没有需求的项目造势；其三，监控与反馈机制至关重要，zkSync Ignite 项目借助实时仪表盘和治理机制显著提升效率；其四，避免硬性截止日期，逐步递减的激励释放能更真实反映产品粘性。
+
+ 此外，报告还指出，明确目标有助于执行与追踪；缺乏清晰方向的激励容易分散资源、缺乏成效。而很多失败的项目也暴露了用户端基础设施建设的缺口，即使资金充足，如果缺乏面向用户的可视化引导工具、教程或信息透明度，也难以转化为实质参与。此外，市场周期对激励效果影响巨大：在熊市中，目标应聚焦于用户教育与生态准备，而非数据冲高。最后，通过留存分析比单一数据更能反映真实效益 ——TVL 增长不等于长期成功，需结合用户分层、留存周期与用户行为追踪进行深入分析。
+
+基于上述问题与经验总结，提出了未来激励计划应围绕五大核心支柱展开设计。第一，衡量标准与 KPI 设计：需制定与 DAO 长期目标对齐的多层级指标（如每 $ARB 带来的 TVL），建立统一仪表盘与数据反馈机制，实现实时调整与复盘。第二，项目结构与设计：聚焦于已有产品市场契合度（PMF）的协议，而非仅追求虚高数据，设计中应内置灵活调整与递减释放机制，避免将复杂设计完全外包给缺乏经验的项目方。第三，治理与适应机制：设立专职运营团队管理激励过程，并在周期中设定检查点与止损机制，确保所有激励与 DAO 的整体优先级挂钩，且有明确的终止条件。第四，用户分层与留存策略：承认用户初期以套利为主，设计可转化的留存路径，例如打卡机制、忠诚度分级计划等，提前规划激励结束后的留存手段。第五，市场营销与生态协同：项目启动必须搭配清晰的传播策略、品牌视觉、常见问题解答与可视化仪表盘，以增强用户参与度与体验。同时，DAO 内各部门应统一口径，并在多个激励轮次之间积累经验、标准化复盘流程。这些建议不仅是对以往激励误区的回应，更为下一阶段 Arbitrum DAO 的资本部署和生态建设提供了切实可行的路径图。【原文为英文】
+内容来源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/bcd0606a-d2f0-4680-a53c-329d62d7fdeb"
+                        open
+                      >
+                        <summary class="article-expander__title">【英文长推】从宏观流动性看加密市场未来：真正的牛市开始了吗？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/bcd0606a-d2f0-4680-a53c-329d62d7fdeb">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Chainfeeds 导读：
+当前比特币虽已大涨，但真正引发加密市场全面狂热的牛市尚未开始；只有当经济压力迫使政策制定者释放大规模流动性时，下一轮真正的牛市才会到来。
+文章来源：
+https://x.com/crypthoem/status/1930316443368710379
+文章作者：
+hoeem
+
+观点：
+hoeem：虽然比特币在过去三年从 16,000 美元上涨至超过 110,000 美元，表面看似牛市已至，但从宏观经济的角度来看，真正引发狂热行情的条件尚未形成。加密市场过去几轮牛市（2013、2017、2021）的起点，均发生在流动性大规模释放之后，而非仅因减半或叙事驱动。作者指出，当前上涨更多是机构推动的秩序型行情，并非全民参与的情绪型狂热。在缺乏流动性洪峰的背景下，尽管比特币创新高，但 altcoin 市场表现仍显疲软，许多小币种甚至陷入持续的迷你熊市。这意味着，当前的价格上升并不代表牛市高潮已至，而更可能只是第一幕。
+
+ 作者借用 YouTuber Jesse Eckel 的研究，列出了过去引发加密牛市的 11 个宏观流动性杠杆，包括降息、量化宽松（QE）、前瞻性指引（即暂停加息的承诺）、降低银行准备金率、放宽资本规则、贷款延期政策、银行救助与担保、大规模财政支出、动用财政部一般账户（TGA）、外国央行的 QE 外溢效应，以及紧急信贷工具等。这些机制不是孤立触发，而是叠加产生乘数效应，从而激发市场的投机性上涨。每一轮牛市前，这些工具都被大量使用，如 2008 年金融危机后与 2020 年疫情时期。而当前宏观环境下，尽管部分数据出现衰退信号，例如制造业就业调查大幅恶化，但大多数流动性杠杆尚未启动。因此，虽然资产价格上涨，但并未具备过去几轮牛市的那种广谱、全面的爆发特征。
+
+ 文章强调，在宏观维度上推动流动性释放的根本诱因是「经济疼痛」（economic pain）。无论是金融危机、系统性失业，还是大规模产业收缩，唯有在剧烈的经济下行压力下，政策制定者才会果断启动全面刺激措施，引发新一轮的流动性泛滥。而目前的全球经济虽面临压力，但尚未达到逼迫政策大转向的程度。作者以 M2 广义货币供应增速和 ISM 制造业 PMI 指数为代表性指标，指出当前 M2 同比增速仍处于低位，PMI 也未显著回升，远未达到过往牛市前的数值水平。简言之，当前市场可能继续温和上涨，但若无流动性泛滥的强刺激出现，整个市场依然缺乏引爆全面狂热行情的土壤。真正的牛市，将在宏观政策全线宽松、流动性洪水来临时才会到来，而那一刻尚未出现。【原文为英文】
+内容来源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/de9f9469-6e06-4ff5-92d2-6b511169a778"
+                        open
+                      >
+                        <summary class="article-expander__title">2025 年 CEX 华语用户调研报告：近 80% 受访者增加资金投入，74% 受访者希望上币流程透明</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/de9f9469-6e06-4ff5-92d2-6b511169a778">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Chainfeeds 导读：
+约 60% 的受访者遭遇出入金问题。
+文章来源：
+https://www.chaincatcher.com/article/2184533
+文章作者：
+链捕手
+
+观点：
+链捕手：尽管面临链上竞争与监管压力，近一年华语用户对中心化交易所的使用频率和资产投入整体仍显著增长。约 80.5% 的受访者表示使用频率提升，77.4% 的受访者在 CEX 中的资产配置增加，54.4% 表示在本周期获得的盈利超过上一个周期。头部平台如 Binance 和 OKX 仍是使用频率最高、资产托管最多的平台，其中 Binance 更是以超过 85% 的使用率和 60% 的资产托管占比居于主导地位。然而，这一趋势背后也潜藏着信任危机。尽管用户使用频率提升，但 Binance 也是减少使用最多的平台之一（占比达 51.9%），反映出用户在被迫依赖与逐步警惕之间摇摆。同时，63.9% 的用户因上币机制问题弃用某交易所，38.7% 因安全事件弃用，这些数据揭示了用户对交易所透明度、合规性与资产安全的高度关注。
+
+ 调研显示，中心化交易所当前面临的最关键用户痛点集中于三个方面：出入金障碍、上币机制质疑与平台运营争议。59.3% 的用户曾遭遇出入金困难，暴露出 CEX 与传统金融体系之间的衔接依旧存在严重断层。此外，用户对上币问题反应尤为强烈，63.9% 的用户因项目破发、内幕交易质疑等原因选择弃用平台；另有超过 74% 的受访者呼吁上币流程公开透明，以重建对平台公平性的信任。用户还对平台营销手法、客户服务与风控标准表示不满，如提现冻结、客服响应缓慢等问题也广泛存在。在交易所选型因素中，69.5% 用户最看重品牌知名度，其次是安全性（48.8%）与流动性（37.8%）。但品牌声誉一旦被质疑，将极大冲击用户信心，尤其在多起平台暴雷之后，用户对 CEX 的风险容忍度正明显下降。
+
+在对未来格局的判断中，69.5% 的受访者表示会考虑使用 DEX 替代 CEX，63.9% 更认为 DEX 最终将完全取代 CEX。这一观点的兴起源自对「去中心化」理念的高度认同，也反映了对 CEX 信任体系的结构性怀疑。尽管如此，CEX 在短期内的功能完备性、流动性和法币通道等优势仍具备不可替代性，仍有 77.4% 的用户在增加对 CEX 的资产配置。约三成用户认为 CEX 与 DEX 会长期并存，尤其是在机构用户和新手投资者需求层面，CEX 的角色短期内难以完全取代。为了挽回用户信任，74% 的受访者认为 CEX 应优先提升上币透明度，37% 强调资产储备公开化，35% 希望建立统一风控标准，18% 期望限制高杠杆交易。综合来看，华语用户普遍认同开放式金融的未来趋势，但也期待 CEX 能通过机制改革与技术进化，在「被去中心化」之前自我革新，实现行业双轨共存的平衡路径。
+内容来源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/ae61d957-0478-4e48-b903-747933892311"
+                        open
+                      >
+                        <summary class="article-expander__title">【长推】新加坡对 Web3「赶尽杀绝」，监管套利时代结束，一场 Web3「大撤退」正在来临</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/ae61d957-0478-4e48-b903-747933892311">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Chainfeeds 导读：
+新加坡金管局 MAS 在 2025 年 5 月 30 日发布了数字代币服务提供商 DTSP 的新规的回应文件，许多人还没有意识到这实际上将影响整个亚洲 Web3 行业的格局。
+文章来源：
+https://x.com/bocaibocai_/status/1930188913156448323
+文章作者：
+菠菜菠菜
+
+观点：
+菠菜菠菜：曾几何时，新加坡是全球 Web3 创业者的天堂。2021 年，在中国全面封禁加密交易、美国 SEC 四处施压之际，这个小岛国却张开怀抱欢迎加密创新者。Three Arrows Capital、Alameda Research、FTX 亚洲总部等知名项目纷纷落户，不仅因新加坡 0% 资本利得税的诱惑，更因为新加坡金融管理局（MAS）当时展现出的拥抱创新态度。彼时，只需在新加坡注册一家公司，即可合法合规地面向全球（不含新加坡本地）提供数字资产服务，同时享有国际金融中心的信誉背书。这种身在新加坡，心系全球的监管套利模式一度吸引大量加密从业者。如今，随着 MAS 正式推出数字代币服务提供商（DTSP）新规，这一时代宣告终结。MAS 的态度可概括为一句话：无牌不得经营，违规即遣返。DTSP 规则不仅严格限制业务活动的合法范围，甚至对营业场所本身的定义都极具扩张性与模糊性，预示着监管执行力度将大大增强。
+
+ DTSP，全称数字代币服务提供商，涵盖范围极广。根据 FSM Act 第 137 条与文件 3.10 的规定，DTSP 包括两类主体：一是在新加坡设有营业场所的个人或合伙企业；二是即便在海外提供服务，只要是由新加坡注册公司运营的，也属于监管范围。更令人担忧的是，MAS 对营业场所的定义非常宽泛，包含任何用于业务活动的地点，甚至流动摊位。也就是说，只要在新加坡从事任何涉及数字资产的业务，不论是面向本地还是海外客户，且无牌照，都可能被视为违法。那在家办公是否例外？Baker McKenzie 律所专门对此向 MAS 咨询，但 MAS 回应模棱两可：若你是海外公司雇员，在家工作或可豁免；但若你以顾问、创始人、自由职业者身份为海外项目远程办公，仍可能构成违规。特别是共享办公空间、关联公司办公室等被视为更容易落入监管范围的场景，进一步放大了合规风险。MAS 明确表示，该法规的适用范围非常广泛，仅在极为有限的情况下会批准新牌照申请，说明其执行态度极为强硬。
+
+ 更令人震惊的是，DTSP 新规不仅针对开发者、顾问或交易平台，还可能将内容创作者、社群 KOL 等纳入监管。FSM Act 第一附表第 (j) 项明确指出，凡提供与数字代币相关建议或发布研究分析、研究报告的个人或机构，均可能被视为提供数字代币服务。这意味着，即使你只是发布了一篇分析某个代币前景的文章，或运营一个加密主题的社交账号，在未取得许可的前提下，都可能被认定为违规。这让许多 KOL 和分析师如履薄冰。Blockchain Association of Singapore 向 MAS 发出质疑：传统研究是否也算与代币销售有关？MAS 至今未明确答复，模糊空间反而增加了执法任意性。哪些人群风险最高？首先是未持牌的个人：开发者、顾问、做市商、矿工、KOL、社群运营等；其次是未持牌机构：CEX、DEX、DeFi 项目、钱包、NFT 平台等。结语是明确的：新加坡正收紧所有加密活动空间，监管套利窗口彻底关闭。未来监管将更趋杀鸡儆猴，从案例入手严厉整顿，只有少数大机构能留存，小项目和自由职业者将被清出新加坡。
+内容来源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://substack.chainfeeds.xyz/p/rwa-ethglobal-prague-2025-pantera"
+                        open
+                      >
+                        <summary class="article-expander__title">ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://substack.chainfeeds.xyz/p/rwa-ethglobal-prague-2025-pantera">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb5bf8c-6076-4222-bddc-64bbae2e20d3_1200x795.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>投研早报丨以太坊 RWA 爆发：监管变局与全新增长引擎/ETHGlobal Prague 2025 决赛入围项目速览/Pantera 解析两大流行趋势：加密资产金库储备和稳定币
+内容来源</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -25310,26 +26470,6 @@ Read the full entry</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/altcoin-season-over-memecoins-value"
-                        open
-                      >
-                        <summary class="article-expander__title">Why altcoin seasons may not be coming back</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/altcoin-season-over-memecoins-value">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-altcoins.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Altcoin season may be on a permanent pause as the market matures and paths grow more selective</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;86
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -25624,226 +26764,6 @@ Read the full entry</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="04dd0ef8-871a-4012-8a82-a2c9f495bef6"
-                        open
-                      >
-                        <summary class="article-expander__title">The Growing Institutional Adoption of Crypto: An Interview with Nick Hammer, CEO, BlockFills</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/coindesk-indices/2025/05/07/the-growing-institutional-adoption-of-crypto-an-interview-with-nick-hammer-ceo-blockfills">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/e96e3385b8e7a3378990ef0421f2e18c46cbf90e-3840x2160.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Institutions are starting to embrace crypto as a legitimate investment, helping drive mainstream acceptance and foster needed regulatory clarity.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;34
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="8fc2d421-84ea-4be5-8706-3c1029d25301"
-                        open
-                      >
-                        <summary class="article-expander__title">CoinDesk 20 Performance Update: Litecoin (LTC) Gains 7.7%, Leading Index Higher</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/coindesk-indices/2025/05/07/coindesk-20-performance-update-litecoin-ltc-gains-7-7-leading-index-higher">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/d21a7341591f3def78104e563caad14201e1912f-480x360.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Sui (SUI) joined Litecoin (LTC) as a top performer, gaining 3.9%.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;21
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="a01eb598-0050-44de-aefe-b72e14e7431a"
-                        open
-                      >
-                        <summary class="article-expander__title">Crypto Exchange Gemini Hires Brad Vopni to Lead Institutional Push</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/business/2025/05/07/crypto-exchange-gemini-hires-brad-vopni-to-lead-institutional-push">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/92e0eb020c3b7d127320535e9c406cc0fc830764-5374x4044.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Vopni will be responsible for overseeing and executing the firm&#x27;s institutional strategy.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="e0706a07-f53d-4b58-bc23-9af837d74a1c"
-                        open
-                      >
-                        <summary class="article-expander__title">Bitcoin Accumulation Strengthens as BTC Approaches Key Resistance</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/07/bitcoin-accumulation-strengthens-as-btc-approaches-key-resistance">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/bb423b91fb26e40fc8b0cee050066cb9f9ec494b-3200x1800.png?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>On-chain data reveals rising confidence among both long- and short-term holders, with $99.9K flagged as a potential profit-taking zone.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="49c7af19-d985-4e21-88b1-1d5ae6be5c30"
-                        open
-                      >
-                        <summary class="article-expander__title">Visa Doubles Down on Stablecoins With Investment in Blockchain Payments Firm BVNK</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/business/2025/05/07/visa-doubles-down-on-stablecoins-with-investment-in-blockchain-payments-firm-bvnk">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/1432b3fbaef870296b2ce91a31bbd2c6d5678548-4240x2832.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The deal follows BVNK&#x27;s $50 million fundraising round that included Haun Ventures, Coinbase Ventures and Tiger Global.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="cf53ad6d-1024-4364-8b60-0bef4e44525d"
-                        open
-                      >
-                        <summary class="article-expander__title">Massive Bitcoin Bull Run Ahead? Two Chart Patterns Mirror BTC&#x27;s Rally to $109K</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/07/massive-bitcoin-bull-run-ahead-two-chart-patterns-mirror-btc-s-rally-to-usd109k">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/7f04f8761ace2ffeacbcacd6baf6b5a671a6d121-1280x852.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Key bearish indicators recently trapped bears on the wrong side of the market in a pattern observed in August-September 2024.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="de5f06a2-3f43-4f20-bcc8-0036243fe753"
-                        open
-                      >
-                        <summary class="article-expander__title">Crypto Daybook Americas: Powell Will Set the Tone While Markets Eye Asia Battles, Trade</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/daybook-us/2025/05/07/crypto-daybook-americas-powell-will-set-the-tone-while-markets-eye-asia-battles-trade">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/2338f761583571c3162930fd9dc0302fc211026e-3241x1823.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Your day-ahead look for May 7, 2025</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;38
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="f948c5b4-e927-438c-b36d-2a6230978ea2"
-                        open
-                      >
-                        <summary class="article-expander__title">MOG Coin Rallies as Elon Musk, Garry Tan Embrace ‘Mog/Acc’ Identity</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/07/mog-coin-rallies-as-elon-musk-garry-tan-embrace-mog-acc-identity">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/fe442a26472ff7c5ef44f7072f7db0664af94131-1280x862.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The “mog/acc” is quickly gaining ground among everyone from Elon Musk to Garry Tan, a move that bumps the project’s visibility - and eventually prices.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="4fced237-427d-441f-b8d6-883edd499464"
-                        open
-                      >
-                        <summary class="article-expander__title">Ethereum Activates ‘Pectra’ Upgrade, Raising Max Stake to 2,048 ETH</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/tech/2025/05/07/ethereum-activates-pectra-upgrade-raising-max-stake-to-2048-eth">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/bf3bb2a695e2f328f36be1ff918cbf9eb4231f1d-3000x2000.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The update aims to streamline staking, enhance wallet functionality, and improve overall efficiency.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="23fb8d69-5ee0-4462-9f62-2f67830e1ec7"
-                        open
-                      >
-                        <summary class="article-expander__title">BlackRock’s Spot Bitcoin ETF Tops World’s Largest Gold Fund in Inflows This Year</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/07/blackrock-s-spot-bitcoin-etf-tops-world-s-largest-gold-fund-in-inflows-this-year">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/efd01934650dce8e442f4ca433f310f5c4de6800-1280x853.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>IBIT&#x27;s outperformance indicates institutions&#x27; confidence in bitcoin&#x27;s long-term prospects despite the cryptocurrency&#x27;s relatively dour price performance.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="179bb279-b719-4ecd-b59c-644f2f0c72b0"
-                        open
-                      >
-                        <summary class="article-expander__title">Metaplanet Lifts Bitcoin Stash by 555 BTC, Plans to Sell Debt to Buy More</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/07/metaplanet-lifts-bitcoin-stash-by-555-btc-plans-to-sell-debt-to-buy-more">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/a8185c29a55a7805ba8c40418021fd6352fe58b4-1920x1283.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The Tokyo-based company earmarked the entire offering for EVO FUND only days after previously selling $25 million in bonds to the same buyer.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -25915,911 +26835,6 @@ Read the full entry</span>
                               <span>當前全球政經格局劇變，本期 Podcast 中，Kyle Chasse 與 Arthur Hayes 深度探討 […]
 Arthur Hayes：比特幣何時能突破 100 萬美元？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417465"
-                        open
-                      >
-                        <summary class="article-expander__title">關稅下的假繁榮？美國 Q2 才是經濟真考驗</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/the-second-quarter-of-the-u-s-economy-is-a-real-test/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/images-12.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>本期週報聚焦美國第一季經濟數據，剖析GDP短期萎縮背後的結構性原因，並探討關稅政策對第二季經濟走勢的潛在影響。 […]
-關稅下的假繁榮？美國 Q2 才是經濟真考驗〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417539"
-                        open
-                      >
-                        <summary class="article-expander__title">2.5億美元加密貨幣世紀劫案：靠ZachXBT一個月內破案</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/250-million-cryptocurrency-theft/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/images-13.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>通過社交媒體追蹤到嫌疑人 Lam 的奢華生活，並協助執法部門調查。Lam 和其他共犯使用複雜的洗錢手段，但最終 […]
-2.5億美元加密貨幣世紀劫案：靠ZachXBT一個月內破案〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417524"
-                        open
-                      >
-                        <summary class="article-expander__title">比特幣戰略儲備難產？民主黨正「圍剿」川普加密新政</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/the-democrats-are-encircling-trumps-new-encryption-policy/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/29678-1746512308624.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>反對之聲迭起，加密新政會「難產」嗎？ （前情提要：別氣餒！亞利桑那州長否決比特幣儲備案後，還有2項關鍵提案本日 […]
-比特幣戰略儲備難產？民主黨正「圍剿」川普加密新政〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417571"
-                        open
-                      >
-                        <summary class="article-expander__title">Morph：打響消費級公鏈第一槍，為什麼有機會成為超級入口？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/morph-the-first-consumer-grade-public-chain/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/mmm-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>如果你相信 Web3 的未來是生活化的、普及化的，那麼 Morph 值得關注。本文源自 冰蛙 所著文章，由 深 […]
-Morph：打響消費級公鏈第一槍，為什麼有機會成為超級入口？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417662"
-                        open
-                      >
-                        <summary class="article-expander__title">彭博：能參加晚宴的川普幣大戶，恐有76%來自美國境外</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/bloomberg-analysis-over-half-of-top-trump-memecoin-holders-used-foreign-exchanges-among-us/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>彭博 Bloomberg 檢測了川普幣前 220 個持有人的錢包地址，發現可能有 76% 的持有人身在美國境外 […]
-彭博：能參加晚宴的川普幣大戶，恐有76%來自美國境外〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417654"
-                        open
-                      >
-                        <summary class="article-expander__title">以太坊 Pectra 升級「正式上線主網」迎3大更新，史上最沒人關注 ETH 反應溫和…</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/ethereum-pectra-upgrade-officially-launched-on-mainnet/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/GqVvavqWwAAR80y-1.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>以太坊 Pectra 升級正式上線主網，帶來 L2 資料容量倍增、智能帳戶功能啟用等功能，不過市場反應平穩。  […]
-以太坊 Pectra 升級「正式上線主網」迎3大更新，史上最沒人關注 ETH 反應溫和…〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417638"
-                        open
-                      >
-                        <summary class="article-expander__title">金管會要Line官方刪掉「所有加密貨幣群組」？主管機關：是謠言</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/the-fsc-has-requested-that-line-remove-all-cryptocurrency-related-groups/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/line.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>網路謠言多，最近你可能聽到台灣政府要Line官方「刪掉所有加密貨幣社群」，都是假的！ （前情提要：幣想科技被金 […]
-金管會要Line官方刪掉「所有加密貨幣群組」？主管機關：是謠言〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >ChainFeeds精选</button>
-                  <a class="source-heading__link" href="">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/355d96de-2558-44dd-aca1-cb2261a89800"
-                        open
-                      >
-                        <summary class="article-expander__title">Arthur Hayes 播客：比特币何时突破 100 万美金？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/355d96de-2558-44dd-aca1-cb2261a89800">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Chainfeeds 导读：
-本期播客 Kyle Chasse 与 Arthur Hayes 深入分析了比特币可能在 2028 年前突破 100 万美元的逻辑。此外，Arthur 也谈到了中美博弈、政策响应速度、交易策略、山寨币轮动，以及机构资金如何通过上市公司间接加仓比特币等多维议题。整体观点结合了全球宏观、政治博弈、市场结构与叙事演化。
-文章来源：
-https://mp.weixin.qq.com/s/4IM4GgnMcTEYZsbLoEUcGw
-文章作者：
-吴说区块链
-
-观点：
-Arthur Hayes：在 2022 年第三季度，大家对加密货币和其他风险资产都非常悲观。为什么？因为利率不断上升，债券市场崩溃，股市下跌，FTX 出事了。没人愿意碰加密货币，比特币跌到 15,000 美元，大家还觉得它要跌到 10,000 美元，就是那种氛围。然后，突然之间，耶伦推出了所谓非量化宽松政策，也就是激进的财政部发债策略 — — 大量发行国库券和长期债券，把美联储资产负债表上被灭菌的 2.5 万亿美元重新注入全球市场。从 2022 年 12 月到 2025 年初，风险资产整体暴涨，比特币翻了 6 倍，股票翻倍，黄金也翻倍，所有东西都表现亮眼。而这段时间内，美联储其实并没有明显宽松，真正推动市场的，是财政部的操作。
-
-今天的环境虽然有所不同，但我们看到的问题依旧存在。比如新的关税政策，债市持续崩溃，股市暴跌，人们担心通胀会因中国不再输出廉价商品而上升，市场充满不确定性。很多人会说：我不需要持有比特币，也不需要持有这些资产。但关键是，当波动性上升时，政策部门就会迅速回应。财政部长贝森特上电视，开始谈国债回购，这实际上是缓解银行资产负债表压力的一种方式，让银行可以借出更多资金给对冲基金，让他们在国债拍卖时买入国债，进行基差交易（basis trade）。这就是我认为的本轮周期底部信号 — — 当财政部长在彭博上表示将进行回购、支撑国债市场时，就是做多一切的时刻。
-
-我仍然认为目标是 2025 年比特币 25 万美元。我觉得真正的流动性高潮 — — 也就是货币创造达到极致的阶段 — — 会出现在 2026 到 2027 年之间。因为在美国，美联储主席的任期将在 2026 年 5 月结束，而如果特朗普连任，他们可能无法完全掌控政治机构，但一定会让一个支持印钞和推动让美国再次伟大议程的人来接任。到那时，我们可能会迎来一个极度鸽派的美联储。所以从最迟 2026 年 5 月开始，我们会看到一个极度宽松的周期，2026 到 2027 年可能会疯狂到极点。所有的工具都可能同时上场：QE、杠杆率放松、国债回购、收益率曲线控制等。所有人都跟特朗普站在一边，市场会开始过度定价未来的宽松，然后我们会经历一波修正。
-内容来源</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/8bbcd953-876f-40a0-9beb-e73200e2b4f7"
-                        open
-                      >
-                        <summary class="article-expander__title">加密基础设施的当前状态：挑战与机遇</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/8bbcd953-876f-40a0-9beb-e73200e2b4f7">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Chainfeeds 导读：
-加密货币基础设施领域正经历显著的市场疲劳。
-文章来源：
-https://mp.weixin.qq.com/s/gGAgBl_4PB07ARUHESIEnw
-文章作者：
-IOSG Ventures
-
-观点：
-IOSG Ventures：许多基础设施项目通常偏重于追求前瞻的技术创新，而忽略了开发者的实际需求。他们往往过于关注一些超出核心功能之外的元素，例如隐私保护、信任假设、可验证性和透明度。这种过于超前的技术路线忽视了短期市场接受度和实际应用的重要性，不仅增加了早期市场推广的难度，也导致项目难以获得有效的用户反馈和验证。这类基础设施项目的激增造成了一种矛盾局面 —— 太多平台争夺过少的有吸引力的应用。这种不平衡导致了大量实际使用率极低且几乎没有收入产生的「幽灵链」，创造了不可持续的经济模式，主要依赖代币增值而非真正的实用性。例如，尽管 ZKVM 技术相当先进，但它所提供的可验证性在现阶段并不能有效解决区块链所面临的实际挑战，也无法推动更多 Web2 应用与区块链技术的融合。因此，ZKVM 技术目前更多地表现为一种理想化而非实际的基础设施产品。相比之下，云计算则直接回应了市场上已被验证的需求，即如何高效管理不同配置、不同时间和地点的服务器资源。这一需求本身已有较为成熟的市场基础，而云计算平台通过模块化、接口化的服务器资源、数据库管理和存储服务，直接满足了开发者在快速部署、弹性扩容与成本优化等方面的实际诉求。正是因为切实解决了企业和开发者的痛点，云计算技术迅速获得了市场认可，并最终发展成为支撑互联网经济的重要基础设施。
-
-当前市场最显著的特征是估值逻辑的转变。早期单纯依靠技术叙事和高 FDV（完全稀释估值）吸引投资的模式正面临严峻挑战。许多项目呈现出高 FDV、低流通市值（MC）和低交易量的特点。这预示着未来大量代币解锁将带来持续的抛售压力，即使项目取得技术进展，也可能因代币稀释导致价格下跌，进而侵蚀用户信心，形成负反馈循环。这表明，一个健全、可持续的代币经济模型对于基础设施的长期健康至关重要，其重要性不亚于技术本身。即使是成功的项目，其估值似乎也面临着约 100 亿美元的隐形上限。这意味着对于投资者而言，获得超额回报（如 100 倍）需要在极早期（估值低于 5000 万美元）进入，凸显了时机和早期判断的重要性。市场不再轻易为纯粹的潜力买单，而是要求更明确的价值证明。并非所有开创了新叙事的项目都能获得最高估值。例如，虽然 Double Zero、Story、Eigenlayer 是各自领域的先行者，但许多后续项目通过更强的执行力、更好的市场时机或更优化的方案获得了相当甚至更高的估值。这表明在日益拥挤的市场中，高质量的执行、有效的市场策略和对时机的把握，其重要性日益凸显。
-
-除了技术和市场定位，构建强大的生态系统和进行有效的市场沟通，已成为基础设施项目成功的关键杠杆。绝大多数估值超过 10 亿美元的项目都致力于构建或融入一个专用的生态系统。无论是 L1/L2 吸引开发者构建应用，还是像 Eigenlayer 那样为其他协议提供共享安全，都体现了网络效应的重要性。拥有多个可组合项目的生态系统能够创造出远超孤立解决方案的价值，形成正向循环，吸引更多用户、开发者和资本。基础设施需要同时面向终端用户和开发者这两类核心群体，而他们的需求和关注点截然不同。对终端用户，需要将复杂技术转化为直观的「体验」故事（如交易速度快、成本低、使用便捷），强调技术带来的直接好处。对开发者，则需要深入讲解技术的「能力」（如性能指标、开发工具、可扩展性、安全性），提供专业、精准的信息以供评估。成功的项目往往能根据不同受众调整沟通策略，有效传递价值主张。最有前景的基础设施机会将针对区块链解决方案尚未充分服务的大型 Web2 市场。这些项目可以创建全球可访问的市场，同时引入改进的金融化机制。相比渐进改善现有基础设施，全新基础设施类别将产生显著价值，例如基于意图的基础设施、为每条链添加隐私的 Web3 版 HTTPS。未来最成功的基础设施将优先考虑无缝集成，使 Web2 应用能够逐步实现区块链功能，而不干扰其核心用户体验。
-内容来源</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/0a12a443-0ab8-46c0-be82-6cf2c19b7f0b"
-                        open
-                      >
-                        <summary class="article-expander__title">解读 Web3 AI 赛道 6 大现状：相比 AI Agent 机构更关注基础设施</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/0a12a443-0ab8-46c0-be82-6cf2c19b7f0b">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Chainfeeds 导读：
-赌徒们还在 Pump.Fun 上无脑跟风各种垃圾项目，而聪明钱通过 Virtuals 上的新项目稳赚 5 到 10 倍。中文版本由 PANews 编译发布。
-文章来源：
-https://www.panewslab.com/zh/articledetails/mqngq1ju.html
-文章作者：
-0xJeff
-
-观点：
-0xJeff：Genesis Launch 彻底改变了市场格局，曾经的赌徒们还在 PumpFun 上无脑跟风各种垃圾项目或小团体操纵的代币，而现在他们几乎能在每个新项目上线时稳赚 5 到 10 倍。比以前更公平的目标可通过引入「积分」系统实现，该机制能够协调不同利益相关方的利益。新项目采用固定市值和固定供应量的启动模式，均以 112000 枚 VIRTUAL（约合 20 万美元完全稀释估值）的基准市值启动。参与者最高可获得代币总供应量 0.5%，用户可通过持有 $VIRTUAL、持有官方指定的顶级 AI Agent 代币，或积极参与 Virtuals 生态的社区讨论来赚取积分。近期推出的冷却期机制旨在抑制用户的抛售行为，这进一步提升了 Virtuals Genesis Launchpad 项目的吸引力，因为卖家在出售前不得不多加思考。迄今为止，Genesis Launchpad 已被证明非常成功，其中 BasisOS 是最成功的项目，为参与者带来了 200 倍收益。此后，Virtuals 平台上涌现了大量短线交易者，斩获了 5-40 倍的投资回报率。Genesis Launches 大获成功后，资本和市场的关注度再度向 Virtuals 生态系统汇聚，抬高了该平台上几乎所有 AI Agent 项目的估值水平。
-
- 随着大量低质项目涌现，优质项目（AI 与非 AI）的机会与缺口也随之扩大，这引出了 Virtuals 平台上 DeFi 项目的潜在空间。两个月前，我曾与 Logarithm\BasisOS 团队交流过。了解他们的产品（类似 Ethena 的 Delta 中性策略，但不依赖稳定币），这个团队在 Logarithm 时期就因构建 LPDFi 叙事下的产品而让我印象深刻（利用 Uniswap V3 流动性的产品）。出于对团队的认可，我为他们提供了代币经济模型建议、发行方案等。当时我真心没料到项目会如此暴涨，因为虽然其 DeFi 产品具备基本面，但所谓的「AI 产品」显然过于早期。但最终这些都不重要，项目仍在持续跑赢整个市场。基于 BasisOS 的成功案例，目前 DeFi 项目在 Virtuals 平台发行代币仍存在空白领域。尽管缺乏通过代币释放激励 TVL 的传统 DeFi 代币经济模型，但 Virtuals 平台首发（尤其是当项目拥有强大的 DeFi 产品时）自带的流量效应和市场关注度，将足以确保你的资金库获得充足的 TVL。除了吸引眼球之外，还出现了一种类似 2023-24 年以太坊「垃圾项目」时代的新趋势，即利用交易手续费作为增长引擎。
-
- 尽管诸如 Virtuals 和 AI16Z 这类重要 AI Agent 生态系统的代币价格持续飙升，但许多机构投资者却只能望而却步，因为这些价格暴涨的资产仅适合小型散户或高风险投机者参与。相关市场的流动性极度匮乏，且 LP 机制存在结构性脆弱问题（在 Virtuals 平台上尤为明显）。缺乏适当的流动性基础设施，加上对去中心化人工智能兴趣的兴起，正促使机构将资金投向去中心化基础设施、自主智能 L1 区块链、去中心化 AI 实验室等领域，而非当前的 AI Agent 代币。这类项目包括 GRASS、TAO（及其子网）、VANA、FLOCK、PROMPT 以及一系列尚未发行的代币，比如 Nous Research、Pluralis、Prime Intellect 等团队，这些团队正在构建真正具有 Web3 属性的 AI 护城河，将高性能模型的所有权赋予普罗大众（而非中心化 AI 实验室）。我的策略是，将短期小型 AI Agent 交易（尤其是与实力平平的团队合作的创世项目）所获利润，逐渐投入到去中心化人工智能领域。那些具有基本面价值的 AI 项目需要时间成长，因为它们大多以基础设施为核心，缺乏面向消费者的产品。
-内容来源</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/a217503d-f129-4b9e-ad82-e7d4a801d41e"
-                        open
-                      >
-                        <summary class="article-expander__title">【长推】 BTCFi 生死迷局：困局、突围与未来路径</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/a217503d-f129-4b9e-ad82-e7d4a801d41e">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Chainfeeds 导读：
-BTCFi 已死？当然不是。事实上，BTCFi 的时代甚至还未真正开始。
-文章来源：
-https://x.com/kevinliub/status/1919499375035756580
-文章作者：
-Kevin
-
-观点：
-Kevin：最近，在各类会议和社交媒体上，关于 BTCFi「已死」的论调甚嚣尘上，尤其是以 Babylon 为代表的一批 BTCFi 协议在 Token 发行表现不佳之后，这种情绪愈加高涨。虽然 Babylon 确实开创了一个新的叙事路径，但也暴露出不少结构性问题。其核心理念是将比特币作为底层资产，输出其数字黄金的安全性作为公共产品。从供给侧逻辑来看，这无可厚非，但除了技术上的可行性，关键在于：市场的真实需求在哪里？大型链往往不会采用（因为这会削弱它们自身原生 Token 的价值和角色），而小链虽然可能会选择，但其承接市场规模有限，难以支撑高估值。BTC 安全性的价值捕捉如果只是这些 altcoins, 不仅会持续带来这些 altcoin 的抛压，而且这个经济模型很难持续运转。而基于 Babylon 发行的 LST 虽然具备流动性优势，但其实际能够捕捉的价值有限。目前 LST 收益基本依赖于平台自身或第三方 Token 激励，缺乏真实、原生的 BTC 收益支撑。然而，这并不意味着 BTCFi 赛道走不通。相反，深入分析这些现象后，我们更应聚焦两个尚未解决的根本性问题：BTC 原生的安全性，如何实现？从经济视角出发，原生 BTC 收益的来源和可持续性又该如何建立？
-
-就像以太坊 L2 在 Optimistic Rollup 模型真正跑通后迎来了爆发，Bitcoin 也同样需要自己的 OP 时刻。由于比特币脚本语言的限制，以及用户对原生安全性的极高要求，实现真正原生的 L2 安全性是 BTCFi 能否成立的第一根支柱。之前所谓的 BTC L2 之所以无法获得主流 BTC 社区的认可，BTCfi 之所以发展不起来，这个技术问题是核心原因之一。目前市场上有两大技术路线可行：OP_CAT 与 BitVM2。OP_CAT 尽管技术上合理，但需要修改 BTC 主网脚本指令集。考虑到这项变更触及比特币原教旨主义底线，其推进难度极高。另外，随着比特币被越来越多的公众、金融机构、监管机构乃至大国政府接受，若改变其底层逻辑，将可能导致其稳定性和信任度的严重下降。相比之下，BitVM2 无需修改比特币协议，且结合 OCP（Optimistic Challenge Process）模型，逻辑简洁、效能稳定。在解决经济模型的前提下，具备广泛落地的基础。小剧透：BitVM2 技术的突破比预期来得更快，敬请期待我们的发布。我们相信，这就是比特币的 OP 时刻。
-
- 但安全性不是全部，BTCFi 真正的挑战还是经济模型。经济模型的本质是供需匹配：BTC 能提供什么价值？这些价值能满足哪些现实需求？这个将提供的价值与需求匹配的过程，就是产生收益的过程。而且，除了收益本身，我们还必须同时关注收益的获取成本，确保其具备持续性而非一次性的激励。供给端来看，比特币的核心价值主要包括两点：其去中心化与强共识带来的安全性；作为主流加密资产的流动性价值。需求端来看，BTC 持有者普遍希望资产躺赚。但无论资产体量大小，大家都希望 BTC 能创造更多收益。这个诉求十分强烈，且有广泛基础。为了满足这些需求而开发的产品，本身需要基于比特币原生的安全性，同时需要利用流动性带来的资金规模、效率、套利机会等。因此，建立在原生 BTC 安全性基础之上的 L2，是 BTCFi 可持续发展的起点。结合 ZK Rollup 桥，BTC 可以安全高效地引入二层进行经济活动。二层产生的交易量所带来的收益（如 Gas 费用），应部分返还给 BTC 持有者，作为他们提供流动性与安全性的回报。如果二层的 Gas 费以 BTC 计价，这就构成了极其纯粹的原生 BTC 收益模型。
-内容来源</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.chainfeeds.xyz/feed/detail/693d75a8-eb06-4b3b-928d-68b0763fbc77"
-                        open
-                      >
-                        <summary class="article-expander__title">【长推】市场展望：「无聊」行情下，有什么值得关注？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.chainfeeds.xyz/feed/detail/693d75a8-eb06-4b3b-928d-68b0763fbc77">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Chainfeeds 导读：
-当前市场其实没什么好展望的，目前这个阶段不是玩叙事的阶段，还是看各个主力的各显神通，以及跟随大的实体去玩。
-文章来源：
-https://x.com/0xSleepinRain/status/1919304930726437194
-文章作者：
-雨中狂睡
-
-观点：
-雨中狂睡：链上的套利空间会随着 AI Agent 的崛起而逐步被削弱。主要可炒作的地方还是 DeFAI 的相关 ticker。当前最需要我们关注的进展，就是以太坊 Pectra 升级所带来的 EIP-7702。它涉及到的叙事是 DeFAI。简单来说，基于 EIP-7702 构建的新 API 允许用户无需编写智能合约即可执行复杂的链上策略，是利好 DeFi Agent 的。这可能是一个潜在的叙事，但是是否能炒作还有待观察。我个人的操作就是把各个以太坊生态（包括 BSC、Layer2）的 DeFAI 都列入 Watchlist，观察一下他们当前的价格变化。另外一个 AI 的叙事是 MCP，但目前也没有跑出一个特别牛逼的东西出来，基本上就是有一个金狗跑出来，项目方们后知后觉，都开始过来蹭。
-
-AI 的每一次重大突破，不是来自新算法，而是来自新数据源的解锁。每次 AI 重大进步的背后，都来自一种全新训练数据源的规模化使用。从这个角度来思考的话，未来的两个方向就是「具身智能的传感器数据捕获」和「视频数据的规模化训练」。虽然目前加密市场也没在炒作具身智能的叙事，但我觉得物理世界传感器 + 数据相关的叙事是潜在能够在未来大爆发的叙事。其实就是 DePAI（DePin+AI）。AI + 视频相关的叙事则要等到 Web2 出现相关的大事件。
-叙事不是孤立的，而是联级的。叙事一定是层层递进的（比如稳定币 + RWA+PayFi）。
-
-比特币虽然不会直接挑战美元的主导地位，但在关税所导致的全球化衰退碎片化的背景下，比特币可能会因流动性增强、机构化参与与市场效率提升而成为一个备选。从当前的环境来看，微策略融钱不会很困难，短期内没有太大的雷。
-内容来源</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://substack.chainfeeds.xyz/p/vitalik-zk-succinct-vs-boundlessop_return"
-                        open
-                      >
-                        <summary class="article-expander__title">ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://substack.chainfeeds.xyz/p/vitalik-zk-succinct-vs-boundlessop_return">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eb5bf8c-6076-4222-bddc-64bbae2e20d3_1200x795.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>投研早报丨Vitalik 新文：以太坊如何实现对标比特币的简洁化架构/ZK 证明市场的龙头之争：Succinct vs. Boundless/比特币争议提案：OP_RETURN 数据限制，回归自由还是加剧拥堵？
-内容来源</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >深潮TechFlow</button>
-                  <a class="source-heading__link" href="https://techflowpost.mirror.xyz">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://techflowpost.mirror.xyz/WKSLeIKKNpZp1YhPjW721rRYx_HT1-H4fiTvnjnm6S4"
-                        open
-                      >
-                        <summary class="article-expander__title">IOTA 重磅宣布 Rebased 主网升级正式上线</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://techflowpost.mirror.xyz/WKSLeIKKNpZp1YhPjW721rRYx_HT1-H4fiTvnjnm6S4">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.mirror-media.xyz/publication-images/eSmNPe6uO3-jk-lQ2xmcN.png?height&#x3D;800&amp;width&#x3D;1600" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>IOTA 重磅宣布 Rebased 主网升级正式上线 – 深潮TechFlow
-升级后的IOTA主网将在第一层支持基于Move语言的智能合约，同时保持第二层的EVM兼容性。
-Read the full entry</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://techflowpost.mirror.xyz/DN-kcYB2WDyeaW2QxXnfMJbjeL-vMfdZoNBjQruZw0I"
-                        open
-                      >
-                        <summary class="article-expander__title">OKX DEX 49 天蜕变归来，一场缺席证明了它的与众不同</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://techflowpost.mirror.xyz/DN-kcYB2WDyeaW2QxXnfMJbjeL-vMfdZoNBjQruZw0I">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.mirror-media.xyz/publication-images/qGj94mQqNsEd_s2o9IByK.jpeg?height&#x3D;799&amp;width&#x3D;1597" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>OKX DEX 49 天蜕变归来，一场缺席证明了它的与众不同 – 深潮TechFlow
-一个产品的重要性，往往在其缺席时才被真正量化。
-Read the full entry</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-06 datetime="2025-05-06T22:30:55.000Z">2025-05-06</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-06 datetime="2025-05-06T22:30:55.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</button>
-                  <a class="source-heading__link" href="https://www.coindesk.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="bc00aadf-da85-4d94-a4e7-f04b0fa248e2"
-                        open
-                      >
-                        <summary class="article-expander__title">Senate Democrat Says He&#x27;s Looking Into Trump&#x27;s Crypto Businesses</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/b3573f3402d3ee1ca97e3371c23fdc32662e5711-5000x3333.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Sen. Richard Blumenthal wrote letters to Trump-affiliated business executives, asking about their ownership and investment structure.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="16a745db-3737-443d-b1b5-6860e516673b"
-                        open
-                      >
-                        <summary class="article-expander__title">Bitcoin Dominance Soars Ahead of FOMC as Volatility Burst Looms, Says Analyst</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/06/bitcoin-dominance-soars-ahead-of-fomc-as-volatility-burst-looms-says-analyst">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/c98a10e0c5df9f061e24f4368baf6936e051593c-2182x1354.png?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Crypto markets are in a holding pattern as capital rotation from altcoins pushed bitcoin&#x27;s market share to fresh 4-year high.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="85951e45-a13e-4284-bbf8-b177d7c6170e"
-                        open
-                      >
-                        <summary class="article-expander__title">CFTC Drops Appeal in Kalshi Election Betting Case</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/cftc-drops-appeal-in-kalshi-election-betting-case">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/ef2178c87658a4bffc40e769e127b020ed8c7fd8-4928x2772.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The CFTC appealed a federal judge’s ruling last year clearing Kalshi’s listing of a political prediction market, arguing that it presented a “profound” harm to the public.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="859dba7b-b33d-4dab-8b80-15d692542d64"
-                        open
-                      >
-                        <summary class="article-expander__title">New Hampshire Becomes First State to Approve Crypto Reserve Law</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/new-hampshire-becomes-first-state-to-approve-crypto-reserve-law">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/af06ac0249ce8e16b83b49c0a2feb7f50b918760-2400x1350.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Governor Kelly Ayotte signed a bill into law that allows the investment of a portion of the state&#x27;s public funds in precious metals and crypto assets.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="48fcb34c-2602-47d8-80b2-989a6941b07a"
-                        open
-                      >
-                        <summary class="article-expander__title">Stabledollars: The Third Act of Dollar Reinvention</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/opinion/2025/05/06/stabledollars-the-third-act-of-dollar-reinvention">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/24e50bbb406a8ca37688c8abf7987eb4b733411e-1000x664.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Blockchain-based dollar infrastructure holds enormous opportunities for the U.S. But only if it treats the technology wisely, says John deVadoss.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="57b4aa63-7cac-486b-b717-dd966a2ca409"
-                        open
-                      >
-                        <summary class="article-expander__title">Planned Crypto Hearing in U.S. House Derailed by Democrat Revolt</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/planned-crypto-hearing-in-u-s-house-derailed-by-democrat-revolt">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/ad8a78eb7441722c7a134c75d83c4c3950de65a3-2352x1323.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Democrats abandoned a joint hearing of two committees on crypto policy, inviting people to instead attend their own discussion of Trump&#x27;s &quot;crypto corruption.&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="ed7e6fd2-d48d-411a-8148-b9c68e8cee49"
-                        open
-                      >
-                        <summary class="article-expander__title">MARA Holdings Cut to Sell at Compass Point Ahead of Earnings, Citing Cash Burn</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/06/marathon-digital-downgraded-to-sell-at-compass-point-citing-unsustainable-cash-burn">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/55783770b7948a8f3b293563f561241411987dfe-1440x810.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Compass Point slashed Marathon’s price target to $9.50, warning of dilution and premium bitcoin exposure.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="932c193f-a0e2-4908-9e44-fef4f3800a40"
-                        open
-                      >
-                        <summary class="article-expander__title">ECB Establishes Innovation Hub to Test Digital Euro as Preparation Phase Nears End</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/ecb-establishes-innovation-hub-to-test-digital-euro-as-preparation-phase-nears-end">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/e0e7d56858850b6e7a6abc32a3772680fdc761b7-5504x3220.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The hub has 70 participants including Accenture, KPMG and CaixaBank.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="d4cf9af1-e8ad-4a42-abfd-57df47608336"
-                        open
-                      >
-                        <summary class="article-expander__title">DeFi Development Adds $11.2M in SOL, Bringing Holdings to More Than 400K Tokens</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/06/defi-development-adds-usd11-2m-in-sol-bringing-holdings-to-more-than-400k-tokens">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/b4101e45e00e4315c2202f407a30096fa7dbaf3d-1920x1280.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Formerly known as Janover, the company&#x27;s SOL holdings are worth more than $57 million at current prices.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="74e3106c-868a-4cdc-9407-092818a1a538"
-                        open
-                      >
-                        <summary class="article-expander__title">Will Crypto Values Survive the Regulatory Wave?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/opinion/2025/05/06/will-crypto-values-survive-the-regulatory-wave">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/f2f0aa2ac2b47a6838d6d774700bc8bebff2b325-1920x1280.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Ahead of the People’s Regulatory Roundtable at Consensus 2025, six leading crypto lawyers discuss whether core crypto principles, like decentralization and privacy, will be included in upcoming legislation and regulation.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;33
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="b95b85bc-3f1c-4cbf-abca-23b1e9859ea5"
-                        open
-                      >
-                        <summary class="article-expander__title">Trump&#x27;s Crypto Play Fuels Senators&#x27; Backlash and Bill to Ban President Memecoins</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/trump-s-crypto-play-fuels-senators-backlash-and-bill-to-ban-president-memecoins">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/4c3e5fc4e4930e75cec1c8c2ace75ad81425b569-5000x2812.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Democratic Senator Chris Murphy pushed a bill to block presidential coins while Elizabeth Warren described how to get Dems to move forward on stablecoins.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="8522ebda-a761-4edd-aea5-0d8800e95e62"
-                        open
-                      >
-                        <summary class="article-expander__title">SOL Strategies Buys $18M of Solana Tokens With First Tranche of $500M Note Deal</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/06/sol-strategies-buys-18m-of-solana-tokens-with-first-tranche-of-500m-note-deal">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/5c0e938a63bd5682392e0d0a8dbe881942882e4f-1280x720.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The Canadian firm is betting on Solana by using debt financing to scale its validator footprint and crypto holdings.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;25
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="96cfffe4-6b3a-45f5-8f4e-733208bd4e43"
-                        open
-                      >
-                        <summary class="article-expander__title">VanEck Submits Proposal to Launch First BNB ETF in the U.S.</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/policy/2025/05/06/vaneck-submits-proposal-to-launch-first-bnb-etf-in-the-u-s">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/986e63e35ef2b083a791229fdee4da648e75fe85-1500x1000.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>If approved, the fund would be the first exchange-traded fund tied to BNB in the U.S.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="30f232ba-36b9-44cb-8aa7-5ae1d555a057"
-                        open
-                      >
-                        <summary class="article-expander__title">BNB Coin Could Hit $2,775 by Year-End 2028, Standard Chartered Says</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.coindesk.com/markets/2025/05/06/bnb-coin-could-hit-2775-by-year-end-2028-standard-chartered-says">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.sanity.io/images/s3y3vcno/production/d8f61eaa6c79326f1434a0062c4c08d7639fd368-1400x787.jpg?auto&#x3D;format" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The token has traded like an unweighted mix of bitcoin and ether since May 2021, the report said.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;24
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Blockworks: News and insights about digital assets.</button>
-                  <a class="source-heading__link" href="https://blockworks.co">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/will-ai-make-blockchains-conscious"
-                        open
-                      >
-                        <summary class="article-expander__title">Will AI make blockchains conscious?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/will-ai-make-blockchains-conscious">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fai-eye.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Today’s blockchains are more like nervous systems without a brain — wiring without will</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;89
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/solanas-software-underpins-these-layer-1s"
-                        open
-                      >
-                        <summary class="article-expander__title">Solana’s software underpins these layer-1s</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/solanas-software-underpins-these-layer-1s">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-Sol-chain-l1s.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A number of blockchains make use of the Solana Virtual Machine</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;87
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/crypto-etf-filing-optimism-bloomberg"
-                        open
-                      >
-                        <summary class="article-expander__title">Optimism fuels more crypto ETF filings despite LTC fund delay</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/crypto-etf-filing-optimism-bloomberg">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-sec.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Bloomberg Intelligence analysts pegged the odds of the SEC approving US litecoin and solana ETFs in 2025 at 90%</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;88
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/waters-crypto-congress-block-hearing-trump"
-                        open
-                      >
-                        <summary class="article-expander__title">Rep. Waters blocks joint House crypto hearing, cites Trump conflict of interest</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/waters-crypto-congress-block-hearing-trump">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-maxinewaters.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Digital Assets Subcommittee Chair Bryan Steil called for a “roundtable” discussion in lieu of a formal hearing</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;89
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/coinbase-sponsor-riot-games-league-of-legends-esports"
-                        open
-                      >
-                        <summary class="article-expander__title">Coinbase sponsors Riot Games’ League of Legends, Valorant esports</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/coinbase-sponsor-riot-games-league-of-legends-esports">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-coinbase.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The exchange sees a way to reach gamers through the deal</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;86
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/blockchain-industry-too-many-blockchains"
-                        open
-                      >
-                        <summary class="article-expander__title">Does the blockchain industry have too many blockchains?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/blockchain-industry-too-many-blockchains">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-blockchains.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>VCs are chasing the fabled layer-1 premium</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;89
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/adidas-nft-drop-xociety-skins"
-                        open
-                      >
-                        <summary class="article-expander__title">Exclusive: Apparel giant Adidas launches Sui NFTs</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/adidas-nft-drop-xociety-skins">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-adidas4.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The drop gives buyers Adidas outfits for their in-game characters, but the game hasn’t fully released yet</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;86
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blockworks.co/news/computer-source-code-first-amendment-rights"
-                        open
-                      >
-                        <summary class="article-expander__title">Code is speech: How computer source code secured First Amendment rights</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blockworks.co/news/computer-source-code-first-amendment-rights">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blockworks.co/_next/image?url&#x3D;https%3A%2F%2Fblockworks-co.imgix.net%2Fwp-content%2Fuploads%2F2025%2F05%2Fbw-bornstein.jpg&amp;w&#x3D;1920&amp;q&#x3D;75&amp;webp&#x3D;false" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>In 1999, Daniel Bernstein fought for code to be protected, just like free speech</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;88
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >動區動趨-最具影響力的區塊鏈新聞媒體</button>
-                  <a class="source-heading__link" href="https://www.blocktempo.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.blocktempo.com/?p&#x3D;417391"
-                        open
-                      >
-                        <summary class="article-expander__title">Zerebro 已故創辦人 Jeffy Yu 還在拋售代幣？KOL質疑：假死逃避詐騙責任</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.blocktempo.com/is-the-deceased-founder-of-zerebro-jeffy-yu-still-selling-tokens/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://image.blocktempo.com/2025/05/jeffy.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Zerebro 聯合創辦人 Jeffy Yu 今日驚傳已經死亡，震驚了社群！但晚間又被發現其地址仍在活躍並轉移 […]
-Zerebro 已故創辦人 Jeffy Yu 還在拋售代幣？KOL質疑：假死逃避詐騙責任〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -28161,8 +28176,8 @@ Zerebro 已故創辦人 Jeffy Yu 還在拋售代幣？KOL質疑：假死逃避�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/bestbestjob/web3rss/actions/runs/15456510361">
-        <time id="build-timestamp" datetime="2025-06-05T01:46:31.273Z">2025-06-05T01:46:31.273Z</time>
+      <a class="footer-link" href="https://github.com/bestbestjob/web3rss/actions/runs/15480970882">
+        <time id="build-timestamp" datetime="2025-06-06T01:45:58.436Z">2025-06-06T01:45:58.436Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
