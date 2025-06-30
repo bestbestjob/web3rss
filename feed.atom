@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-29T01:58:43.866Z</updated>
+    <updated>2025-06-30T01:54:23.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【长推】从硬件加速链到链上借记卡，如何看待 Solayer 的发展战略？]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/7dbf46ff-6fa7-44d8-8b6a-ad93acb71937</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/7dbf46ff-6fa7-44d8-8b6a-ad93acb71937"/>
+        <updated>2025-06-30T01:29:54.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>简单来说，Solayer 的打法很明确：不做单点突破，布局全栈产品线，直接奔着 Solana 生态的「金融操作系统」去了，以实现底层技术到终端消费的闭环。sSOL liquidity staking 加上 sUSD 收益稳定币加上 InfiniSVM 高性能 TPS 链加上 Emerald 借记卡，这四大产品线看似八杆子打不着，但却覆盖了从 infra 布局、资产增值到支付消费的完整链条。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://x.com/tmel0211/status/1939289187808887252">https://x.com/tmel0211/status/1939289187808887252</a></p>
+<p><strong>文章作者：</strong></p><p>Haotian</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Haotian：</strong>有意思的是， $sUSD 这个设计，基于短期美债的真实收益稳定币，4% 的 T-bill 收益直接打在了 USDC 这类躺平稳定币的七寸上。我之前也写文分享过收益稳定币的庞大市场空间。 $sUSD ，3 个月就达到了 $32M 的 TVL 也侧面佐证了这一判断。这种把传统金融固收产品包装成链上原生资产的思路，可以为 Crypto 世界带来真实的、可持续的收益来源，很契合当前 TradiFi+DeFi 融合阶段的市场需要。
+
+号称 100 万 + TPS 的性能突破乍一听有点唬人，但不拘泥于数字，这背后硬件加速 + SVM 兼容的 infiniSVM 扩展解决方案很有服务于未来的超级链即视感。之前写文也重复强调过这一点，尽管 Solana 主网具备的 4,000 左右 TPS 在大部分应用场景下都够用了，但若服务于未来高频 DeFi 交互、专业链上游戏、高频套利 MEV、即时支付等对延迟极度敏感的场景时，infiniSVM 对性能的极致追求就派上用场了，这和 Sonic SVM 专攻游戏场景时类似的思路。但基础 infra 究竟是性能过剩，还是性能不足，需要等待进一步的市场验证，要有足够多的开发者和各类高频应用场景落地才行。
+
+sSOL 的设计也比较不错，巧妙之处在于构建了一套质押 + 再质押的双重收益机制。用户质押 SOL 获得 $sSOL 后，这些 $sSOL 还会被自动 restaking 到 InfiniSVM 网络中提供安全验证服务，形成 SOL 原生收益 + Solayer 生态激励的叠加效应。事实上，这种叠加收益效应的设计会非常吸金，已经有仅 30 万用户和超 5 亿美金的 TVL，为 $sSOL 提供了不错的 DeFi 可组合性。
+
+提到链上借记卡倒不是个特别新鲜的概念，不过 Emerald card 的差异化在于深度整合了 Solayer 自家的生息资产，这意味着用户在消费过程还能保持原本的收益体验。想象一下，用户把资金放在 $sUSD 里生息，需要消费时直接刷卡，有种边花钱边赚钱的体验感。整个过程资产都在链上可追溯，收益还在持续累积。而且，Emerald card 还有 100 + 国家覆盖、ATM 提现支持、Apple/Google Pay 兼容等等基本配置，会有较快的覆盖渗透速度。看越来越多的博主分享借记卡使用体验就是例证。</p><a href="https://x.com/tmel0211/status/1939289187808887252">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asia Morning Briefing: ETH Bulls Eye $3K as Validator Backbone Upgrade Rolls In]]></title>
+        <id>55ed0796-6b8f-444e-9dac-6171b81797a8</id>
+        <link href="https://www.coindesk.com/markets/2025/06/29/asia-morning-briefing-eth-bulls-eye-3k-as-validator-backbone-upgrade-rolls-in"/>
+        <updated>2025-06-29T23:43:15.000Z</updated>
+        <summary type="html"><![CDATA[With ETH's bulls eyeing a breakout to $3K, Obol’s Head of Marketing & Ecosystem says that distributed validators are now critical infrastructure as Wall Street takes interest.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Jumps After Trump Says Growth Will Offset Deficits, Boosting Bull Case for BTC and Gold]]></title>
+        <id>535809e1-5ab6-4a3d-b700-99b45eb3d024</id>
+        <link href="https://www.coindesk.com/markets/2025/06/29/bitcoin-jumps-after-trump-says-growth-will-offset-deficits-boosting-bull-case-for-btc-and-gold"/>
+        <updated>2025-06-29T22:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin rose 0.54% to $107,937 after analyst Will Clemente said Trump’s deficit comments reinforce the bull case for BTC and gold.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB Hovers Above $648 as Maxwell Hard Fork Upgrade Set to Double Block Production Speed]]></title>
+        <id>79f1775f-225a-41d2-86e6-92be2f859679</id>
+        <link href="https://www.coindesk.com/markets/2025/06/29/bnb-hovers-above-usd648-as-maxwell-hard-fork-upgrade-set-to-double-block-production-speed"/>
+        <updated>2025-06-29T21:52:05.000Z</updated>
+        <summary type="html"><![CDATA[BNB held above $648 Sunday ahead of the Maxwell upgrade, which will cut block time in half and boost scalability, validator sync, and network efficiency.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance: ‘2025 Will Be the Year of Tokenized Stocks’]]></title>
+        <id>f6a7f333-bafc-40b2-bdb4-9bba01a60b0e</id>
+        <link href="https://www.coindesk.com/markets/2025/06/29/ondo-finance-2025-will-be-the-year-of-tokenized-stocks"/>
+        <updated>2025-06-29T21:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Ondo rose 1.5% on Sunday, nearly two weeks after the team announced a major alliance to expand global access to tokenized U.S. securities.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REX Shares 預告首檔「 Solana 質押 ETF」要來了！彭博分析師：SEC已無異議、ETH 也快了？]]></title>
+        <id>https://www.blocktempo.com/?p=427363</id>
+        <link href="https://www.blocktempo.com/rex-sol-staking-etf-sec-greenlight/"/>
+        <updated>2025-06-29T10:12:27.000Z</updated>
+        <summary type="html"><![CDATA[SEC 無異議回覆 REX 的 SOL + Staking ETF，加速市場對質押型 ETF 終於要上市的期待 […]
+REX Shares 預告首檔「 Solana 質押 ETF」要來了！彭博分析師：SEC已無異議、ETH 也快了？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[別小看時間＋複利：我打造幣圈財富雪球的 10 條鐵律]]></title>
+        <id>https://www.blocktempo.com/?p=427350</id>
+        <link href="https://www.blocktempo.com/10-iron-laws-for-growing-wealth-in-the-crypto-world/"/>
+        <updated>2025-06-29T09:11:28.000Z</updated>
+        <summary type="html"><![CDATA[資深投資者分享他投資生涯中領悟出來的十大守則。本文源自 DUO NINE 所著文章，由 PANews 整理、編 […]
+別小看時間＋複利：我打造幣圈財富雪球的 10 條鐵律〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>PANews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這44家公司正用加密技術「重寫金融未來」：五大關鍵賽道完整解析]]></title>
+        <id>https://www.blocktempo.com/?p=427335</id>
+        <link href="https://www.blocktempo.com/cryptocurrency-becomes-a-new-engine-for-listed-companies-stock-prices/"/>
+        <updated>2025-06-29T08:46:41.000Z</updated>
+        <summary type="html"><![CDATA[本文統計全球 44 家具有代表性，買入比特幣儲備或是對加密貨幣市場發展，具有重要戰略地位的上市公司。 （前情提 […]
+這44家公司正用加密技術「重寫金融未來」：五大關鍵賽道完整解析〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>odailynews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether CEO：USDT 成功不是因為我們做得多好，而是許多國家經濟太糟糕了…]]></title>
+        <id>https://www.blocktempo.com/?p=427340</id>
+        <link href="https://www.blocktempo.com/tether-ceo-said-usdt-success-is-not-because-of-how-well-we-do/"/>
+        <updated>2025-06-29T08:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Tether 執行長 Paolo Ardoino 分享該公司的未來佈局、百億美元的投資方向、對於 AI 與能源 […]
+Tether CEO：USDT 成功不是因為我們做得多好，而是許多國家經濟太糟糕了…〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>PANews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台灣首例》富邦8月上市納入比特幣ETF基金「雙核心戰略多重資產ETF」]]></title>
+        <id>https://www.blocktempo.com/?p=427325</id>
+        <link href="https://www.blocktempo.com/fubon-to-include-bitcoin-etf-in-august-listing/"/>
+        <updated>2025-06-29T07:59:44.000Z</updated>
+        <summary type="html"><![CDATA[富邦投信將於 8 月 4 日推出台灣首檔納入比特幣 ETF 的多重資產基金，組合涵蓋趨勢產業股票、投資等級債、 […]
+台灣首例》富邦8月上市納入比特幣ETF基金「雙核心戰略多重資產ETF」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[風投報告：若比特幣走跌，多數BTC儲備公司或難倖免於「死亡螺旋」]]></title>
+        <id>https://www.blocktempo.com/?p=427316</id>
+        <link href="https://www.blocktempo.com/most-btc-reserve-companies-are-in-a-death-spiral/"/>
+        <updated>2025-06-29T07:34:34.000Z</updated>
+        <summary type="html"><![CDATA[近 200 家公司把比特幣當現金，Breed 報告警告若價格轉跌，融資窗口恐關閉並引爆死亡螺旋。 （前情提要： […]
+風投報告：若比特幣走跌，多數BTC儲備公司或難倖免於「死亡螺旋」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟報告：全球員工正陷入「無限工時」不關機泥淖，用 AI 找回下班自由的三法則]]></title>
+        <id>https://www.blocktempo.com/?p=427308</id>
+        <link href="https://www.blocktempo.com/employees-are-trapped-in-the-quagmire-of-unlimited-working-hours/"/>
+        <updated>2025-06-29T07:13:57.000Z</updated>
+        <summary type="html"><![CDATA[微軟的 2025 年《Work Trend Index》年度報告中指出，現代工作型態正出現「無限工時」現象，探 […]
+微軟報告：全球員工正陷入「無限工時」不關機泥淖，用 AI 找回下班自由的三法則〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了比特幣，台灣 YouTuber 帶你看「真正的薩爾瓦多生活」長怎樣？]]></title>
+        <id>https://www.blocktempo.com/?p=427301</id>
+        <link href="https://www.blocktempo.com/taiwanese-youtuber-shows-you-real-life-in-el-salvador/"/>
+        <updated>2025-06-29T06:12:50.000Z</updated>
+        <summary type="html"><![CDATA[薩爾瓦多除了比特幣之外，你還知道什麼？YouTuber 啊岳啪啪走本週影片，介紹了薩爾瓦多市中心地下經濟現象及 […]
+除了比特幣，台灣 YouTuber 帶你看「真正的薩爾瓦多生活」長怎樣？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台電淨值「剩2塊7」20年未發股利，股東轟：詐騙人民血汗錢！累積虧損超4500億元]]></title>
+        <id>https://www.blocktempo.com/?p=427290</id>
+        <link href="https://www.blocktempo.com/taiwan-power-has-not-paid-dividends-for-20-consecutive-years/"/>
+        <updated>2025-06-29T05:17:28.000Z</updated>
+        <summary type="html"><![CDATA[台電本週召開股東會，坦言累計虧損已達 4,514 億元，每股淨值僅剩 2.7 元。董事長曾文生表示，將持續向政 […]
+台電淨值「剩2塊7」20年未發股利，股東轟：詐騙人民血汗錢！累積虧損超4500億元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[馬斯克Neuralink發布會震撼來襲：七人已植入腦機介面改變人生、下一步終結盲人，超狂路線圖公開]]></title>
+        <id>https://www.blocktempo.com/?p=427279</id>
+        <link href="https://www.blocktempo.com/musk-neuralink-super-crazy-conference-is-coming/"/>
+        <updated>2025-06-29T04:15:33.000Z</updated>
+        <summary type="html"><![CDATA[美國新創公司 Neuralink 公布最新進展，宣布其腦機介面已成功植入七名參與者，並取得多國臨床試驗許可。會 […]
+馬斯克Neuralink發布會震撼來襲：七人已植入腦機介面改變人生、下一步終結盲人，超狂路線圖公開〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Outpaces S&P 500 With 43% June Rise as Stablecoin Narrative Grows: CNBC]]></title>
         <id>3eb9cd30-71c9-480d-bdfc-25990b5a8319</id>
@@ -12036,363 +12204,6 @@ AI 教父辛頓：我相信人工智慧已有情感意識，AI 失控風險和�
         <summary type="html"><![CDATA[The CEO argued that the country needs to focus on essential resources like ammunition and rare earths.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of Crypto: Someone Tried to Scam Me (Probably)]]></title>
-        <id>437526e0-6641-4a1b-a861-65bfd5ec9bcd</id>
-        <link href="https://www.coindesk.com/policy/2025/05/31/state-of-crypto-someone-tried-to-scam-me-probably"/>
-        <updated>2025-05-31T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I got a call from someone claiming to represent Coinbase, wanting to help me secure my account.]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON Falls 7% as Sell-Off Tied to Musk's Dispute of Telegram, xAI Partnership Continues]]></title>
-        <id>91db8344-df2c-4781-ac88-e6260050d3ae</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/ton-falls-7-as-sell-off-tied-to-musks-dispute-of-telegram-xai-partnership-continues"/>
-        <updated>2025-05-31T12:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Despite the denial, Telegram CEO Pavel Durov stated that the deal has been "agreed in principle" and that "formalities are pending."]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Down 4% as Global Economic Tensions Trigger Market Selloff]]></title>
-        <id>deb6486f-46e0-41fd-94cf-e92b1acb69ac</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/xrp-down-4-as-global-economic-tensions-trigger-market-selloff"/>
-        <updated>2025-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[XRP’s 4% drop highlights market uncertainty as global trade tensions and liquidations weigh on investor sentiment.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幣圈老手的自白：我是如何跑贏BTC，穩健實現千萬財富的？]]></title>
-        <id>https://www.blocktempo.com/?p=421892</id>
-        <link href="https://www.blocktempo.com/confessions-of-a-crypto-veteran-how-i-outperformed-btc-and-built-a-10m-portfolio-with-steady-gains/"/>
-        <updated>2025-05-31T10:42:52.000Z</updated>
-        <summary type="html"><![CDATA[本文分享了作者如何通過加密貨幣實現八位數財富，並瞄準九位數目標的經驗。本文源自 @WarrenNakamoto […]
-幣圈老手的自白：我是如何跑贏BTC，穩健實現千萬財富的？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Block Beats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAVE Rebounds From 15% Drop as DeFi Yield Markets Gain Momentum]]></title>
-        <id>35a043ef-b6d2-4173-80d7-fb176424db43</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/aave-rebounds-from-15-drop-as-defi-yield-markets-gain-momentum"/>
-        <updated>2025-05-31T10:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Despite global economic tensions, AAVE shows resilience with strong support levels forming after recent volatility.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一週爆虧超6千萬美元》巨鯨James Wynn：我還是比你們有錢，每月被動收入超過你一年]]></title>
-        <id>https://www.blocktempo.com/?p=421887</id>
-        <link href="https://www.blocktempo.com/lost-over-60m-in-a-week-whale-james-wynn-fires-back-im-still-richer-than-you-my-monthly-passive-income-tops-your-annual-salary/"/>
-        <updated>2025-05-31T10:13:00.000Z</updated>
-        <summary type="html"><![CDATA[知名交易員 James Wynn 原本獲利超過 8,000 萬美元，卻在一週內遭遇爆倉和止損出場，累計虧損超過 […]
-一週爆虧超6千萬美元》巨鯨James Wynn：我還是比你們有錢，每月被動收入超過你一年〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Down 4% as Global Trade Tensions Overshadow SEC Victory]]></title>
-        <id>07ed5ac1-4a03-406f-b4bb-7b4f55570d0b</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/bnb-down-4-as-global-trade-tensions-overshadow-sec-victory"/>
-        <updated>2025-05-31T10:10:59.000Z</updated>
-        <summary type="html"><![CDATA[BNb token faces significant selling pressure despite positive regulatory developments, as Trump’s new tariffs spark market-wide instability.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana's SOL Dips 5% Amid Fading Memecoin Trading Activity on Network]]></title>
-        <id>168d6e6c-ff1d-4954-a538-e69b20e46d5c</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/solanas-sol-dips-5-amid-fading-memecoin-trading-activity-on-network"/>
-        <updated>2025-05-31T10:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Market uncertainty and declining network activity drive SOL below critical $160 support level.]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Bulls Rack up $600M Liquidations as Bitcoin Drops Under $104K]]></title>
-        <id>e8a4f2e3-54d3-4b2b-a0ce-34c1cb1bb960</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/crypto-bulls-rack-up-600m-liquidations-as-bitcoin-drops-under-104k"/>
-        <updated>2025-05-31T09:31:12.000Z</updated>
-        <summary type="html"><![CDATA[A cascade of liquidations might suggest a market turning point, where a price reversal could be imminent due to an overreaction in market sentiment.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogecoin Dives 8%, Pepe Down 12% in Weekend Crypto Sell-Off]]></title>
-        <id>3a70fdb7-9f10-42e0-b814-6786d183c6a1</id>
-        <link href="https://www.coindesk.com/markets/2025/05/31/dogecoin-dives-8-pepe-down-12-in-weekend-crypto-sell-off"/>
-        <updated>2025-05-31T09:01:19.000Z</updated>
-        <summary type="html"><![CDATA[Altcoins took a beating as traders digested renewed U.S.-China tariff tensions, Bitcoin whale sell-offs, and a broader risk-off mood.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普媒體砸23.2億鎂買比特幣！晉升美股第4大持幣公司、DJT短時漲超10%]]></title>
-        <id>https://www.blocktempo.com/?p=421876</id>
-        <link href="https://www.blocktempo.com/trump-media-buys-2-32b-in-bitcoin-becomes-4th-largest-btc-holder-among-u-s-public-firms-djt-jumps-over-10/"/>
-        <updated>2025-05-31T08:53:37.000Z</updated>
-        <summary type="html"><![CDATA[川普旗下的 Trump Media 宣布完成 24.4 億美元私募，計畫將 23.2 億美元投入比特幣資產，晉 […]
-川普媒體砸23.2億鎂買比特幣！晉升美股第4大持幣公司、DJT短時漲超10%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$Labubu衝破0.074鎂創新高！鏈上仿盤四起，IP文化成炒作主敘事？]]></title>
-        <id>https://www.blocktempo.com/?p=421869</id>
-        <link href="https://www.blocktempo.com/labubu-hits-new-high-at-0-074-on-chain-copycats-emerge-is-ip-culture-the-new-hype-narrative/"/>
-        <updated>2025-05-31T07:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Solana 迷因幣 $Labubu 憑藉其 IP 原型與社群熱度，昨晚逆勢上漲逾 100%，幣價衝破 0.0 […]
-$Labubu衝破0.074鎂創新高！鏈上仿盤四起，IP文化成炒作主敘事？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今晚預售的IAO項目LOUD火遍推特，其實是陰謀集團的升級實驗？]]></title>
-        <id>https://www.blocktempo.com/?p=421860</id>
-        <link href="https://www.blocktempo.com/token-launch-looms-for-iao-project-loud/"/>
-        <updated>2025-05-31T05:15:21.000Z</updated>
-        <summary type="html"><![CDATA[本文源自加密 KOL 加密無畏所著文章，以下由動區整理、編譯。 （前情提要：川普轟中國違約、擬制裁中資子公司！ […]
-今晚預售的IAO項目LOUD火遍推特，其實是陰謀集團的升級實驗？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普親送白宮徽章鑰匙：馬斯克不是真的離開！將擔任「總統顧問」助攻改革]]></title>
-        <id>https://www.blocktempo.com/?p=421851</id>
-        <link href="https://www.blocktempo.com/trump-personally-presents-white-house-key-pin-musk-never-really-left/"/>
-        <updated>2025-05-31T04:29:16.000Z</updated>
-        <summary type="html"><![CDATA[川普在白宮為馬斯克舉辦「送別會」，稱其並未真正離開政府。馬斯克也說，將繼續擔任川普的「朋友與顧問」。 （前情提 […]
-川普親送白宮徽章鑰匙：馬斯克不是真的離開！將擔任「總統顧問」助攻改革〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國4月核心PCE創四年新低！通膨降溫、信心回升，但聯準會傳聲筒示警兩項風險]]></title>
-        <id>https://www.blocktempo.com/?p=421842</id>
-        <link href="https://www.blocktempo.com/u-s-core-pce-hits-4-year-low-in-april-inflation-expectations-fall-but-fed-whisperer-warns-of-two-key-risks/"/>
-        <updated>2025-05-31T03:09:48.000Z</updated>
-        <summary type="html"><![CDATA[美國 4 月核心 PCE 年增率創四年多新低，5月消費者信心回升，市場樂觀預期 9 月降息機率升高。但 Nic […]
-美國4月核心PCE創四年新低！通膨降溫、信心回升，但聯準會傳聲筒示警兩項風險〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普轟中國違約、擬制裁中資子公司！比特幣跌破10.4萬鎂、半導體重摔]]></title>
-        <id>https://www.blocktempo.com/?p=421834</id>
-        <link href="https://www.blocktempo.com/trump-slams-china-for-default-plans-sanctions-on-chinese-subsidiaries-bitcoin-drops-below-104k-semiconductors-tumble/"/>
-        <updated>2025-05-31T01:52:17.000Z</updated>
-        <summary type="html"><![CDATA[川普政府擬針對中資子公司祭出新制裁，比特幣應聲急跌 1.76%，費城半導體指數挫逾 2%，中美科技戰火再起引發 […]
-川普轟中國違約、擬制裁中資子公司！比特幣跌破10.4萬鎂、半導體重摔〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>DaFi Weaver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策]]></title>
-        <id>https://substack.chainfeeds.xyz/p/a16zgeo-gas-l2</id>
-        <link href="https://substack.chainfeeds.xyz/p/a16zgeo-gas-l2"/>
-        <updated>2025-05-31T01:41:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>投研早报丨如何在加密世界中应对「开放供给」的竞争压力/a16z：生成式引擎优化（GEO）如何重写搜索规则/以太坊 Gas 费便宜后，L2 在解决什么核心问题？</p><p><a href="">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday Charts: Click here for good news]]></title>
-        <id>https://blockworks.co/news/economics-charts-reflecting-good-news</id>
-        <link href="https://blockworks.co/news/economics-charts-reflecting-good-news"/>
-        <updated>2025-05-30T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why is it controversial to say things are better than they used to be?]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's Memecoin Dinner Questioned by Top Democrat on House Judiciary Committee]]></title>
-        <id>311c08cb-f9c5-458f-af13-ebd0b0dcd9e1</id>
-        <link href="https://www.coindesk.com/policy/2025/05/30/trump-s-memecoin-dinner-questioned-by-top-democrat-on-house-judiciary-committee"/>
-        <updated>2025-05-30T20:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Jamie Raskin, the ranking Democrat on the House panel overseeing the legal system, asked the president to produce the guest list of his private event.]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana to get first Kaito-like mindshare leaderboard]]></title>
-        <id>https://blockworks.co/news/wallchain-solana-mindshare-attentionfi-leaderboard</id>
-        <link href="https://blockworks.co/news/wallchain-solana-mindshare-attentionfi-leaderboard"/>
-        <updated>2025-05-30T20:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Wallchain could make influencer ROI more measurable for Solana businesses]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digesting Stablecon: Execs bullish on imminent financial infrastructure revolution]]></title>
-        <id>https://blockworks.co/news/stablecon-execs-bullish-stablecoins-financial-revolution</id>
-        <link href="https://blockworks.co/news/stablecon-execs-bullish-stablecoins-financial-revolution"/>
-        <updated>2025-05-30T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Visa executive says every financial institution should have a stablecoin strategy in 2025]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Repayments May Have Positive Market Impact: Coinbase]]></title>
-        <id>5f0295cd-d11f-4551-bc89-4d0b8539e552</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/ftx-repayments-may-have-positive-market-impact-coinbase"/>
-        <updated>2025-05-30T19:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Creditor payments via BitGo and Kraken are expected within three business days amid shifting market conditions.]]></summary>
-        <author>
-            <name>Tom Carreras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge Declines to Order DOJ to Review Records in Roman Storm Case]]></title>
-        <id>11b60ee6-b0b1-405b-b0f8-fa80bc7563cb</id>
-        <link href="https://www.coindesk.com/policy/2025/05/30/judge-declines-to-order-doj-to-review-records-in-roman-storm-case"/>
-        <updated>2025-05-30T17:51:57.000Z</updated>
-        <summary type="html"><![CDATA[The Tornado Cash developer is slated to go on trial later this summer.]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Slips Below $104K, Cryptos Slide as U.S.-China Tariff Tensions Flare Up]]></title>
-        <id>61e83ff5-a2ff-470b-941f-e9f5c610b516</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/bitcoin-slips-below-usd104k-cryptos-slide-as-u-s-china-tariff-tensions-flare-up"/>
-        <updated>2025-05-30T17:34:33.000Z</updated>
-        <summary type="html"><![CDATA[The crypto market wobbled after Trump accused China of violating a tariff truce.]]></summary>
-        <author>
-            <name>Tom Carreras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea adds rewards questing with ‘Voyages’ in OS2 public launch]]></title>
-        <id>https://blockworks.co/news/opensea-sea-token-os2-launch</id>
-        <link href="https://blockworks.co/news/opensea-sea-token-os2-launch"/>
-        <updated>2025-05-30T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[If you want to be part of a possible SEA airdrop, you might want to read this]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin-backed stablecoins just got real — but tax rules still point some to custodians]]></title>
-        <id>https://blockworks.co/news/bitcoin-backed-stablecoins-liquity</id>
-        <link href="https://blockworks.co/news/bitcoin-backed-stablecoins-liquity"/>
-        <updated>2025-05-30T17:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Users can mint a dollar-denominated stablecoin, retain upside to BTC and use the borrowed funds elsewhere]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVAX Slides 7%, Hits Strong Resistance at $22.35 Level]]></title>
-        <id>8b1cfe37-0c92-4661-8ab0-4f5b4a28bd4f</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/avax-slides-7-before-establishing-strong-resistance-at-2235-level"/>
-        <updated>2025-05-30T16:14:41.000Z</updated>
-        <summary type="html"><![CDATA[A county in New Jersey recently announced that it would use the Avalanche blockchain to digitize all property deeds.]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Media Has $2.3B in Bitcoin Buying Power After Closing Capital Raise]]></title>
-        <id>c636f4a9-6bd6-40bf-9b73-2c451c23f606</id>
-        <link href="https://www.coindesk.com/business/2025/05/30/trump-media-has-23b-in-bitcoin-buying-power-after-closing-capital-raise"/>
-        <updated>2025-05-30T16:01:58.000Z</updated>
-        <summary type="html"><![CDATA[The company said it will use proceeds to add bitcoin to its balance sheet, an increasingly popular move among publicly-traded firms.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stay united: Ross Ulbricht’s heartfelt message for Bitcoin]]></title>
-        <id>https://blockworks.co/news/stay-united-ross-ulbricht-bitcoin-2025-speech</id>
-        <link href="https://blockworks.co/news/stay-united-ross-ulbricht-bitcoin-2025-speech"/>
-        <updated>2025-05-30T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Silk Road founder Ulbricht made a triumphant return to the Bitcoin Conference, 10 years on from sentencing]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spot Bitcoin ETFs Broke 10-Day Inflow Streak With $358M of Outflows Thursday: JPMorgan]]></title>
-        <id>503eb6c3-e76c-45c4-8c31-ace6aae62773</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/spot-bitcoin-etfs-broke-10-day-inflow-streak-with-358m-of-outflows-thursday-jpmorgan"/>
-        <updated>2025-05-30T15:36:30.000Z</updated>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON Plunges 6% Before Staging Recovery Amid Global Tensions]]></title>
-        <id>019679d3-ba5c-4c54-8b95-91b634146c6d</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/ton-plunges-6-before-staging-recovery-amid-global-tensions"/>
-        <updated>2025-05-30T14:53:59.000Z</updated>
-        <summary type="html"><![CDATA[The token found critical support in the $3.22-$3.24 range.]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who can compete against pump.fun?]]></title>
-        <id>https://blockworks.co/news/memecoin-launchpads-competition-pump-fun</id>
-        <link href="https://blockworks.co/news/memecoin-launchpads-competition-pump-fun"/>
-        <updated>2025-05-30T14:31:43.000Z</updated>
-        <summary type="html"><![CDATA[A Blockworks Research report looked at who could take up some of the marketshare in the launchpad space]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUI Plunges 6% Overnight Before Buyers Step in at $3.40 Support]]></title>
-        <id>54ad69e6-23f1-4981-9c5e-fad7c2a5736d</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/sui-plunges-6-overnight-before-buyers-step-in-at-usd3-40-support"/>
-        <updated>2025-05-30T14:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Market volatility intensified as geopolitical tensions and protocol recovery efforts create conflicting signals for traders]]></summary>
-        <author>
-            <name>AI Boost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Upgrades Have Failed to Boost Network Activity in Meaningful Way: JPMorgan]]></title>
-        <id>464c32d9-3c91-46be-8a09-95685757aacc</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/ethereum-upgrades-have-failed-to-boost-network-activity-in-meaningful-way-jpmorgan"/>
-        <updated>2025-05-30T14:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Neither the number of transactions nor active addresses has increased significantly following recent network upgrades, the report said.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins Boost Treasury Bill Demand, Reflect Dollar Dominance, Citi Says]]></title>
-        <id>f64404fe-22b0-459a-84b6-529cb5ff246f</id>
-        <link href="https://www.coindesk.com/markets/2025/05/30/stablecoins-boost-treasury-bill-demand-reflect-dollar-dominance-citi-says"/>
-        <updated>2025-05-30T14:15:11.000Z</updated>
-        <summary type="html"><![CDATA[As stablecoin usage grows, so does the demand for short-term U.S. Treasuries, the report said.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
     <entry>
