@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-14T01:41:07.268Z</updated>
+    <updated>2025-09-15T01:42:25.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asia Morning Briefing: Native Markets Wins Right to Issue USDH After Validator Vote]]></title>
+        <id>8af8d107-658e-4036-85ef-d6fb0fe51adc</id>
+        <link href="https://www.coindesk.com/markets/2025/09/15/asia-morning-briefing-native-markets-wins-right-to-issue-usdh"/>
+        <updated>2025-09-15T00:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Stripe-owned Bridge to manage reserves alongside BlackRock, with rollout starting in days.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitMEX Co-Founder Arthur Hayes Sees Money Printing Extending Crypto Cycle Well Into 2026]]></title>
+        <id>59f02b24-8098-4eee-bd95-89bcf94224a6</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/bitmex-co-founder-arthur-hayes-sees-money-printing-extending-crypto-cycle-well-into-2026"/>
+        <updated>2025-09-14T17:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Hayes told Kyle Chassé that governments will keep printing money, fueling crypto well into 2026, while urging bitcoin investors to take a longer view.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Bulls Bet on Fed Rate Cuts To Drive Bond Yields Lower, But There's a Catch]]></title>
+        <id>5f8d128c-76ef-4ad5-9da4-2b756e9aec2e</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/bitcoin-bulls-bet-on-fed-rate-cuts-to-drive-bond-yields-lower-but-there-s-a-catch"/>
+        <updated>2025-09-14T16:41:20.000Z</updated>
+        <summary type="html"><![CDATA[Longer-term Treasury yields may rise despite the anticipated Fed rate cuts, potentially offsetting the expected bullish effects on BTC and other risk assets.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are the Record Flows for Traditional and Crypto ETFs Reducing the Power of the Fed?]]></title>
+        <id>7cb92764-f9f1-43b7-a86c-b95d1d44e8aa</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/are-the-record-flows-for-traditional-and-crypto-etfs-reducing-the-power-of-the-fed"/>
+        <updated>2025-09-14T16:02:27.000Z</updated>
+        <summary type="html"><![CDATA[U.S. ETFs hit $12.19 trillion in assets under management with $799 billion in inflows this year, raising questions over whether the Fed’s influence on markets is fading.]]></summary>
+        <author>
+            <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corporate Bitcoin Buying Slows in August as Treasuries Add $5B]]></title>
+        <id>39ab0ebe-e678-483c-adfb-a5e6e80f1ec3</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/corporate-bitcoin-buying-slows-in-august-as-treasuries-add-usd5b"/>
+        <updated>2025-09-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Public companies crossed 1 million BTC in holdings, but overall accumulation lagged compared to July, a pause that coincided with Bitcoin's bull market stalling.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI, Mining News: GPU Gold Rush: Why Bitcoin Miners Are Powering AI’s Expansion]]></title>
+        <id>61f8da25-9061-4fa1-be0c-b90c805fb0cb</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/ai-mining-news-gpu-gold-rush-why-bitcoin-miners-are-powering-ai-s-expansion"/>
+        <updated>2025-09-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin mining firms are transforming their energy-hungry facilities into AI data centers, chasing stable contracts and higher returns as crypto profitability wanes.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Climbs as Economy Cracks — Is it Bullish or Bearish?]]></title>
+        <id>b5eb6fb8-ece7-4184-84db-feb80be25f92</id>
+        <link href="https://www.coindesk.com/markets/2025/09/14/sticky-inflation-softer-jobs-macro-headwinds-stir-bitcoin-tailwinds"/>
+        <updated>2025-09-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CPI surprises to the upside while cracks widen in U.S. labor market; bitcoin climbs as the dollar weakens and bond yields fall.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fed’s Sept. 17 Rate Cut Could Spark Short-Term Jitters but Supercharge Bitcoin, Gold and Stocks Long Term]]></title>
         <id>2c7b8569-113c-4a7b-8c2f-341e2fa01fb1</id>
@@ -94,6 +164,16 @@
         <summary type="html"><![CDATA[U.S. SEC Chair Paul Atkins used an OECD speech in Paris to outline Project Crypto, promising clear rules for digital assets and urging global cooperation.]]></summary>
         <author>
             <name>Siamak Masnavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bittensor Ecosystem Surges With Subnet Expansion, Institutional Access]]></title>
+        <id>e31020c2-9a95-4687-8c17-af93be02b65e</id>
+        <link href="https://www.coindesk.com/business/2025/09/13/bittensor-ecosystem-surges-with-subnet-expansion-institutional-access"/>
+        <updated>2025-09-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yuma’s "State of Bittensor" report highlights accelerating growth, institutional entry and academic engagement as decentralized AI gains traction.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
         </author>
     </entry>
     <entry>
@@ -12033,277 +12113,6 @@ Peter Thiel 的權力遊戲：從 PayPal 教父，到加密產業幕後大玩家
         <summary type="html"><![CDATA[Bitcoin Standard Treasury Co.'s SPAC deal combines fiat financing and a bitcoin-denominated PIPE, aiming to debut on the Nasdaq with over 30,000 BTC and an aggressive growth plan.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Ledger Used by Nasdaq-Listed Pharma Distributor to Power Payment System for Pharmacies]]></title>
-        <id>5c7d5594-7440-48d2-a800-a3759f09fec5</id>
-        <link href="https://www.coindesk.com/business/2025/08/16/xrp-ledger-used-by-nasdaq-listed-pharma-distributor-to-power-payment-system-for-pharmacies"/>
-        <updated>2025-08-16T11:00:44.000Z</updated>
-        <summary type="html"><![CDATA[The distributor is rolling out an XRPL-powered system for 6,500 pharmacies to speed up payments, cut costs, and expand blockchain use in healthcare finance.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陷入困境的公司，為何紛紛大舉購買比特幣？]]></title>
-        <id>https://www.blocktempo.com/?p=435608</id>
-        <link href="https://www.blocktempo.com/why-struggling-firms-are-betting-big-on-bitcoin/"/>
-        <updated>2025-08-16T10:40:40.000Z</updated>
-        <summary type="html"><![CDATA[公司不一定會一直存在，但很多老股東發現，比特幣會一直存在。本文源自金融時報記者 Nikou Asgari 所著 […]
-陷入困境的公司，為何紛紛大舉購買比特幣？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Block Unicorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普對美國企業打「忠誠度」評分表！不配合政策可能損失聯邦合約]]></title>
-        <id>https://www.blocktempo.com/?p=435622</id>
-        <link href="https://www.blocktempo.com/corporate-loyalty-scorecard-trump/"/>
-        <updated>2025-08-16T10:27:32.000Z</updated>
-        <summary type="html"><![CDATA[川普政府的「秘密企業忠誠度」評分表曝光，至少 533 家公司被分級，政治立場成為聯邦合約與監管的門檻。 （前情 […]
-川普對美國企業打「忠誠度」評分表！不配合政策可能損失聯邦合約〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真人版FX戰士！日本直播主 All in 二元期權，3萬翻5倍→15萬→0圓]]></title>
-        <id>https://www.blocktempo.com/?p=435606</id>
-        <link href="https://www.blocktempo.com/live-action-fx-warrior-japanese-streamer-goes-all-in-on-binary-options/"/>
-        <updated>2025-08-16T09:57:27.000Z</updated>
-        <summary type="html"><![CDATA[日本最近有個Nico直播主七原くん，把自己在二元期權（BO）投資大贏大輸的過程全都放上網，讓網友感受到高風險的 […]
-真人版FX戰士！日本直播主 All in 二元期權，3萬翻5倍→15萬→0圓〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滾倉王！某交易者用12.5萬美元做多以太坊，現浮盈2500萬美元]]></title>
-        <id>https://www.blocktempo.com/?p=435596</id>
-        <link href="https://www.blocktempo.com/crypto-eth-trader-rolling-profit-leverage/"/>
-        <updated>2025-08-16T05:58:50.000Z</updated>
-        <summary type="html"><![CDATA[短短四個月，一位匿名交易員把 12.5 萬美元本金放大成浮盈 2500 萬美元，把「一季暴富」推上加密圈熱門話 […]
-滾倉王！某交易者用12.5萬美元做多以太坊，現浮盈2500萬美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google的野心：從 AI 算力資料中心到 Crypto 穩定幣]]></title>
-        <id>https://www.blocktempo.com/?p=435585</id>
-        <link href="https://www.blocktempo.com/google-has-a-wild-heart-to-build-crypto-and-ai/"/>
-        <updated>2025-08-16T05:45:47.000Z</updated>
-        <summary type="html"><![CDATA[解碼Google新動作：穩定幣、Google Play 新政策，還有收購比特幣礦企股權。 （前情提要：Open […]
-Google的野心：從 AI 算力資料中心到 Crypto 穩定幣〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Foresight News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Sam Altman：我有興趣收購 Google Chrome！參賽市占最大瀏覽器爭奪戰]]></title>
-        <id>https://www.blocktempo.com/?p=435591</id>
-        <link href="https://www.blocktempo.com/openai-chrome-acquisition/"/>
-        <updated>2025-08-16T05:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Google 可能被迫出售 Chrome，Sam Altman 高調表態想要競標，反壟斷可能讓 AI 產業更添 […]
-OpenAI Sam Altman：我有興趣收購 Google Chrome！參賽市占最大瀏覽器爭奪戰〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎麼用加密貨幣買機票？Travala超簡易示範，阿聯酋航空開放官網訂票]]></title>
-        <id>https://www.blocktempo.com/?p=435583</id>
-        <link href="https://www.blocktempo.com/how-to-pay-flight-ticket-with-cryptocurrency/"/>
-        <updated>2025-08-16T05:13:31.000Z</updated>
-        <summary type="html"><![CDATA[阿聯酋攜手 Crypto.com 開放加密貨幣購票，現在如果要用加密貨幣買機票，也能參考多個加密旅遊訂票平台。 […]
-怎麼用加密貨幣買機票？Travala超簡易示範，阿聯酋航空開放官網訂票〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deribit 推出 USDC 線性期權，拉大 Circle 穩定幣結算權]]></title>
-        <id>https://www.blocktempo.com/?p=435578</id>
-        <link href="https://www.blocktempo.com/deribit-usdc-linear-options-tw/"/>
-        <updated>2025-08-16T03:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Deribit 推出 USDC 計價線性期權與定期期貨，降低波動風險並提升資本效率，引動傳統機構資金進入加密衍 […]
-Deribit 推出 USDC 線性期權，拉大 Circle 穩定幣結算權〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度Grayscale已對SEC申請狗狗幣現貨ETF，拋迷因幣震撼彈]]></title>
-        <id>https://www.blocktempo.com/?p=435573</id>
-        <link href="https://www.blocktempo.com/grayscale-dogecoin-etf-gdog/"/>
-        <updated>2025-08-16T03:28:11.000Z</updated>
-        <summary type="html"><![CDATA[灰度遞交狗狗幣現貨 ETF 申請，迷因幣挑戰傳統金融的新關口 （前情提要：比特幣礦企Bit Origin建立「 […]
-灰度Grayscale已對SEC申請狗狗幣現貨ETF，拋迷因幣震撼彈〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微策略 Strategy 已發行60億美元永續特別股，籌資大買比特幣]]></title>
-        <id>https://www.blocktempo.com/?p=435568</id>
-        <link href="https://www.blocktempo.com/strategy-bitcoin-preferred-stock-report/"/>
-        <updated>2025-08-16T03:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Strategy 透過永續特別股瘋狂累積比特幣，創新模式挑戰傳統金融，目前已經籌資超過 60 億美元。 （前情 […]
-微策略 Strategy 已發行60億美元永續特別股，籌資大買比特幣〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Mickey帽鼠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策]]></title>
-        <id>https://substack.chainfeeds.xyz/p/zk-eth-l1-l2</id>
-        <link href="https://substack.chainfeeds.xyz/p/zk-eth-l1-l2"/>
-        <updated>2025-08-16T02:09:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>投研早报丨ZK 证明如何催生一个数十亿美元级的可验证计算新市场/六张图解析 ETH 筹码分布状况/解读 L1 与 L2 的「共生扩容」新范式</p><p><a href="">内容来源</a></p><hr><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friday charts: Investor’s crystal ball, cloudy with a chance of FOMO]]></title>
-        <id>https://blockworks.co/news/forward-looking-market-charts</id>
-        <link href="https://blockworks.co/news/forward-looking-market-charts"/>
-        <updated>2025-08-15T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If fear moves markets, there could be more all-time highs to come]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corporations don’t care about your blockchain]]></title>
-        <id>https://blockworks.co/news/stripe-circle-l1-launches</id>
-        <link href="https://blockworks.co/news/stripe-circle-l1-launches"/>
-        <updated>2025-08-15T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stripe and Circle launch L1 chains]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAT-a crunch: Momentum builds around ETH treasury companies]]></title>
-        <id>https://blockworks.co/news/eth-treasury-companies-growth</id>
-        <link href="https://blockworks.co/news/eth-treasury-companies-growth"/>
-        <updated>2025-08-15T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ether-focused BitMine Immersion saw its daily trading volumes surge this week]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ronin rejoins Ethereum as rollup strategies diverge]]></title>
-        <id>https://blockworks.co/news/ronin-becoming-ethereum-l2</id>
-        <link href="https://blockworks.co/news/ronin-becoming-ethereum-l2"/>
-        <updated>2025-08-15T18:06:25.000Z</updated>
-        <summary type="html"><![CDATA[From Ronin’s classic L2 pivot to Taiko’s based rollup and Puffer’s ultra-low-latency appchain testnet, Ethereum-aligned architectures are multiplying]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winklevoss twins’ crypto exchange launches Gemini Wallet]]></title>
-        <id>https://blockworks.co/news/gemini-wallet-review</id>
-        <link href="https://blockworks.co/news/gemini-wallet-review"/>
-        <updated>2025-08-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Gemini Wallet and Onchain hub are great for total beginners, but have a lot of room to grow]]></summary>
-        <author>
-            <name>Blockworks: News and insights about digital assets.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Fed Officially Scraps Specialist Group Meant to Oversee Crypto Issues]]></title>
-        <id>524ecdb4-8121-41e0-8a4d-fce8b8728e9f</id>
-        <link href="https://www.coindesk.com/policy/2025/08/15/u-s-fed-officially-scraps-specialist-group-meant-to-oversee-crypto-issues"/>
-        <updated>2025-08-15T17:03:49.000Z</updated>
-        <summary type="html"><![CDATA[The Federal Reserve has shuttered the Novel Activities Supervision Program it built in 2023 that was — in part — meant to focus on banks' crypto activity.]]></summary>
-        <author>
-            <name>Jesse Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Asset Treasury Firms Plunge as Bitcoin Tumbles Below $117K, ETH Slides to $4.4K]]></title>
-        <id>98b319d1-2b5e-4ba3-b70b-6a9832b9a51a</id>
-        <link href="https://www.coindesk.com/markets/2025/08/15/digital-asset-treasury-firms-plunge-as-bitcoin-tumbles-below-usd117k-eth-slides-to-usd4-4k"/>
-        <updated>2025-08-15T15:54:41.000Z</updated>
-        <summary type="html"><![CDATA[The crypto rally continues to quickly reverse course just two days after bitcoin surged to a new record and ether soared to a five-year high.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellar Lumens Holds Firm as Network Growth Set Stage for Breakout]]></title>
-        <id>1dc95640-7c88-4ef2-bc82-22196171b418</id>
-        <link href="https://www.coindesk.com/markets/2025/08/15/stellar-lumens-holds-firm-as-network-growth-set-stage-for-breakout"/>
-        <updated>2025-08-15T15:35:37.000Z</updated>
-        <summary type="html"><![CDATA[XLM trades in a tight range with strong support at $0.42 as record wallet growth and rising total value locked fuel optimism for a push toward the $0.50 resistance — and potentially beyond.]]></summary>
-        <author>
-            <name>CD Analytics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Czech Police Arrest Donor in Billion-Dollar Bitcoin Scandal: Report]]></title>
-        <id>c681f6a6-e27c-40fd-a873-4fd8cbd694e8</id>
-        <link href="https://www.coindesk.com/policy/2025/08/15/czech-police-arrest-donor-in-billion-dollar-bitcoin-scandal-report"/>
-        <updated>2025-08-15T15:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Authorities detain convicted trafficker Tomáš Jiřikovský in probe over bitcoin gifted to Ministry of Justice, with the case expanding to money laundering and drug charges.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBAR Swings 6% as Institutional Activity Signals Support and Resistance Levels]]></title>
-        <id>914b528e-134d-4c16-936e-46fc71ceffec</id>
-        <link href="https://www.coindesk.com/markets/2025/08/15/hbar-swings-6-as-institutional-activity-signals-support-and-resistance-levels"/>
-        <updated>2025-08-15T15:26:22.000Z</updated>
-        <summary type="html"><![CDATA[Hedera’s token rebounded sharply from overnight lows before retreating on heavy selling, as ETF filings and cross-chain integrations underscored growing institutional engagement.]]></summary>
-        <author>
-            <name>CD Analytics</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hackers Capitalize on ETH Surge, Offloading $72M This Week]]></title>
-        <id>9849a747-5bb9-4cf7-adbc-646d48aadd51</id>
-        <link href="https://www.coindesk.com/business/2025/08/15/crypto-hackers-capitalize-on-eth-surge-offloading-usd72m-this-week"/>
-        <updated>2025-08-15T14:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Three high-profile exploiters have taken advantage of ether’s rally to liquidate stolen funds, pocketing tens of millions in extra profits.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[川普預告最快下週公佈鋼鐵與半導體關稅！比特幣跌破 11.8 萬美元、以太坊失守 $4,600]]></title>
-        <id>https://www.blocktempo.com/?p=435546</id>
-        <link href="https://www.blocktempo.com/trump-new-tariffs/"/>
-        <updated>2025-08-15T13:58:20.000Z</updated>
-        <summary type="html"><![CDATA[據《路透》最新報導，美國總統川普透露，他計畫在未來幾週內對鋼鐵和半導體晶片加徵關稅。 （前情提要：美國7月CP […]
-川普預告最快下週公佈鋼鐵與半導體關稅！比特幣跌破 11.8 萬美元、以太坊失守 $4,600〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Aspen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Secures $1.4B to Expand Helios Data Center for AI and HPC]]></title>
-        <id>8bddc0c2-e255-4d64-bb22-17be0f34428d</id>
-        <link href="https://www.coindesk.com/business/2025/08/15/galaxy-secures-usd1-4b-to-expand-helios-data-center-for-ai-and-hpc"/>
-        <updated>2025-08-15T13:43:18.000Z</updated>
-        <summary type="html"><![CDATA[The firm, led by Mike Novogratz, projected its deal with AI cloud firm CoreWeave could generate $1 billion in annual revenue over 15 years.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's SEC Chair Says Agency Is 'Mobilizing' to Update Custody, Other Guidance]]></title>
-        <id>d4cb8d5d-06d8-4fbd-b519-4b157da01538</id>
-        <link href="https://www.coindesk.com/policy/2025/08/15/trump-s-sec-chair-says-agency-is-mobilizing-to-update-custody-other-guidance"/>
-        <updated>2025-08-15T13:42:56.000Z</updated>
-        <summary type="html"><![CDATA[SEC Chair Paul Atkins appeared on "Mornings With Maria" to discuss his recently announced "Project Crypto.]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
         </author>
     </entry>
     <entry>
