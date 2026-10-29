@@ -2,10 +2,404 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T04:36:55.887Z</updated>
+    <updated>2026-10-29T04:51:07.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google 雲端翻倍，但財報現金流連兩季為負，Alphabet 盤後重挫近 10%]]></title>
+        <id>https://www.blocktempo.com/?p=552212</id>
+        <link href="https://www.blocktempo.com/alphabet-stock-slides-negative-free-cash-flow-buyback-halt-spacex/"/>
+        <updated>2026-10-29T04:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet 第 3 季營收年增 25%、Google Cloud 翻倍，盤後股價卻比收盤低近 10%。原 […]
+Google 雲端翻倍，但財報現金流連兩季為負，Alphabet 盤後重挫近 10%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大户入场之后，以太坊质押真的越来越「中心化」了么？]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/0cc5520b-2bed-4a9e-95aa-f8d1531195ce</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/0cc5520b-2bed-4a9e-95aa-f8d1531195ce"/>
+        <updated>2026-10-29T04:19:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>机构入场与验证者整合在同时发生，但这和网络去中心化程度，并不能简单画上等号。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://foresightnews.pro/article/detail/101254">https://foresightnews.pro/article/detail/101254</a></p>
+<p><strong>文章作者：</strong></p><p>imToken Labs</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>imToken Labs：</strong>根据 Lido 发布的 2026 年上半年报告，截至 6 月底，以太坊质押市场规模已从年初的约 3630 万 ETH 增长至 4310 万 ETH，半年增幅约 19%，这一口径包含进入队列、但尚未激活的质押资金，同时剔除了退出队列中的 ETH。同期，机构质押在整个市场中的占比，从 25.9% 上升至 35.3%，增长近 10 个百分点。也就是说，以太坊新增质押资金中，越来越大的一部分正在来自企业财库、交易所、托管机构等专业市场参与者。截至 2026 年 6 月底，Lido 仍然是最大的质押协议，占全网质押规模的约 21.2%，但相比年初的 23.9%，其份额反而下降了。与此同时，Bitmine、Coinbase、Binance 在同期统计中的份额分别达到约 11.5%、10.9% 和 7.9%，其中 Bitmine 的增长尤其显著，仅仅半年时间，其市场份额就增加了约 10 个百分点。过去几年，社区讨论以太坊质押中心化时，目光往往集中在 Lido 等流动性质押协议身上，担心越来越多用户通过同一个协议参与 Staking，最终形成某种共识权力的集中。但现在，随着机构级 ETH 持有者开始大规模参与原生质押，质押市场的资金结构正在发生变化，流动性质押协议不再是新增资金最主要的去处。
+
+理解以太坊质押中心化，最容易犯的错误，就是把「资金归谁所有」与「谁在实际运行验证者」直接画上等号。事实上，这涉及三个不同层面的控制权。首先是资产控制权，也就是质押的 ETH 究竟属于谁，以及谁有权决定退出质押、提取资产或更换服务商。其次是验证者运营权，谁在运行节点，管理验证者签名密钥，负责区块提议、共识证明等实际工作。最后是基础设施与决策权，大量验证者是否依赖相同的客户端、云服务商或 MEV Relay，以及一个平台的治理机制或管理团队能够在多大程度上协调这些验证者的行为。一家机构可能持有 100 万枚 ETH，并将它们全部用于原生质押，但实际上把这些 ETH 分配给了十几家相互独立的节点服务商。从资产所有权来看，100 万枚 ETH 确实集中在同一家机构手中；但从实际验证者运营来看，相关签名密钥可能由不同服务商管理，部署在不同地区，并使用不同的客户端软件。反过来，即使上万个用户分别持有 32 ETH，但都使用同一家节点运营商执行验证任务，底层的验证者签名、运维与基础设施也可能高度集中。因此，真正需要警惕的是这些 ETH 最终由谁来执行共识，以及不同参与者是否存在共同的故障点或决策依赖。若某个相互协调的群体控制超过三分之一的活跃质押权重，在特定条件下就有能力阻碍网络达成最终性。
+
+在机构资金大规模进入的同时，以太坊的 Pectra 升级也大幅改变了大额质押的运行方式。EIP-7251 将单个验证者的最大有效余额从 32 ETH 提升至 2048 ETH，同时保留 32 ETH 的最低激活门槛。过去，如果持有 1024 ETH，想要全部参与原生质押，通常需要将它们拆分为 32 份，创建 32 个独立验证者，每个验证者都拥有独立的签名身份，需要分别参与共识证明，并产生相应的密钥管理、消息传播和状态维护成本。而在 EIP-7251 生效后，同样的 1024 ETH，可以在满足协议规则的情况下，由一个 0x02 类型的验证者承载，从而降低管理成本和共识层负担。</p><a href="https://foresightnews.pro/article/detail/101254">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文长推】Hyperliquid 估值重估：传统金融交易扩张，手续费优势面临考验]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/51e30f31-dee4-4e55-a9a9-fbb3b0402f4f</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/51e30f31-dee4-4e55-a9a9-fbb3b0402f4f"/>
+        <updated>2026-10-29T04:15:20.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>在全球市场份额达到 5%、采用 40 倍收入估值的乐观情景下，HYPE 估值可达到 165 美元。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://x.com/Decentralisedco/status/2115419671721803856">https://x.com/Decentralisedco/status/2115419671721803856</a></p>
+<p><strong>文章作者：</strong></p><p>Decentralised.Co</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Decentralised.Co：</strong>Hyperliquid 正在转变为一个覆盖多种资产的交易平台，其交易量已有约三分之一不再来自加密货币。2026 年 10 月，非加密资产占 Hyperliquid 总交易量的 30%，10 月 27 日这一比例达到 40%，而在今年 7 月的峰值时曾达到 51%。一年前，Hyperliquid 还只提供加密货币交易，HIP-3 改变了这一局面。如今，个股、指数、大宗商品和外汇已经可以与 BTC 永续合约在同一个保证金账户中交易。其中，个股已成为最大的非加密交易类别，超过指数和大宗商品。10 月 27 日，Hyperliquid 单日交易量达到 72 亿美元，其中 40% 来自非加密资产。这一业务变化意味着，Hyperliquid 的增长不再完全取决于比特币价格或加密市场周期。根据报告测算，2025 年全球相关传统金融市场交易规模约为 740 万亿美元，若按每年 6% 的速度增长，到 2029 年将达到约 934 万亿美元。届时，全球市场每 1% 的份额就对应约 9.3 万亿美元交易量，相当于 Hyperliquid 当前全部交易规模的 3.3 倍。即使只获得全球交易市场的一小部分份额，也可能带来远超现有业务规模的增长。不过，这些新增交易量也可能伴随明显更低的手续费率。
+
+我们建立了涵盖加密货币交易、非加密资产交易、USDC 收益和 HIP-4 结果市场的收入模型，并假设其中 99% 的收入进入 Assistance Fund，用于回购 HYPE 并减少代币供应。基准情景下，到 2029 年，Hyperliquid 的加密货币交易量将从当前每年约 1.98 万亿美元增长三倍，达到约 5.9 万亿美元，协议保留的手续费率维持在 0.037%。与此同时，Hyperliquid 将占据全球传统金融相关交易市场 3% 的份额，非加密交易综合手续费率为 0.006%。USDC 收益率逐步降至 3.6%，HIP-4 结果市场则贡献约 1 亿美元收入。在这些假设下，Hyperliquid 年收入将从目前约 9.44 亿美元增长至 2029 年的 49.1 亿美元，增幅约为 5.2 倍。其中，加密货币交易收入约为 22 亿美元，非加密交易收入约为 16.8 亿美元，USDC 收益约为 9.35 亿美元，HIP-4 收入约为 1 亿美元。将 2029 年收入按照 20% 的折现率折算至当前，得到约 28.4 亿美元。若采用 40 倍收入估值，并考虑回购后剩余约 8.9 亿枚 HYPE，对应每枚 HYPE 的估值约为 128 美元。在全球市场份额达到 5%、采用 40 倍收入估值的乐观情景下，HYPE 估值可达到 165 美元，高于今年 3 月报告中的 124 美元。
+
+随着 Hyperliquid 向传统金融市场扩张，非加密资产市场份额对 HYPE 估值的影响已经超过加密货币交易周期。在 25 倍收入估值下，若加密货币交易量增长至当前三倍，每枚 HYPE 的估值将增加约 30 美元；而如果传统金融市场份额从 1% 提升至 5%，每枚 HYPE 的估值将增加约 48 美元。不过，手续费率是模型中最大的风险。当前 Hyperliquid 加密货币永续合约的协议实际收入费率约为 0.037%，HIP-3 增长模式下的协议费率约为 0.0037%，而 CME 在 2026 年第三季度的股指期货收入费率仅约为名义交易额的 0.0004%。即使采用优惠费率，Hyperliquid 的非加密交易收费仍约为 CME 的九倍。竞争也已经出现。币安今年上线了 229 个传统金融永续合约市场，日均交易量约为 134 亿美元，而 Hyperliquid 约为 23 亿美元。报告基准情景假设，2027 年起非加密交易综合费率为 0.006%，相当于 CME 费率的 15 倍。如果未来非加密交易费率降至 CME 水平，在 30 倍收入估值下，HYPE 基准估值将从 98 美元降至 66 美元。如果 2029 年加密货币交易量仅增长至当前 1.5 倍，基准估值则降至 71 美元；若交易量保持不变，估值进一步降至 62 美元。此外，USDC 收益也是重要变量，2029 年预计贡献 9.35 亿美元收入，每降息 100 个基点，就可能使这部分收入减少超过四分之一。</p><a href="https://x.com/Decentralisedco/status/2115419671721803856">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【英文长推】Glassnode 周报：比特币多空博弈加剧，7.8 万至 8.5 万美元成关键区间]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/eccf0273-94fb-47e1-b9c9-776a92926121</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/eccf0273-94fb-47e1-b9c9-776a92926121"/>
+        <updated>2026-10-29T04:09:31.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>下方支撑主要集中在 7.8 万至 7.9 万美元的买单密集区，以及位于 7.79 万美元的真实市场均值；上方阻力则位于 8.4 万至 8.5 万美元区间。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://x.com/glassnode/status/2115427475635196352">https://x.com/glassnode/status/2115427475635196352</a></p>
+<p><strong>文章作者：</strong></p><p>glassnode</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>glassnode：</strong>上周我们提到，10 月 19 日，美国比特币现货 ETF 获得了 6.53 亿美元的资金流入。但此后大部分资金再度流出，其中仅 10 月 22 日就流出 5.4 亿美元，过去两周 ETF 的累计净流入仅为 6700 万美元。ETF 交易活跃度的下降已经持续更长时间。自 5 月初以来，其日均成交额约为 13 亿美元，明显低于此前数月。10 月 23 日，成交额进一步降至约 7 亿美元，成为今年交易最清淡的交易日之一。资金流入基本停滞，意味着 ETF 在当前价格水平上几乎没有带来新增需求。从成本基础分布来看，持有超过 155 天的长期持有者拥有约 400 万枚 BTC，买入成本集中在 8.5 万至 11.8 万美元之间，其中大部分购于 2025 年。超过一半的长期持有者持币成本高于当前价格。如果比特币反弹至 8.5 万美元附近，部分持有者可能选择卖出，以收回成本。相比之下，大部分短期持有者的买入成本低于当前价格，最密集的筹码集中在 7.7 万美元附近，另一个筹码密集区位于 2026 年低点附近的 6.4 万美元。若价格回落，这些较新的买家最有可能在上述价位提供支撑。与此同时，币安现货订单簿中，8 万美元位置的买单在 10 月 24 日再次被消耗后并未恢复，目前仅剩约 340 万美元买单。买盘已下移至 7.8 万至 7.9 万美元区间，挂单总额约为 4200 万美元，高于 10 月中旬的约 2400 万美元。
+
+约 4.3% 的比特币供应量最后一次链上转移发生在 8.4 万至 8.5 万美元区间。其中大部分交易发生于 2025 年 11 月 22 日，当时一名大型持有者在自身钱包之间转移了大量比特币。尽管如此，这一区间此后一直对价格产生明显影响。去年 12 月，该区间曾发挥支撑作用；今年 1 月 31 日，比特币尝试重新突破 8.4 万美元失败，随后数日下跌约 20%。此后，该区间转为阻力，多次阻碍 5 月、9 月初及 10 月 21 日的反弹。自今年 1 月以来，比特币仅有五个交易日收盘高于该区间，且从未连续超过三天。若日线能够持续收于 8.5 万美元上方，这一区间才可能重新转化为支撑。
+
+目前，比特币价格略低于美国现货 ETF 的平均持仓成本 8.15 万美元。下方是真实市场均值 7.79 万美元，代表活跃投资者的平均成本；更低位置则是短期持有者成本基础 7.58 万美元。10 月两次价格下探期间，比特币均守住了真实市场均值。与此同时，比特币过去一个月的已实现波动率已降至约 25%，回到 2023 年夏季水平。自 2015 年以来，仅约 5% 的交易日波动率低于这一水平。此前两次波动率低点分别出现在 2023 年 8 月和 2026 年 8 月，随后数日均出现剧烈价格变化。如果低波动状态持续至 10 月 28 日的美联储利率决议，政策结果可能触发下一轮明显行情。【原文为英文】</p><a href="https://x.com/glassnode/status/2115427475635196352">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漏洞末日來襲？Wiz 技術長：PHP2Shell 不是特例，下一個很快就來]]></title>
+        <id>https://www.blocktempo.com/?p=552163</id>
+        <link href="https://www.blocktempo.com/wiz-cto-ai-found-php2shell-flaw-vulnpocalypse-patching-pressure-ahead/"/>
+        <updated>2026-10-29T04:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Wiz 技術長 Tomer Schwartz 在 TechCrunch 的 Podcast 節目上說明，團隊如 […]
+漏洞末日來襲？Wiz 技術長：PHP2Shell 不是特例，下一個很快就來〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【长推】新一轮 TGE 潮来袭？19 个项目或在四季度密集登场]]></title>
+        <id>https://www.chainfeeds.xyz/feed/detail/81b0d29a-12a5-429c-8187-db7d4e1b2170</id>
+        <link href="https://www.chainfeeds.xyz/feed/detail/81b0d29a-12a5-429c-8187-db7d4e1b2170"/>
+        <updated>2026-10-29T04:02:09.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>值得关注的是，越来越多项目开始将代币质押、回购销毁、收益分配等机制与实际使用场景深度绑定；还有不少项目选择先打磨产品、积累用户与生态基础，再择机发行代币，而非单纯依赖代币激励吸引早期关注。</p>
+<p><strong>文章来源：</strong></p><p><a href="https://x.com/0xNancyshi/status/2115426738973167677">https://x.com/0xNancyshi/status/2115426738973167677</a></p>
+<p><strong>文章作者：</strong></p><p>PANews</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>PANews：</strong>Flop 由 BitMEX 联合创始人 Arthur Hayes 发起，旨在为 AI Agent 经济构建去中心化的算力与支付基础设施。该项目计划通过有用推理证明（PoUI）机制，将 GPU 算力转化为可验证、可结算的 AI 推理服务，并以原生代币 FLOP 作为算力调用、推理服务及去中心化记忆存储等服务的支付媒介。根据 Arthur Hayes 近期披露的信息，Flop 即将开放开发网（Devnet），允许用户以矿工或验证者的身份参与网络，并支持 AI 智能体接入。参与 Devnet 测试并不计入代币分配，测试网空投预计将在未来数周内启动。
+
+GenLayer 是一个面向 AI Agentic Economy 的区块链协议，定位为「裁决层」，旨在将 AI 判断能力引入智能合约，为 AI 代理之间的自动化交易、任务验收及纠纷解决提供链上基础设施。近期，GenLayer 宣布将公共网络及代币迁移至 Arbitrum 生态，并公布代币经济学。GEN 代币总供应量为 42 亿枚，其中 25% 分配给社区。主网与 GEN 代币生成事件预计于 2026 年第四季度同步启动。第一季空投资格快照已于 10 月 25 日完成，钱包注册通道于 10 月 26 日关闭，只有此前完成注册且符合资格要求的钱包，才能在 TGE 当天领取空投。
+
+Extended 是一个由前 Revolut 团队打造的链上永续期货交易平台，前身是 X10，曾获得 650 万美元早期融资。平台支持加密货币及股票、外汇、商品、指数等多类资产交易，最高提供 100 倍杠杆。今年 10 月，Extended 完成从 Starknet 向 Circle 推出的 Arc 公链迁移。代币方面，Extended 计划于 2026 年 11 月推出原生代币 XTEN，并于 10 月 31 日公布完整的代币经济模型。其中，3 亿枚代币，占初始供应量的 30%，将分配给符合条件的 Extended Points 计划参与者。</p><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
+        <author>
+            <name>ChainFeeds精选</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 退散！美國員工以信仰為由，成功申請宗教豁免工作不用 AI]]></title>
+        <id>https://www.blocktempo.com/?p=552186</id>
+        <link href="https://www.blocktempo.com/humanist-kentucky-employee-religious-exemption-ai-use-title-vii-workplace/"/>
+        <updated>2026-10-29T03:52:52.000Z</updated>
+        <summary type="html"><![CDATA[肯塔基大學員工 David Durman 以人文主義信念為由，獲准工作時不親自使用 AI，但仍須參加用 AI  […]
+AI 退散！美國員工以信仰為由，成功申請宗教豁免工作不用 AI〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber 早期投資人喊「比特幣不會再創新高！」美國地產大亨嗆聲：賭 100 萬美元]]></title>
+        <id>https://www.blocktempo.com/?p=552189</id>
+        <link href="https://www.blocktempo.com/grant-cardone-challenges-jason-calacanis-million-dollar-bitcoin-ath-bet/"/>
+        <updated>2026-10-29T03:33:44.000Z</updated>
+        <summary type="html"><![CDATA[創投人 Calacanis 稍早喊出比特幣再也不會創新高，結果地產投資人 Cardone 昨晚以 100 萬美 […]
+Uber 早期投資人喊「比特幣不會再創新高！」美國地產大亨嗆聲：賭 100 萬美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto]]></title>
+        <id>ae0eb75f-b66f-4352-848b-6bdc0179384f</id>
+        <link href="https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"/>
+        <updated>2026-10-29T03:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[窮到全職僅一人！PHP 基金會支撐全球近 7 成網站，帳上現金卻撐不到半年]]></title>
+        <id>https://www.blocktempo.com/?p=552157</id>
+        <link href="https://www.blocktempo.com/php-foundation-one-fulltime-staff-donations-surge-php2shell-patch-underfunded/"/>
+        <updated>2026-10-29T03:22:21.000Z</updated>
+        <summary type="html"><![CDATA[PHP 基金會全職員工僅有執行董事一人，另有 14 名大多兼職的承包人，美元帳戶餘額約 38.8 萬美元，每月 […]
+窮到全職僅一人！PHP 基金會支撐全球近 7 成網站，帳上現金卻撐不到半年〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery Wall Street Journal ad sparks new fight over tokenized stocks]]></title>
+        <id>b3939232-ca28-4cc6-9ed7-ea22c3247cdf</id>
+        <link href="https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks"/>
+        <updated>2026-10-29T03:21:24.000Z</updated>
+        <summary type="html"><![CDATA[A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[睽違 10 年》蘋果發光 Logo 回來了！新觸控 MacBook Pro 台灣 97,900 元起]]></title>
+        <id>https://www.blocktempo.com/?p=552171</id>
+        <link href="https://www.blocktempo.com/apple-touchscreen-macbook-pro-glowing-logo-returns-taiwan-price-preorder/"/>
+        <updated>2026-10-29T03:05:13.000Z</updated>
+        <summary type="html"><![CDATA[蘋果招牌的發光 logo 在睽違 10 年後，重新回到新款觸控 MacBook Pro 的上蓋。台灣 10 月 […]
+睽違 10 年》蘋果發光 Logo 回來了！新觸控 MacBook Pro 台灣 97,900 元起〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 代理付了錢拿到錯資料怎麼辦？x402 協議尚無退單機制]]></title>
+        <id>https://www.blocktempo.com/?p=552025</id>
+        <link href="https://www.blocktempo.com/ai-agent-x402-payment-dispute-gap-no-chargeback/"/>
+        <updated>2026-10-29T02:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Visa、Mastercard 站上 x402 治理層，但這套 AI 代理支付標準刻意省去爭議處理：錢上鏈即定 […]
+AI 代理付了錢拿到錯資料怎麼辦？x402 協議尚無退單機制〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>冷麵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy 四檔優先股改每日配息，99% 微策略股東壓倒性批准]]></title>
+        <id>https://www.blocktempo.com/?p=552074</id>
+        <link href="https://www.blocktempo.com/strategy-preferred-stocks-daily-dividend-shareholder-vote-approved/"/>
+        <updated>2026-10-29T01:58:32.000Z</updated>
+        <summary type="html"><![CDATA[Strategy 股東會以 99.3% 的贊成票批准修訂，STRF、STRC、STRK、STRD 四檔優先股改 […]
+Strategy 四檔優先股改每日配息，99% 微策略股東壓倒性批准〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>冷麵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood 加密貨幣收入大崩 55%，Coinbase 今晚財報預測分岐]]></title>
+        <id>https://www.blocktempo.com/?p=552065</id>
+        <link href="https://www.blocktempo.com/coinbase-q3-earnings-preview-robinhood-crypto-revenue-sinks-55-percent/"/>
+        <updated>2026-10-29T01:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase 週四美股盤後公布第三季財報，Robinhood 加密收入年減 55% 先敲警鐘，分析師對交易 […]
+Robinhood 加密貨幣收入大崩 55%，Coinbase 今晚財報預測分岐〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>冷麵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不賣 BTC 也能買房：加拿大 APX 推出比特幣「抵押房貸」]]></title>
+        <id>https://www.blocktempo.com/?p=552090</id>
+        <link href="https://www.blocktempo.com/apx-lending-bitcoin-backed-mortgage-canada-launch-2027/"/>
+        <updated>2026-10-29T01:46:21.000Z</updated>
+        <summary type="html"><![CDATA[加拿大放款機構 APX Lending 宣布 2027 年初推出比特幣抵押房貸，買房不必先賣幣。房貸利率、成數 […]
+不賣 BTC 也能買房：加拿大 APX 推出比特幣「抵押房貸」〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>冷麵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost]]></title>
+        <id>112e0f4b-146d-4023-b41d-b05baea46fb3</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost"/>
+        <updated>2026-10-28T21:13:44.000Z</updated>
+        <summary type="html"><![CDATA[Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.]]></summary>
+        <author>
+            <name>Olivier Acuna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading']]></title>
+        <id>5831dbc2-6b6d-4b7f-8b69-08f85d3ad4ac</id>
+        <link href="https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading"/>
+        <updated>2026-10-28T19:01:53.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.]]></summary>
+        <author>
+            <name>Jesse Hamilton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto isn’t a partisan fight, proven by data]]></title>
+        <id>c88f807f-415c-4973-8d5e-00277a7bee77</id>
+        <link href="https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data"/>
+        <updated>2026-10-28T18:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund’s Jennifer Rosenthal.]]></summary>
+        <author>
+            <name>Jennifer Rosenthal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed leaves interest rates unchanged, as expected]]></title>
+        <id>8fff79b7-38ec-4525-a0f6-0c8b7c88f855</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected"/>
+        <updated>2026-10-28T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%]]></title>
+        <id>aba31ff4-cc34-48c9-99a6-13b8bd60e817</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55"/>
+        <updated>2026-10-28T17:02:57.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Long & Short: What happens when an AI agent pays for the wrong thing]]></title>
+        <id>2590cf9e-3aba-4d3f-bbef-dee466abcb42</id>
+        <link href="https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing"/>
+        <updated>2026-10-28T16:01:36.000Z</updated>
+        <summary type="html"><![CDATA[The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the agent receives something wrong or useless.]]></summary>
+        <author>
+            <name>Albert Castellana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks]]></title>
+        <id>2dff367d-bd3a-4579-a241-e12325d15e6e</id>
+        <link href="https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"/>
+        <updated>2026-10-28T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan]]></title>
+        <id>7c0ab742-1875-43c7-8394-80b5742bcbbc</id>
+        <link href="https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan"/>
+        <updated>2026-10-28T12:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissent and more: 3 things to watch for at the Fed meeting]]></title>
+        <id>f98b1798-c5bb-420f-88fd-e7ce8f9bf170</id>
+        <link href="https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting"/>
+        <updated>2026-10-28T11:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Your day-ahead look for Oct. 28, 2026]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments]]></title>
+        <id>9b8edeaa-1a59-435e-87d0-7e1a40111179</id>
+        <link href="https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments"/>
+        <updated>2026-10-28T11:52:14.000Z</updated>
+        <summary type="html"><![CDATA[An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%]]></title>
+        <id>10d1d6a3-ae80-49f2-8a63-069e460bd624</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9"/>
+        <updated>2026-10-28T11:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates]]></title>
+        <id>722c6659-4936-40e3-8f2b-3848c32481f4</id>
+        <link href="https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision"/>
+        <updated>2026-10-28T11:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Strategy's preferred stocks, STRC among them, are moving to daily dividends after a successful shareholder vote.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google to preview crypto custody security system as AI threats grow]]></title>
+        <id>4eb9df0c-3a52-4a26-a0ff-02efe4711b90</id>
+        <link href="https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow"/>
+        <updated>2026-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.]]></summary>
+        <author>
+            <name>Aoyon Ashraf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS]]></title>
+        <id>6aedbf75-420f-4de5-8376-186af18167a7</id>
+        <link href="https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs"/>
+        <updated>2026-10-28T10:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules]]></title>
+        <id>be5920ff-5f6e-4f95-a02c-bef91094ef1f</id>
+        <link href="https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules"/>
+        <updated>2026-10-28T10:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kospi surges 7% as SK Hynix earnings fuel AI stock rebound]]></title>
+        <id>e7bfc540-dd8c-4486-b7e1-65bcc88eabad</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound"/>
+        <updated>2026-10-28T09:59:25.000Z</updated>
+        <summary type="html"><![CDATA[South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how much bitcoin and the S&P 500 could rally after midterms]]></title>
+        <id>96297b82-c5b6-41c5-a445-ae0938465c9b</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15"/>
+        <updated>2026-10-28T09:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securitize adds Stellar blockchain as institutional tokenization gathers steam]]></title>
+        <id>68520f4b-b16d-49fa-bf38-da10d60604e0</id>
+        <link href="https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam"/>
+        <updated>2026-10-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC]]></title>
+        <id>e6a2463f-48b9-4861-9e40-52c0b160dc4f</id>
+        <link href="https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"/>
+        <updated>2026-10-28T05:28:13.000Z</updated>
+        <summary type="html"><![CDATA[The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bithumb hacked through employee system as South Korean financial firms face cyberattacks]]></title>
+        <id>03e7ce93-bf2b-4de5-918c-256e2045c845</id>
+        <link href="https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"/>
+        <updated>2026-10-28T05:10:36.000Z</updated>
+        <summary type="html"><![CDATA[The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%]]></title>
         <id>e5bf3be2-ec4d-49c4-acfd-9224555ce072</id>
@@ -8162,326 +8556,6 @@ Strive 再砸 9,450 萬鎂買比特幣！持倉破 27,400 枚，年底前衝第�
         <summary type="html"><![CDATA[The agreement opens the door to tokenized derivatives as some of Wall Street's biggest institutions, including Nasdaq, NYSE and DTCC, move traditional markets onchain.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum users get another way to pay privately as zk.money returns after three years]]></title>
-        <id>d477854d-f801-4054-bd25-323ac968793e</id>
-        <link href="https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years"/>
-        <updated>2026-09-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats killed the Clarity Act]]></title>
-        <id>4c95ef4f-466c-4d15-ac8b-c70c02e2bb86</id>
-        <link href="https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act"/>
-        <updated>2026-09-29T14:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Democrats should remember the people they represent and do what's best for them, not what's best for their political calculus, consultants, and special interests, writes Sen. Tim Scott (R-S.C.).]]></summary>
-        <author>
-            <name>Tim Scott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin surging to $100,000 may be in play, after outperforming gold]]></title>
-        <id>e28854fd-f85d-40bb-a507-d9451dd19eaf</id>
-        <link href="https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play"/>
-        <updated>2026-09-29T11:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Your day-ahead look for Sept. 29, 2026]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash developers begin moving Tachyon code into faster private-payment software]]></title>
-        <id>ee9e71e1-0470-411b-a814-9bbcfa41e826</id>
-        <link href="https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan"/>
-        <updated>2026-09-29T11:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave leads DeFi higher as crypto shrugs off surging bond market]]></title>
-        <id>3006a094-875f-4d58-8f04-4bc973d79d33</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields"/>
-        <updated>2026-09-29T10:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Aave jumped 11% on speculation over a token burn, with 72 of 100 CoinDesk 100 constituents higher even as the 10-year Treasury yield sat at 5.234%.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges]]></title>
-        <id>92388611-f17c-4bda-845a-2aed8a9505d9</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady"/>
-        <updated>2026-09-29T10:14:41.000Z</updated>
-        <summary type="html"><![CDATA[The Conference Board's Consumer Confidence Index fell to its lowest level in more than a decade in September, with expectations of continued weakening in business and labor market conditions.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain.com targets $500 million IPO this year at up to $6 billion valuation]]></title>
-        <id>f82b3191-01b0-41c6-aa32-acc87e07bdeb</id>
-        <link href="https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation"/>
-        <updated>2026-09-29T10:13:40.000Z</updated>
-        <summary type="html"><![CDATA[The London-based crypto services company confidentially filed for an initial public offering with the Securities and Exchange Commission earlier this year.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin is on track to shatter a major decade-long streak as September gains surge]]></title>
-        <id>7eceb26a-170d-4f78-aaf4-f50c2229105b</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge"/>
-        <updated>2026-09-29T09:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is on track for a third straight monthly gain, but higher yields, oil prices and two major November events could test its Q4 momentum.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic]]></title>
-        <id>b92bd567-0d32-42e1-a02f-166325952f2d</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic"/>
-        <updated>2026-09-29T09:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Why yields are rising matters more for bitcoin than how high they go.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Near Intents blocks $50 million in Bitget hacker swaps, here's what happened]]></title>
-        <id>f1609b4f-2c2c-4779-bdd2-5682add9d94d</id>
-        <link href="https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test"/>
-        <updated>2026-09-29T06:23:47.000Z</updated>
-        <summary type="html"><![CDATA[The swap service identified more than $50 million in attempted transfers, although most rejected funds subsequently moved through other providers.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.]]></title>
-        <id>b35fccf1-fb5d-431b-8ca4-c12481395b09</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink"/>
-        <updated>2026-09-29T05:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic's prospectus seen by Reuters shows big spending plans despite heavy losses. Still, pre-IPO perps barely moved on cryptocurrency exchanges.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again]]></title>
-        <id>478d80da-1c9f-4338-aa4f-069d64391aa0</id>
-        <link href="https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again"/>
-        <updated>2026-09-29T04:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Global stocks fell to a one-week low as Brent rose for a second day and traders added to bets on more Federal Reserve rate hikes ahead of Wednesday's PCE inflation data.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[竊賊以為中大獎！偷走兩個輝達貨櫃想搶高價 AI 晶片，撬開後只有 4 萬磅沙子]]></title>
-        <id>https://www.blocktempo.com/?p=539103</id>
-        <link href="https://www.blocktempo.com/thieves-steal-nvidia-plusai-trailers-expecting-gpus-find-sand-california/"/>
-        <updated>2026-09-29T03:48:22.000Z</updated>
-        <summary type="html"><![CDATA[兩台印有輝達與 PlusAI logo 的貨櫃遭竊，竊賊撬開只見合計 4 萬磅沙子。殊不知真正值錢的 AI 硬 […]
-竊賊以為中大獎！偷走兩個輝達貨櫃想搶高價 AI 晶片，撬開後只有 4 萬磅沙子〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台積電小老弟》世界先進新加坡晶圓廠一開幕就滿單，二廠已在盤算]]></title>
-        <id>https://www.blocktempo.com/?p=539048</id>
-        <link href="https://www.blocktempo.com/tsmc-affiliate-vanguard-vsmc-singapore-second-fab-advanced-chips-demand/"/>
-        <updated>2026-09-29T03:26:16.000Z</updated>
-        <summary type="html"><![CDATA[台積電轉投資的世界先進與荷蘭恩智浦合資成立 VSMC，9 月 28 日在新加坡開幕首座 12 吋晶圓廠，首期產 […]
-台積電小老弟》世界先進新加坡晶圓廠一開幕就滿單，二廠已在盤算〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 代理狂敲聯合國網站 16,500 次，花招百出竟只是要份公開資料]]></title>
-        <id>https://www.blocktempo.com/?p=539042</id>
-        <link href="https://www.blocktempo.com/openai-agents-unctad-bruteforce-un-website-double-encoding-xss-game/"/>
-        <updated>2026-09-29T03:16:17.000Z</updated>
-        <summary type="html"><![CDATA[資安研究者 Howard-Jones 發現，OpenAI 代理在兩個多月內對聯合國統計網站掃描約 16,500 […]
-OpenAI 代理狂敲聯合國網站 16,500 次，花招百出竟只是要份公開資料〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京傳放行輝達 RTX Pro 5500：字節跳動考慮下單 100 萬顆]]></title>
-        <id>https://www.blocktempo.com/?p=539035</id>
-        <link href="https://www.blocktempo.com/china-signals-approval-nvidia-rtx-pro-5500-bytedance-million-order/"/>
-        <updated>2026-09-29T02:59:50.000Z</updated>
-        <summary type="html"><![CDATA[The Information 報導，中國工信部要求企業申報輝達 RTX Pro 5500 的採購計畫，並告知 […]
-北京傳放行輝達 RTX Pro 5500：字節跳動考慮下單 100 萬顆〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十年期美債殖利率突破 5.2% 創 19 年新高，美股全面收黑、布蘭特原油仍居百元]]></title>
-        <id>https://www.blocktempo.com/?p=539054</id>
-        <link href="https://www.blocktempo.com/treasury-yield-highest-since-2007-nvidia-buyback-bitcoin-fed-hike/"/>
-        <updated>2026-09-29T02:41:01.000Z</updated>
-        <summary type="html"><![CDATA[10 年期殖利率連五漲、30 年期創 2004 年來新高，四大指數收黑，輝達靠庫藏股逆勢收紅。本週 PCE 與 […]
-十年期美債殖利率突破 5.2% 創 19 年新高，美股全面收黑、布蘭特原油仍居百元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】预测市场的「战壕」里，怎么找到聪明钱？]]></title>
-        <id>https://www.chainfeeds.xyz/feed/detail/8066fe5c-ea52-4f7b-8fea-c6bbff6f392b</id>
-        <link href="https://www.chainfeeds.xyz/feed/detail/8066fe5c-ea52-4f7b-8fea-c6bbff6f392b"/>
-        <updated>2026-09-29T02:36:10.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>你需要先过滤掉市场噪音，识别真正有意义的异动，理解背后的叙事，并形成一个足以支撑自己建仓的交易逻辑，然后再采取行动。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://x.com/blocmates/status/2104564520798835014">https://x.com/blocmates/status/2104564520798835014</a></p>
-<p><strong>文章作者：</strong></p><p>blocmates.</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>blocmates.：</strong>预测市场和 Meme 币战壕看起来完全是两种东西，但两者背后的交易心理其实很相似。首先，它们都有一个共同的核心 —— 交易者。优秀的交易者总是在寻找优势，而市场的任务就是让这种优势尽可能难以被发现。其次，预测市场可以理解为「带有概率的 Meme 币」。Meme 币的价格建立在叙事、注意力和投机之上，预测市场也类似，只不过用户交易的是某个事件是否会发生：比特币会不会涨到 15 万美元？美联储会不会降息？切尔西会不会赢得英超冠军？如果一个合约价格是 0.55 美元，就意味着市场定价对应事件发生的概率约为 55%。和 Meme 币一样，这些价格同样会受到新闻、注意力、巨鲸交易和散户恐慌的影响。两者最大的共同敌人则是信息过载：永远有新的叙事、新的市场和新的机会，很容易让人把频繁交易误认为取得进展。真正优秀的交易者往往拥有自己的系统，用它过滤噪音、尽早发现异常活动，然后耐心等待。
-
-当你锁定一个预测市场后，下一步是理解价格为什么发生变化。预测市场的价格变化，本质上意味着市场对某个结果发生概率的判断发生了改变。要研究这种变化，可以重点追踪两个方面。第一个是巨鲸活动：观察价格变化背后是否伴随着大额交易，是否有大仓位正在进入或退出，同时还要判断市场本身的流动性是否足够。如果市场很薄，一笔大额交易就可能显著改变价格，因此巨鲸交易只能作为进一步研究的起点，单纯的交易规模并不能证明这个交易者掌握了更好的信息。第二个是交易者画像。相比只盯着巨鲸交易，更有价值的是继续调查这些钱包本身：它平时交易哪些市场？以前是否参与过类似事件？已经结算的仓位表现如何？这笔大额仓位是否只是更大策略的一部分？通过钱包历史、参与市场以及过往表现，可以判断一个交易者的行为到底有没有值得参考的信息，而不是看到大单就直接跟随。
-
-优秀的交易者不会只研究还没有结算的市场，也会回头查看已经结束的历史市场。Meme 币交易者经常会参考类似项目此前达到过多少市值，以此判断当前标的可能存在的空间；预测市场同样可以利用历史数据，从过去发生过的类似事件中寻找规律。可以重点观察：随着事件日期临近，市场概率是如何变化的；重大价格波动发生在什么时间；结算之前交易量如何变化；不同类别市场中的钱包表现有什么差异；以及市场早期定价与最终结果之间存在多大偏差。PolymarketScan 的研究功能就是围绕这类历史模式展开，用户可以直接通过关键词或市场描述搜索已经结算的市场，也可以利用 AI 工具辅助研究。但工具只能让研究过程更加结构化，并不能消除交易中的不确定性。最终目标也不是交易所有市场，而是建立一套能够反复执行的流程：过滤噪音、识别异常活动、理解叙事、形成自己的交易逻辑，再决定是否建立仓位。</p><a href="https://x.com/blocmates/status/2104564520798835014">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】机构六年没做成的代币化股票市场，被 Meme 币盘活了？]]></title>
-        <id>https://www.chainfeeds.xyz/feed/detail/bcac989c-165f-48b7-ac58-dc762e2d2504</id>
-        <link href="https://www.chainfeeds.xyz/feed/detail/bcac989c-165f-48b7-ac58-dc762e2d2504"/>
-        <updated>2026-09-29T02:33:07.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Robinhood 将代币化股票带到链上。而真正出人意料的是，链上的 Meme 币为这些代币化股票带来的流动性，超过了机构过去六年的努力，并由此形成了一套不断自我强化的财富效应。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://x.com/Decentralisedco/status/2104594986373460182">https://x.com/Decentralisedco/status/2104594986373460182</a></p>
-<p><strong>文章作者：</strong></p><p>Decentralised.Co</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Decentralised.Co：</strong>代币化股票并不是什么新鲜事。至少从 2018 年开始，人们就在尝试把股票搬到区块链上。Binance 和 Terra 上的 Mirror Protocol 都是早期尝试者，它们为苹果、特斯拉、谷歌等股票创建了可以全天候交易的合成代币。但 Mirror 的流动性一直很差：既然券商 App 上可以买到点差更低、还拥有真实股东权利的苹果股票，为什么还要买合成版？过去的假设一直是，只要基础设施搭好、资产足够容易获得，交易者自然会出现。但事实证明，仅仅提高可获得性并不会自动创造一个新市场。投机本身就是金融市场交易的重要组成部分。如果所有参与者都足够理性、掌握相同的信息，他们对资产价值的判断往往趋于一致，也就缺少交易的理由。市场需要有人根据情绪、叙事、氛围甚至单纯的上涨兴奋感做出主观判断，因为这些人愿意站到交易的另一边。加密市场尤其理解这一点：Uniswap 最早的真正流动性来自 DeFi Summer 的流动性挖矿热潮，Pump.fun 上的大部分代币一天内就会死亡，但巨大的发行和交易量仍让平台创造了超过 6 亿美元收入。机构通常不是早期采用者，它们需要先看到活跃度和可能性，而早期投机者恰恰负责完成这一步。
-
-Robinhood Chain 上线后，一个名为 long.xyz 的 Launchpad 开始允许用户发行与代币化股票配对的 Meme 币，而不是像传统 Meme 币那样与 ETH 或稳定币配对。这种设计产生了非常特殊的流动性关系：当用户购买一个与代币化 Nvidia 配对的 Meme 币时，路由器必须先买入 NVDA 才能完成交易。也就是说，从协议层面看，每一次 Meme 币买入，同时都会变成对另一侧股票代币的一笔买单，而这些股票随后被锁进流动性池，成为给 Meme 币定价的储备资产。$BONER 就是一个例子，它与代币化 Hims & Hers 股票配对。当时 Robinhood Chain 上代币化 HIMS 的总流通量约为 73,685 枚，而 $BONER 的池子持有其中约 39,136 枚，占到约 53%。由于非美股交易时间无法继续铸造新的股票代币，而 Meme 币需求仍在上升，链上 HIMS 一度相较纽交所收盘价出现 37% 的溢价。之后 Robinhood 的 Jersey 实体将 HIMS 供应扩大了 4.8 倍以缓解压力，但新增供应中仍有 53.1% 再次进入 Meme 币池。供应增加并没有削弱 Meme 币对流通盘的控制，反而给了它更多可以吸收的流动性。
-
-一旦 Meme 币与真实股票资产绑定，这套机制就开始产生意料之外的复利效应。以与代币化 Nvidia 配对的 Artificial Inu 为例，用户买入 $AI 时，80% 的手续费会进入一个永久的 NVDA 金库，这部分资产只能增加、无法取出；卖出时，手续费则会用于销毁 $AI，并继续永久锁定更多 NVDA。无论买入还是卖出，每一笔交易都会单向增加系统持有的股票资产。这套机制已经永久锁定了约 300 万美元的 NVDA，一度占所在交易平台全部代币化 NVDA 未平仓量的 16%。BNB Chain 的一项研究还发现，通过 Meme 币投机进入市场的用户，有 8.6% 最终转化为代币化股票持有者，而直接向用户提供股票时，这一比例只有 0.6%。换句话说，投机将用户转化为股票持有者的效率高出约 14 倍。过去，Meme 带来的价值最终通常流向平台或交易所，Meme 本身无法留下什么；现在，一个以代币形式存在的 Meme，却可以通过自己的交易活动不断积累代币化股票，逐渐形成自己的「资产负债表」。一个 Meme 可以和股票配对，文化资产也可以开始与传统金融资产建立可编程的经济关系。</p><a href="https://x.com/Decentralisedco/status/2104594986373460182">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國 AI 人才出境限制傳擴及家人，彭博：配偶子女出國也要北京審批]]></title>
-        <id>https://www.blocktempo.com/?p=539073</id>
-        <link href="https://www.blocktempo.com/china-expands-ai-talent-exit-curbs-families-spouses-children-bloomberg/"/>
-        <updated>2026-09-29T02:29:37.000Z</updated>
-        <summary type="html"><![CDATA[中國頂尖 AI 人才的出境限制傳出延伸到家屬，部分 AI 與晶片企業負責人的配偶與子女，短期出國前也須先取得北 […]
-中國 AI 人才出境限制傳擴及家人，彭博：配偶子女出國也要北京審批〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【英文长推】AI Agent 开始集体「上班」，IMD 如何搭起一套链上劳动力市场？]]></title>
-        <id>https://www.chainfeeds.xyz/feed/detail/6fe29dd0-749e-42f6-b611-e03fc3147f74</id>
-        <link href="https://www.chainfeeds.xyz/feed/detail/6fe29dd0-749e-42f6-b611-e03fc3147f74"/>
-        <updated>2026-09-29T02:28:33.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>IMD 最核心的想象空间在于：未来这支 Agent 蜂群能够成为一支真正被其他协议付费调用的「AI 劳动力」，例如充当推理预言机，或者承担更多类型的工作。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://x.com/Bankless/status/2104546260195713113">https://x.com/Bankless/status/2104546260195713113</a></p>
-<p><strong>文章作者：</strong></p><p>Bankless</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>Bankless：</strong>IMD 的目标，是打造一家完全由 AI Agent 运行、由社区共同拥有的公司。整个系统由多个部分组成：2,000 枚 identity.md NFT 并不是普通 PFP，而是进入 AI Agent 网络的「工作席位」；持有人需要将 NFT 按照 ERC-8004 注册为 Agent，在自己的设备上运行开源 worker client，并自行接入 Claude 或 Codex。每枚 NFT 只能授权一台活跃设备。任务由一个主编排 Agent 发布，其他 Agent 可以领取、执行并提交结果，验证器随后会在隔离环境中重新构建提交内容，其他席位还会进行对抗性审核，通过的工作最终被记录到链上信誉系统。目前这个网络已经能够完成代码开发、网站搭建、预言机回答、审计、报告和图片等工作。9 月 20 日网络刚向 NFT 持有人开放时只有几十个 Agent 在线，五天后已经增长至 370 多个。外部用户现在也可以付费调用这支 AI 劳动力，每个任务收费 0.5 IMD，并通过 x402 完成结算。目前系统产生的部署仍主要位于 Sepolia，但主网部署已经在计划之中。
-
-$IMD 是整个系统的流通货币，同一份供应量分布在 Ethereum、Base 和 Robinhood Chain 上，可以按照 1:1 跨链，而且总供应量只会减少。从 Fren Pet 时期到现在持续进行的销毁，已经让最初 1000 万枚供应下降至约 710 万枚，相当于约 29% 的代币已经消失。IMD 协议同时拥有 Uniswap V4 上主要的 ETH/IMD 流动性池 POOL4，并通过 CappedBurnHook 设置池内 $IMD 数量上限。当卖出导致池内 $IMD 超过上限时，Hook 会在交易完成后削减超出的部分，其中 85% 直接销毁，6% 进入用于 Agent 编排计算的储备，4.5% 分给质押者，另外 4.5% 分给 NFT 席位。与此同时，削减释放出的 ETH 会被重新部署到当前价格下方形成买墙，而池子的 $IMD 上限每天还会减少约 1,000 枚。也就是说，卖出本身会推动代币销毁，同时为质押者和运行 Agent 的 NFT 席位带来收益。目前约有 230 万枚 $IMD 被质押，占总供应量约 32%。
-
-IMD 系统目前最关键的问题，是这支 AI Agent「蜂群」到底有没有真正开始工作。9 月 25 日公开数据中，2,000 个 NFT 席位已有 380 个完成注册，372 个 Agent 在线。其中 334 个席位曾有工作被接受，267 个已经拥有超过 50 次被接受的提交，193 个超过 100 次。工作并没有高度集中在少数节点：排名前 10 的席位只贡献约 8.5% 的已接受工作，前 50 名约占 32%。截至当时，整个网络累计进行了约 50,700 次任务尝试，其中约 86% 被接受，只有约 1% 被直接拒绝，其余则处于失败或等待状态。更值得注意的是增长速度，过去 24 小时就产生了约 29,600 次被接受的提交。不过真正付费的外部需求才刚刚出现：公开 x402 支付通道累计完成 115 个付费订单，每单 0.5 IMD，总计约 57.5 枚 IMD，约合 560 美元。因此，这套 Agent 劳动力网络已经实际运转起来，但商业需求仍处于非常早期的阶段。</p><a href="https://x.com/Bankless/status/2104546260195713113">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冲刺 IPO 的 Anthropic：420 亿亏损、46 亿收入、2 万亿估值]]></title>
-        <id>https://www.chainfeeds.xyz/feed/detail/87525842-e087-4fc4-8f4d-74edc7a16720</id>
-        <link href="https://www.chainfeeds.xyz/feed/detail/87525842-e087-4fc4-8f4d-74edc7a16720"/>
-        <updated>2026-09-29T02:21:29.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>Anthropic 需要持续证明，收入追赶成本的速度足以支撑不断抬高的估值，且高增长是持续的、后劲十足的。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://news.qq.com/rain/a/20260929A03LX900">https://news.qq.com/rain/a/20260929A03LX900</a></p>
-<p><strong>文章作者：</strong></p><p>腾讯科技</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>腾讯科技：</strong>支撑 Anthropic 冲击高估值的，首先是一条陡峭的收入增长曲线。2024 年，这家公司的全年收入只有 3.86 亿美元；到 2025 年，收入已达到 45.9 亿美元，同比增长 1088%，扩大至前一年的近 12 倍。进入 2026 年，Anthropic 的增长进一步加速。据外媒报道，截至 7 月底，其年化收入运行率已超过 650 亿美元。Anthropic 预计 2028 年收入将达到约 1900 亿至 2000 亿美元。以 2 万亿美元估值计算，对应 2025 年收入的市销率约为 436 倍；换成 2028 年的预测收入，这一倍数便降至约 10 倍。两个数字之间的巨大落差，几乎概括了这场 IPO 的核心赌注：未来三年，公司收入需要在 2025 年的基础上扩大至 40 多倍，才能兑现这套估值逻辑。2025 年，Anthropic 用于计算和基础设施的支出达到 73.3 亿美元，接近上一年的三倍，占总运营费用的 58%，相当于全年收入的 1.6 倍。即使暂不考虑其他费用，当年的收入也不足以覆盖这一项支出，「每收入 1 美元，就要花掉 1.6 美元算力费」。
-
-5180 亿美元，是招股书里另一个容易引起误解的数字。招股书披露，Anthropic 有约 5180 亿美元的云、计算和基础设施义务。这个数字一度被解读为未来一年的算力预算，但实际并非如此。5180 亿是未来多年将要签署的合同总价值，其中许多是多年期合同，不是单一年度的支出。根据已经公布的合同分配，1000 亿美元给了亚马逊 AWS，2000 亿美元给了谷歌云，800 亿美元给了 Lambda 和 Nscale，500 亿美元给了 Fluidstack，300 亿美元给了微软 Azure，其余较小的合同则分给了更多小型云服务商。Anthropic 还在 WULF 的共置设施上部署自己的软件基础设施。这些合同的时间跨度各不相同，有些可能覆盖三到五年甚至更长。分摊到每年的实际支出，远低于 5180 亿这个总数。但即便如此，规模仍然惊人。以 2025 年 73.3 亿美元的算力支出为基数，如果未来几年保持三位数的同比增长，年支出很快就会向数百亿美元迈进。算力支出的持续攀升，反映了前沿 AI 竞赛的资本密集程度。
-
-招股书还揭示了一个风险点：客户集中度。Anthropic 的两大直接客户各自占收入的 12%，合计占 24%。也就是说，仅两家客户就贡献了接近四分之一的收入。对于一家 45.9 亿美元收入规模的公司来说，这种依赖程度已经很高。更值得注意的是，Anthropic 在风险因素中明确警告，许多最大客户并未锁定长期合同，可能减少或停止支出。这意味着，一旦大客户缩减 AI 预算，或者转向竞争对手的模型，Anthropic 的收入可能面临较大波动。客户集中的另一面，是竞争格局的压力。Anthropic 的主要竞争对手包括 OpenAI、谷歌、Meta 和 SpaceXAI。其中与 OpenAI 的竞争最为直接，两家在企业客户、人才和华盛顿影响力等多个维度展开争夺。在这场竞争中，Anthropic 的一个特殊位置在于，它的两大战略合作伙伴亚马逊和谷歌，同时也是它的基础设施供应商和投资者。亚马逊先后投资了约 80 亿美元，谷歌投资了约 20 亿美元。两家公司既为 Anthropic 提供训练和运行 Claude 所需的云资源，又在股权层面深度绑定。这种关系既是优势，也可能带来潜在的利益冲突。</p><a href="https://news.qq.com/rain/a/20260929A03LX900">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 砸 82 億美元收購李飛飛世界模型公司 World Labs，超微史上第二大併購]]></title>
-        <id>https://www.blocktempo.com/?p=539061</id>
-        <link href="https://www.blocktempo.com/amd-acquires-world-labs-fei-fei-li-spatial-intelligence-billion/"/>
-        <updated>2026-09-29T02:18:12.000Z</updated>
-        <summary type="html"><![CDATA[AMD 宣布以約 82 億美元全股票收購李飛飛創辦的 World Labs，是公司史上第二大併購。World  […]
-AMD 砸 82 億美元收購李飛飛世界模型公司 World Labs，超微史上第二大併購〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG 周报｜Circle 负责发行，Coinbase 掌握用户：稳定币的钱到底谁赚？]]></title>
-        <id>https://www.chainfeeds.xyz/feed/detail/070c6428-71b6-4d1b-a13f-43ced1a41d59</id>
-        <link href="https://www.chainfeeds.xyz/feed/detail/070c6428-71b6-4d1b-a13f-43ced1a41d59"/>
-        <updated>2026-09-29T02:17:13.000Z</updated>
-        <summary type="html"><![CDATA[<p><strong>Chainfeeds 导读：</strong></p><p>发行会逐渐标准化。利率下行会压缩沉淀资金利润，而且已经开始。分发渠道拥有议价权。</p>
-<p><strong>文章来源：</strong></p><p><a href="https://mp.weixin.qq.com/s/twubUiQd1YgUZtHjsdEbzQ">https://mp.weixin.qq.com/s/twubUiQd1YgUZtHjsdEbzQ</a></p>
-<p><strong>文章作者：</strong></p><p>IOSG Ventures</p><hr><h3>观点：</h3><p style="white-space: pre-wrap"><strong>IOSG Ventures：</strong>谁掌握用户，谁就掌握分成。 根据 2023 年协议，Coinbase 可获得其平台内 USDC 所产生的大部分储备收益，并分得平台外 USDC 的部分储备收益。Circle 2026 年 Q2 向 Coinbase 支付的相关分发成本为 $324.6M；2025 年全年向主要分发方支付的成本约 $1.66B。这份三年期协议在 2026 年 8 月进入续期窗口。Circle 在 8 月 5 日的业绩电话会上确认，协议按原有条款续期至 2029 年。这就是全文最有力的证据。Circle 当时已经拿到联邦信托银行牌照，支付网络在增长，市场上还有多个分发合作案例把 90%-100% 的储备收益让给渠道。两个月前，Coinbase 又加入了与 USDC 竞争的 Open USD 联盟，Circle 股价当天跌约 17%。但这些都没有改变续约条款。原因很简单：客户在分发方手里。合同能否续期也主要看业绩门槛，并不等于发行方拥有重新定价的主动权。2026 年 Q2，Coinbase 产品中的平均 USDC 余额达到历史新高 $20B，占季末 USDC 流通量 30% 以上。Circle 近三分之一的收入基础集中在单一对手的平台上，而下一次完整续期窗口要等到 2029 年。
-
-利率下降 300bp，发行利润蒸发近八成。 发行方收入可简化为：沉淀资金 × 收益率，减去合同约定的渠道分成，再减去相对固定的运营成本。假设某发行方有 $100B 沉淀资金，50% 收益分给渠道，年度运营成本为 $600M：如果沉淀资金不变，收益率下降 300bp，会抹去约 79% 的营业利润。要在 2% 收益率下继续赚到 $1.9B，沉淀资金必须增至约 $250B。也就是说，规模要增长 150%，利润才只是回到原点。这已经不是假设。Circle 2026 年 Q2 的实际储备收益率为 3.48%，正好落在第二行附近。50% 的渠道分成假设甚至偏保守：当季总收入 $701M，分发、交易及其他成本为 $412M。当然，Circle 并非什么都没做。季度末，Circle Payments Network 的年化交易量达到 $14.7B，环比增长 76%；截至 7 月 31 日已升至 $23B。公司把全年非储备收入指引上调至 $310M-$330M。但其中 $242M 来自一次性代币预售，并非可持续收入。支付网络当时尚未开始收费，因此真正要盯的是费率，而不是交易量。
-
-稳定币会商品化，入口不会。 Visa 不发卡、不放贷，也不直接收取 interchange；这些工作由银行完成。Visa 赚的是网络的钱。制造支付工具，不等于控制利润。价值最终会流向掌握稀缺控制点的一方：受理网络、分发渠道、流动性，或者客户关系。稳定币正在迅速重建这套结构。发行会逐渐标准化。《GENIUS 法案》并没有让发行变得轻松，审批、流动性、赎回基础设施和信任仍然是门槛，Circle 的联邦牌照也确实有价值。但监管要求发行方持有相似的储备资产，披露规则也会趋同，每一种受监管的美元稳定币承诺的都是同一件事。差异化会转移到代币之上。利率下行会压缩沉淀资金利润，而且已经开始。储备收益率下降 66bp，让 25% 的平均流通量增长只换来 5% 的储备收入增长。分发渠道拥有议价权。Coinbase 的续约是 2026 年最有信息量的稳定币合同事件，而信息恰恰来自「什么都没变」。稳定币本身可能越来越可替代，但用户获取、持有和花掉稳定币的路径不会。</p><a href="https://mp.weixin.qq.com/s/twubUiQd1YgUZtHjsdEbzQ">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
-        <author>
-            <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonnet 5.5 上線媲美 Opus：Anthropic 說省 3 成、第三方說貴一半，關鍵在推理強度]]></title>
-        <id>https://www.blocktempo.com/?p=539017</id>
-        <link href="https://www.blocktempo.com/claude-sonnet-55-anthropic-beats-opus-coding-benchmarks-token-costs/"/>
-        <updated>2026-09-29T02:10:46.000Z</updated>
-        <summary type="html"><![CDATA[Sonnet 5.5 價格只有 Opus 5.5 的一半，卻在多項代理式程式評測追平旗艦。第三方測出它在最高推 […]
-Sonnet 5.5 上線媲美 Opus：Anthropic 說省 3 成、第三方說貴一半，關鍵在推理強度〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy 再買 1,665 比特幣！持倉衝 84.7 萬枚，總投入逼近 640 億]]></title>
-        <id>https://www.blocktempo.com/?p=538893</id>
-        <link href="https://www.blocktempo.com/strategy-mstr-buys-1665-bitcoin-holdings-847666-total-64-billion/"/>
-        <updated>2026-09-29T01:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Strategy 上週以均價 85,681 鎂買入 1,665 BTC，耗資 1.427 億鎂，BTC 持倉達 […]
-Strategy 再買 1,665 比特幣！持倉衝 84.7 萬枚，總投入逼近 640 億〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>冷麵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit 接納富蘭克林代幣化基金當擔保品！機構資金邊賺收益邊炒幣]]></title>
-        <id>https://www.blocktempo.com/?p=538935</id>
-        <link href="https://www.blocktempo.com/bybit-accepts-franklin-templeton-tokenized-fund-collateral-trading-crypto/"/>
-        <updated>2026-09-29T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Bybit 與富蘭克林坦伯頓合作，機構投資人可用 Benji 平台的代幣化貨幣市場基金 shares 作為交易 […]
-Bybit 接納富蘭克林代幣化基金當擔保品！機構資金邊賺收益邊炒幣〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>冷麵</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing]]></title>
-        <id>2649d902-8b8c-4742-83a8-f702243d4db4</id>
-        <link href="https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing"/>
-        <updated>2026-09-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
     <entry>
