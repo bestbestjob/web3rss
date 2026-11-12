@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T05:10:59.021Z</updated>
+    <updated>2026-11-12T06:14:19.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/index.html"/>
     <link rel="self" href="https://raw.githubusercontent.com/bestbestjob/web3rss/gh-pages/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor]]></title>
+        <id>0ba431a8-5868-4462-90c1-83c8789454e2</id>
+        <link href="https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"/>
+        <updated>2026-11-12T05:22:31.000Z</updated>
+        <summary type="html"><![CDATA[The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple’s bank-lending system moves closer to launch on the XRP Ledger]]></title>
+        <id>e88e1318-e682-4b0c-9e7a-4150e91f13b3</id>
+        <link href="https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"/>
+        <updated>2026-11-12T05:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe]]></title>
+        <id>f735c5ba-5c24-4833-9678-006309ef146a</id>
+        <link href="https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe"/>
+        <updated>2026-11-12T04:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃仁勳若真從輝達下台，馬斯克：招聘他是我的榮幸]]></title>
+        <id>https://www.blocktempo.com/?p=558759</id>
+        <link href="https://www.blocktempo.com/musk-hire-jensen-huang-honor-nvidia-ceo-board-spacex-polymarket/"/>
+        <updated>2026-11-12T03:45:51.000Z</updated>
+        <summary type="html"><![CDATA[X 上 Zerohedge 請馬斯克雇用黃仁勳，結果馬斯克真的回應稱「那會是我的榮幸」。 （前情提要：黃仁勳爆 […]
+黃仁勳若真從輝達下台，馬斯克：招聘他是我的榮幸〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitrade 交易挑戰賽：前 200 名都有獎、規則＆獎金一次看]]></title>
+        <id>https://www.blocktempo.com/?p=558767</id>
+        <link href="https://www.blocktempo.com/mitrade-live-trading-challenge-50000-usd-prize-pool-top-200/"/>
+        <updated>2026-11-12T03:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Mitrade 實盤挑戰賽即將截止，成績只算報名之後新開的倉位，交易滿 2 筆且獲利，前 200 名就依淨收益 […]
+Mitrade 交易挑戰賽：前 200 名都有獎、規則＆獎金一次看〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>廣編頻道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic 執行長說 AI 十年內治好癌症，是誇大還是真有機會？]]></title>
+        <id>https://www.blocktempo.com/?p=558749</id>
+        <link href="https://www.blocktempo.com/anthropic-amodei-cancer-alzheimers-decade-claim-drug-trial-timeline-reality/"/>
+        <updated>2026-11-12T03:26:46.000Z</updated>
+        <summary type="html"><![CDATA[新藥從人體試驗到上市平均要 10.5 年，AI 新藥走最遠的才剛進三期，Anthropic 執行長說「不到十年 […]
+Anthropic 執行長說 AI 十年內治好癌症，是誇大還是真有機會？〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黃仁勳年底離職輝達機率 Polymarket 一夜飆升到 87%]]></title>
+        <id>https://www.blocktempo.com/?p=558737</id>
+        <link href="https://www.blocktempo.com/jensen-huang-nvidia-resignation-odds-surge-polymarket-kalshi-suspension-rules/"/>
+        <updated>2026-11-12T03:19:26.000Z</updated>
+        <summary type="html"><![CDATA[輝達執行長黃仁勳的下台賠率，在 Polymarket 與 Kalshi 一天內升到 88.5% 與 87%。不 […]
+黃仁勳年底離職輝達機率 Polymarket 一夜飆升到 87%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Company Q3 營收暴增 4.8 倍！機構委託 100 萬枚 SOL]]></title>
+        <id>https://www.blocktempo.com/?p=558731</id>
+        <link href="https://www.blocktempo.com/solana-company-q3-2026-revenue-staking-pacific-backbone/"/>
+        <updated>2026-11-12T03:05:44.000Z</updated>
+        <summary type="html"><![CDATA[第三季營收 336 萬美元、年增 382%，其中 99% 來自質押收入；淨質押收益率 5.9% 高於 Sola […]
+Solana Company Q3 營收暴增 4.8 倍！機構委託 100 萬枚 SOL〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>冷麵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 代理成網路主力，a16z 點出 B2A 經濟四大贏家]]></title>
+        <id>https://www.blocktempo.com/?p=558708</id>
+        <link href="https://www.blocktempo.com/a16z-b2a-economy-ai-agents-internet-traffic-four-beneficiaries-report/"/>
+        <updated>2026-11-12T03:05:30.000Z</updated>
+        <summary type="html"><![CDATA[AI 代理已取代人類成為網路主要使用者，佔據過半流量、撰寫半數文章並生成大量生產級程式碼。a16z 合夥人 O […]
+AI 代理成網路主力，a16z 點出 B2A 經濟四大贏家〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>flip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去中國、港澳出差別用 Claude：人在當地就可能被封帳]]></title>
+        <id>https://www.blocktempo.com/?p=558654</id>
+        <link href="https://www.blocktempo.com/claude-china-hong-kong-travel-ban-risk-anthropic-supported-regions/"/>
+        <updated>2026-11-12T02:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic 支援地區政策 11 月 12 日生效，寫明人在中國、香港、澳門就不能用 Claude，台灣 […]
+去中國、港澳出差別用 Claude：人在當地就可能被封帳〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[橡樹資本創辦人：AI 年燒 1 兆美元，回本只能靠信仰]]></title>
+        <id>https://www.blocktempo.com/?p=558721</id>
+        <link href="https://www.blocktempo.com/oaktree-howard-marks-ai-trillion-capex-faith-frontier-labs-unpredictable/"/>
+        <updated>2026-11-12T02:39:58.000Z</updated>
+        <summary type="html"><![CDATA[橡樹資本共同創辦人 Howard Marks 發布最新備忘錄，針對 AI 熱潮提出 11 個核心提問。他直言， […]
+橡樹資本創辦人：AI 年燒 1 兆美元，回本只能靠信仰〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>flip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早上被降評、晚上爆黃仁勳二次出軌：輝達盤後重挫 9%]]></title>
+        <id>https://www.blocktempo.com/?p=558663</id>
+        <link href="https://www.blocktempo.com/baird-downgrades-nvidia-neutral-cuts-target-huang-uncertainty-h200-megaspeed/"/>
+        <updated>2026-11-12T02:23:54.000Z</updated>
+        <summary type="html"><![CDATA[美國投資銀行 Baird 罕見把輝達降到中立，目標價砍六成，擔心的不只是黃仁勳的去留，還有 H200 出口禁令 […]
+早上被降評、晚上爆黃仁勳二次出軌：輝達盤後重挫 9%〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 改口承諾：Gemini 連上 Gmail、雲端硬碟可能給真人看完整內容]]></title>
+        <id>https://www.blocktempo.com/?p=558685</id>
+        <link href="https://www.blocktempo.com/gemini-gmail-human-reviewers-google-changes-privacy-promise-connected-apps/"/>
+        <updated>2026-11-12T02:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Google 10 月中替 2023 年「Gmail 內容不會被真人看到」的部落格承諾加註。Gemini 說明 […]
+Google 改口承諾：Gemini 連上 Gmail、雲端硬碟可能給真人看完整內容〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
+        <author>
+            <name>Joe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending]]></title>
+        <id>4135fe2b-8f76-42b1-9ea9-a70c98eecac3</id>
+        <link href="https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"/>
+        <updated>2026-11-11T16:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month]]></title>
+        <id>de7e5b6f-4f53-406c-a2f7-01a8da801954</id>
+        <link href="https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month"/>
+        <updated>2026-11-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about]]></title>
+        <id>8efee4b0-ebe0-4a05-8812-4cb9cbd8fbcd</id>
+        <link href="https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about"/>
+        <updated>2026-11-11T12:57:36.000Z</updated>
+        <summary type="html"><![CDATA[The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound]]></title>
+        <id>fb9dd515-0361-4b15-a8d1-dbd323ba7d8d</id>
+        <link href="https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks"/>
+        <updated>2026-11-11T12:21:24.000Z</updated>
+        <summary type="html"><![CDATA[The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin barely flinches at hot CPI as ETF selling slows]]></title>
+        <id>a86832a4-4c03-4dee-ad65-0619abccba2d</id>
+        <link href="https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows"/>
+        <updated>2026-11-11T12:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Your day-ahead look for Nov. 11, 2026]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin sits out stock rebound as ETF outflows extend to fourth day]]></title>
+        <id>44725d2a-fd9e-4811-9d76-698a371d9f85</id>
+        <link href="https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"/>
+        <updated>2026-11-11T11:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion]]></title>
+        <id>6a3dfe7f-a498-4489-a155-8473c2c495c9</id>
+        <link href="https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"/>
+        <updated>2026-11-11T10:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation]]></title>
+        <id>ed760430-a2aa-4d71-b8a8-f8cb43c4a471</id>
+        <link href="https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"/>
+        <updated>2026-11-11T10:45:49.000Z</updated>
+        <summary type="html"><![CDATA[CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最強改圖王？Seedream 5.5 連改 100 次不走樣，GPT 越改越糊]]></title>
         <id>https://www.blocktempo.com/?p=558175</id>
@@ -8785,66 +9005,6 @@ SEC 表決法定人數砍到一人！三名委員掌 3 兆鎂加密監管，CLAR
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants]]></title>
-        <id>c1f7b49a-eb39-4760-ad08-d31428d7dda8</id>
-        <link href="https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants"/>
-        <updated>2026-10-13T15:52:09.000Z</updated>
-        <summary type="html"><![CDATA[MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.]]></summary>
-        <author>
-            <name>Olivier Acuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate]]></title>
-        <id>4c89c108-c667-427d-8d8c-73448b6911bb</id>
-        <link href="https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion"/>
-        <updated>2026-10-13T15:24:52.000Z</updated>
-        <summary type="html"><![CDATA[A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of "wrench attacks" spreading in the country.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin]]></title>
-        <id>320db034-e6ec-466e-ac94-6f3d8e008052</id>
-        <link href="https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin"/>
-        <updated>2026-10-13T11:58:04.000Z</updated>
-        <summary type="html"><![CDATA[The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.]]></summary>
-        <author>
-            <name>Olivier Acuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares]]></title>
-        <id>ee4ea9c7-3d5f-401c-9091-71f8d7749dd3</id>
-        <link href="https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares"/>
-        <updated>2026-10-13T11:56:04.000Z</updated>
-        <summary type="html"><![CDATA[The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks]]></title>
-        <id>c4891aca-8337-4363-be53-d15ea827cac6</id>
-        <link href="https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks"/>
-        <updated>2026-10-13T11:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Your day-ahead look for Oct. 13, 2026]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns]]></title>
-        <id>911b5489-3300-4b80-8a2e-86d77a1df042</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns"/>
-        <updated>2026-10-13T11:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Investors are positioning ahead of today's bank earnings reports and Wednesday’s U.S. inflation data.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blur 关停前端，Pacman 的 NFT 吸血飞轮游戏落幕]]></title>
         <id>https://www.chainfeeds.xyz/feed/detail/8b4d17ea-f893-4068-b18f-f41b45e7b809</id>
         <link href="https://www.chainfeeds.xyz/feed/detail/8b4d17ea-f893-4068-b18f-f41b45e7b809"/>
@@ -8858,56 +9018,6 @@ SEC 表決法定人數砍到一人！三名委員掌 3 兆鎂加密監管，CLAR
 在 BLUR 30 亿枚的总供应量中，核心贡献者（团队）拿走了 29%（约 8.7 亿枚），早期投资者（Paradigm 等 VC）分走了 18.8%（约 5.64 亿枚），两者合计占据了总量的近一半。BLUR 解锁方面，目前约 97% 的供应量已进入流通，剩余释放将持续至 2027 年中，但每月规模已缩小至总量的 1% 出头，代币解锁带来的结构性抛压已近尾声。2025 年 4 月 18 日，Blur 将当月解锁的 2380 万枚转入 Coinbase Prime，累计已转入约 10.68 亿枚（总供应约 35.6%），按当时价格总价值约 3.4 亿美元，平均转入价约 0.318 美元。此后，SpotOnChain 追踪数据显示，团队多次在代币解锁后，转入 Coinbase。如果以当时主力派发期的保守加权均价 0.35 至 0.4 美元计算，项目方与背后 VC 在这个协议上提取的实际利润，保守估计在 3.5 亿美元至 4 亿美元之间。根据 DeFiLlama 最新数据，协议累计历史费用约 7000 万美元，但近 30 日费用已接近于零，年化收入更是可忽略不计。所谓「费用开关」前提是必须有足够真实交易量。在月成交量已降至较低量级、前端即将关闭的情况下，即使开启收费，绝对收入规模也难以对代币估值形成有意义的支撑。BLUR 已实质性退化为缺乏价值捕获能力的僵尸协议治理凭证。链上合约仍可运行，代币持有者仍掌握费用开关，但缺乏活跃用户入口和持续交易需求后，这个开关的实际价值已变极低。</p><a href="https://foresightnews.pro/article/detail/100864">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
         <author>
             <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia’s largest bank Sberbank secures approval to trade crypto]]></title>
-        <id>e2b948aa-7cb3-4bb9-b1ae-376b315563b6</id>
-        <link href="https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto"/>
-        <updated>2026-10-13T11:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data]]></title>
-        <id>b1eaea0b-573d-4242-b584-5c3a42d5a464</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide"/>
-        <updated>2026-10-13T10:46:57.000Z</updated>
-        <summary type="html"><![CDATA[The September CPI report comes out on Wednesday, with economists expecting a sizable increase in the headline number but a softening in the core rate.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff]]></title>
-        <id>eb328654-8c22-4f46-a2ad-4992ce9d632a</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff"/>
-        <updated>2026-10-13T10:38:51.000Z</updated>
-        <summary type="html"><![CDATA[South Korea’s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network]]></title>
-        <id>48250d8b-5695-409c-ba5f-6ae1d502f00a</id>
-        <link href="https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network"/>
-        <updated>2026-10-13T09:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Ledger announced MediaMarket Saturn stopped selling devices after a customer found a corrupted signer in Germany.]]></summary>
-        <author>
-            <name>Olivier Acuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin]]></title>
-        <id>9a3ce6a8-5bf4-4f33-8484-36b9284a4506</id>
-        <link href="https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin"/>
-        <updated>2026-10-13T09:25:03.000Z</updated>
-        <summary type="html"><![CDATA[The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
     <entry>
@@ -8940,156 +9050,6 @@ Starknet 在某种程度上具备抗量子计算的特性，而这一点现在�
 最大变化会发生在 Interface。今天你还要自己 Bridge、看 Gas、找 Yield、比较 Aave 和 Morpho、Rebalance、找最低 Trading Fee。未来这些事情很多都会消失，你只需要告诉 Agent：「我想完成什么。」你的 Agent 会变成你的 Crypto Guy。它帮你找最好的 Yield、最低的费用、最好的买入路径，也会替你做 Due Diligence。每一次跟 Smart Contract 交互，它都可以查合约、查团队、看 LinkedIn、搜 X、判断有没有 Honeypot、Ponzi、Rug Risk，而且永远不会因为懒而跳过检查，也不会 FOMO。所以真正有趣的结论可能不是 AI 让 Crypto 更适合机器，而是 AI 终于让 Crypto 变得足够安全、足够简单，让普通人真正可以使用。</p><a href="https://x.com/168X_Fortune/status/2109579143184613767">内容来源</a><p><a href="https://chainfeeds.substack.com"><img width="100%" src="https://images.chainfeeds.xyz/image/6433ea2e3c11f.png" alt="https://chainfeeds.substack.com"/></a></p>]]></summary>
         <author>
             <name>ChainFeeds精选</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin whale that sat through the March 2020 crash moves $378 million]]></title>
-        <id>d7c27275-c490-407c-8891-2f101e41ef71</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million"/>
-        <updated>2026-10-13T05:45:10.000Z</updated>
-        <summary type="html"><![CDATA[A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million]]></title>
-        <id>d97b3df6-d973-4290-894b-1d855243ef9e</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million"/>
-        <updated>2026-10-13T05:27:17.000Z</updated>
-        <summary type="html"><![CDATA[About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%]]></title>
-        <id>2e26fc78-749a-4054-827b-2b2e2a6b29a7</id>
-        <link href="https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99"/>
-        <updated>2026-10-13T04:43:18.000Z</updated>
-        <summary type="html"><![CDATA[Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures]]></title>
-        <id>24eb6f9b-4621-4365-8d12-918a112163c9</id>
-        <link href="https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures"/>
-        <updated>2026-10-13T04:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday’s US CPI report.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港 Web3 基地數碼港爆收賄：前總監涉收名牌包、機票，2,000 萬港元資助涉造假]]></title>
-        <id>https://www.blocktempo.com/?p=544800</id>
-        <link href="https://www.blocktempo.com/hong-kong-cyberport-web3-hub-icac-bribery-subsidy-fraud-charges/"/>
-        <updated>2026-10-13T04:14:49.000Z</updated>
-        <summary type="html"><![CDATA[香港廉政公署起訴數碼港前創業家總監蘇雅麗等 6 人，指她涉嫌收受機票、名牌包與手機，優待一間服務供應商的資助申 […]
-香港 Web3 基地數碼港爆收賄：前總監涉收名牌包、機票，2,000 萬港元資助涉造假〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碳水、脂肪與蛋白質一樣的兩餐，超加工版本胰島素更高、大腦反應也不同]]></title>
-        <id>https://www.blocktempo.com/?p=544729</id>
-        <link href="https://www.blocktempo.com/virginia-tech-ultraprocessed-meal-insulin-brain-reward-nature-metabolism-nova/"/>
-        <updated>2026-10-13T03:56:38.000Z</updated>
-        <summary type="html"><![CDATA[維吉尼亞理工大學團隊發現，營養標示幾乎相同的兩餐，超加工版本引發的胰島素與能量消耗反應不同，且與大腦對食物照片 […]
-碳水、脂肪與蛋白質一樣的兩餐，超加工版本胰島素更高、大腦反應也不同〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓋一座資料中心要花多少錢？美國 1 GW 約 380 億美元，蓋在哪州差很大]]></title>
-        <id>https://www.blocktempo.com/?p=544727</id>
-        <link href="https://www.blocktempo.com/data-center-construction-cost-america-gigawatt-38-billion-texas-virginia/"/>
-        <updated>2026-10-13T03:35:05.000Z</updated>
-        <summary type="html"><![CDATA[你會不會好奇？蓋一座 AI 資料中心要多少錢？多少花在伺服器與網路硬體、多少花在營建、土地與電費？本文就帶你快 […]
-蓋一座資料中心要花多少錢？美國 1 GW 約 380 億美元，蓋在哪州差很大〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 逆向工程的《GTA 5》《決勝時刻》在瀏覽器可免費玩，廠商下架追不完]]></title>
-        <id>https://www.blocktempo.com/?p=544744</id>
-        <link href="https://www.blocktempo.com/gta-5-call-duty-browser-ports-ai-decompilation-publishers-takedowns/"/>
-        <updated>2026-10-13T03:21:39.000Z</updated>
-        <summary type="html"><![CDATA[外媒記者實測，在瀏覽器貼上連結就能免費玩 GTA 5、決勝時刻、Halo 等 8 款遊戲，與近期的 AI 反編 […]
-AI 逆向工程的《GTA 5》《決勝時刻》在瀏覽器可免費玩，廠商下架追不完〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國房貸利率連漲七週升至 7.4% 創三年最長漲勢，川普砸 2,000 億鎂也壓不住]]></title>
-        <id>https://www.blocktempo.com/?p=544691</id>
-        <link href="https://www.blocktempo.com/freddie-mac-mortgage-rates-seven-straight-weeks-treasury-yields-trump/"/>
-        <updated>2026-10-13T03:04:35.000Z</updated>
-        <summary type="html"><![CDATA[房地美統計顯示，美國 30 年期固定房貸利率升至 7.40%、連漲七週，為近三年高點。推手是守在 5% 以上的 […]
-美國房貸利率連漲七週升至 7.4% 創三年最長漲勢，川普砸 2,000 億鎂也壓不住〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超浪費食物駭客：把法國數百家超市冷櫃加熱到 50 度，生鮮＆冷凍食品全報廢]]></title>
-        <id>https://www.blocktempo.com/?p=544707</id>
-        <link href="https://www.blocktempo.com/hackers-heat-french-supermarket-fridges-50c-danfoss-controllers-outdated-firmware/"/>
-        <updated>2026-10-13T02:56:00.000Z</updated>
-        <summary type="html"><![CDATA[法國多家大型連鎖超市的冷櫃遭遠端入侵，除霜功能被改成連續加熱到攝氏 50 度，數百家門市的生鮮與冷凍食品全報銷 […]
-超浪費食物駭客：把法國數百家超市冷櫃加熱到 50 度，生鮮＆冷凍食品全報廢〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[72 歲勇者鬥惡龍之父堀井雄二大讚Claude：30 分鐘就能做出遊戲]]></title>
-        <id>https://www.blocktempo.com/?p=544677</id>
-        <link href="https://www.blocktempo.com/yuji-horii-claude-ai-game-vibe-coding-72/"/>
-        <updated>2026-10-13T02:45:31.000Z</updated>
-        <summary type="html"><![CDATA[《勇者鬥惡龍》之父堀井雄二以 72 歲之齡，用 Claude 的 Artifact 功能約 30 分鐘做出一款 […]
-72 歲勇者鬥惡龍之父堀井雄二大讚Claude：30 分鐘就能做出遊戲〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>0xJigglypuff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不甩川普！烏克蘭嗆「燒掉俄羅斯煉油廠」，布蘭特原油價站回 106 美元]]></title>
-        <id>https://www.blocktempo.com/?p=544741</id>
-        <link href="https://www.blocktempo.com/ukraine-vows-burn-russian-refineries-trump-diesel-deal-energy-ceasefire/"/>
-        <updated>2026-10-13T02:43:36.000Z</updated>
-        <summary type="html"><![CDATA[烏克蘭高階官員對金融時報放話「會燒掉俄羅斯煉油廠」，不理會川普與普丁談好的柴油協議。俄羅斯煉油廠目前僅約六成產 […]
-不甩川普！烏克蘭嗆「燒掉俄羅斯煉油廠」，布蘭特原油價站回 106 美元〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挖出 XRP 無限印幣漏洞僅賞白帽 25 萬鎂，ZachXBT 痛批：如此寒酸，難怪沒人當你是個咖]]></title>
-        <id>https://www.blocktempo.com/?p=544712</id>
-        <link href="https://www.blocktempo.com/zachxbt-slams-xrpl-250k-bounty-infinite-xrp-mint-bug-whitehat/"/>
-        <updated>2026-10-13T02:31:39.000Z</updated>
-        <summary type="html"><![CDATA[ZachXBT 痛批 XRP Ledger 僅以 25 萬美元打發通報無限印幣漏洞的白帽，形同鼓勵下一個發現者 […]
-挖出 XRP 無限印幣漏洞僅賞白帽 25 萬鎂，ZachXBT 痛批：如此寒酸，難怪沒人當你是個咖〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger 改機竊幣災情延燒！歐洲買家稱連買兩台冷錢包都中鏢]]></title>
-        <id>https://www.blocktempo.com/?p=544694</id>
-        <link href="https://www.blocktempo.com/ledger-mediamarkt-buyer-claims-tampered-nano-x-aqipa-europe-recall/"/>
-        <updated>2026-10-13T02:16:21.000Z</updated>
-        <summary type="html"><![CDATA[X 用戶 Johannes 10 月 12 日稱，他在另一家歐洲大型電器零售商 MediaMarkt 門市再買 […]
-Ledger 改機竊幣災情延燒！歐洲買家稱連買兩台冷錢包都中鏢〉這篇文章最早發佈於動區BlockTempo《動區動趨-最具影響力的區塊鏈新聞媒體》。]]></summary>
-        <author>
-            <name>Joe</name>
         </author>
     </entry>
     <entry>
